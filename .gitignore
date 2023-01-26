@@ -130,3 +130,6 @@ dmypy.json
 
 # Google Client secret
 client_secret*.json
+
+tmp/
+tmp
