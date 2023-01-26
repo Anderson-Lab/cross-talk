@@ -1,0 +1,7009 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Page 1 of 14
+
+© Annals of Translational Medicine. All rights reserved.   Ann Transl Med 2020;8(6):299 | http://dx.doi.org/10.21037/atm.2020.02.175
+
+Global low back pain prevalence and years lived with disability 
+from 1990 to 2017: estimates from the Global Burden of Disease 
+Study 2017
+
+Aimin Wu1, Lyn March2,3, Xuanqi Zheng1, Jinfeng Huang1, Xiangyang Wang1, Jie Zhao4, Fiona M. Blyth5, 
+Emma Smith2,6, Rachelle Buchbinder7, Damian Hoy2,3
+
+1Division of Spine Surgery, Department of Orthopaedics, Zhejiang Spine Surgery Centre, The Second Affiliated Hospital and Yuying Children’s 
+
+Hospital of Wenzhou Medical University, Zhejiang Provincial Key Laboratory of Orthopaedics, Wenzhou 325027, China; 2Institute of Bone and 
+
+Joint Research, The University of Sydney & Department of Rheumatology, Royal North Shore Hospital, St Leonards, NSW, Australia; 3Surveillance 
+
+Task Force, Global Alliance for Musculoskeletal Health (G-MUSC), Sydney, Australia; 4Department of Orthopaedics, Shanghai Ninth People’s 
+
+Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai Key Laboratory of Orthopaedic Implants, Shanghai 200011, China; 5School 
+
+of Public Health, Faculty of Medicine and Health, The University of Sydney, Camperdown, NSW Australia; 6Pain Management Research Institute, 
+
+Faculty of Medicine and Health, The University of Sydney & Kolling Institute of Medical Research, Royal North Shore Hospital, St Leonards, 
+
+NSW, Australia; 7Monash Department of Clinical Epidemiology, Cabrini Institute and Department of Epidemiology and Preventive Medicine, 
+
+School of Public Health & Preventive Medicine, Monash University, Melbourne, VIC, Australia
+
+Contributions: (I) Conception and design: A Wu, D Hoy, L March; (II) Administrative support: A Wu, D Hoy, L March; (III) Provision of study 
+
+materials or patients: AM, X Zheng, J Huang, X Wang, J Zhao; (IV) Collection and assembly of data: A Wu, D Hoy, L March, X Zheng, J Huang; 
+
+(V) Data analysis and interpretation: A Wu, D Hoy, L March, X Zheng, J Huang, FM Blyth, E Smith, R Buchbinder; (VI) Manuscript writing: All 
+
+authors; (VII) Final approval of manuscript: All authors.
+
+Correspondence to: Lyn March, MD, PhD. Department of Rheumatology, Clinical Administration 7C, Royal North Shore Hospital, St Leonards, 
+
+NSW 2065, Australia. Email: lyn.march@sydney.edu.au.
+
+Background: Low back pain (LBP) is a common musculoskeletal problem globally. Updating the 
+prevalence and burden of LBP is important for researchers and policy makers. This paper presents, compares 
+and contextualizes the global prevalence and years lived with disability (YLDs) of LBP by age, sex and 
+region, from 1990 to 2017.
+Methods: Data were extracted from the GBD (the Global Burden of Disease, Injuries, and Risk Factors 
+Study) 2017 Study. Age, sex and region-specific analyses were conducted to estimate the global prevalence 
+and YLDs of LBP, with the uncertainty intervals (UIs). 
+Results: The age-standardized point prevalence of LBP was 8.20% (95% UI: 7.31–9.10%) in 1990 
+and decreased slightly to 7.50% (95% UI: 6.75–8.27%) in 2017. The prevalent numbers of people with 
+LBP at any one point in time in 1990 was 377.5 million, and this increased to 577.0 million in 2017. Age-
+standardized prevalence of LBP was higher in females than males. LBP prevalence increased with age, and 
+peaked around the ages of 80 to 89 years, and then decreased slightly. Global YLDs were 42.5 million (95% 
+UI: 30.2 million–57.2 million) in 1990 and increased by 52.7% to 64.9 million (95% UI: 46.5 million–87.4 
+million) in 2017. YLDs were also higher in females than males and increased initially with age; they peaked 
+at 35–39 years of age in 1990, before decreasing, whereas in 2017, they peaked at 45–49 years of age, before 
+decreasing. Western Europe had the highest number of LBP YLDs.
+Conclusions: Globally, LBP is the leading global cause of YLDs. Greater attention is urgently needed to 
+mitigate this increasing burden and the impact it is having on health and social systems.
+
+Keywords: Low back pain (LBP); prevalence; years lived with disability (YLDs); Global Burden of Disease Study
+
+Submitted Feb 09, 2020. Accepted for publication Feb 27, 2020.
+
+doi: 10.21037/atm.2020.02.175
+
+View this article at: http://dx.doi.org/10.21037/atm.2020.02.175
+
+299
+
+Original Article
+
+https://crossmark.crossref.org/dialog/?doi=10.21037/atm.2020.02.175
+
+
+Wu et al. Global low back pain prevalence and burden
+
+© Annals of Translational Medicine. All rights reserved.   Ann Transl Med 2020;8(6):299 | http://dx.doi.org/10.21037/atm.2020.02.175
+
+Page 2 of 14
+
+Introduction
+
+Low back pain (LBP) is the most common musculoskeletal 
+problem globally (1-4). It is the leading cause of activity 
+limitation and absenteeism from work (5-7), and results 
+in a huge medical burden and economic cost (2,8). It 
+is consequently one of the major global public health 
+problems (9-11).
+
+The Global Burden of Disease (GBD) Study is updated 
+every one to two years (6,12-15). LBP is included as one 
+of the musculoskeletal conditions in GBD study—the last 
+article describing the global burden of LBP in detail was 
+based upon the GBD 2010 (10) analysis. However, since 
+then, there have been a number of methodological changes 
+made and updated data (6). These include: an updated 
+DisMod-MR tool; construction of a Socio-Demographic 
+Index (SDI); further research to establish disability weights 
+(DWs); and adjustment for comorbidity (6). Therefore, 
+it is important to present these changes and highlight the 
+resulting update on the prevalence and global burden of 
+LBP.
+
+Methods
+
+All of the data analysed and presented in this article were 
+obtained from the updated GBD 2017 (the Global Burden 
+of Disease, Injuries, and Risk Factors Study) (http://www.
+healthdata.org/gbd/data). The GBD 2017 data were 
+derived from the GBD repository of population health 
+data, including World Health Surveys and National Health 
+Surveys, literature reviews, and claims data. Literature 
+review for LBP was conducted in October 2017. The 
+electronic databases of Ovid Medline, EMBase, and 
+CINAHL were searched and eight studies were included. In 
+addition, USA claims data for 2000, 2010, 2012, and 2014 
+by state, and Taiwan claims data from 2016 were included. 
+
+In brief, Bayesian meta-regressions by DisMod-MR 
+2.1 were used to synthesize sparse and heterogeneous, 
+epidemiological data to estimate the point prevalence and 
+YLD outcomes. In GBD 2010, DisMod-MR 1.0 was used to 
+pool all data by world region. This was updated to DisMod-
+MR 2.0 in GBD 2013, which increased the computational 
+speed allowing consistent computations between all disease 
+parameters at the country level. DisMod-MR 2.1 was used 
+in GBD 2016 and 2017, and enables estimates down to the 
+sub-national level. Results were stratified by five-year age 
+groups from birth up to 95+. The detailed methods of the 
+systematic analysis for GBD 2017 by the IHME (Institute 
+
+for Health Metrics and Evaluation) have been published 
+elsewhere (6).
+
+LBP was defined as pain that lasts for at least one day 
+(with/without pain referred into one or both lower limbs) in 
+the area on the posterior aspect of the body from the lower 
+margin of the 12th ribs to the lower gluteal folds (10,16,17). 
+
+DWs represent the magnitude of health loss associated 
+with BP. DWs were measured on a scale from zero to 
+one, with zero representing a state of full health, and one 
+representing a state equivalent to death. The DWs used in 
+GBD 2010 were based on face to face surveys conducted in 
+five countries as well as an internet survey (10). The DWs 
+used in GBD 2017 have been described previously (18), and 
+also included data from the European Disability Weights 
+Measurement Study that took place in Hungary, Italy, the 
+Netherlands and Sweden.
+
+A total of six sequelae were used to represent the 
+different levels of LBP severity: (I) most severe BP with leg 
+pain (DW: 0.384, 95% CI: 0.256–0.518); (II) most severe 
+BP without leg pain (DW: 0.372, 95% CI: 0.250–0.506); 
+(III) severe BP with leg pain (DW: 0.325, 95% CI: 0.219–
+0.446); (IV) severe BP without leg pain (DW: 0.272, 95% 
+CI: 0.182–0.373); (V) moderate BP with/without leg pain 
+(DW: 0.054, 95% CI: 0.035–0.079); and (VI) mild BP with/
+without leg pain (DW: 0.020, 95% CI: 0.011–0.035).
+
+There is no mortality from LBP, therefore, the YLDs 
+and DALYs (Disability-adjusted life years) values are the 
+same. In this paper, we have only used the term YLDs. The 
+unadjusted YLDs of each sequela were calculated using the 
+formula: 
+
+YLDsequela = Prevalencesequela × DWsequela (17). 
+The SDI was originally constructed in GBD 2015; it is a 
+
+composite indicator of development status correlated with 
+health outcomes. Briefly, it is the geometric mean of 0 to 1 
+indices of total fertility rate under the age of 25 (TFU25), 
+mean education for those aged 15 and older (EDU15+), and 
+lag-distributed income (LDI) per capita.
+
+A comorbidity correction involving a micro-simulation 
+performed for each age-sex-location-year, was used to 
+calculate the comorbidity-adjusted YLDs at the final stage. 
+The co-occurrence of different diseases was estimated by 
+simulating 40,000 individuals in each age-sex-location-
+year combination based on disease prevalence. A flow chart 
+describing the process for estimating the YLDs is shown in 
+Figure 1.
+
+Uncertainty intervals (UIs) were calculated using a 
+propagating technique also described elsewhere (15,19,20). 
+Briefly, the distribution of every computed step was stored 
+
+
+
+Annals of Translational Medicine, Vol 8, No 6 March 2020 Page 3 of 14
+
+© Annals of Translational Medicine. All rights reserved.   Ann Transl Med 2020;8(6):299 | http://dx.doi.org/10.21037/atm.2020.02.175
+
+in 1,000 draws; the final estimate is the mean estimate 
+across all 1,000 draws, and the 95% UI is the 25th and 
+975th ranked values.
+
+Results
+
+Prevalence
+
+The age-standardized point prevalence of LBP in the 21 
+world regions by gender at 1990 and 2017 is summarized in 
+Table 1.
+
+Globally, the age-standardized point prevalence of 
+LBP was 8.20% (95% UI: 7.31–9.10%) in 1990, and 
+this decreased to 7.50% (95% UI: 6.75–8.27%) in 2017. 
+Prevalence was higher in females than males. For females, 
+this was 8.86% (95% UI: 7.90–9.82%) in 1990 and 
+8.01% (95% UI: 7.22–8.84%) in 2017, whereas for males, 
+prevalence was 7.47% (95% UI: 6.67–8.31%) in 1990 and 
+6.94% (95% UI: 6.24–7.67%) in 2017 (Figure 2A). The 
+estimated prevalent numbers of people with LBP was  
+377.5 million in 1990, and this increased to 577.0 million in 
+2017, due to the considerable increased population globally 
+
+from 1990 to 2017 (Figure 2B).
+LBP prevalence increased with age, peaking around the 
+
+ages 80 to 89 years old, and then slightly decreased. This 
+pattern was observed in both females and males, in 1990 
+and 2017 (Figure 3A,B). 
+
+In 2017, the highest LBP prevalence was Southern 
+Latin America (13.47%), followed by high-income Asia 
+Pacific (13.16%), while the lowest was East Asia (3.92%), 
+followed by Central Latin America (5.62%). The highest 
+prevalent number of people with LBP was South Asia  
+(96.3 million), followed by East Asia (67.7 million), while the 
+lowest prevalent number of people with LBP was Oceania  
+(0.7 million), followed by Caribbean (2.7 million).
+
+Years lived with disability (YLDs)
+
+LBP was the leading cause of YLDs for both 1990 and 2017 
+out of the all conditions studied in GBD 2017. In both time 
+points, LBP was the leading cause of YLDs in 13 out of the 
+21 world regions (Table 2).
+
+The global YLDs for LBP were 42.5 million (95% UI:  
+
+Figure 1 The flow chart of the YLDs estimation. Map SF-12 to GBD DW: the data were first collected from the short form-12 (SF-12), 
+then, the individual SF-12 summary scores were mapped to an equivalent disability weight (DW); Nonfatal database: low back pain is one 
+type of nonfatal disease, therefore, the data are input into the GBD nonfatal database; The “year” under the prevalence by location/year/
+age/sex represents the years 1990–2017.
+
+Survey data
+
+Tabulated data
+
+Claims data
+
+MEPS
+
+Opportunistic surveys by 
+IHME to fill SF-12 for 60 lay 
+
+descriptions
+
+Age-sex
+splitting
+
+Nonfatal 
+database Dismod-MR 2.1
+
+Prevalence by 
+location/year/
+
+age/sex
+
+Covariates: 
+Study level and 
+location level
+
+Prevalence of 
+mild LBP
+
+Prevalence of 
+moderate LBP
+
+Prevalence of
+severe LBP with/
+without leg pain
+
+Prevalence of most
+severe LBP with/
+without leg pain
+
+Unadjusted YLD 
+by sequela
+
+DWs for each 
+sequela
+
+Comorbidity
+adjusted YLDs
+
+Comorbidity 
+correction
+
+Proportion 
+LBP cases 
+
+with leg pain
+
+Severity 
+splits
+
+Regression to estimate DW by  
+cause in survey respondents 
+controlling for comorbidity
+
+Map SF-12 to GBD DW
+
+
+
+Wu et al. Global low back pain prevalence and burden
+
+© Annals of Translational Medicine. All rights reserved.   Ann Transl Med 2020;8(6):299 | http://dx.doi.org/10.21037/atm.2020.02.175
+
+Page 4 of 14
+
+Table 1 The age-standardized point prevalence of low back pain in 1990 and 2017, by region and gender
+
+Region Gender
+1990 (%) 2017 (%)
+
+Difference** (%)
+Mean LUI UUI Rank* Mean LUI UUI Rank*
+
+Andean Latin  
+America
+
+Male 7.65 6.89 8.44 8.31 7.45 9.19 0.66
+
+Female 7.36 6.61 8.22 7.87 7.08 8.77 0.50
+
+Both 7.50 6.76 8.33 13 8.08 7.26 8.94 13 0.58
+
+Australasia Male 11.60 10.52 12.79 11.99 10.73 13.38 0.39
+
+Female 13.11 11.86 14.54 13.84 12.41 15.31 0.73
+
+Both 12.38 11.22 13.63 3 12.94 11.63 14.32 4 0.56
+
+Caribbean Male 5.32 4.79 5.89 5.28 4.77 5.85 −0.04
+
+Female 6.15 5.49 6.81 6.03 5.51 6.65 −0.12
+
+Both 5.75 5.15 6.36 19 5.67 5.16 6.26 19 −0.08
+
+Central Asia Male 9.21 8.27 10.23 9.14 8.22 10.17 −0.07
+
+Female 9.11 8.16 10.18 9.11 8.11 10.18 0.01
+
+Both 9.17 8.24 10.21 10 9.13 8.16 10.20 10 −0.04
+
+Central Europe Male 12.40 11.16 13.79 12.51 11.34 13.77 0.11
+
+Female 12.47 11.15 13.89 12.57 11.37 13.86 0.10
+
+Both 12.46 11.18 13.86 2 12.57 11.38 13.85 5 0.11
+
+Central Latin  
+America
+
+Male 4.68 4.15 5.24 4.88 4.37 5.41 0.20
+
+Female 6.43 5.73 7.17 6.28 5.61 6.95 −0.15
+
+Both 5.59 4.97 6.20 20 5.62 5.02 6.23 20 0.03
+
+Central  
+Sub-Saharan Africa
+
+Male 8.78 7.78 9.82 8.94 7.95 9.99 0.16
+
+Female 7.75 6.90 8.69 7.87 6.99 8.82 0.12
+
+Both 8.24 7.30 9.23 11 8.40 7.48 9.39 12 0.16
+
+East Asia Male 4.16 3.61 4.72 3.44 3.02 3.85 −0.72
+
+Female 5.70 4.91 6.56 4.38 3.87 4.89 −1.32
+
+Both 4.94 4.27 5.63 21 3.92 3.46 4.37 21 −1.02
+
+Eastern Europe Male 11.56 10.26 12.95 10.52 9.37 11.78 −1.04
+
+Female 11.40 10.10 12.74 10.59 9.47 11.79 −0.81
+
+Both 11.48 10.20 12.77 6 10.57 9.40 11.79 8 −0.91
+
+Eastern  
+Sub-Saharan Africa
+
+Male 8.10 7.23 8.99 8.52 7.60 9.49 0.43
+
+Female 6.43 5.74 7.20 6.65 5.90 7.42 0.22
+
+Both 7.25 6.46 8.09 15 7.56 6.73 8.42 15 0.31
+
+High-income Asia 
+Pacific
+
+Male 10.25 9.12 11.51 11.45 10.19 12.83 1.20
+
+Female 14.42 12.80 16.18 14.90 13.27 16.80 0.48
+
+Both 12.36 11.02 13.84 4 13.16 11.74 14.73 2 0.80
+
+Table 1 (continued)
+
+
+
+Annals of Translational Medicine, Vol 8, No 6 March 2020 Page 5 of 14
+
+© Annals of Translational Medicine. All rights reserved.   Ann Transl Med 2020;8(6):299 | http://dx.doi.org/10.21037/atm.2020.02.175
+
+Table 1 (continued)
+
+Region Gender
+1990 (%) 2017 (%)
+
+Difference** (%)
+Mean LUI UUI Rank* Mean LUI UUI Rank*
+
+High-income North 
+America
+
+Male 10.39 9.37 11.49 9.80 9.20 10.42 −0.59
+
+Female 12.21 11.03 13.44 11.55 10.85 12.28 −0.66
+
+Both 11.36 10.24 12.54 7 10.71 10.06 11.39 7 −0.65
+
+North Africa and 
+Middle East
+
+Male 8.96 8.06 9.90 9.09 8.14 10.01 0.13
+
+Female 10.75 9.62 11.94 10.74 9.61 11.97 −0.01
+
+Both 9.85 8.84 10.90 9 9.90 8.86 10.98 9 0.06
+
+Oceania Male 5.89 5.21 6.57 6.20 5.50 6.98 0.31
+
+Female 6.89 6.10 7.75 7.23 6.41 8.11 0.34
+
+Both 6.37 5.67 7.11 18 6.70 5.95 7.53 16 0.33
+
+South Asia Male 5.72 5.06 6.43 5.05 4.50 5.65 −0.67
+
+Female 7.44 6.62 8.33 7.07 6.31 7.89 −0.37
+
+Both 6.54 5.81 7.32 17 6.06 5.40 6.75 18 −0.48
+
+Southeast Asia Male 7.33 6.61 8.10 7.72 7.05 8.42 0.39
+
+Female 7.52 6.79 8.29 7.78 7.07 8.52 0.25
+
+Both 7.43 6.71 8.21 14 7.76 7.08 8.49 14 0.32
+
+Southern Latin 
+America
+
+Male 11.98 10.59 13.54 13.25 11.86 14.64 1.27
+
+Female 12.64 11.22 14.11 13.66 12.26 15.18 1.02
+
+Both 12.33 10.97 13.85 5 13.47 12.09 14.89 1 1.13
+
+Southern  
+Sub-Saharan Africa
+
+Male 8.11 7.25 9.03 7.40 6.62 8.25 −0.70
+
+Female 5.97 5.32 6.65 5.53 4.95 6.11 −0.44
+
+Both 6.99 6.25 7.75 16 6.42 5.75 7.12 17 −0.57
+
+Tropical Latin  
+America
+
+Male 10.55 9.42 11.80 11.37 10.14 12.69 0.82
+
+Female 12.02 10.71 13.43 11.51 10.29 12.78 −0.52
+
+Both 11.32 10.11 12.60 8 11.45 10.22 12.74 6 0.13
+
+Western Europe Male 12.29 11.08 13.63 12.02 10.82 13.31 −0.27
+
+Female 14.05 12.69 15.49 14.13 12.74 15.62 0.08
+
+Both 13.24 11.95 14.63 1 13.12 11.81 14.50 3 −0.13
+
+Western  
+Sub-Saharan Africa
+
+Male 8.79 7.86 9.78 9.31 8.36 10.32 0.52
+
+Female 7.65 6.86 8.50 8.27 7.42 9.12 0.62
+
+Both 8.23 7.40 9.18 12 8.76 7.89 9.70 11 0.53
+
+Globally Male 7.47 6.67 8.31 6.94 6.24 7.67 −0.53
+
+Female 8.86 7.90 9.82 8.01 7.22 8.84 −0.85
+
+Both 8.20 7.31 9.10 – 7.50 6.75 8.27 – −0.70
+
+*, rank: the rank of LBP prevalence among the above 21 regions. **, difference: calculated by subtracting the 1990 prevalence (%) from the 
+2017 prevalence (%). LUI, lower uncertainty interval; UUI, upper uncertainty interval. 
+
+
+
+Wu et al. Global low back pain prevalence and burden
+
+© Annals of Translational Medicine. All rights reserved.   Ann Transl Med 2020;8(6):299 | http://dx.doi.org/10.21037/atm.2020.02.175
+
+Page 6 of 14
+
+Figure 2 The prevalence trend of low back pain. (A) The age-standardized point prevalence of low back pain from 1990 to 2017, by gender. 
+(B) The estimated prevalent number of people with low back pain from 1990 to 2017, by gender.
+
+Figure 3 The age-specific prevalence of low back pain. (A) The age-specific point prevalence of low back pain in 1990, by gender. (B) The 
+age-specific point prevalence of low back pain in 2017, by gender.
+
+10
+9
+8
+7
+6
+5
+4
+3
+2
+1
+0
+
+19
+90
+
+19
+91
+
+19
+92
+
+19
+93
+
+19
+94
+
+19
+95
+
+19
+96
+
+19
+97
+
+19
+98
+
+19
+99
+
+20
+00
+
+20
+01
+
+20
+02
+
+20
+03
+
+20
+04
+
+20
+05
+
+20
+06
+
+20
+07
+
+20
+08
+
+20
+09
+
+20
+10
+
+20
+11
+
+20
+12
+
+20
+13
+
+20
+14
+
+20
+15
+
+20
+16
+
+20
+17
+
+19
+90
+
+19
+91
+
+19
+92
+
+19
+93
+
+19
+94
+
+19
+95
+
+19
+96
+
+19
+97
+
+19
+98
+
+19
+99
+
+20
+00
+
+20
+01
+
+20
+02
+
+20
+03
+
+20
+04
+
+20
+05
+
+20
+06
+
+20
+07
+
+20
+08
+
+20
+09
+
+20
+10
+
+20
+11
+
+20
+12
+
+20
+13
+
+20
+14
+
+20
+15
+
+20
+16
+
+20
+17
+
+700
+
+600
+
+500
+
+400
+
+300
+
+200
+
+100
+
+0
+
+Both
+Female
+Male
+
+Both
+Female
+Male
+
+P
+oi
+
+nt
+ p
+
+re
+va
+
+le
+nc
+
+e 
+(%
+
+)
+
+Year
+
+Year
+
+N
+um
+
+be
+r 
+
+(m
+ill
+
+io
+ns
+
+)
+
+A
+
+B
+
+Female
+
+Male
+
+Female
+
+Male
+
+30
+
+25
+
+20
+
+15
+
+10
+
+5
+
+0
+
+0-
+4
+
+5-
+9
+
+10
+-1
+
+4
+
+15
+-1
+
+9
+
+20
+-2
+
+4
+
+25
+-2
+
+9
+
+30
+-3
+
+4
+
+35
+-3
+
+9
+
+40
+-4
+
+4
+
+45
+-4
+
+9
+
+50
+-5
+
+4
+
+55
+-5
+
+9
+
+60
+-6
+
+4
+
+65
+-6
+
+9
+
+70
+-7
+
+4
+
+75
+-7
+
+9
+
+80
+-8
+
+4
+
+85
+-8
+
+9
+
+90
+-9
+
+4
+
+>
+95
+
+0-
+4
+
+5-
+9
+
+10
+-1
+
+4
+
+15
+-1
+
+9
+
+20
+-2
+
+4
+
+25
+-2
+
+9
+
+30
+-3
+
+4
+
+35
+-3
+
+9
+
+40
+-4
+
+4
+
+45
+-4
+
+9
+
+50
+-5
+
+4
+
+55
+-5
+
+9
+
+60
+-6
+
+4
+
+65
+-6
+
+9
+
+70
+-7
+
+4
+
+75
+-7
+
+9
+
+80
+-8
+
+4
+
+85
+-8
+
+9
+
+90
+-9
+
+4
+
+>
+95
+
+30
+
+25
+
+20
+
+15
+
+10
+
+5
+
+0
+
+P
+oi
+
+nt
+ p
+
+re
+va
+
+le
+nc
+
+e 
+(%
+
+)
+P
+
+oi
+nt
+
+ p
+re
+
+va
+le
+
+nc
+e 
+
+(%
+)
+
+Age group
+
+Age group
+
+A
+
+B
+
+
+
+Annals of Translational Medicine, Vol 8, No 6 March 2020 Page 7 of 14
+
+© Annals of Translational Medicine. All rights reserved.   Ann Transl Med 2020;8(6):299 | http://dx.doi.org/10.21037/atm.2020.02.175
+
+Ta
+bl
+
+e 
+2 
+
+Ye
+ar
+
+s l
+iv
+
+ed
+ w
+
+ith
+ d
+
+is
+ab
+
+ili
+ty
+
+ (Y
+LD
+
+s)
+, a
+
+ge
+-s
+
+ta
+nd
+
+ar
+di
+
+ze
+d 
+
+Y
+LD
+
+ ra
+te
+
+ (p
+er
+
+ 1
+00
+
+,0
+00
+
+ p
+er
+
+so
+ns
+
+) a
+nd
+
+ ra
+nk
+
+ (i
+n 
+
+al
+l c
+
+au
+se
+
+s)
+ o
+
+f l
+ow
+
+ b
+ac
+
+k 
+pa
+
+in
+ in
+
+ 1
+99
+
+0 
+an
+
+d 
+20
+
+17
+, b
+
+y 
+re
+
+gi
+on
+
+ a
+nd
+
+ se
+x
+
+R
+eg
+
+io
+ns
+
+G
+en
+
+de
+r
+
+Y
+LD
+
+s 
+(1
+
+,0
+00
+
+s)
+A
+
+ge
+-s
+
+ta
+nd
+
+ar
+di
+
+ze
+d 
+
+Y
+LD
+
+ r
+at
+
+e 
+(p
+
+er
+ 1
+
+00
+,0
+
+00
+ p
+
+er
+so
+
+ns
+)
+
+R
+an
+
+k*
+*
+
+1,
+99
+
+0 
+2,
+
+01
+7 
+
+D
+iff
+
+er
+en
+
+ce
+*
+
+1,
+99
+
+0 
+2,
+
+01
+7 
+
+D
+iff
+
+er
+en
+
+ce
+*
+
+1,
+99
+
+0 
+2,
+
+01
+7 
+
+M
+ea
+
+n
+LU
+
+I
+U
+
+U
+I
+
+M
+ea
+
+n
+LU
+
+I
+U
+
+U
+I
+
+M
+ea
+
+n
+LU
+
+I
+U
+
+U
+I
+
+M
+ea
+
+n
+LU
+
+I
+U
+
+U
+I
+
+A
+nd
+
+ea
+n 
+
+La
+tin
+
+ 
+A
+
+m
+er
+
+ic
+a
+
+M
+al
+
+e
+12
+
+3 
+88
+
+ 
+16
+
+5 
+26
+
+2 
+18
+
+6 
+16
+
+5 
+14
+
+0 
+84
+
+4 
+60
+
+7 
+1,
+
+14
+0 
+
+90
+4 
+
+64
+4 
+
+1,
+21
+
+5 
+60
+
+ 
+1 
+
+1 
+
+Fe
+m
+
+al
+e
+
+12
+5 
+
+89
+ 
+
+16
+9 
+
+25
+9 
+
+18
+4 
+
+16
+9 
+
+13
+5 
+
+81
+5 
+
+58
+4 
+
+1,
+10
+
+0 
+86
+
+5 
+61
+
+5 
+1,
+
+16
+3 
+
+50
+ 
+
+2 
+1 
+
+B
+ot
+
+h
+24
+
+7 
+17
+
+6 
+33
+
+7 
+52
+
+2 
+37
+
+1 
+33
+
+7 
+27
+
+4 
+82
+
+9 
+59
+
+5 
+1,
+
+11
+3 
+
+88
+4 
+
+63
+0 
+
+1,
+18
+
+3 
+55
+
+ 
+1 
+
+1 
+
+A
+us
+
+tr
+al
+
+as
+ia
+
+M
+al
+
+e
+12
+
+7 
+90
+
+ 
+17
+
+2 
+20
+
+2 
+14
+
+5 
+17
+
+2 
+75
+
+ 
+1,
+
+17
+0 
+
+83
+0 
+
+1,
+58
+
+0 
+1,
+
+19
+8 
+
+86
+3 
+
+1,
+62
+
+8 
+29
+
+ 
+1 
+
+1 
+
+Fe
+m
+
+al
+e
+
+15
+3 
+
+10
+9 
+
+20
+6 
+
+25
+0 
+
+17
+9 
+
+20
+6 
+
+97
+ 
+
+1,
+34
+
+5 
+95
+
+7 
+1,
+
+81
+0 
+
+1,
+40
+
+6 
+1,
+
+00
+6 
+
+1,
+88
+
+9 
+61
+
+ 
+1 
+
+1 
+
+B
+ot
+
+h
+28
+
+0 
+20
+
+0 
+37
+
+7 
+45
+
+3 
+32
+
+4 
+37
+
+7 
+17
+
+3 
+1,
+
+25
+9 
+
+89
+8 
+
+1,
+70
+
+2 
+1,
+
+30
+4 
+
+93
+7 
+
+1,
+75
+
+9 
+45
+
+ 
+1 
+
+1 
+
+C
+ar
+
+ib
+be
+
+an
+M
+
+al
+e
+
+90
+ 
+
+64
+ 
+
+12
+3 
+
+13
+8 
+
+99
+ 
+
+12
+3 
+
+48
+ 
+
+58
+4 
+
+41
+5 
+
+79
+3 
+
+57
+6 
+
+41
+4 
+
+77
+6 
+
+−
+8
+
+1 
+2 
+
+Fe
+m
+
+al
+e
+
+10
+8 
+
+78
+ 
+
+14
+6 
+
+16
+6 
+
+12
+0 
+
+14
+6 
+
+58
+ 
+
+67
+2 
+
+48
+4 
+
+90
+4 
+
+65
+7 
+
+47
+5 
+
+87
+2 
+
+−
+15
+
+3 
+2 
+
+B
+ot
+
+h
+19
+
+8 
+14
+
+2 
+26
+
+9 
+30
+
+4 
+21
+
+9 
+26
+
+9 
+10
+
+5 
+62
+
+9 
+45
+
+2 
+85
+
+1 
+61
+
+8 
+44
+
+6 
+83
+
+0 
+−
+
+11
+3 
+
+3 
+
+C
+en
+
+tr
+al
+
+ A
+si
+
+a
+M
+
+al
+e
+
+25
+9 
+
+18
+7 
+
+34
+9 
+
+40
+0 
+
+28
+6 
+
+34
+9 
+
+14
+0 
+
+99
+3 
+
+71
+6 
+
+1,
+33
+
+2 
+97
+
+3 
+69
+
+8 
+1,
+
+30
+7 
+
+−
+20
+
+1 
+1 
+
+Fe
+m
+
+al
+e
+
+30
+1 
+
+21
+6 
+
+40
+7 
+
+45
+0 
+
+32
+1 
+
+40
+7 
+
+14
+9 
+
+99
+0 
+
+70
+5 
+
+1,
+32
+
+4 
+98
+
+5 
+70
+
+6 
+1,
+
+32
+7 
+
+−
+5
+
+2 
+1 
+
+B
+ot
+
+h
+56
+
+0 
+40
+
+4 
+75
+
+2 
+85
+
+0 
+60
+
+7 
+75
+
+2 
+29
+
+0 
+99
+
+3 
+71
+
+2 
+1,
+
+33
+0 
+
+97
+9 
+
+70
+4 
+
+1,
+31
+
+4 
+−
+
+13
+1 
+
+1 
+
+C
+en
+
+tr
+al
+
+ E
+ur
+
+op
+e
+
+M
+al
+
+e
+86
+
+4 
+61
+
+6 
+1,
+
+17
+0 
+
+96
+6 
+
+69
+4 
+
+1,
+17
+
+0 
+10
+
+1 
+1,
+
+31
+1 
+
+93
+9 
+
+1,
+76
+
+2 
+1,
+
+30
+6 
+
+93
+4 
+
+1,
+75
+
+5 
+−
+
+5
+2 
+
+1 
+
+Fe
+m
+
+al
+e
+
+99
+7 
+
+70
+8 
+
+1,
+34
+
+3 
+1,
+
+13
+9 
+
+82
+5 
+
+1,
+34
+
+3 
+14
+
+2 
+1,
+
+34
+1 
+
+95
+9 
+
+1,
+80
+
+5 
+1,
+
+34
+3 
+
+96
+3 
+
+1,
+80
+
+1 
+2 
+
+1 
+1 
+
+B
+ot
+
+h
+1,
+
+86
+1 
+
+1,
+31
+
+9 
+2,
+
+50
+5 
+
+2,
+10
+
+4 
+1,
+
+53
+0 
+
+2,
+50
+
+5 
+24
+
+3 
+1,
+
+32
+9 
+
+94
+9 
+
+1,
+78
+
+7 
+1,
+
+32
+8 
+
+94
+9 
+
+1,
+77
+
+2 
+−
+
+1
+1 
+
+1 
+
+C
+en
+
+tr
+al
+
+ L
+at
+
+in
+ 
+
+A
+m
+
+er
+ic
+
+a
+M
+
+al
+e
+
+31
+7 
+
+22
+5 
+
+43
+2 
+
+63
+3 
+
+45
+3 
+
+43
+2 
+
+31
+6 
+
+51
+1 
+
+36
+8 
+
+69
+5 
+
+52
+1 
+
+37
+4 
+
+70
+7 
+
+9 
+2 
+
+2 
+
+Fe
+m
+
+al
+e
+
+47
+1 
+
+33
+4 
+
+63
+7 
+
+90
+2 
+
+64
+3 
+
+63
+7 
+
+43
+1 
+
+70
+5 
+
+50
+3 
+
+95
+2 
+
+68
+1 
+
+48
+5 
+
+92
+8 
+
+−
+24
+
+2 
+2 
+
+B
+ot
+
+h
+78
+
+8 
+55
+
+9 
+1,
+
+06
+6 
+
+1,
+53
+
+5 
+1,
+
+09
+6 
+
+1,
+06
+
+6 
+74
+
+7 
+61
+
+1 
+43
+
+7 
+82
+
+8 
+60
+
+4 
+43
+
+0 
+81
+
+8 
+−
+
+7
+2 
+
+2 
+
+C
+en
+
+tr
+al
+
+  
+S
+
+ub
+-S
+
+ah
+ar
+
+an
+ 
+
+A
+fr
+
+ic
+a
+
+M
+al
+
+e
+16
+
+5 
+11
+
+8 
+22
+
+7 
+39
+
+1 
+27
+
+9 
+22
+
+7 
+22
+
+6 
+96
+
+1 
+69
+
+1 
+1,
+
+29
+3 
+
+97
+7 
+
+69
+6 
+
+1,
+31
+
+0 
+16
+
+ 
+3 
+
+1 
+
+Fe
+m
+
+al
+e
+
+15
+1 
+
+10
+8 
+
+20
+4 
+
+35
+4 
+
+25
+1 
+
+20
+4 
+
+20
+3 
+
+84
+0 
+
+60
+8 
+
+1,
+12
+
+5 
+85
+
+7 
+62
+
+0 
+1,
+
+15
+0 
+
+17
+ 
+
+5 
+3 
+
+B
+ot
+
+h
+31
+
+7 
+22
+
+6 
+43
+
+4 
+74
+
+6 
+53
+
+2 
+43
+
+4 
+42
+
+9 
+89
+
+8 
+64
+
+8 
+1,
+
+20
+1 
+
+91
+7 
+
+65
+8 
+
+1,
+23
+
+0 
+19
+
+ 
+4 
+
+1 
+
+E
+as
+
+t A
+si
+
+a
+M
+
+al
+e
+
+2,
+71
+
+9 
+1,
+
+93
+6 
+
+3,
+73
+
+5 
+3,
+
+31
+6 
+
+2,
+34
+
+2 
+3,
+
+73
+5 
+
+59
+7 
+
+45
+6 
+
+32
+4 
+
+62
+0 
+
+36
+6 
+
+25
+9 
+
+49
+4 
+
+−
+90
+
+1 
+4 
+
+Fe
+m
+
+al
+e
+
+3,
+47
+
+8 
+2,
+
+44
+5 
+
+4,
+69
+
+6 
+4,
+
+39
+4 
+
+3,
+13
+
+4 
+4,
+
+69
+6 
+
+91
+6 
+
+62
+3 
+
+43
+7 
+
+83
+7 
+
+47
+1 
+
+33
+6 
+
+63
+3 
+
+−
+15
+
+2
+2 
+
+3 
+
+B
+ot
+
+h
+6,
+
+19
+7 
+
+4,
+39
+
+7 
+8,
+
+38
+4 
+
+7,
+70
+
+9 
+5,
+
+45
+3 
+
+8,
+38
+
+4 
+1,
+
+51
+3 
+
+53
+9 
+
+38
+1 
+
+73
+0 
+
+41
+9 
+
+30
+0 
+
+56
+5 
+
+−
+12
+
+0
+1 
+
+3 
+
+T
+ab
+
+le
+ 2
+
+ (c
+on
+
+tin
+ue
+
+d)
+
+
+
+Wu et al. Global low back pain prevalence and burden
+
+© Annals of Translational Medicine. All rights reserved.   Ann Transl Med 2020;8(6):299 | http://dx.doi.org/10.21037/atm.2020.02.175
+
+Page 8 of 14
+T
+
+ab
+le
+
+ 2
+ (c
+
+on
+tin
+
+ue
+d)
+
+R
+eg
+
+io
+ns
+
+G
+en
+
+de
+r
+
+Y
+LD
+
+s 
+(1
+
+,0
+00
+
+s)
+A
+
+ge
+-s
+
+ta
+nd
+
+ar
+di
+
+ze
+d 
+
+Y
+LD
+
+ r
+at
+
+e 
+(p
+
+er
+ 1
+
+00
+,0
+
+00
+ p
+
+er
+so
+
+ns
+)
+
+R
+an
+
+k*
+*
+
+1,
+99
+
+0 
+2,
+
+01
+7 
+
+D
+iff
+
+er
+en
+
+ce
+*
+
+1,
+99
+
+0 
+2,
+
+01
+7 
+
+D
+iff
+
+er
+en
+
+ce
+*
+
+1,
+99
+
+0 
+2,
+
+01
+7 
+
+M
+ea
+
+n
+LU
+
+I
+U
+
+U
+I
+
+M
+ea
+
+n
+LU
+
+I
+U
+
+U
+I
+
+M
+ea
+
+n
+LU
+
+I
+U
+
+U
+I
+
+M
+ea
+
+n
+LU
+
+I
+U
+
+U
+I
+
+E
+as
+
+te
+rn
+
+ E
+ur
+
+op
+e
+
+M
+al
+
+e
+1,
+
+35
+6 
+
+97
+1 
+
+1,
+84
+
+0 
+1,
+
+32
+1 
+
+95
+0 
+
+1,
+84
+
+0 
+−
+
+35
+1,
+
+21
+2 
+
+87
+3 
+
+1,
+63
+
+9 
+1,
+
+09
+5 
+
+78
+3 
+
+1,
+48
+
+2 
+−
+
+11
+7
+
+1 
+1 
+
+Fe
+m
+
+al
+e
+
+1,
+81
+
+4 
+1,
+
+31
+8 
+
+2,
+43
+
+2 
+1,
+
+76
+7 
+
+1,
+28
+
+8 
+2,
+
+43
+2 
+
+−
+47
+
+1,
+20
+
+6 
+86
+
+4 
+1,
+
+61
+5 
+
+1,
+11
+
+5 
+80
+
+4 
+1,
+
+49
+8 
+
+−
+91
+
+1 
+1 
+
+B
+ot
+
+h
+3,
+
+17
+0 
+
+2,
+30
+
+5 
+4,
+
+27
+4 
+
+3,
+08
+
+9 
+2,
+
+23
+6 
+
+4,
+27
+
+4 
+−
+
+82
+1,
+
+20
+8 
+
+86
+8 
+
+1,
+62
+
+2 
+1,
+
+10
+6 
+
+79
+3 
+
+1,
+49
+
+7 
+−
+
+10
+2
+
+1 
+1 
+
+E
+as
+
+te
+rn
+
+  
+S
+
+ub
+-S
+
+ah
+ar
+
+an
+ 
+
+A
+fr
+
+ic
+a
+
+M
+al
+
+e
+49
+
+9 
+35
+
+6 
+67
+
+8 
+1,
+
+12
+5 
+
+80
+1 
+
+67
+8 
+
+62
+6 
+
+89
+4 
+
+64
+5 
+
+1,
+20
+
+2 
+93
+
+4 
+67
+
+4 
+1,
+
+26
+5 
+
+40
+ 
+
+3 
+1 
+
+Fe
+m
+
+al
+e
+
+39
+6 
+
+28
+4 
+
+53
+5 
+
+89
+2 
+
+63
+5 
+
+53
+5 
+
+49
+6 
+
+70
+7 
+
+51
+1 
+
+94
+6 
+
+73
+1 
+
+52
+6 
+
+98
+8 
+
+23
+ 
+
+5 
+4 
+
+B
+ot
+
+h
+89
+
+5 
+64
+
+2 
+1,
+
+21
+5 
+
+2,
+01
+
+7 
+1,
+
+43
+7 
+
+1,
+21
+
+5 
+1,
+
+12
+2 
+
+79
+9 
+
+57
+7 
+
+1,
+07
+
+0 
+83
+
+0 
+59
+
+9 
+1,
+
+12
+0 
+
+31
+ 
+
+3 
+2 
+
+H
+ig
+
+h-
+in
+
+co
+m
+
+e 
+A
+
+si
+a 
+
+P
+ac
+
+ifi
+c
+
+M
+al
+
+e
+1,
+
+00
+7 
+
+71
+7 
+
+1,
+36
+
+8 
+1,
+
+48
+9 
+
+1,
+06
+
+7 
+1,
+
+36
+8 
+
+48
+1 
+
+1,
+06
+
+0 
+75
+
+4 
+1,
+
+44
+4 
+
+1,
+16
+
+6 
+82
+
+9 
+1,
+
+60
+0 
+
+10
+6 
+
+1 
+1 
+
+Fe
+m
+
+al
+e
+
+1,
+53
+
+5 
+1,
+
+09
+1 
+
+2,
+09
+
+0 
+1,
+
+93
+0 
+
+1,
+37
+
+8 
+2,
+
+09
+0 
+
+39
+5 
+
+1,
+53
+
+0 
+1,
+
+09
+1 
+
+2,
+09
+
+1 
+1,
+
+56
+7 
+
+1,
+11
+
+7 
+2,
+
+12
+6 
+
+37
+ 
+
+1 
+1 
+
+B
+ot
+
+h
+2,
+
+54
+3 
+
+1,
+81
+
+1 
+3,
+
+44
+1 
+
+3,
+41
+
+9 
+2,
+
+42
+3 
+
+3,
+44
+
+1 
+87
+
+6 
+1,
+
+29
+4 
+
+92
+3 
+
+1,
+75
+
+8 
+1,
+
+36
+1 
+
+97
+0 
+
+1,
+86
+
+3 
+67
+
+ 
+1 
+
+1 
+
+H
+ig
+
+h-
+in
+
+co
+m
+
+e 
+N
+
+or
+th
+
+ A
+m
+
+er
+ic
+
+a
+M
+
+al
+e
+
+1,
+58
+
+1 
+1,
+
+13
+1 
+
+2,
+12
+
+4 
+2,
+
+17
+1 
+
+1,
+55
+
+4 
+2,
+
+12
+4 
+
+58
+9 
+
+1,
+05
+
+4 
+75
+
+6 
+1,
+
+42
+4 
+
+98
+8 
+
+70
+9 
+
+1,
+31
+
+3 
+−
+
+66
+1 
+
+1 
+
+Fe
+m
+
+al
+e
+
+2,
+10
+
+5 
+1,
+
+51
+0 
+
+2,
+82
+
+0 
+2,
+
+80
+1 
+
+2,
+02
+
+7 
+2,
+
+82
+0 
+
+69
+5 
+
+1,
+27
+
+0 
+91
+
+0 
+1,
+
+70
+7 
+
+1,
+19
+
+1 
+85
+
+8 
+1,
+
+57
+2 
+
+−
+79
+
+1 
+1 
+
+B
+ot
+
+h
+3,
+
+68
+7 
+
+2,
+63
+
+5 
+4,
+
+93
+1 
+
+4,
+97
+
+2 
+3,
+
+59
+0 
+
+4,
+93
+
+1 
+1,
+
+28
+5 
+
+1,
+16
+
+7 
+83
+
+7 
+1,
+
+57
+5 
+
+1,
+09
+
+1 
+78
+
+6 
+1,
+
+44
+5 
+
+−
+75
+
+1 
+1 
+
+N
+or
+
+th
+ A
+
+fr
+ic
+
+a 
+an
+
+d 
+M
+
+id
+dl
+
+e 
+E
+
+as
+t
+
+M
+al
+
+e
+1,
+
+28
+1 
+
+91
+6 
+
+1,
+73
+
+4 
+2,
+
+82
+2 
+
+2,
+01
+
+4 
+1,
+
+73
+4 
+
+1,
+54
+
+1 
+97
+
+1 
+69
+
+8 
+1,
+
+30
+8 
+
+97
+2 
+
+69
+9 
+
+1,
+30
+
+8 
+2 
+
+1 
+2 
+
+Fe
+m
+
+al
+e
+
+1,
+44
+
+2 
+1,
+
+03
+0 
+
+1,
+93
+
+4 
+3,
+
+06
+2 
+
+2,
+19
+
+7 
+1,
+
+93
+4 
+
+1,
+62
+
+0 
+1,
+
+16
+2 
+
+83
+3 
+
+1,
+54
+
+6 
+1,
+
+15
+5 
+
+82
+5 
+
+1,
+55
+
+5 
+−
+
+6
+2 
+
+2 
+
+B
+ot
+
+h
+2,
+
+72
+3 
+
+1,
+95
+
+3 
+3,
+
+68
+5 
+
+5,
+88
+
+4 
+4,
+
+21
+1 
+
+3,
+68
+
+5 
+3,
+
+16
+1 
+
+1,
+06
+
+4 
+76
+
+3 
+1,
+
+43
+0 
+
+1,
+06
+
+2 
+76
+
+1 
+1,
+
+42
+9 
+
+−
+3
+
+1 
+1 
+
+O
+ce
+
+an
+ia
+
+M
+al
+
+e
+16
+
+ 
+11
+
+ 
+22
+
+ 
+35
+
+ 
+25
+
+ 
+22
+
+ 
+19
+
+ 
+64
+
+9 
+46
+
+1 
+88
+
+3 
+67
+
+8 
+48
+
+8 
+91
+
+0 
+29
+
+ 
+2 
+
+2 
+
+Fe
+m
+
+al
+e
+
+17
+ 
+
+12
+ 
+
+23
+ 
+
+38
+ 
+
+27
+ 
+
+23
+ 
+
+21
+ 
+
+75
+4 
+
+54
+1 
+
+1,
+02
+
+3 
+78
+
+5 
+56
+
+3 
+1,
+
+04
+5 
+
+32
+ 
+
+3 
+3 
+
+B
+ot
+
+h
+33
+
+ 
+23
+
+ 
+45
+
+ 
+74
+
+ 
+53
+
+ 
+45
+
+ 
+41
+
+ 
+70
+
+0 
+50
+
+0 
+95
+
+2 
+73
+
+0 
+52
+
+4 
+98
+
+0 
+30
+
+ 
+3 
+
+3 
+
+S
+ou
+
+th
+ A
+
+si
+a
+
+M
+al
+
+e
+2,
+
+77
+4 
+
+1,
+98
+
+7 
+3,
+
+76
+9 
+
+4,
+54
+
+7 
+3,
+
+23
+9 
+
+3,
+76
+
+9 
+1,
+
+77
+3 
+
+63
+3 
+
+45
+7 
+
+84
+8 
+
+55
+3 
+
+39
+7 
+
+74
+6 
+
+−
+79
+
+2 
+2 
+
+Fe
+m
+
+al
+e
+
+3,
+23
+
+6 
+2,
+
+31
+5 
+
+4,
+36
+
+3 
+6,
+
+24
+8 
+
+4,
+45
+
+4 
+4,
+
+36
+3 
+
+3,
+01
+
+2 
+81
+
+2 
+58
+
+1 
+1,
+
+08
+5 
+
+77
+1 
+
+55
+3 
+
+1,
+02
+
+8 
+−
+
+41
+3 
+
+3 
+
+B
+ot
+
+h
+6,
+
+01
+0 
+
+4,
+29
+
+1 
+8,
+
+15
+6 
+
+10
+,7
+
+95
+ 
+
+7,
+68
+
+9 
+8,
+
+15
+6 
+
+4,
+78
+
+5 
+71
+
+8 
+51
+
+4 
+96
+
+1 
+66
+
+1 
+47
+
+6 
+88
+
+9 
+−
+
+56
+3 
+
+3 
+
+S
+ou
+
+th
+ea
+
+st
+ A
+
+si
+a
+
+M
+al
+
+e
+1,
+
+44
+8 
+
+1,
+03
+
+3 
+1,
+
+96
+4 
+
+2,
+75
+
+8 
+1,
+
+98
+3 
+
+1,
+96
+
+4 
+1,
+
+31
+0 
+
+81
+6 
+
+58
+8 
+
+1,
+10
+
+1 
+84
+
+3 
+60
+
+5 
+1,
+
+12
+5 
+
+27
+ 
+
+1 
+1 
+
+Fe
+m
+
+al
+e
+
+1,
+55
+
+4 
+1,
+
+11
+2 
+
+2,
+10
+
+2 
+2,
+
+91
+1 
+
+2,
+09
+
+6 
+2,
+
+10
+2 
+
+1,
+35
+
+7 
+83
+
+2 
+59
+
+2 
+1,
+
+11
+6 
+
+84
+9 
+
+61
+1 
+
+1,
+13
+
+1 
+17
+
+ 
+2 
+
+1 
+
+B
+ot
+
+h
+3,
+
+00
+2 
+
+2,
+14
+
+6 
+4,
+
+06
+1 
+
+5,
+66
+
+9 
+4,
+
+07
+8 
+
+4,
+06
+
+1 
+2,
+
+66
+8 
+
+82
+5 
+
+58
+9 
+
+1,
+10
+
+9 
+84
+
+7 
+61
+
+0 
+1,
+
+12
+8 
+
+22
+ 
+
+1 
+1 
+
+T
+ab
+
+le
+ 2
+
+ (c
+on
+
+tin
+ue
+
+d)
+
+
+
+Annals of Translational Medicine, Vol 8, No 6 March 2020 Page 9 of 14
+
+© Annals of Translational Medicine. All rights reserved.   Ann Transl Med 2020;8(6):299 | http://dx.doi.org/10.21037/atm.2020.02.175
+
+T
+ab
+
+le
+ 2
+
+ (c
+on
+
+tin
+ue
+
+d)
+
+R
+eg
+
+io
+ns
+
+G
+en
+
+de
+r
+
+Y
+LD
+
+s 
+(1
+
+,0
+00
+
+s)
+A
+
+ge
+-s
+
+ta
+nd
+
+ar
+di
+
+ze
+d 
+
+Y
+LD
+
+ r
+at
+
+e 
+(p
+
+er
+ 1
+
+00
+,0
+
+00
+ p
+
+er
+so
+
+ns
+)
+
+R
+an
+
+k*
+*
+
+1,
+99
+
+0 
+2,
+
+01
+7 
+
+D
+iff
+
+er
+en
+
+ce
+*
+
+1,
+99
+
+0 
+2,
+
+01
+7 
+
+D
+iff
+
+er
+en
+
+ce
+*
+
+1,
+99
+
+0 
+2,
+
+01
+7 
+
+M
+ea
+
+n
+LU
+
+I
+U
+
+U
+I
+
+M
+ea
+
+n
+LU
+
+I
+U
+
+U
+I
+
+M
+ea
+
+n
+LU
+
+I
+U
+
+U
+I
+
+M
+ea
+
+n
+LU
+
+I
+U
+
+U
+I
+
+S
+ou
+
+th
+er
+
+n 
+La
+
+tin
+ 
+
+A
+m
+
+er
+ic
+
+a
+M
+
+al
+e
+
+29
+2 
+
+20
+9 
+
+40
+2 
+
+47
+3 
+
+33
+6 
+
+40
+2 
+
+18
+1 
+
+1,
+26
+
+3 
+90
+
+4 
+1,
+
+73
+6 
+
+1,
+36
+
+7 
+97
+
+2 
+1,
+
+84
+7 
+
+10
+4 
+
+1 
+1 
+
+Fe
+m
+
+al
+e
+
+34
+0 
+
+24
+3 
+
+46
+5 
+
+54
+3 
+
+39
+2 
+
+46
+5 
+
+20
+3 
+
+1,
+35
+
+1 
+96
+
+2 
+1,
+
+84
+8 
+
+1,
+43
+
+8 
+1,
+
+02
+7 
+
+1,
+94
+
+9 
+87
+
+ 
+1 
+
+1 
+
+B
+ot
+
+h
+63
+
+2 
+45
+
+3 
+86
+
+6 
+1,
+
+01
+6 
+
+72
+4 
+
+86
+6 
+
+38
+4 
+
+1,
+30
+
+9 
+94
+
+1 
+1,
+
+78
+6 
+
+1,
+40
+
+4 
+1,
+
+00
+2 
+
+1,
+89
+
+6 
+95
+
+ 
+1 
+
+1 
+
+S
+ou
+
+th
+er
+
+n 
+S
+
+ub
+-S
+
+ah
+ar
+
+an
+ 
+
+A
+fr
+
+ic
+a
+
+M
+al
+
+e
+15
+
+8 
+11
+
+3 
+21
+
+4 
+25
+
+6 
+18
+
+3 
+21
+
+4 
+98
+
+ 
+88
+
+5 
+63
+
+5 
+1,
+
+19
+7 
+
+79
+1 
+
+56
+5 
+
+1,
+06
+
+0 
+−
+
+93
+1 
+
+2 
+
+Fe
+m
+
+al
+e
+
+12
+7 
+
+90
+ 
+
+17
+0 
+
+21
+4 
+
+15
+4 
+
+17
+0 
+
+87
+ 
+
+64
+8 
+
+46
+8 
+
+87
+2 
+
+59
+3 
+
+42
+8 
+
+79
+5 
+
+−
+56
+
+5 
+5 
+
+B
+ot
+
+h
+28
+
+5 
+20
+
+4 
+38
+
+5 
+47
+
+0 
+33
+
+6 
+38
+
+5 
+18
+
+6 
+76
+
+2 
+54
+
+9 
+1,
+
+02
+6 
+
+68
+8 
+
+49
+8 
+
+91
+9 
+
+−
+74
+
+1 
+3 
+
+Tr
+op
+
+ic
+al
+
+ L
+at
+
+in
+ 
+
+A
+m
+
+er
+ic
+
+a
+M
+
+al
+e
+
+73
+8 
+
+52
+7 
+
+1,
+01
+
+2 
+1,
+
+40
+2 
+
+1,
+00
+
+2 
+1,
+
+01
+2 
+
+66
+4 
+
+1,
+15
+
+4 
+82
+
+4 
+1,
+
+56
+7 
+
+1,
+22
+
+7 
+87
+
+2 
+1,
+
+66
+2 
+
+73
+ 
+
+1 
+1 
+
+Fe
+m
+
+al
+e
+
+87
+7 
+
+62
+5 
+
+1,
+19
+
+1 
+1,
+
+52
+1 
+
+1,
+08
+
+8 
+1,
+
+19
+1 
+
+64
+4 
+
+1,
+31
+
+0 
+93
+
+6 
+1,
+
+77
+5 
+
+1,
+24
+
+6 
+89
+
+1 
+1,
+
+67
+9 
+
+−
+65
+
+1 
+1 
+
+B
+ot
+
+h
+1,
+
+61
+5 
+
+1,
+14
+
+9 
+2,
+
+21
+5 
+
+2,
+92
+
+4 
+2,
+
+08
+5 
+
+2,
+21
+
+5 
+1,
+
+30
+8 
+
+1,
+23
+
+5 
+88
+
+5 
+1,
+
+67
+5 
+
+1,
+23
+
+7 
+88
+
+4 
+1,
+
+67
+0 
+
+2 
+1 
+
+1 
+
+W
+es
+
+te
+rn
+
+ E
+ur
+
+op
+e
+
+M
+al
+
+e
+2,
+
+75
+4 
+
+1,
+96
+
+0 
+3,
+
+73
+3 
+
+3,
+30
+
+2 
+2,
+
+38
+3 
+
+3,
+73
+
+3 
+54
+
+8 
+1,
+
+26
+9 
+
+90
+1 
+
+1,
+73
+
+0 
+1,
+
+22
+9 
+
+87
+2 
+
+1,
+67
+
+6 
+−
+
+39
+1 
+
+1 
+
+Fe
+m
+
+al
+e
+
+3,
+55
+
+5 
+2,
+
+53
+3 
+
+4,
+80
+
+1 
+4,
+
+27
+3 
+
+3,
+08
+
+5 
+4,
+
+80
+1 
+
+71
+8 
+
+1,
+47
+
+8 
+1,
+
+05
+1 
+
+2,
+00
+
+0 
+1,
+
+47
+9 
+
+1,
+05
+
+1 
+2,
+
+01
+1 
+
+0 
+1 
+
+1 
+
+B
+ot
+
+h
+6,
+
+30
+9 
+
+4,
+51
+
+3 
+8,
+
+49
+1 
+
+7,
+57
+
+5 
+5,
+
+47
+6 
+
+8,
+49
+
+1 
+1,
+
+26
+6 
+
+1,
+37
+
+9 
+98
+
+3 
+1,
+
+87
+0 
+
+1,
+35
+
+6 
+96
+
+4 
+1,
+
+85
+1 
+
+−
+23
+
+1 
+1 
+
+W
+es
+
+te
+rn
+
+  
+S
+
+ub
+-S
+
+ah
+ar
+
+an
+ 
+
+A
+fr
+
+ic
+a
+
+M
+al
+
+e
+64
+
+2 
+46
+
+4 
+86
+
+7 
+1,
+
+45
+9 
+
+1,
+03
+
+9 
+86
+
+7 
+81
+
+7 
+97
+
+1 
+70
+
+4 
+1,
+
+30
+7 
+
+1,
+02
+
+4 
+73
+
+3 
+1,
+
+38
+4 
+
+53
+ 
+
+2 
+2 
+
+Fe
+m
+
+al
+e
+
+53
+0 
+
+37
+9 
+
+70
+9 
+
+1,
+36
+
+3 
+97
+
+2 
+70
+
+9 
+83
+
+4 
+83
+
+8 
+60
+
+5 
+1,
+
+12
+0 
+
+90
+6 
+
+64
+1 
+
+1,
+21
+
+0 
+68
+
+ 
+4 
+
+3 
+
+B
+ot
+
+h
+1,
+
+17
+2 
+
+83
+9 
+
+1,
+57
+
+5 
+2,
+
+82
+2 
+
+2,
+01
+
+5 
+1,
+
+57
+5 
+
+1,
+65
+
+0 
+90
+
+6 
+65
+
+3 
+1,
+
+20
+7 
+
+96
+2 
+
+68
+4 
+
+1,
+29
+
+2 
+57
+
+ 
+3 
+
+2 
+
+G
+lo
+
+ba
+lly
+
+M
+al
+
+e
+19
+
+,2
+10
+
+ 
+13
+
+,7
+29
+
+ 
+26
+
+,1
+53
+
+ 
+29
+
+,4
+67
+
+ 
+21
+
+,0
+20
+
+ 
+26
+
+,1
+53
+
+ 
+10
+
+,2
+57
+
+ 
+81
+
+3 
+58
+
+0 
+1,
+
+09
+4 
+
+74
+8 
+
+53
+8 
+
+1,
+00
+
+8 
+−
+
+65
+1 
+
+1 
+
+Fe
+m
+
+al
+e
+
+23
+,3
+
+13
+ 
+
+16
+,5
+
+98
+ 
+
+31
+,1
+
+84
+ 
+
+35
+,4
+
+79
+ 
+
+25
+,3
+
+57
+ 
+
+31
+,1
+
+84
+ 
+
+12
+,1
+
+67
+ 
+
+96
+6 
+
+68
+7 
+
+1,
+29
+
+3 
+86
+
+9 
+62
+
+4 
+1,
+
+16
+5 
+
+−
+97
+
+1 
+1 
+
+B
+ot
+
+h
+42
+
+,5
+23
+
+ 
+30
+
+,1
+76
+
+ 
+57
+
+,2
+24
+
+ 
+64
+
+,9
+47
+
+ 
+46
+
+,5
+12
+
+ 
+57
+
+,2
+24
+
+ 
+22
+
+,4
+24
+
+ 
+89
+
+2 
+63
+
+7 
+1,
+
+19
+5 
+
+81
+0 
+
+58
+2 
+
+1,
+08
+
+9 
+−
+
+82
+1 
+
+1 
+
+*,
+ d
+
+iff
+er
+
+en
+ce
+
+: c
+al
+
+cu
+la
+
+te
+d 
+
+by
+ s
+
+ub
+tr
+
+ac
+tin
+
+g 
+th
+
+e 
+19
+
+90
+ Y
+
+LD
+s/
+
+ag
+e-
+
+st
+an
+
+da
+rd
+
+iz
+ed
+
+ Y
+LD
+
+ r
+at
+
+e 
+fr
+
+om
+ t
+
+he
+ 2
+
+01
+7 
+
+Y
+LD
+
+s/
+ag
+
+e-
+st
+
+an
+da
+
+rd
+iz
+
+ed
+ Y
+
+LD
+ r
+
+at
+e.
+
+ *
+*,
+
+ r
+an
+
+k:
+ t
+
+he
+ r
+
+an
+k 
+
+of
+ t
+
+he
+ n
+
+um
+be
+
+r 
+of
+
+ Y
+LD
+
+s 
+ca
+
+us
+ed
+
+ b
+y 
+
+LB
+P
+
+ c
+om
+
+pa
+re
+
+d 
+to
+
+ a
+ll 
+
+ot
+he
+
+r 
+co
+
+nd
+iti
+
+on
+s 
+
+in
+ G
+
+B
+D
+
+ 2
+01
+
+7.
+ L
+
+U
+I, 
+
+lo
+w
+
+er
+ u
+
+nc
+er
+
+ta
+in
+
+ty
+ in
+
+te
+rv
+
+al
+; U
+
+U
+I, 
+
+up
+pe
+
+r 
+un
+
+ce
+rt
+
+ai
+nt
+
+y 
+in
+
+te
+rv
+
+al
+. 
+
+
+
+Wu et al. Global low back pain prevalence and burden
+
+© Annals of Translational Medicine. All rights reserved.   Ann Transl Med 2020;8(6):299 | http://dx.doi.org/10.21037/atm.2020.02.175
+
+Page 10 of 14
+
+30.2 million–57.2 million) in 1990, and increased 52.7% to 
+64.9 million (95% UI: 46.5 million–87.4 million) in 2017  
+(Table 2). YLDs were higher for females than males in both 
+1990 (23.3 million, 95% UI: 16.6 million–31.2 million,  
+compared to 19.2 million, 95% UI: 13.7 million– 
+26.2 million, respectively) and 2017 (35.5 million, 95% UI: 
+25.4 million–47.7 million, compared to 29.5 million, 95% UI: 
+21.0 million–40.0 million, respectively) (Table 2). The age-
+standardized YLD rate (per 100,000 population) decreased 
+slightly from 892 (95% UI: 637–1,195) in 1990 to 810 (95% 
+UI: 582–1,089) in 2017, although this was not statistically 
+significant at the 0.05 level. The age-standardized YLD rate 
+was also higher in females than males (Table 2).
+
+Total YLDs for LBP also increased initially with age; 
+they peaked at 35–39 years of age in 1990, before decreasing 
+(Figure 4A), whereas in 2017, they peaked at 45–49 years of 
+age, before decreasing (Figure 4B). Both females and males 
+
+had similar trends.
+In 2017, the region with the highest number of YLDs 
+
+was South Asia (10.8 million, 95% UI: 7.7 million–14.7 
+million), followed by East Asia (7.7 million, 95% UI: 5.53 
+million–10.4 million). The region with the lowest number 
+of YLDs was Oceania (73,589, 95% UI: 52,501–100,281), 
+followed by the Caribbean (303,867, 95% UI: 219,393–
+408,488). The region with the highest age-standardized 
+YLD rate (per 100,000 persons) was Southern Latin 
+America [1,404], followed by high-income Asia Pacific 
+[1,361]. The region with the lowest age-standardized YLDs 
+rate was East Asia [419], followed by Central Latin America 
+[604].
+
+Discussion
+
+In this article, data analysed in GBD 2017 are presented. 
+
+Figure 4 The age-specific number of years lived with disability. (A) The age-specific number of low back pain years lived with disability (with 
+uncertainty intervals) in 1990, by age and gender. (B) The age-specific number of low back pain years lived with disability (with uncertainty 
+intervals) in 2017, by age and gender.
+
+Both
+Female
+Male
+
+Both
+Female
+Male
+
+10
+
+9
+
+8
+
+7
+
+6
+
+5
+
+4
+
+3
+
+2
+
+1
+
+0
+
+10
+
+9
+
+8
+
+7
+
+6
+
+5
+
+4
+
+3
+
+2
+
+1
+
+0
+
+0-
+4
+
+5-
+9
+
+10
+-1
+
+4
+
+15
+-1
+
+9
+
+20
+-2
+
+4
+
+25
+-2
+
+9
+
+30
+-3
+
+4
+
+35
+-3
+
+9
+
+40
+-4
+
+4
+
+45
+-4
+
+9
+
+50
+-5
+
+4
+
+55
+-5
+
+9
+
+60
+-6
+
+4
+
+65
+-6
+
+9
+
+70
+-7
+
+4
+
+75
+-7
+
+9
+
+80
+-8
+
+4
+
+85
+-8
+
+9
+
+90
+-9
+
+4
+
+>
+95
+
+0-
+4
+
+5-
+9
+
+10
+-1
+
+4
+
+15
+-1
+
+9
+
+20
+-2
+
+4
+
+25
+-2
+
+9
+
+30
+-3
+
+4
+
+35
+-3
+
+9
+
+40
+-4
+
+4
+
+45
+-4
+
+9
+
+50
+-5
+
+4
+
+55
+-5
+
+9
+
+60
+-6
+
+4
+
+65
+-6
+
+9
+
+70
+-7
+
+4
+
+75
+-7
+
+9
+
+80
+-8
+
+4
+
+85
+-8
+
+9
+
+90
+-9
+
+4
+
+>
+95
+
+N
+um
+
+be
+r 
+
+(m
+ill
+
+io
+ns
+
+)
+N
+
+um
+be
+
+r 
+(m
+
+ill
+io
+
+ns
+)
+
+Age group
+
+Age group
+
+A
+
+B
+
+
+
+Annals of Translational Medicine, Vol 8, No 6 March 2020 Page 11 of 14
+
+© Annals of Translational Medicine. All rights reserved.   Ann Transl Med 2020;8(6):299 | http://dx.doi.org/10.21037/atm.2020.02.175
+
+The prevalence (in %) of LBP had decreased between 1990 
+and 2017, whereas the prevalent number of people with 
+LBP and the number of YLDs had increased substantially. 
+LBP remains the leading global cause of YLDs in 2017. It 
+should be noted that with each GBD study iteration, new 
+data are being added to the models that derive the estimates 
+over time. This consequently alters and strengthens the 
+model outputs—as a result, and for example, prevalence 
+estimates from GBD 2010 may differ from those from GBD 
+2017. Other factors that may influence prevalence changes 
+between iterations are changes to the DWs, the DisMod-
+MR tool, construction of the SDI, and adjustments for 
+comorbidity.
+
+The gender disparity of LBP prevalence was different 
+in GBD 2017 compared to GBD 2010 (10). In GBD 
+2010, prevalence was reportedly higher in males (10.1%) 
+compared to females (8.1%); however, prevalence was 
+higher in females in GBD 2017. This difference between 
+GBD 2010 and GBD 2017 is mainly attributed to the 
+improved data coverage and methods in GBD 2017 rather 
+than any real changes over this period. Other studies 
+have reported a similar gender trend (21-24). Possible 
+explanations for this are likely to be complex and may 
+include biological, psychological and sociocultural factors 
+(22,25,26). However, another interesting finding is that 
+males in Central, Eastern, Western and Southern Sub-
+Saharan Africa had a higher prevalence than females—
+further research is needed to better understand this.
+
+The prevalence trends by age observed in GBD 2017 
+were similar to GBD 2010 (10). Prevalence was high in all 
+age groups from 18 years onwards, and peaked at around 
+80–89 years old (Figure 3). There are many factors that 
+may increase the prevalence of LBP with age. Aging is 
+associated with pain, which may restrict social and physical 
+function (27); consequently, this restriction may result 
+in further deterioration of the musculoskeletal system 
+and further pain. Degeneration of the lumbar spine as a 
+potential contributor to LBP continues to be a subject of 
+debate (28-32). 
+
+There was a slight decrease in the point prevalence (%) 
+of LBP from 1990 to 2017, although this was not significant 
+at the 0.05 level. The number of prevalent cases of LBP 
+and number of YLDs has increased dramatically in this 
+period, although, again, this was not significant at the 0.05 
+level. If these are real increases, they are likely to be mainly 
+driven by aging and increasing population numbers (19) 
+—having said this, the influence of this will vary from 
+region to region, and there may also be other contributing 
+
+factors such as obesity, increased motorization (1,4), and 
+willingness to report pain. Of note, the point prevalence 
+and age-standardized YLDs rate (per 100,000 persons) in 
+Southern Latin America, high-income Asia Pacific, Andean 
+Latin America, Australasia and Western Sub-Saharan Africa 
+have all increased suggesting that factors beyond aging and 
+population increase may be at play. 
+
+The age trend for YLDs was different to that of 
+prevalence. YLDs peaked in the middle-aged population, 
+and thus the working-age population is most greatly 
+affected by the burden of LBP. Figure 4 shows YLDs peaked 
+around the ages 35 to 39 years old in 1990. However, 
+consistent with the aging population and increasing global 
+life expectancy, this peak was delayed to 45 to 49 years old 
+in 2017 (19).
+
+Strengths and limitations
+
+The updated GBD 2017 has been improved compared 
+to GBD 2010. More up-to-date data were included from 
+World Health Surveys and National Health Surveys, 
+the European Disability Weights Measurement Study, 
+additional systematic reviews, and claims data from the 
+USA Taiwan. Methodological changes included (I) updating 
+the DisMod-MR tool, (II) having greater granularity in 
+reporting of results for the oldest age groups (80–84, 85–89, 
+90–94 and 95+ years), (III) construction of a SDI, and 
+(IV) adjustment for comorbidity. These changes increase 
+confidence in the accuracy of results. 
+
+Despite some improvements since GBD 2010, sufficient 
+population-based prevalence and burden estimates on 
+LBP are still lacking from many regions and countries. 
+Consequently, burden estimates were heavily reliant 
+on models. While these models have been improved, it 
+should be noted that they are models rather than original 
+data. Further, of the studies that were included in the 
+analysis, substantial heterogeneity remains between the 
+case definitions used. This has made it difficult to compare 
+the data across countries and over time. Additionally, it is 
+difficult to determine with confidence the impact of changes 
+to LBP policy and practice. Hence, this is the key limitation 
+in estimating and understanding the global burden of LBP. 
+Standardisation of data collection would be an important first 
+step. The Global Alliance for Musculoskeletal (MSK) Health 
+and the Global Burden of Disease 2010 Study MSK Expert 
+Group have developed a standardized survey questionnaire 
+for measuring the population prevalence of LBP and other 
+MSK conditions (24). The tool can be found online at: http://
+
+http://bjdonline.org/msk-survey-module/
+
+
+Wu et al. Global low back pain prevalence and burden
+
+© Annals of Translational Medicine. All rights reserved.   Ann Transl Med 2020;8(6):299 | http://dx.doi.org/10.21037/atm.2020.02.175
+
+Page 12 of 14
+
+bjdonline.org/msk-survey-module/. The case definitions 
+are aligned to those of the GBD. The intention for the 
+questionnaire is for it to be integrated within pre-existing and 
+planned surveys such as National Health Surveys, and not 
+being used as a stand-alone tool. This will help to minimize 
+the burden from having to conduct multiple surveys in the 
+local communities, and, subsequently, will save the required 
+resources. It also encourages LBP and other musculoskeletal 
+disorders to be viewed as being integrated within broader 
+health initiatives rather than being seen as a separate issue. 
+It is hoped this publicly-available module will be widely 
+adopted to increase the availability of comparable data on 
+LBP and other MSKs (24). 
+
+The DWs used also have some limitations. The DWs 
+were based on surveys that were conducted in a limited 
+number of countries (Bangladesh, Indonesia, Peru, Tanzania, 
+the USA, Hungary, Italy, The Netherlands and Sweden) 
+prior to 2013 as well as a global web-based survey (18).  
+The surveys rely on perceptions of respondents to often 
+brief descriptions of a complex health problem. More recent 
+surveys in a greater number of countries will increase the 
+generalizability of the DWs.
+
+Implications for policy and practice
+
+From 1990 to 2017, LBP continued to be the leading 
+cause of YLDs globally. Many countries and health-related 
+organizations continue to prioritize communicate diseases 
+over non-communicable diseases such as LBP. The Lancet 
+Low Back Pain Series recently made a call for action 
+on the management of LBP burden from governments, 
+policy makers and the broader society (8,9,33). However, 
+there continues to be a gap between evidence for effective 
+management of LBP and current practice and policy, as 
+outlined in the recent Lancet Series (8,9,33). Greater 
+attention is needed to bridge this gap. A biopsychosocial 
+framework could be used to guide the management 
+including education, self-management, resumption of usual 
+activities and exercise, and psychological measures for 
+those with persistent symptoms. Management guidelines 
+for different stages of BP and for different contexts 
+should also be recommended. The recent Lancet Series 
+documented high level of the inappropriate investigations 
+and treatments that are contributing to the LBP burden for 
+both individuals and society. Key recommended principles 
+for LBP would be to reduce unnecessary imaging and 
+treatment, support people to be active and stay at work, and 
+to only use medication, imaging, and surgery prudently (33). 
+
+For high-risk cases, prevention and early intervention could 
+be considered. Linton et al. reported a stepped, stratified, 
+and matched care approach might reduce wastage of clinical 
+time and resources (34).
+
+Hartvigsen et al. (8) concluded that the cost and disability 
+from LBP vary substantially between countries, and would 
+increase in the coming decades. Many of the risk factors 
+(such as obesity, increased motorization and work-related 
+issues) associated with LBP identified in those high-
+income countries are also present in developing countries 
+(1,4,35,36). High-income countries are likely to have better 
+developed health systems to manage this increasing burden. 
+For these low-income and middle-income countries, 
+health systems are most likely not as well developed, and, 
+therefore, will face greater challenges in managing the 
+impact of the growing LBP burden.
+
+Given that many of the risk factors for LBP are shared 
+by other non-communicable diseases, it is imperative that 
+integrated, collaborative approaches are established and 
+built upon to ensure affordable solutions to the growing 
+burden of LBP (37), especially, in low- and middle-income 
+countries (38). Greater efforts are urgently needed to 
+expand the amount of comparable data on the prevalence 
+of LBP at national and sub-national levels. Future 
+investigation should also include the effectiveness, cost-
+effectiveness of preventive and therapeutic strategies. 
+
+Conclusions
+
+The global prevalence and YLD rates from LBP decreased 
+slightly from the 1990 to 2017, but the number of LBP 
+sufferers and YLDs increased substantially. Prevalence 
+and YLDs were higher in females than males. Prevalence 
+increased with age, and YLDs peaked at around 35 to 49 
+years of age. Globally, LBP remains the leading global cause 
+of YLDs, yet it continues to be inadequately recognized as 
+a disease burden in the population with the major disparity 
+continuing between the level of burden, and the policy, 
+research and health services response. This will continue 
+to be an urgent need for governments and other donors 
+(33,38).
+
+Acknowledgments 
+
+We would like to thank the Global Burden Disease 2017 
+Study for the data. 
+Funding: A Wu is supported by the National Natural 
+Science Foundation of China (No. 81501933), the 
+
+http://bjdonline.org/msk-survey-module/
+
+
+Annals of Translational Medicine, Vol 8, No 6 March 2020 Page 13 of 14
+
+© Annals of Translational Medicine. All rights reserved.   Ann Transl Med 2020;8(6):299 | http://dx.doi.org/10.21037/atm.2020.02.175
+
+Wenzhou Municipal Science and Technology Bureau 
+(Y20170389), the Wenzhou leading talent innovative 
+project (RX2016004), and the Zhejiang Provincial Medical 
+Technology Foundation of China (2018KY129). 
+
+Footnote
+
+Conflicts of Interest: The authors have no conflicts of interest 
+to declare.
+
+Ethical Statement: The authors are accountable for all 
+aspects of the work in ensuring that questions related 
+to the accuracy or integrity of any part of the work are 
+appropriately investigated and resolved. No identified 
+patient information was included in this study, therefore, 
+the ethical approval was not needed. To download the 
+original full data used in these analyses, please visit the 
+Global Health Data Exchange at http://ghdx.healthdata.
+org/gbd-2017.
+
+Open Access Statement: This is an Open Access article 
+distributed in accordance with the Creative Commons 
+Attribution-NonCommercial-NoDerivs 4.0 International 
+License (CC BY-NC-ND 4.0), which permits the non-
+commercial replication and distribution of the article with 
+the strict proviso that no changes or edits are made and the 
+original work is properly cited (including links to both the 
+formal publication through the relevant DOI and the license). 
+See: https://creativecommons.org/licenses/by-nc-nd/4.0/.
+
+References
+
+1. Hoy D, Bain C, Williams G, et al. A systematic review of 
+the global prevalence of low back pain. Arthritis Rheum 
+2012;64:2028-37.
+
+2. Deyo RA, Cherkin D, Conrad D, et al. Cost, controversy, 
+crisis: low back pain and the health of the public. Annu 
+Rev Public Health 1991;12:141-56.
+
+3. Maher C, Underwood M, Buchbinder R. Non-specific low 
+back pain. Lancet 2017;389:736-47.
+
+4. Hoy D, Brooks P, Blyth F, et al. The epidemiology of low 
+back pain. Best Pract Res Clin Rheumatol 2010;24:769-81.
+
+5. Lee H, Hubscher M, Moseley GL, et al. How does pain 
+lead to disability? A systematic review and meta-analysis of 
+mediation studies in people with back and neck pain. Pain 
+2015;156:988-97.
+
+6. James SL, Abate D, Abate KH, et al. Global, regional, 
+and national incidence, prevalence, and years lived with 
+
+disability for 354 diseases and injuries for 195 countries 
+and territories, 1990-2017: a systematic analysis for 
+the Global Burden of Disease Study 2017. Lancet 
+2018;392:1789-858.
+
+7. Driscoll T, Jacklyn G, Orchard J, et al. The global burden 
+of occupationally related low back pain: estimates from 
+the Global Burden of Disease 2010 study. Ann Rheum Dis 
+2014;73:975-81.
+
+8. Hartvigsen J, Hancock MJ, Kongsted A, et al. What low 
+back pain is and why we need to pay attention. Lancet 
+2018;391:2356-67.
+
+9. Buchbinder R, van Tulder M, Öberg B, et al. Low back 
+pain: a call for action. Lancet 2018;391:2384-8.
+
+10. Hoy D, March L, Brooks P, et al. The global burden 
+of low back pain: estimates from the Global Burden of 
+Disease 2010 study. Ann Rheum Dis 2014;73:968-74.
+
+11. Erdem MN, Erken HY, Aydogan M. The effectiveness 
+of non-surgical treatments, re-discectomy and minimally 
+invasive transforaminal lumbar interbody fusion in post-
+discectomy pain syndrome. J Spine Surg 2018;4:414-22.
+
+12. Global, regional, and national incidence, prevalence, and 
+years lived with disability for 310 diseases and injuries, 
+1990-2015: a systematic analysis for the Global Burden of 
+Disease Study 2015. Lancet 2016;388:1545-602.
+
+13. GBD 2016 DALYs and HALE Collaborators. Global, 
+regional, and national disability-adjusted life-years 
+(DALYs) for 333 diseases and injuries and healthy life 
+expectancy (HALE) for 195 countries and territories, 
+1990-2016: a systematic analysis for the Global Burden of 
+Disease Study 2016. Lancet 2017;390:1260-344.
+
+14. GBD 2016 Disease and Injury Incidence and Prevalence 
+Collaborators. Global, regional, and national incidence, 
+prevalence, and years lived with disability for 328 diseases 
+and injuries for 195 countries, 1990-2016: a systematic 
+analysis for the Global Burden of Disease Study 2016. 
+Lancet 2017;390:1211-59.
+
+15. GBD 2017 SDG Collaborators. Measuring progress 
+from 1990 to 2017 and projecting attainment to 2030 
+of the health-related Sustainable Development Goals 
+for 195 countries and territories: a systematic analysis 
+for the Global Burden of Disease Study 2017. Lancet 
+2018;392:2091-138.
+
+16. Hoy D, March L, Brooks P, et al. Measuring the global 
+burden of low back pain. Best Pract Res Clin Rheumatol 
+2010;24:155-65.
+
+17. Wu A, Dong W, Liu S, et al. The prevalence and years 
+lived with disability caused by low back pain in China, 
+1990 to 2016: findings from the global burden of disease 
+
+
+
+Wu et al. Global low back pain prevalence and burden
+
+© Annals of Translational Medicine. All rights reserved.   Ann Transl Med 2020;8(6):299 | http://dx.doi.org/10.21037/atm.2020.02.175
+
+Page 14 of 14
+
+study 2016. Pain 2019;160:237-45.
+18. Salomon JA, Haagsma JA, Davis A, et al. Disability weights 
+
+for the Global Burden of Disease 2013 study. Lancet Glob 
+Health 2015;3:e712-23.
+
+19. GBD 2017 Mortality Collaborators. Global, regional, and 
+national age-sex-specific mortality and life expectancy, 
+1950-2017: a systematic analysis for the Global Burden of 
+Disease Study 2017. Lancet 2018;392:1684-735.
+
+20. GBD 2017 Causes of Death Collaborators. Global, 
+regional, and national age-sex-specific mortality for 282 
+causes of death in 195 countries and territories, 1980-2017: 
+a systematic analysis for the Global Burden of Disease 
+Study 2017. Lancet 2018;392:1736-88.
+
+21. Bailey A. Risk factors for low back pain in women: still 
+more questions to be answered. Menopause 2009;16:3-4.
+
+22. Wáng YXJ, Wáng JQ, Káplár Z. Increased low back pain 
+prevalence in females than in males after menopause age: 
+evidences based on synthetic literature review. Quant 
+Imaging Med Surg 2016;6:199.
+
+23. Wang YXJ. Menopause as a potential cause for higher 
+prevalence of low back pain in women than in age-matched 
+men. J Orthop Translat 2016;8:1-4.
+
+24. Hoy DG, Raikoti T, Smith E, et al. Use of The Global 
+Alliance for Musculoskeletal Health survey module for 
+estimating the population prevalence of musculoskeletal 
+pain: findings from the Solomon Islands. BMC 
+Musculoskelet Disord 2018;19:292.
+
+25. Turk DC, Okifuji A. Psychological factors in chronic 
+pain: evolution and revolution. J Consult Clin Psychol 
+2002;70:678-90.
+
+26. Rollman GB, Lautenbacher S. Sex differences in 
+musculoskeletal pain. Clin J Pain 2001;17:20-4.
+
+27. Dionne CE, Dunn KM, Croft PR. Does back pain 
+prevalence really decrease with increasing age? A 
+systematic review. Age Ageing 2006;35:229-34.
+
+28. Urrutia J, Zamora T, Prada C. The prevalence of 
+degenerative or incidental findings in the lumbar spine 
+of pediatric patients: a study using magnetic resonance 
+
+imaging as a screening tool. Eur Spine J 2016;25:596-601.
+29. Teraguchi M, Yoshimura N, Hashizume H, et al. 
+
+Prevalence and distribution of intervertebral disc 
+degeneration over the entire spine in a population-
+based cohort: the Wakayama Spine Study. Osteoarthritis 
+Cartilage 2014;22:104-10.
+
+30. Symmons DP, van Hemert AM, Vandenbroucke JP, et al. A 
+longitudinal study of back pain and radiological changes in 
+the lumbar spines of middle aged women. II. Radiographic 
+findings. Ann Rheum Dis 1991;50:162-6.
+
+31. Millecamps M, Tajerian M, Naso L, et al. Lumbar 
+intervertebral disc degeneration associated with axial and 
+radiating low back pain in ageing SPARC-null mice. Pain 
+2012;153:1167-79.
+
+32. Wang Y, Videman T, Battie MC. ISSLS prize winner: 
+Lumbar vertebral endplate lesions: associations with disc 
+degeneration and back pain history. Spine (Phila Pa 1976) 
+2012;37:1490-6.
+
+33. Foster NE, Anema JR, Cherkin D, et al. Prevention and 
+treatment of low back pain: evidence, challenges, and 
+promising directions. Lancet 2018;391:2368-83.
+
+34. Linton SJ, Nicholas M, Shaw W. Why wait to address 
+high-risk cases of acute low back pain? A comparison 
+of stepped, stratified, and matched care. Pain 
+2018;159:2437-41.
+
+35. Volinn E. The epidemiology of low back pain in the rest of 
+the world. A review of surveys in low- and middle-income 
+countries. Spine (Phila Pa 1976) 1997;22:1747-54.
+
+36. Shiri R, Falah-Hassani K, Heliovaara M, et al. Risk Factors 
+for Low Back Pain: A Population-Based Longitudinal 
+Study. Arthritis Care Res (Hoboken) 2019;71:290-9.
+
+37. Vlaeyen JWS, Maher CG, Wiech K, et al. Low back pain. 
+Nat Rev Dis Primers 2018;4:52.
+
+38. Hoy D, Geere JA, Davatchi F, et al. A time for action: 
+Opportunities for preventing the growing burden and 
+disability from musculoskeletal conditions in low- and 
+middle-income countries. Best Pract Res Clin Rheumatol 
+2014;28:377-93.
+
+Cite this article as: Wu A, March L, Zheng X, Huang J, Wang 
+X, Zhao J, Blyth FM, Smith E, Buchbinder R, Hoy D. Global 
+low back pain prevalence and years lived with disability from 
+1990 to 2017: estimates from the Global Burden of Disease 
+Study 2017. Ann Transl Med 2020;8(6):299. doi: 10.21037/
+atm.2020.02.175
+
+
