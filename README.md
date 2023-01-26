@@ -1,6 +1,9 @@
 # cross-talk
 
 ## Installation notes
+### Misc
+I'm assuming a directory tmp is created but it is not tracked in git, so you'll have to mkdir tmp inside this repo.
+
 ### Google Drive
 For ease of use for the entire team, we are storing results in Google Drive. To make this easier, I am assuming folks can mount google drive locally. Here are the links that worked for me.
 
