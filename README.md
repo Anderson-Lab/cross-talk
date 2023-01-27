@@ -29,3 +29,5 @@ docker run -v $PWD/scripts:/app/scripts -v $PWD/tmp:/app/tmp cross-talk python3 
 docker run --env OPENAI_API_KEY=$OPENAI_API_KEY -v $PWD/scripts:/app/scripts -v $PWD/tmp:/app/tmp cross-talk python3 ./scripts/clean_text.py /app/tmp/1.38037-PB1-9531-R2.pdf.tika.txt
 
 docker run --env OPENAI_API_KEY=$OPENAI_API_KEY -v $PWD/scripts:/app/scripts -v $PWD/tmp:/app/tmp cross-talk python3 ./scripts/openai_summarize.py /app/tmp/1.38037-PB1-9531-R2.pdf.tika.txt
+
+docker run -it --env OPENAI_API_KEY=$OPENAI_API_KEY --gpus all -v $PWD/scripts:/app/scripts -v $PWD/tmp:/app/tmp cross-talk /bin/bash

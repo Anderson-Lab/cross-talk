@@ -5,6 +5,7 @@ import spacy
 import sys
 infile = sys.argv[1]
 content = open(infile).read()
+outfile = sys.argv[2]
 
 from spellchecker import SpellChecker
 import torch
@@ -25,6 +26,8 @@ def get_PySBDFactory(nlp, name):
 nlp.add_pipe('PySBDFactory')
 
 from transformers import GPT2Tokenizer, GPT2LMHeadModel
+
+assert torch.cuda.is_available()
 
 def clean_and_score_content(content):
     # Check to see if it is better to combine adjacent words as sometimes they are split incorrectly.
@@ -49,15 +52,18 @@ def clean_and_score_content(content):
     # Load pre-trained model (weights)
     with torch.no_grad():
         model = GPT2LMHeadModel.from_pretrained('gpt2')
+        device = torch.device("cuda") if torch.cuda.is_available() else torch.device("cpu")
+        model = model.to(device)
         model.eval()
     # Load pre-trained model tokenizer (vocabulary)
     tokenizer = GPT2Tokenizer.from_pretrained('gpt2')
 
     def score(sentence):
         tokenize_input = tokenizer.encode(sentence)
-        tensor_input = torch.tensor([tokenize_input])
+        tensor_input = torch.tensor([tokenize_input]).to(device)
         loss=model(tensor_input, labels=tensor_input)[0]
-        return np.exp(loss.detach().numpy())
+        #return np.exp(loss.detach().numpy())
+        return np.exp(loss.detach().cpu().numpy())
 
     new_sentences2 = []
     i=0
@@ -69,15 +75,24 @@ def clean_and_score_content(content):
             new_sentences2.append(new_sentences[i])
         i+=1
     new_sentences2.append(new_sentences[-1])
-    doc = nlp(" ".join(new_sentences2))
-    new_sentences2 = [str(s) for s in list(doc.sents)]
-    paragraphs = [p.replace("\n"," ").strip() for p in ("\n".join(new_sentences2)).split("\n\n")]
+    paragraphs = ("\n".join(new_sentences2)).split("\n\n")
+    new_paragraphs = []
+    for p in paragraphs:
+        p = p.replace("\n"," ").strip()
+        if len(p) > 0:
+            doc = nlp(p)
+            new_sentences2 = [str(s) for s in list(doc.sents)]
+            new_paragraphs.append(" ".join(new_sentences2))
+
+    paragraphs = new_paragraphs
+    print("\n\n".join(paragraphs[:10]))
 
     pnums = []
     sent_scores = []
     new_sents = []
     snums = []
     for i,p in enumerate(paragraphs):
+        print("%d/%d"%(i,len(paragraphs)))
         for j,sent in enumerate(p.split(".")):
             sent = re.sub(' +', ' ', sent).strip()
             if len(sent) == 0:
@@ -100,4 +115,6 @@ def clean_and_score_content(content):
     results = pd.DataFrame({"Paragraph ID": pnums, "Sentence ID": snums, "Score": sent_scores, "Sentence": new_sents})
     return results
 
-print(clean_and_score_content(content))
+results = clean_and_score_content(content)
+print(results)
+results.to_csv(outfile)
