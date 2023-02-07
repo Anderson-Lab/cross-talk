@@ -13,15 +13,16 @@ abstract_headers = ["Abstract","ABSTRACT","Abstract-","Abstract."]
 introduction_headers = ["Introduction","INTRODUCTION","Introduction-"]
 section_headers = OrderedDict()
 section_headers["introduction"] = introduction_headers
-section_headers["methods"] = ["Methods","Methods-", "Materials and Methods", "Materials and Methods-"]
-section_headers["results"] = ["Results","Results-"]
-section_headers["discussion"] = ["Discussion","Discussion-"]
-section_headers["conclusion"] = ["Conclusion","Conclusion-"]
+section_headers["methods"] = ["Methods","METHODS","Methods-", "Materials and Methods", "Materials and Methods-"]
+section_headers["results"] = ["Results","RESULTS","Results-"]
+section_headers["discussion"] = ["Discussion","DISCUSSION","Discussion-"]
+section_headers["conclusion"] = ["Conclusion","CONCLUSION","Conclusion-"]
 
 patterns_to_remove = [
     "Manuscript received",
     "Authorized licensed use limited to",
-    "<image:"
+    "<image:",
+    "All rights reserved."
 ]
 
 def get_abstract(file_path):
@@ -39,6 +40,14 @@ def get_pages(file_path):
             pages[i] = page.get_text_blocks()
     return pages
 
+def clean_section(contents):
+    if type(contents) == list:
+        content = " ".join(contents)
+    else:
+        content = contents
+    content = re.sub("\s+"," ",content.replace("- ","-"))
+    return content
+
 def get_sections(file_path):
     sections = {}
     blocks = {}
@@ -46,9 +55,11 @@ def get_sections(file_path):
         for i,page in enumerate(doc):
             blocks[i] = page.get_text_blocks()
             
-    sections["abstract"] = get_abstract(blocks[0]) # assume that it is on the first page
+    sections["abstract"] = clean_section(extract_abstract(blocks[0])) # assume that it is on the first page
     sections["results"] = break_blocks_into_sections(blocks)
     
+    for key in sections["results"].keys():
+        sections["results"][key] = clean_section(sections["results"][key])
     return sections
 
 def strip_blocks(pages):
@@ -206,7 +217,7 @@ def sort_headers(headers):
     headers = list(headers['header'])
     return headers
     
-def extract_abstract(blocks,min_abstract_length = 50):
+def extract_abstract(blocks,min_abstract_length = 100):
     clean_abstract = lambda txt: txt.replace(header,"").strip().replace("\n","")
     return_next = False
     for block in blocks:
@@ -215,7 +226,7 @@ def extract_abstract(blocks,min_abstract_length = 50):
                 if header in block[4]:
                     return_next = True
                     break
-        if return_next and len(block[4]) > min_abstract_length:
+        if return_next and len(block[4].split(" ")) > min_abstract_length:
             return clean_abstract(block[4])
             
     # Nothing was explicitly found with an abstract header. 
@@ -228,14 +239,17 @@ def extract_abstract(blocks,min_abstract_length = 50):
         if len(block[4]) > biggest_block_length:
             biggest_block_length = len(block[4])
             biggest_block = block[4]
-            if first_min_block is None:
+            if first_min_block is None and len(block[4].split(" ")) >= min_abstract_length:
                 first_min_block = block[4]
             
         for header in sort_headers(introduction_headers):
             if header in block[4]:
                 return clean_abstract(biggest_block)
-            
-    return clean_abstract(first_min_block)        
+    
+    if first_min_block:
+        return clean_abstract(first_min_block) 
+    else:
+        return clean_abstract(biggest_block)
             
 def process_dir(d):
     sections = {}
@@ -243,3 +257,4 @@ def process_dir(d):
         print("Processing",file)
         sections[file] = get_sections(file)
     return sections
+

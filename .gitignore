@@ -133,3 +133,5 @@ client_secret*.json
 
 tmp/
 tmp
+
+config.sh

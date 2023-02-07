@@ -1,4 +1,20 @@
 # cross-talk
+## Prereqs
+* Neo4j
+  * See README_NEO4J.md
+* Docker
+
+## Building and setup
+docker build -t cross-talk .
+
+## Converting PDFs to text
+
+```
+export APPDIR=path to this repo
+export DATADIR=path to data directory # all other paths will be relative
+```
+
+# older cross-talk notes for historical purposes
 
 ## Installation notes
 ### Misc
@@ -41,7 +57,7 @@ docker run -it --env OPENAI_API_KEY=$OPENAI_API_KEY --gpus all -v $PWD/scripts:/
 
 Setup and commands are assuming Neo4j desktop and cypher-shell
 
-From Neo4j browser, create new project. I'm calling mine cross-talk. 
+From Neo4j browser, create new project. I'm calling mine cross-talk.
 
 Then add local DBMS. I'm numbering mine for trial and error purposes, so I'm going to start with v1. Create it with a password and then start it. Making it active in the desktop. I'll be using the neo4j default database.
 

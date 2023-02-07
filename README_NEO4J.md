@@ -31,4 +31,3 @@ LOAD CSV WITH HEADERS FROM 'https://drive.google.com/uc?id=1MNMFsGFbR9L8rGOmn7fN
 RETURN row
 LIMIT 10;
 ```
-
