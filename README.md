@@ -54,4 +54,6 @@ I'm installing:
 * Neo4j streaming
 * neosemantics
 
+I also set dbms.security.allow_csv_import_from_file_urls=true
+
 See NEO4J_DB.md
