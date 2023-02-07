@@ -13,10 +13,10 @@ abstract_headers = ["Abstract","ABSTRACT","Abstract-","Abstract."]
 introduction_headers = ["Introduction","INTRODUCTION","Introduction-"]
 section_headers = OrderedDict()
 section_headers["introduction"] = introduction_headers
-section_headers["methods"] = ["Methods","Methods-", "Materials and Methods", "Materials and Methods-"]
-section_headers["results"] = ["Results","Results-"]
-section_headers["discussion"] = ["Discussion","Discussion-"]
-section_headers["conclusion"] = ["Conclusion","Conclusion-"]
+section_headers["methods"] = ["Methods","METHODS","Methods-", "Materials and Methods", "Materials and Methods-"]
+section_headers["results"] = ["Results","RESULTS","Results-"]
+section_headers["discussion"] = ["Discussion","DISCUSSION","Discussion-"]
+section_headers["conclusion"] = ["Conclusion","CONCLUSION","Conclusion-"]
 
 patterns_to_remove = [
     "Manuscript received",
