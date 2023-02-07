@@ -4,8 +4,8 @@ import sys
 
 from tika import parser
 
-sys.path.insert(0,'.')
-import pdf
+sys.path.insert(0,'/app/')
+from pyknowledgegraph import pdf
 
 infile = sys.argv[1]
 outfile = sys.argv[2]
