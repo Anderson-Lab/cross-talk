@@ -28,6 +28,15 @@ CALL n10s.mapping.add("neo4j://voc#subCatOf","SUB_CAT_OF");
 CALL n10s.mapping.add("neo4j://voc#about","ABOUT");
 ```
 
+## Cleanup
+```
+MATCH (a:Hypothesis)
+DETACH DELETE a;
+
+MATCH (a:Abstract)
+DETACH DELETE a;
+```
+
 ## Local files
 You must allow local files to be pulled into neo4j by updating the config file.
 
@@ -51,15 +60,15 @@ CALL apoc.periodic.iterate(
   CALL apoc.load.json(a.uri)
   YIELD value
 
-  UNWIND value.text AS item
+  UNWIND value.text AS example_var
 
   WITH a,
        value.title AS title,
        value.text AS text
 
-  SET a.body = text , a.title = title
+  SET a.title = title , a.text = text
   RETURN a;",
-  {batchSize: 5, parallel: true}
+  {batchSize: 1, parallel: false}
 )
 YIELD batches, total, timeTaken, committedOperations
 RETURN batches, total, timeTaken, committedOperations;
@@ -75,7 +84,7 @@ This will load the hypotheses, but we do not have our ontology from NCIT.
 
 ```
 CALL apoc.periodic.iterate(
-  "LOAD CSV WITH HEADERS FROM 'file:/texts.annotated/contents.csv' AS row
+  "LOAD CSV WITH HEADERS FROM 'file:/abstracts.annotated/contents.csv' AS row
    RETURN row",
   "MERGE (a:Abstract {uri: row.uri})
   WITH a
@@ -83,15 +92,15 @@ CALL apoc.periodic.iterate(
   CALL apoc.load.json(a.uri)
   YIELD value
 
-  UNWIND value.text AS item
+  UNWIND value.abstract AS text_example
 
   WITH a,
        value.title AS title,
-       value.text AS text
+       value.abstract AS text
 
   SET a.body = text , a.title = title
   RETURN a;",
-  {batchSize: 5, parallel: true}
+  {batchSize: 1, parallel: false}
 )
 YIELD batches, total, timeTaken, committedOperations
 RETURN batches, total, timeTaken, committedOperations;
@@ -125,10 +134,16 @@ RETURN path;
 This command will print out neo4j commands you can run. We could send this to cypher automatically.
 ```
 cp $DATADIR/hypotheses.annotated/contents.csv $APPDIR/tmp/ && \
-docker run -v $PWD/pyknowledgegraph:/app/pyknowledgegraph -v $PWD/scripts:/app/scripts -v $PWD/tmp:/app/tmp cross-talk python3 ./scripts/generate_neo4j_commands.py tmp/contents.csv && echo "Completed"
+docker run -v $PWD/pyknowledgegraph:/app/pyknowledgegraph -v $PWD/scripts:/app/scripts -v $PWD/tmp:/app/tmp cross-talk python3 ./scripts/generate_neo4j_commands.py tmp/contents.csv Hypothesis && echo "Completed"
 ```
 
 ```
-MATCH p = (h:Hypothesis)-[r]->(b)
+cp $DATADIR/abstracts.annotated/contents.csv $APPDIR/tmp/ && \
+docker run -v $PWD/pyknowledgegraph:/app/pyknowledgegraph -v $PWD/scripts:/app/scripts -v $PWD/tmp:/app/tmp cross-talk python3 ./scripts/generate_neo4j_commands.py tmp/contents.csv Abstract && echo "Completed"
+```
+
+```
+MATCH p = (a)-[r]->(b)
+WHERE (a:Hypothesis) OR (a:Abstract)
 RETURN *
 ```

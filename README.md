@@ -14,17 +14,17 @@ export APPDIR=path to this repo
 export DATADIR=path to data directory # all other paths will be relative
 export OPENAI_API_KEY=foobar
 ```
-$APPDIR/scripts/pdfs_to_texts.sh $DATADIR/pdfs
+$APPDIR/scripts/pdfs_to_texts.sh $DATADIR/pdfs abstracts | grep 'Completed\|Failed'
 
 ## Annotating directories
 Below is an example that annotates the abstract field within each of the texts.
 ```
-$APPDIR/scripts/annotate_dir.sh $DATADIR/texts abstract
+$APPDIR/scripts/annotate_dir.sh $DATADIR/abstracts abstract | grep 'Completed\|Failed'
 ```
 
 Below is an example that annotates the text field within each of the hypotheses.
 ```
-$APPDIR/scripts/annotate_dir.sh $DATADIR/hypotheses text
+$APPDIR/scripts/annotate_dir.sh $DATADIR/hypotheses text | grep 'Completed\|Failed'
 ```
 
 ## Constructing Neo4j

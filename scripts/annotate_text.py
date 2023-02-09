@@ -15,7 +15,6 @@ outfile = sys.argv[3]
 # from url in data
 data_json = json.loads(open(infile).read())
 
-print(data_json)
 wrapper = pyknowledgegraph.ncbowrapper.NCBOWrapper()
 annotation = wrapper.annotate(data_json[field],ontologies="NCIT")
 ids = []
