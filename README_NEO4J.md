@@ -18,7 +18,7 @@ I'm installing:
 I also set dbms.security.allow_csv_import_from_file_urls=true
 
 ## Setup
-``
+```
 CREATE CONSTRAINT n10s_unique_uri ON (r:Resource) ASSERT r.uri IS UNIQUE;
 
 CALL n10s.graphconfig.init({handleVocabUris: "MAP"});
@@ -26,32 +26,24 @@ CALL n10s.graphconfig.init({handleVocabUris: "MAP"});
 CALL n10s.nsprefixes.add('neo','neo4j://voc#');
 CALL n10s.mapping.add("neo4j://voc#subCatOf","SUB_CAT_OF");
 CALL n10s.mapping.add("neo4j://voc#about","ABOUT");
-``
+```
 
 ## Local files
 You must allow local files to be pulled into neo4j by updating the config file.
 
-By default things are imported relatively to an import directory. On my mac it is located at: You can find these things at:
-
-Call dbms.listConfig() YIELD name, value
-WHERE name='dbms.directories.neo4j_home'
-RETURN value;
-
-I'm going to change mine so that it stores things automatically in Dropbox for easy sharing. Dropbox.
-
-ln -s /Users/pander14/Dropbox/cross-talk-v1/ "/Users/pander14/Library/Application Support/Neo4j Desktop/Application/relate-data/dbmss/dbms-5e9ab340-7f99-4512-8e34-4e130590c637/import/cross-talk-v1"
+You must also change your import directory to point to the correct location.
 
 ## Loading hypotheses
 
 ```
-LOAD CSV WITH HEADERS FROM 'file:/cross-talk-v1/hypotheses.annotated/contents.csv' AS row
+LOAD CSV WITH HEADERS FROM 'file:/hypotheses.annotated/contents.csv' AS row
 RETURN row
 LIMIT 10;
 ```
 
 ```
 CALL apoc.periodic.iterate(
-  "LOAD CSV WITH HEADERS FROM 'file:/cross-talk-v1/hypotheses.annotated/contents.csv' AS row
+  "LOAD CSV WITH HEADERS FROM 'file:/hypotheses.annotated/contents.csv' AS row
    RETURN row",
   "MERGE (a:Hypothesis {uri: row.uri})
   WITH a
@@ -65,10 +57,78 @@ CALL apoc.periodic.iterate(
        value.title AS title,
        value.text AS text
 
-  SET a.body = body , a.title = title, a.datetime = datetime(date)
+  SET a.body = text , a.title = title
   RETURN a;",
   {batchSize: 5, parallel: true}
 )
 YIELD batches, total, timeTaken, committedOperations
 RETURN batches, total, timeTaken, committedOperations;
+```
+
+```
+MATCH (h:Hypothesis) return h;
+```
+
+This will load the hypotheses, but we do not have our ontology from NCIT.
+
+## Loading abstracts
+
+```
+CALL apoc.periodic.iterate(
+  "LOAD CSV WITH HEADERS FROM 'file:/texts.annotated/contents.csv' AS row
+   RETURN row",
+  "MERGE (a:Abstract {uri: row.uri})
+  WITH a
+
+  CALL apoc.load.json(a.uri)
+  YIELD value
+
+  UNWIND value.text AS item
+
+  WITH a,
+       value.title AS title,
+       value.text AS text
+
+  SET a.body = text , a.title = title
+  RETURN a;",
+  {batchSize: 5, parallel: true}
+)
+YIELD batches, total, timeTaken, committedOperations
+RETURN batches, total, timeTaken, committedOperations;
+```
+
+## Loading NCIT bioontology
+
+```
+WITH "https://data.bioontology.org/ontologies/NCIT/download?apikey=8b5b7825-538d-40e0-9e9e-5ab9274a9aeb&download_format=rdf"
+AS ncitUri
+CALL n10s.rdf.import.fetch(ncitUri, 'RDF/XML')
+YIELD terminationStatus, triplesLoaded, triplesParsed, namespaces, callParams
+RETURN terminationStatus, triplesLoaded, triplesParsed, namespaces, callParams;
+```
+
+To check out the stats so far:
+
+```
+CALL apoc.meta.stats()
+YIELD labels, relTypes, relTypesCount
+RETURN labels, relTypes, relTypesCount;
+```
+
+A sample command:
+```
+MATCH path = (:Class {label: "Stenosis"})<-[:subClassOf]-(child)
+RETURN path;
+```
+
+## Connecting entities to the ontologies
+This command will print out neo4j commands you can run. We could send this to cypher automatically.
+```
+cp $DATADIR/hypotheses.annotated/contents.csv $APPDIR/tmp/ && \
+docker run -v $PWD/pyknowledgegraph:/app/pyknowledgegraph -v $PWD/scripts:/app/scripts -v $PWD/tmp:/app/tmp cross-talk python3 ./scripts/generate_neo4j_commands.py tmp/contents.csv && echo "Completed"
+```
+
+```
+MATCH p = (h:Hypothesis)-[r]->(b)
+RETURN *
 ```
