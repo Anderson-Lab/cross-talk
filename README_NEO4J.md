@@ -12,12 +12,13 @@ I always forget the goofy way you install plugins which we need. You have to cli
 
 I'm installing:
 * APOC
-* Neo4j streaming
-* neosemantics
+* Graph Data Science
 
 I also set dbms.security.allow_csv_import_from_file_urls=true
 
 ## Setup
+Pass over this setup for now and do not install n10s.
+
 ```
 CREATE CONSTRAINT n10s_unique_uri ON (r:Resource) ASSERT r.uri IS UNIQUE;
 
@@ -142,8 +143,55 @@ cp $DATADIR/abstracts.annotated/contents.csv $APPDIR/tmp/ && \
 docker run -v $PWD/pyknowledgegraph:/app/pyknowledgegraph -v $PWD/scripts:/app/scripts -v $PWD/tmp:/app/tmp cross-talk python3 ./scripts/generate_neo4j_commands.py tmp/contents.csv Abstract && echo "Completed"
 ```
 
+You then have to run the commands generated one at a time. A future TODO is to integrate this.
+
+## Use cases
+### Counting the number of entities in common
+
+```
+MATCH path = (s:Abstract)-[r1]->(re:Resource)<-[r2]-(e:Abstract)
+WITH [s.title] as title1, [e.title] as title2, re, s, e
+WITH re,apoc.coll.union(title1,title2) AS names, s, e
+RETURN names, count(DISTINCT re) as value
+ORDER BY value
+```
+
+I believe there are more efficient cyphers than this one.
+
 ```
 MATCH p = (a)-[r]->(b)
 WHERE (a:Hypothesis) OR (a:Abstract)
 RETURN *
+
+CALL gds.graph.project.cypher(
+    'abstracts5',
+    'MATCH (a)-[r]->(b) WHERE (a:Hypothesis) OR (a:Abstract) RETURN id(a) as id UNION MATCH (a)-[r]->(b) WHERE (a:Hypothesis) OR (a:Abstract) RETURN id(b) as id',
+    'MATCH (n)-[e]-(m) WHERE (n:Abstract) RETURN id(n) AS source, e AS edge, id(m) AS target'
+)
+```
+
+```
+CALL {
+    MATCH path = (s:Abstract)-[r1]->(re:Resource)<-[r2]-(e:Abstract)
+    WITH [s.title] as title1, [e.title] as title2, re, s, e
+    WITH re,apoc.coll.union(title1,title2) AS names, s, e
+    RETURN names, count(DISTINCT re) as value
+}
+WITH names, value
+MATCH (a:Abstract {title:names[0]}),(b:Abstract {title:names[1]})
+MERGE (a)-[r:CONNECT {value:value}]-(b)
+RETURN r
+```
+
+```
+CALL gds.graph.project.cypher(
+    'abstracts9',
+    'MATCH (a:Abstract) RETURN id(a) as id',
+    'MATCH (a:Abstract)-[e:CONNECT]-(b:Abstract) RETURN id(a) AS source, e.value AS weight, id(b) AS target'
+)
+
+CALL gds.louvain.write('abstracts9',
+    {relationshipWeightProperty: 'weight',
+     writeProperty: 'full_community_id'
+})
 ```
