@@ -14,7 +14,10 @@ export APPDIR=path to this repo
 export DATADIR=path to data directory # all other paths will be relative
 export OPENAI_API_KEY=foobar
 ```
+
+```
 $APPDIR/scripts/pdfs_to_texts.sh $DATADIR/pdfs abstracts | grep 'Completed\|Failed'
+```
 
 ## Annotating directories
 Below is an example that annotates the abstract field within each of the texts.

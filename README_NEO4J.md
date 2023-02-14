@@ -170,6 +170,8 @@ CALL gds.graph.project.cypher(
 )
 ```
 
+Add the connections and the count between nodes.
+
 ```
 CALL {
     MATCH path = (s:Abstract)-[r1]->(re:Resource)<-[r2]-(e:Abstract)
@@ -181,6 +183,13 @@ WITH names, value
 MATCH (a:Abstract {title:names[0]}),(b:Abstract {title:names[1]})
 MERGE (a)-[r:CONNECT {value:value}]-(b)
 RETURN r
+```
+
+Now visualize what we did:
+
+```
+MATCH (a:Abstract)(a)-[r:CONNECT]-(b)
+RETURN *
 ```
 
 ```
