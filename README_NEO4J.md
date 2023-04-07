@@ -46,14 +46,38 @@ You must also change your import directory to point to the correct location.
 ## Loading hypotheses
 
 ```
-LOAD CSV WITH HEADERS FROM 'file:/hypotheses.annotated/contents.csv' AS row
+LOAD CSV WITH HEADERS FROM 'file:/hypotheses.annotated/contents.NCIT.csv' AS row
 RETURN row
 LIMIT 10;
 ```
 
 ```
 CALL apoc.periodic.iterate(
-  "LOAD CSV WITH HEADERS FROM 'file:/hypotheses.annotated/contents.csv' AS row
+  "LOAD CSV WITH HEADERS FROM 'file:/hypotheses.annotated/contents.NCIT.csv' AS row
+   RETURN row",
+  "MERGE (a:Hypothesis {uri: row.uri})
+  WITH a
+
+  CALL apoc.load.json(a.uri)
+  YIELD value
+
+  UNWIND value.text AS example_var
+
+  WITH a,
+       value.title AS title,
+       value.text AS text
+
+  SET a.title = title , a.text = text
+  RETURN a;",
+  {batchSize: 1, parallel: false}
+)
+YIELD batches, total, timeTaken, committedOperations
+RETURN batches, total, timeTaken, committedOperations;
+```
+
+```
+CALL apoc.periodic.iterate(
+  "LOAD CSV WITH HEADERS FROM 'file:/hypotheses.annotated/contents.SCIO.csv' AS row
    RETURN row",
   "MERGE (a:Hypothesis {uri: row.uri})
   WITH a
@@ -85,7 +109,7 @@ This will load the hypotheses, but we do not have our ontology from NCIT.
 
 ```
 CALL apoc.periodic.iterate(
-  "LOAD CSV WITH HEADERS FROM 'file:/abstracts.annotated/contents.csv' AS row
+  "LOAD CSV WITH HEADERS FROM 'file:/abstracts.annotated/contents.SCIO.csv' AS row
    RETURN row",
   "MERGE (a:Abstract {uri: row.uri})
   WITH a
@@ -107,12 +131,60 @@ YIELD batches, total, timeTaken, committedOperations
 RETURN batches, total, timeTaken, committedOperations;
 ```
 
-## Loading NCIT bioontology
+```
+CALL apoc.periodic.iterate(
+  "LOAD CSV WITH HEADERS FROM 'file:/abstracts.annotated/contents.NCIT.csv' AS row
+   RETURN row",
+  "MERGE (a:Abstract {uri: row.uri})
+  WITH a
+
+  CALL apoc.load.json(a.uri)
+  YIELD value
+
+  UNWIND value.abstract AS text_example
+
+  WITH a,
+       value.title AS title,
+       value.abstract AS text
+
+  SET a.body = text , a.title = title
+  RETURN a;",
+  {batchSize: 1, parallel: false}
+)
+YIELD batches, total, timeTaken, committedOperations
+RETURN batches, total, timeTaken, committedOperations;
+```
+
+## Loading bioontologies
 
 ```
 WITH "https://data.bioontology.org/ontologies/NCIT/download?apikey=8b5b7825-538d-40e0-9e9e-5ab9274a9aeb&download_format=rdf"
+AS uri
+CALL n10s.rdf.import.fetch(uri, 'RDF/XML')
+YIELD terminationStatus, triplesLoaded, triplesParsed, namespaces, callParams
+RETURN terminationStatus, triplesLoaded, triplesParsed, namespaces, callParams;
+```
+
+```
+WITH "https://data.bioontology.org/ontologies/SCIO/download?apikey=8b5b7825-538d-40e0-9e9e-5ab9274a9aeb&download_format=rdf"
 AS ncitUri
 CALL n10s.rdf.import.fetch(ncitUri, 'RDF/XML')
+YIELD terminationStatus, triplesLoaded, triplesParsed, namespaces, callParams
+RETURN terminationStatus, triplesLoaded, triplesParsed, namespaces, callParams;
+```
+
+```
+WITH "https://data.bioontology.org/ontologies/OCHV/download?apikey=8b5b7825-538d-40e0-9e9e-5ab9274a9aeb&download_format=rdf"
+AS uri
+CALL n10s.rdf.import.fetch(uri, 'RDF/XML')
+YIELD terminationStatus, triplesLoaded, triplesParsed, namespaces, callParams
+RETURN terminationStatus, triplesLoaded, triplesParsed, namespaces, callParams;
+```
+
+```
+WITH "https://data.bioontology.org/ontologies/MESH/download?apikey=8b5b7825-538d-40e0-9e9e-5ab9274a9aeb&download_format=rdf"
+AS uri
+CALL n10s.rdf.import.fetch(uri, 'RDF/XML')
 YIELD terminationStatus, triplesLoaded, triplesParsed, namespaces, callParams
 RETURN terminationStatus, triplesLoaded, triplesParsed, namespaces, callParams;
 ```
@@ -134,13 +206,33 @@ RETURN path;
 ## Connecting entities to the ontologies
 This command will print out neo4j commands you can run. We could send this to cypher automatically.
 ```
-cp $DATADIR/hypotheses.annotated/contents.csv $APPDIR/tmp/ && \
-docker run -v $PWD/pyknowledgegraph:/app/pyknowledgegraph -v $PWD/scripts:/app/scripts -v $PWD/tmp:/app/tmp cross-talk python3 ./scripts/generate_neo4j_commands.py tmp/contents.csv Hypothesis && echo "Completed"
+cp $DATADIR/hypotheses.annotated/contents.NCIT.csv $APPDIR/tmp/contents.csv && \
+docker run -v $APPDIR/pyknowledgegraph:/app/pyknowledgegraph -v $APPDIR/scripts:/app/scripts -v $APPDIR/tmp:/app/tmp cross-talk python3 ./scripts/generate_neo4j_commands.py tmp/contents.csv Hypothesis && echo "Completed"
 ```
 
 ```
-cp $DATADIR/abstracts.annotated/contents.csv $APPDIR/tmp/ && \
-docker run -v $PWD/pyknowledgegraph:/app/pyknowledgegraph -v $PWD/scripts:/app/scripts -v $PWD/tmp:/app/tmp cross-talk python3 ./scripts/generate_neo4j_commands.py tmp/contents.csv Abstract && echo "Completed"
+cp $DATADIR/hypotheses.annotated/contents.SCIO.csv $APPDIR/tmp/contents.csv && \
+docker run -v $APPDIR/pyknowledgegraph:/app/pyknowledgegraph -v $APPDIR/scripts:/app/scripts -v $APPDIR/tmp:/app/tmp cross-talk python3 ./scripts/generate_neo4j_commands.py tmp/contents.csv Hypothesis && echo "Completed"
+```
+
+```
+cp $DATADIR/abstracts.annotated/contents.NCIT.csv $APPDIR/tmp/contents.csv && \
+docker run -v $APPDIR/pyknowledgegraph:/app/pyknowledgegraph -v $APPDIR/scripts:/app/scripts -v $APPDIR/tmp:/app/tmp cross-talk python3 ./scripts/generate_neo4j_commands.py tmp/contents.csv Abstract && echo "Completed"
+```
+
+```
+cp $DATADIR/abstracts.annotated/contents.SCIO.csv $APPDIR/tmp/contents.csv && \
+docker run -v $APPDIR/pyknowledgegraph:/app/pyknowledgegraph -v $APPDIR/scripts:/app/scripts -v $APPDIR/tmp:/app/tmp cross-talk python3 ./scripts/generate_neo4j_commands.py tmp/contents.csv Abstract && echo "Completed"
+```
+
+```
+cp $DATADIR/abstracts.annotated/contents.MESH.csv $APPDIR/tmp/contents.csv && \
+docker run -v $APPDIR/pyknowledgegraph:/app/pyknowledgegraph -v $APPDIR/scripts:/app/scripts -v $APPDIR/tmp:/app/tmp cross-talk python3 ./scripts/generate_neo4j_commands.py tmp/contents.csv Abstract && echo "Completed"
+```
+
+```
+cp $DATADIR/abstracts.annotated/contents.OCHV.csv $APPDIR/tmp/contents.csv && \
+docker run -v $APPDIR/pyknowledgegraph:/app/pyknowledgegraph -v $APPDIR/scripts:/app/scripts -v $APPDIR/tmp:/app/tmp cross-talk python3 ./scripts/generate_neo4j_commands.py tmp/contents.csv Abstract && echo "Completed"
 ```
 
 You then have to run the commands generated one at a time. A future TODO is to integrate this.
@@ -203,4 +295,27 @@ CALL gds.louvain.write('abstracts9',
     {relationshipWeightProperty: 'weight',
      writeProperty: 'full_community_id'
 })
+```
+
+Node similarity
+
+```
+CALL gds.graph.drop('myGraph');
+
+
+CALL gds.graph.project(
+    'myGraph',
+    ['Abstract', 'Resource'],
+    {
+        HAS_ENTITY: {
+            properties: {
+            }
+        }
+    }
+);
+
+CALL gds.nodeSimilarity.stream('myGraph')
+YIELD node1, node2, similarity
+RETURN gds.util.asNode(node1).title AS Abstract1, gds.util.asNode(node2).title AS Abstract2, similarity
+ORDER BY similarity DESCENDING, Abstract1, Abstract2
 ```

@@ -30,7 +30,18 @@ Below is an example that annotates the text field within each of the hypotheses.
 $APPDIR/scripts/annotate_dir.sh $DATADIR/hypotheses text | grep 'Completed\|Failed'
 ```
 
-## Constructing Neo4j
+OpenAI
+```
+docker run --env OPENAI_API_KEY=$OPENAI_API_KEY -v $APPDIR/scripts:/app/scripts cross-talk python3 /app/scripts/openai_verification.py
+```
+
+```
+$APPDIR/scripts/get_embeddings.sh $DATADIR/domains text | grep 'Completed\|Failed'
+```
+
+```
+$APPDIR/scripts/get_embeddings.sh $DATADIR/results text | grep 'Completed\|Failed'
+```
 
 
 # older cross-talk notes for historical purposes
@@ -58,7 +69,8 @@ export OPENAI_API_KEY=foobar
 
 docker run --env OPENAI_API_KEY=$OPENAI_API_KEY cross-talk env
 
-docker run --env OPENAI_API_KEY=$OPENAI_API_KEY -v $PWD/scripts:/app/scripts cross-talk python3 ./scripts/openai_verificiation.py
+docker run --env OPENAI_API_KEY=$OPENAI_API_KEY -v $APPDIR/scripts:/app/scripts cross-talk python3 /app/scripts/openai_verification.py
+
 
 cp "$HOME/googledrive/cLBP–chronic_lower_back_pain/cross-talk/papers/Papers cited by Schmid et al./PDFs_Schmid_Refs/1.38037-PB1-9531-R2.pdf" tmp/source.pdf && \
 docker run -v $PWD/scripts:/app/scripts -v $PWD/tmp:/app/tmp cross-talk python3 ./scripts/pdf_to_text.py tmp/source.pdf tmp/source.json

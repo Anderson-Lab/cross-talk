@@ -40,9 +40,9 @@ class NCBOWrapper:
         with urllib.request.urlopen( url, data) as response:
             response_text = response.read()
             #print( response_text )
-            
+
         return json.loads(response_text)
-    
+
     def annotate_get(self, contents, ontologies=None, max_level=0, include=None):
         params = REST_URL_BASE_ANNOTATOR_PARAMS
         if not ontologies is None:
