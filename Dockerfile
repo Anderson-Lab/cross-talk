@@ -1,7 +1,7 @@
-FROM nvidia/cuda:12.0.0-devel-ubuntu22.04
+#FROM nvidia/cuda:12.0.0-devel-ubuntu22.04
+FROM ubuntu:22.10
 
 RUN apt-get update
-RUN apt-get install -y apt-utils
 RUN apt-get install -y gcc
 RUN apt-get install -y python3
 RUN apt-get install -y python3-pip
@@ -13,6 +13,7 @@ RUN apt-get update && \
     rm -rf /var/lib/apt/lists/*
 RUN apt-get update
 RUN apt-get install -y git
+RUN apt-get install -y mupdf-tools
 
 RUN mkdir /app
 WORKDIR /app

@@ -1,5 +1,25 @@
 # neo4j
 
+## Set up your ontologies
+
+Install the n10s plugin.
+
+```
+CREATE CONSTRAINT n10s_unique_uri ON (r:Resource) ASSERT r.uri IS UNIQUE;
+
+CALL n10s.graphconfig.init({handleVocabUris: "MAP"});
+```
+
+```
+WITH "https://data.bioontology.org/ontologies/SCIO/download?apikey=8b5b7825-538d-40e0-9e9e-5ab9274a9aeb&download_format=rdf"
+AS ncitUri
+CALL n10s.rdf.import.fetch(ncitUri, 'RDF/XML')
+YIELD terminationStatus, triplesLoaded, triplesParsed, namespaces, callParams
+RETURN terminationStatus, triplesLoaded, triplesParsed, namespaces, callParams;
+```
+
+## Older
+
 Setup and commands are assuming Neo4j desktop and cypher-shell
 
 From Neo4j browser, create new project. I'm calling mine cross-talk.
