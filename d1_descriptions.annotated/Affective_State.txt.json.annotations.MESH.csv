@@ -1,0 +1,22 @@
+prefLabel,id,from_to,matchType,text
+Affect,http://purl.bioontology.org/ontology/MESH/D000339,1-6|100-105|476-481|564-569|632-637|660-665,PREF|PREF|PREF|PREF|PREF|PREF,AFFECT|AFFECT|AFFECT|AFFECT|AFFECT|AFFECT
+Arousal,http://purl.bioontology.org/ontology/MESH/D001143,61-67,PREF,AROUSAL
+Risk,http://purl.bioontology.org/ontology/MESH/D012306,187-190,PREF,RISK
+Pain,http://purl.bioontology.org/ontology/MESH/D010146,211-214|421-424|701-704|737-740|918-921|1167-1170,PREF|PREF|PREF|PREF|PREF|PREF,PAIN|PAIN|PAIN|PAIN|PAIN|PAIN
+Emotions,http://purl.bioontology.org/ontology/MESH/D004644,248-255,PREF,EMOTIONS
+Anger,http://purl.bioontology.org/ontology/MESH/D000786,265-269,PREF,ANGER
+Sadness,http://purl.bioontology.org/ontology/MESH/D000078602,272-278,PREF,SADNESS
+Anxiety,http://purl.bioontology.org/ontology/MESH/D001007,301-307,PREF,ANXIETY
+Fear,http://purl.bioontology.org/ontology/MESH/D005239,314-317|1353-1356,PREF|PREF,FEAR|FEAR
+Hope,http://purl.bioontology.org/ontology/MESH/D065026,370-373,PREF,HOPE
+Love,http://purl.bioontology.org/ontology/MESH/D008149,376-379,PREF,LOVE
+Perception,http://purl.bioontology.org/ontology/MESH/D010465,723-732,PREF,PERCEPTION
+Nociception,http://purl.bioontology.org/ontology/MESH/D059225,766-776,PREF,NOCICEPTION
+Personality,http://purl.bioontology.org/ontology/MESH/D010551,812-822,PREF,PERSONALITY
+Depression,http://purl.bioontology.org/ontology/MESH/D003863,1025-1034|1232-1241,PREF|PREF,DEPRESSION|DEPRESSION
+Work,http://purl.bioontology.org/ontology/MESH/D014937,1112-1115,PREF,WORK
+Lifting,http://purl.bioontology.org/ontology/MESH/D017770,1149-1155,PREF,LIFTING
+Overall,http://purl.bioontology.org/ontology/MESH/D016424,1186-1192,PREF,OVERALL
+Health Status,http://purl.bioontology.org/ontology/MESH/D006304,1194-1206,PREF,HEALTH STATUS
+Health,http://purl.bioontology.org/ontology/MESH/D006262,1194-1199,PREF,HEALTH
+Comorbidity,http://purl.bioontology.org/ontology/MESH/D015897,1255-1265,PREF,COMORBIDITY

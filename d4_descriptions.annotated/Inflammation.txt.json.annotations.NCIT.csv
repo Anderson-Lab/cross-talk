@@ -1,0 +1,46 @@
+prefLabel,id,from_to,matchType,text
+Chronic Inflammation,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C174450,1-20|176-195,PREF|PREF,CHRONIC INFLAMMATION|CHRONIC INFLAMMATION
+Chronic,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C14141,1-7|176-182,PREF|PREF,CHRONIC|CHRONIC
+Inflammation,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3137,9-20|184-195|499-510|1132-1143,PREF|PREF|PREF|PREF,INFLAMMATION|INFLAMMATION|INFLAMMATION|INFLAMMATION
+Associated,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25281,25-34|263-272|453-462,PREF|PREF|PREF,ASSOCIATED|ASSOCIATED|ASSOCIATED
+Increased,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C164135,45-53|600-608|683-691,PREF|PREF|PREF,INCREASED|INCREASED|INCREASED
+Production,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C112927,55-64|619-628|693-702,PREF|PREF|PREF,PRODUCTION|PRODUCTION|PRODUCTION
+Cytokine,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C20464,69-77|610-617,SYN|PREF,CYTOKINES|CYTOKINE
+Activation,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C64382,83-92,PREF,ACTIVATION
+Inflammatory,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25535,101-112|413-424,PREF|PREF,INFLAMMATORY|INFLAMMATORY
+Low,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C54722,157-159|480-482,PREF|PREF,LOW|LOW
+Back Pain,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C41830,161-169|426-434,PREF|PREF,BACK PAIN|BACK PAIN
+Pain,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3303,166-169|431-434,PREF|PREF,PAIN|PAIN
+Tissue,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12801,216-221,PREF,TISSUE
+Systemic,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C13310,227-234|490-497|1123-1130,PREF|PREF|PREF,SYSTEMIC|SYSTEMIC|SYSTEMIC
+Level,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25554,236-240,PREF,LEVEL
+Pathologic,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25610,242-251,PREF,PATHOLOGIC
+Joint,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C13044,292-296,PREF,JOINT
+Osteoarthritis,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3293,298-311,PREF,OSTEOARTHRITIS
+Vertebral,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25715,314-322,PREF,VERTEBRAL
+Degeneration,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C61557,343-354,PREF,DEGENERATION
+Spinal,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C38026,384-389,PREF,SPINAL
+Obesity,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3283,436-442,PREF,OBESITY
+Metabolic,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C28240,469-477,PREF,METABOLIC
+Grade,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C48309,484-488,PREF,GRADE
+Include,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C74521,527-533,PREF,INCLUDE
+Interleukin,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C20497,535-545,PREF,INTERLEUKIN
+Tumor Necrosis Factor,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C20535,566-586|589-591|845-847,PREF|SYN|SYN,TUMOR NECROSIS FACTOR|TNF|TNF
+Factor,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25506,581-586,PREF,FACTOR
+Alpha,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C72484,594-598,PREF,ALPHA
+Alpha,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C86942,594-598,PREF,ALPHA
+Modulation,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C90063,639-648,PREF,MODULATION
+Substance P,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C847,736-746,PREF,SUBSTANCE P
+Substance,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C45306,736-744,PREF,SUBSTANCE
+Prostaglandin,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C782,749-761,PREF,PROSTAGLANDIN
+Nitrous Oxide,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C73617,764-776,PREF,NITROUS OXIDE
+Matrix,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C45805,783-788,PREF,MATRIX
+Matrix,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C45802,783-788,PREF,MATRIX
+Report,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25375,822-829|1075-1080,SYN|PREF,REPORTED|REPORT
+Data,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25474,831-834,PREF,DATA
+Little,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C76350,864-869,PREF,LITTLE
+Confidence,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43367,875-884|922-931|991-1000|1046-1055,PREF|PREF|PREF|PREF,CONFIDENCE|CONFIDENCE|CONFIDENCE|CONFIDENCE
+Self-Report,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C74528,1070-1080,PREF,SELF-REPORT
+Self,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25200,1070-1073,PREF,SELF
+Potential,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C62230,1099-1107,PREF,POTENTIAL
+Sensitization,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C50738,1157-1169,PREF,SENSITIZATION

@@ -1,0 +1,317 @@
+prefLabel,id,from_to,matchType,text
+provide,http://sbmi.uth.tmc.edu/ontology/ochv#C0359589,138-144|10951-10957,PREF|PREF,PROVIDE|PROVIDE
+intra,http://sbmi.uth.tmc.edu/ontology/ochv#C0347985,170-174|6764-6768,PREF|PREF,INTRA|INTRA
+mouse,http://sbmi.uth.tmc.edu/ontology/ochv#C0026809,207-211|4981-4985|5003-5007|13890-13894,PREF|PREF|PREF|PREF,MOUSE|MOUSE|MOUSE|MOUSE
+chronic pain,http://sbmi.uth.tmc.edu/ontology/ochv#C0150055,228-239|334-345|626-637|865-876|1011-1022|5770-5781|6838-6849|7320-7331|7887-7898|8051-8062|8714-8725|9295-9306|10579-10590|10934-10945|13537-13548,PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF,CHRONIC PAIN|CHRONIC PAIN|CHRONIC PAIN|CHRONIC PAIN|CHRONIC PAIN|CHRONIC PAIN|CHRONIC PAIN|CHRONIC PAIN|CHRONIC PAIN|CHRONIC PAIN|CHRONIC PAIN|CHRONIC PAIN|CHRONIC PAIN|CHRONIC PAIN|CHRONIC PAIN
+chronic,http://sbmi.uth.tmc.edu/ontology/ochv#C0205191,228-234|334-340|626-632|865-871|1011-1017|1429-1435|5050-5056|5770-5776|6838-6844|6950-6956|7320-7326|7887-7893|8051-8057|8714-8720|9295-9301|10579-10585|10934-10940|13537-13543,PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF,CHRONIC|CHRONIC|CHRONIC|CHRONIC|CHRONIC|CHRONIC|CHRONIC|CHRONIC|CHRONIC|CHRONIC|CHRONIC|CHRONIC|CHRONIC|CHRONIC|CHRONIC|CHRONIC|CHRONIC|CHRONIC
+pain,http://sbmi.uth.tmc.edu/ontology/ochv#9185,236-239|342-345|634-637|873-876|1019-1022|1098-1101|1160-1163|1375-1378|1450-1453|4665-4668|5071-5074|5778-5781|6846-6849|6928-6931|6971-6974|7328-7331|7404-7407|7895-7898|8059-8062|8329-8332|8722-8725|8979-8982|9008-9011|9239-9242|9303-9306|9565-9568|9725-9728|10343-10346|10587-10590|10697-10700|10831-10834|10942-10945|11008-11011|11602-11605|13545-13548|13928-13931,PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF,PAIN|PAIN|PAIN|PAIN|PAIN|PAIN|PAIN|PAIN|PAIN|PAIN|PAIN|PAIN|PAIN|PAIN|PAIN|PAIN|PAIN|PAIN|PAIN|PAIN|PAIN|PAIN|PAIN|PAIN|PAIN|PAIN|PAIN|PAIN|PAIN|PAIN|PAIN|PAIN|PAIN|PAIN|PAIN|PAIN
+pain,http://sbmi.uth.tmc.edu/ontology/ochv#C0030193,236-239|342-345|634-637|873-876|1019-1022|1098-1101|1160-1163|1375-1378|1450-1453|4665-4668|5071-5074|5778-5781|6846-6849|6928-6931|6971-6974|7328-7331|7404-7407|7895-7898|8059-8062|8329-8332|8722-8725|8979-8982|9008-9011|9239-9242|9303-9306|9565-9568|9725-9728|10343-10346|10587-10590|10697-10700|10831-10834|10942-10945|11008-11011|11602-11605|13545-13548|13928-13931,PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF,PAIN|PAIN|PAIN|PAIN|PAIN|PAIN|PAIN|PAIN|PAIN|PAIN|PAIN|PAIN|PAIN|PAIN|PAIN|PAIN|PAIN|PAIN|PAIN|PAIN|PAIN|PAIN|PAIN|PAIN|PAIN|PAIN|PAIN|PAIN|PAIN|PAIN|PAIN|PAIN|PAIN|PAIN|PAIN|PAIN
+behavior,http://sbmi.uth.tmc.edu/ontology/ochv#C0004927,241-248|639-646|4670-4677|6933-6940|7900-7907|9570-9577|10348-10355|10592-10599|10702-10709|13933-13940,PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF,BEHAVIOR|BEHAVIOR|BEHAVIOR|BEHAVIOR|BEHAVIOR|BEHAVIOR|BEHAVIOR|BEHAVIOR|BEHAVIOR|BEHAVIOR
+behavior,http://sbmi.uth.tmc.edu/ontology/ochv#1751,241-248|639-646|4670-4677|6933-6940|7900-7907|9570-9577|10348-10355|10592-10599|10702-10709|13933-13940,PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF,BEHAVIOR|BEHAVIOR|BEHAVIOR|BEHAVIOR|BEHAVIOR|BEHAVIOR|BEHAVIOR|BEHAVIOR|BEHAVIOR|BEHAVIOR
+neuronal,http://sbmi.uth.tmc.edu/ontology/ochv#37942,264-271|765-772|5422-5429|5566-5573|7235-7242|10027-10034|10398-10405|10546-10553|12259-12266,PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF,NEURONAL|NEURONAL|NEURONAL|NEURONAL|NEURONAL|NEURONAL|NEURONAL|NEURONAL|NEURONAL
+neuronal,http://sbmi.uth.tmc.edu/ontology/ochv#C0521390,264-271|765-772|5422-5429|5566-5573|7235-7242|10027-10034|10398-10405|10546-10553|12259-12266,PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF,NEURONAL|NEURONAL|NEURONAL|NEURONAL|NEURONAL|NEURONAL|NEURONAL|NEURONAL|NEURONAL
+activity,http://sbmi.uth.tmc.edu/ontology/ochv#C0439167,273-280|408-415|586-593|774-781|806-813|5291-5298|5431-5438|5575-5582|7386-7393|7714-7721|7875-7882|8840-8847|9488-9495|9686-9693|10036-10043|10407-10414|10555-10562|10667-10674|11885-11892|12268-12275|12291-12298|13320-13327,PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF,ACTIVITY|ACTIVITY|ACTIVITY|ACTIVITY|ACTIVITY|ACTIVITY|ACTIVITY|ACTIVITY|ACTIVITY|ACTIVITY|ACTIVITY|ACTIVITY|ACTIVITY|ACTIVITY|ACTIVITY|ACTIVITY|ACTIVITY|ACTIVITY|ACTIVITY|ACTIVITY|ACTIVITY|ACTIVITY
+activity,http://sbmi.uth.tmc.edu/ontology/ochv#C0441655,273-280|408-415|586-593|774-781|806-813|5291-5298|5431-5438|5575-5582|7386-7393|7714-7721|7875-7882|8840-8847|9488-9495|9686-9693|10036-10043|10407-10414|10555-10562|10667-10674|11885-11892|12268-12275|12291-12298|13320-13327,PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF,ACTIVITY|ACTIVITY|ACTIVITY|ACTIVITY|ACTIVITY|ACTIVITY|ACTIVITY|ACTIVITY|ACTIVITY|ACTIVITY|ACTIVITY|ACTIVITY|ACTIVITY|ACTIVITY|ACTIVITY|ACTIVITY|ACTIVITY|ACTIVITY|ACTIVITY|ACTIVITY|ACTIVITY|ACTIVITY
+activities,http://sbmi.uth.tmc.edu/ontology/ochv#34879,273-280|408-415|586-593|774-781|806-813|4643-4652|5291-5298|5431-5438|5575-5582|7386-7393|7714-7721|7875-7882|8840-8847|9488-9495|9686-9693|10036-10043|10321-10330|10407-10414|10555-10562|10667-10674|11885-11892|12268-12275|12291-12298|13320-13327|13906-13915,SYN|SYN|SYN|SYN|SYN|PREF|SYN|SYN|SYN|SYN|SYN|SYN|SYN|SYN|SYN|SYN|PREF|SYN|SYN|SYN|SYN|SYN|SYN|SYN|PREF,ACTIVITY|ACTIVITY|ACTIVITY|ACTIVITY|ACTIVITY|ACTIVITIES|ACTIVITY|ACTIVITY|ACTIVITY|ACTIVITY|ACTIVITY|ACTIVITY|ACTIVITY|ACTIVITY|ACTIVITY|ACTIVITY|ACTIVITIES|ACTIVITY|ACTIVITY|ACTIVITY|ACTIVITY|ACTIVITY|ACTIVITY|ACTIVITY|ACTIVITIES
+photon,http://sbmi.uth.tmc.edu/ontology/ochv#C0086805,358-363,PREF,PHOTON
+spontaneous,http://sbmi.uth.tmc.edu/ontology/ochv#C0205359,396-406|4346-4356,PREF|PREF,SPONTANEOUS|SPONTANEOUS
+attenuation,http://sbmi.uth.tmc.edu/ontology/ochv#42127,551-561,PREF,ATTENUATION
+attenuation,http://sbmi.uth.tmc.edu/ontology/ochv#C0599946,551-561,PREF,ATTENUATION
+facilitation,http://sbmi.uth.tmc.edu/ontology/ochv#C0234112,567-578|7277-7288,PREF|PREF,FACILITATION|FACILITATION
+electrical,http://sbmi.uth.tmc.edu/ontology/ochv#C0442828,676-685|2628-2637|2860-2869|6144-6153|6561-6570|7637-7646|12729-12738,PREF|PREF|PREF|PREF|PREF|PREF|PREF,ELECTRICAL|ELECTRICAL|ELECTRICAL|ELECTRICAL|ELECTRICAL|ELECTRICAL|ELECTRICAL
+responses,http://sbmi.uth.tmc.edu/ontology/ochv#51316,687-694|2483-2491|5452-5459|5612-5619|6322-6329|6497-6504|7625-7632|8420-8427|12191-12199|12655-12662|12740-12747,SYN|PREF|SYN|SYN|SYN|SYN|SYN|SYN|PREF|SYN|SYN,RESPONSE|RESPONSES|RESPONSE|RESPONSE|RESPONSE|RESPONSE|RESPONSE|RESPONSE|RESPONSES|RESPONSE|RESPONSE
+peripheral,http://sbmi.uth.tmc.edu/ontology/ochv#C0205100,710-719|1323-1332|8448-8457|8643-8652,PREF|PREF|PREF|PREF,PERIPHERAL|PERIPHERAL|PERIPHERAL|PERIPHERAL
+stimulation,http://sbmi.uth.tmc.edu/ontology/ochv#C0441691,721-731|2189-2199|5481-5491|5632-5642|6155-6165|6572-6582|7648-7658|10763-10773|12760-12770,PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF,STIMULATION|STIMULATION|STIMULATION|STIMULATION|STIMULATION|STIMULATION|STIMULATION|STIMULATION|STIMULATION
+stimulation,http://sbmi.uth.tmc.edu/ontology/ochv#C1292856,721-731|2189-2199|5481-5491|5632-5642|6155-6165|6572-6582|7648-7658|10763-10773|12760-12770,PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF,STIMULATION|STIMULATION|STIMULATION|STIMULATION|STIMULATION|STIMULATION|STIMULATION|STIMULATION|STIMULATION
+mechanical,http://sbmi.uth.tmc.edu/ontology/ochv#C0443254,830-839|3747-3756|7293-7302|7471-7480|9448-9457|10055-10064|10160-10169|13117-13126,PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF,MECHANICAL|MECHANICAL|MECHANICAL|MECHANICAL|MECHANICAL|MECHANICAL|MECHANICAL|MECHANICAL
+allodynia,http://sbmi.uth.tmc.edu/ontology/ochv#C0458247,841-849|3758-3766|7304-7312|7482-7490|9459-9467|10066-10074|10171-10179|11302-11310|13128-13136,PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF,ALLODYNIA|ALLODYNIA|ALLODYNIA|ALLODYNIA|ALLODYNIA|ALLODYNIA|ALLODYNIA|ALLODYNIA|ALLODYNIA
+major,http://sbmi.uth.tmc.edu/ontology/ochv#C0205164,883-887,PREF,MAJOR
+health,http://sbmi.uth.tmc.edu/ontology/ochv#C0018684,889-894,PREF,HEALTH
+health,http://sbmi.uth.tmc.edu/ontology/ochv#5822,889-894,PREF,HEALTH
+tissue,http://sbmi.uth.tmc.edu/ontology/ochv#C0040300,939-944,PREF,TISSUE
+nerve injury,http://sbmi.uth.tmc.edu/ontology/ochv#C0161479,949-960,PREF,NERVE INJURY
+nerve,http://sbmi.uth.tmc.edu/ontology/ochv#C0027740,949-953,PREF,NERVE
+nerve,http://sbmi.uth.tmc.edu/ontology/ochv#8592,949-953|1334-1339,PREF|SYN,NERVE|NERVES
+disease,http://sbmi.uth.tmc.edu/ontology/ochv#C0012634,978-984,PREF,DISEASE
+disease,http://sbmi.uth.tmc.edu/ontology/ochv#4014,978-984,PREF,DISEASE
+treatment,http://sbmi.uth.tmc.edu/ontology/ochv#C0087111,998-1006,PREF,TREATMENT
+clinical,http://sbmi.uth.tmc.edu/ontology/ochv#C0205210,1029-1036,PREF,CLINICAL
+challenge,http://sbmi.uth.tmc.edu/ontology/ochv#C0805586,1038-1046,PREF,CHALLENGE
+challenge,http://sbmi.uth.tmc.edu/ontology/ochv#49017,1038-1046,PREF,CHALLENGE
+mechanisms,http://sbmi.uth.tmc.edu/ontology/ochv#C0441712,1060-1069|10920-10929,PREF|PREF,MECHANISMS|MECHANISMS
+known,http://sbmi.uth.tmc.edu/ontology/ochv#C0205309,1085-1089,PREF,KNOWN
+related,http://sbmi.uth.tmc.edu/ontology/ochv#C0163712,1103-1109|1380-1386|7409-7415|9244-9250,PREF|PREF|PREF|PREF,RELATED|RELATED|RELATED|RELATED
+information,http://sbmi.uth.tmc.edu/ontology/ochv#C0870705,1165-1175|1294-1304|5365-5375|9603-9613,PREF|PREF|PREF|PREF,INFORMATION|INFORMATION|INFORMATION|INFORMATION
+information,http://sbmi.uth.tmc.edu/ontology/ochv#51185,1165-1175|1294-1304|5365-5375|9603-9613,PREF|PREF|PREF|PREF,INFORMATION|INFORMATION|INFORMATION|INFORMATION
+focused,http://sbmi.uth.tmc.edu/ontology/ochv#C1285542,1212-1218,PREF,FOCUSED
+layer,http://sbmi.uth.tmc.edu/ontology/ochv#52751,1223-1227|9118-9122|13650-13654,PREF|PREF|PREF,LAYER|LAYER|LAYER
+layer,http://sbmi.uth.tmc.edu/ontology/ochv#C0934502,1223-1227|9118-9122|13650-13654,PREF|PREF|PREF,LAYER|LAYER|LAYER
+neurons,http://sbmi.uth.tmc.edu/ontology/ochv#8658,1251-1257|3241-3247|4419-4425|5319-5325|5759-5765|5999-6005|6733-6739|6814-6820|6917-6923|8250-8256|8270-8276|8468-8474|8488-8494|8654-8660|8900-8906|9126-9132|9640-9646|10369-10375|10782-10788|11793-11799|12149-12155|12224-12230|13828-13834,PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF,NEURONS|NEURONS|NEURONS|NEURONS|NEURONS|NEURONS|NEURONS|NEURONS|NEURONS|NEURONS|NEURONS|NEURONS|NEURONS|NEURONS|NEURONS|NEURONS|NEURONS|NEURONS|NEURONS|NEURONS|NEURONS|NEURONS|NEURONS
+sensory,http://sbmi.uth.tmc.edu/ontology/ochv#C0445254,1286-1292|5357-5363|5624-5630|7790-7796|9595-9601|9750-9756|10755-10761|11149-11155|11384-11390,PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF,SENSORY|SENSORY|SENSORY|SENSORY|SENSORY|SENSORY|SENSORY|SENSORY|SENSORY
+peripheral nerves,http://sbmi.uth.tmc.edu/ontology/ochv#9517,1323-1339,PREF,PERIPHERAL NERVES
+inflammatory pain,http://sbmi.uth.tmc.edu/ontology/ochv#C0234251,1437-1453|5058-5074|6958-6974,PREF|PREF|PREF,INFLAMMATORY PAIN|INFLAMMATORY PAIN|INFLAMMATORY PAIN
+inflammatory,http://sbmi.uth.tmc.edu/ontology/ochv#29703,1437-1448|5058-5069|6958-6969,PREF|PREF|PREF,INFLAMMATORY|INFLAMMATORY|INFLAMMATORY
+inflammatory,http://sbmi.uth.tmc.edu/ontology/ochv#C0333348,1437-1448|5058-5069|6958-6969,PREF|PREF|PREF,INFLAMMATORY|INFLAMMATORY|INFLAMMATORY
+complete,http://sbmi.uth.tmc.edu/ontology/ochv#C0205197,1464-1471,PREF,COMPLETE
+week,http://sbmi.uth.tmc.edu/ontology/ochv#C0439230,1551-1554,PREF,WEEK
+CONTROL,http://sbmi.uth.tmc.edu/ontology/ochv#C0308718,1576-1582|5228-5234|6418-6424|6432-6438|6658-6664|7181-7187|7518-7524|7825-7831|10275-10281|12786-12792,PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF,CONTROL|CONTROL|CONTROL|CONTROL|CONTROL|CONTROL|CONTROL|CONTROL|CONTROL|CONTROL
+saline,http://sbmi.uth.tmc.edu/ontology/ochv#11002,1616-1621|3809-3814,PREF|PREF,SALINE|SALINE
+approved,http://sbmi.uth.tmc.edu/ontology/ochv#C0205540,1670-1677,PREF,APPROVED
+animal research,http://sbmi.uth.tmc.edu/ontology/ochv#C0003048,1686-1700,PREF,ANIMAL RESEARCH
+animals,http://sbmi.uth.tmc.edu/ontology/ochv#1203,1686-1691|6443-6449|6459-6465|12897-12903|12977-12983,SYN|PREF|PREF|PREF|PREF,ANIMAL|ANIMALS|ANIMALS|ANIMALS|ANIMALS
+animal,http://sbmi.uth.tmc.edu/ontology/ochv#C0003062,1686-1691,PREF,ANIMAL
+research,http://sbmi.uth.tmc.edu/ontology/ochv#10739,1693-1700,PREF,RESEARCH
+research,http://sbmi.uth.tmc.edu/ontology/ochv#C0035168,1693-1700,PREF,RESEARCH
+institutes,http://sbmi.uth.tmc.edu/ontology/ochv#6773,1728-1737,PREF,INSTITUTES
+natural sciences,http://sbmi.uth.tmc.edu/ontology/ochv#C0678530,1742-1757,PREF,NATURAL SCIENCES
+natural sciences,http://sbmi.uth.tmc.edu/ontology/ochv#42844,1742-1757,PREF,NATURAL SCIENCES
+natural,http://sbmi.uth.tmc.edu/ontology/ochv#C0205296,1742-1748,PREF,NATURAL
+Japan,http://sbmi.uth.tmc.edu/ontology/ochv#C0022341,1760-1764,PREF,JAPAN
+skull,http://sbmi.uth.tmc.edu/ontology/ochv#C0037303,1771-1775|3967-3971|4318-4322,PREF|PREF|PREF,SKULL|SKULL|SKULL
+exposed,http://sbmi.uth.tmc.edu/ontology/ochv#C0332157,1781-1787,PREF,EXPOSED
+cranial,http://sbmi.uth.tmc.edu/ontology/ochv#C0205096,1814-1820,PREF,CRANIAL
+window,http://sbmi.uth.tmc.edu/ontology/ochv#C0557702,1822-1827,PREF,WINDOW
+intrinsic,http://sbmi.uth.tmc.edu/ontology/ochv#20307,1867-1875|3062-3069|5129-5137,PREF|SYN|PREF,INTRINSIC|INTERNAL|INTRINSIC
+surface,http://sbmi.uth.tmc.edu/ontology/ochv#C0205148,1899-1905|2619-2625|7031-7037|12622-12628,PREF|PREF|PREF|PREF,SURFACE|SURFACE|SURFACE|SURFACE
+blue light,http://sbmi.uth.tmc.edu/ontology/ochv#C0303896,1926-1935,PREF,BLUE LIGHT
+blue,http://sbmi.uth.tmc.edu/ontology/ochv#C1260957,1926-1929,PREF,BLUE
+light,http://sbmi.uth.tmc.edu/ontology/ochv#7422,1931-1935|10899-10903,PREF|PREF,LIGHT|LIGHT
+light,http://sbmi.uth.tmc.edu/ontology/ochv#C0023693,1931-1935|10899-10903,PREF|PREF,LIGHT|LIGHT
+indicators,http://sbmi.uth.tmc.edu/ontology/ochv#6659,2064-2073,PREF,INDICATORS
+venus,http://sbmi.uth.tmc.edu/ontology/ochv#C0242748,2121-2125|4997-5001|5981-5985|13873-13877,PREF|PREF|PREF|PREF,VENUS|VENUS|VENUS|VENUS
+venus,http://sbmi.uth.tmc.edu/ontology/ochv#C1018930,2121-2125|4997-5001|5981-5985|13873-13877,PREF|PREF|PREF|PREF,VENUS|VENUS|VENUS|VENUS
+plane,http://sbmi.uth.tmc.edu/ontology/ochv#C0444660,2232-2236,PREF,PLANE
+baseline,http://sbmi.uth.tmc.edu/ontology/ochv#18092,2243-2250|2432-2439|2498-2505,PREF|PREF|PREF,BASELINE|BASELINE|BASELINE
+baseline,http://sbmi.uth.tmc.edu/ontology/ochv#C0168634,2243-2250|2432-2439|2498-2505,PREF|PREF|PREF,BASELINE|BASELINE|BASELINE
+intensity,http://sbmi.uth.tmc.edu/ontology/ochv#C0522510,2252-2260|2297-2305|2404-2412|6487-6495|8293-8301|10805-10813,PREF|PREF|PREF|PREF|PREF|PREF,INTENSITY|INTENSITY|INTENSITY|INTENSITY|INTENSITY|INTENSITY
+obtained,http://sbmi.uth.tmc.edu/ontology/ochv#C1301820,2271-2278|4390-4397|6478-6485,PREF|PREF|PREF,OBTAINED|OBTAINED|OBTAINED
+period,http://sbmi.uth.tmc.edu/ontology/ochv#C0439531,2337-2342,PREF,PERIOD
+period,http://sbmi.uth.tmc.edu/ontology/ochv#C0025344,2337-2342,PREF,PERIOD
+cells,http://sbmi.uth.tmc.edu/ontology/ochv#2603,2351-2355|2921-2924|5668-5671|5964-5968|6019-6023|6310-6313|6358-6361|8167-8170,PREF|SYN|SYN|PREF|PREF|SYN|SYN|SYN,CELLS|CELL|CELL|CELLS|CELLS|CELL|CELL|CELL
+responsive,http://sbmi.uth.tmc.edu/ontology/ochv#C0205342,2373-2382,PREF,RESPONSIVE
+fluorescence,http://sbmi.uth.tmc.edu/ontology/ochv#5115,2391-2402|3719-3730|12505-12516,PREF|PREF|PREF,FLUORESCENCE|FLUORESCENCE|FLUORESCENCE
+fluorescence,http://sbmi.uth.tmc.edu/ontology/ochv#C0016315,2391-2402|3719-3730|12505-12516,PREF|PREF|PREF,FLUORESCENCE|FLUORESCENCE|FLUORESCENCE
+intensity change,http://sbmi.uth.tmc.edu/ontology/ochv#C0428760,2404-2419,PREF,INTENSITY CHANGE
+change,http://sbmi.uth.tmc.edu/ontology/ochv#C0392747,2414-2419|7366-7371|9043-9048|9108-9113|9221-9226,PREF|PREF|PREF|PREF|PREF,CHANGE|CHANGE|CHANGE|CHANGE|CHANGE
+bipolar,http://sbmi.uth.tmc.edu/ontology/ochv#C0443156,2541-2547,PREF,BIPOLAR
+electrode,http://sbmi.uth.tmc.edu/ontology/ochv#C0013812,2549-2557|12435-12443,PREF|PREF,ELECTRODE|ELECTRODE
+inter,http://sbmi.uth.tmc.edu/ontology/ochv#C0205103,2560-2564,PREF,INTER
+medical,http://sbmi.uth.tmc.edu/ontology/ochv#C0205476,2566-2572,PREF,MEDICAL
+depth,http://sbmi.uth.tmc.edu/ontology/ochv#C0449292,2582-2586,PREF,DEPTH
+depth,http://sbmi.uth.tmc.edu/ontology/ochv#C0205125,2582-2586,PREF,DEPTH
+stimulator,http://sbmi.uth.tmc.edu/ontology/ochv#C0175727,2669-2678,PREF,STIMULATOR
+7203,http://sbmi.uth.tmc.edu/ontology/ochv#7203,2685-2688,PREF,7203
+unit,http://sbmi.uth.tmc.edu/ontology/ochv#34414,2729-2732,PREF,UNIT
+unit,http://sbmi.uth.tmc.edu/ontology/ochv#C0439148,2729-2732,PREF,UNIT
+current,http://sbmi.uth.tmc.edu/ontology/ochv#C0521116,2788-2794,PREF,CURRENT
+10100,http://sbmi.uth.tmc.edu/ontology/ochv#10100,2797-2801,PREF,10100
+interval,http://sbmi.uth.tmc.edu/ontology/ochv#C1272706,2806-2813,PREF,INTERVAL
+conventional,http://sbmi.uth.tmc.edu/ontology/ochv#C0439858,2902-2913,PREF,CONVENTIONAL
+cell,http://sbmi.uth.tmc.edu/ontology/ochv#C0007634,2921-2924|5668-5671|6310-6313|6358-6361|8167-8170,PREF|PREF|PREF|PREF|PREF,CELL|CELL|CELL|CELL|CELL
+patch,http://sbmi.uth.tmc.edu/ontology/ochv#C0445403,2926-2930|3026-3030,PREF|PREF,PATCH|PATCH
+patch,http://sbmi.uth.tmc.edu/ontology/ochv#C0994894,2926-2930|3026-3030,PREF|PREF,PATCH|PATCH
+clamp,http://sbmi.uth.tmc.edu/ontology/ochv#C0175721,2932-2936,PREF,CLAMP
+potential,http://sbmi.uth.tmc.edu/ontology/ochv#C0237399,2971-2979,PREF,POTENTIAL
+potential,http://sbmi.uth.tmc.edu/ontology/ochv#23799,2971-2979,PREF,POTENTIAL
+devices,http://sbmi.uth.tmc.edu/ontology/ochv#44527,3016-3022,PREF,DEVICES
+internal,http://sbmi.uth.tmc.edu/ontology/ochv#C0205102,3062-3069,PREF,INTERNAL
+cesium,http://sbmi.uth.tmc.edu/ontology/ochv#2704,3110-3115,PREF,CESIUM
+hepes,http://sbmi.uth.tmc.edu/ontology/ochv#6065,3168-3172,PREF,HEPES
+hepes,http://sbmi.uth.tmc.edu/ontology/ochv#C0019215,3168-3172,PREF,HEPES
+area,http://sbmi.uth.tmc.edu/ontology/ochv#C0205146,3267-3270|3674-3677|5087-5090|7039-7042|12352-12355,PREF|PREF|PREF|PREF|PREF,AREA|AREA|AREA|AREA|AREA
+presence,http://sbmi.uth.tmc.edu/ontology/ochv#C0392148,3279-3286,PREF,PRESENCE
+acquired,http://sbmi.uth.tmc.edu/ontology/ochv#C0439661,3307-3314,PREF,ACQUIRED
+at 10,http://sbmi.uth.tmc.edu/ontology/ochv#C0591126,3371-3375,PREF,AT 10
+craniotomy,http://sbmi.uth.tmc.edu/ontology/ochv#C0010280,3384-3393,PREF,CRANIOTOMY
+craniotomy,http://sbmi.uth.tmc.edu/ontology/ochv#3433,3384-3393,PREF,CRANIOTOMY
+region,http://sbmi.uth.tmc.edu/ontology/ochv#C0205147,3411-3416|3649-3654|4089-4094|6177-6182|6594-6599|10142-10147,PREF|PREF|PREF|PREF|PREF|PREF,REGION|REGION|REGION|REGION|REGION|REGION
+analog,http://sbmi.uth.tmc.edu/ontology/ochv#25101,3543-3548,PREF,ANALOG
+analog,http://sbmi.uth.tmc.edu/ontology/ochv#C0243071,3543-3548,PREF,ANALOG
+fluorescein,http://sbmi.uth.tmc.edu/ontology/ochv#14040,3590-3600,PREF,FLUORESCEIN
+fluorescein,http://sbmi.uth.tmc.edu/ontology/ochv#C0060520,3590-3600,PREF,FLUORESCEIN
+isothiocyanate,http://sbmi.uth.tmc.edu/ontology/ochv#16326,3602-3615,PREF,ISOTHIOCYANATE
+isothiocyanate,http://sbmi.uth.tmc.edu/ontology/ochv#C0206359,3602-3615,PREF,ISOTHIOCYANATE
+isothiocyanate,http://sbmi.uth.tmc.edu/ontology/ochv#C0124209,3602-3615,PREF,ISOTHIOCYANATE
+drug,http://sbmi.uth.tmc.edu/ontology/ochv#C0013227,3684-3687|3876-3879|4260-4263|12360-12363,PREF|PREF|PREF|PREF,DRUG|DRUG|DRUG|DRUG
+performed,http://sbmi.uth.tmc.edu/ontology/ochv#C0884358,3779-3787|4748-4756,PREF|PREF,PERFORMED|PERFORMED
+injection,http://sbmi.uth.tmc.edu/ontology/ochv#C0021485,3796-3804|3855-3863|3881-3889|4218-4226|7088-7096|7556-7564|12911-12919,PREF|PREF|PREF|PREF|PREF|PREF|PREF,INJECTION|INJECTION|INJECTION|INJECTION|INJECTION|INJECTION|INJECTION
+test,http://sbmi.uth.tmc.edu/ontology/ochv#C0392366,3910-3913|4795-4798|4823-4826|4918-4921,PREF|PREF|PREF|PREF,TEST|TEST|TEST|TEST
+small,http://sbmi.uth.tmc.edu/ontology/ochv#C0700321,3933-3937|4289-4293,PREF|PREF,SMALL|SMALL
+small,http://sbmi.uth.tmc.edu/ontology/ochv#44733,3933-3937|4289-4293,PREF|PREF,SMALL|SMALL
+hole,http://sbmi.uth.tmc.edu/ontology/ochv#C0544726,3939-3942,PREF,HOLE
+hole,http://sbmi.uth.tmc.edu/ontology/ochv#38712,3939-3942|4295-4299,PREF|SYN,HOLE|HOLES
+vehicle,http://sbmi.uth.tmc.edu/ontology/ochv#C0042444,4004-4010|12924-12930,PREF|PREF,VEHICLE|VEHICLE
+vehicle,http://sbmi.uth.tmc.edu/ontology/ochv#C0348005,4004-4010|12924-12930,PREF|PREF,VEHICLE|VEHICLE
+containing,http://sbmi.uth.tmc.edu/ontology/ochv#C0332256,4012-4021|12485-12494,PREF|PREF,CONTAINING|CONTAINING
+dmso,http://sbmi.uth.tmc.edu/ontology/ochv#C0012403,4026-4029,PREF,DMSO
+glass,http://sbmi.uth.tmc.edu/ontology/ochv#5512,4063-4067,PREF,GLASS
+glass,http://sbmi.uth.tmc.edu/ontology/ochv#C0017596,4063-4067,PREF,GLASS
+pipette,http://sbmi.uth.tmc.edu/ontology/ochv#C0182301,4069-4075,PREF,PIPETTE
+brief,http://sbmi.uth.tmc.edu/ontology/ochv#C1282927,4102-4106,PREF,BRIEF
+isoflurane,http://sbmi.uth.tmc.edu/ontology/ochv#C0022180,4126-4135,PREF,ISOFLURANE
+isoflurane,http://sbmi.uth.tmc.edu/ontology/ochv#6951,4126-4135,PREF,ISOFLURANE
+oxygen,http://sbmi.uth.tmc.edu/ontology/ochv#C0030054,4173-4178,PREF,OXYGEN
+oxygen,http://sbmi.uth.tmc.edu/ontology/ochv#9153,4173-4178,PREF,OXYGEN
+balanced,http://sbmi.uth.tmc.edu/ontology/ochv#C0205415,4180-4187,PREF,BALANCED
+nitrogen,http://sbmi.uth.tmc.edu/ontology/ochv#8740,4194-4201,PREF,NITROGEN
+red,http://sbmi.uth.tmc.edu/ontology/ochv#C1260956,4375-4377|6057-6059|12446-12448,PREF|PREF|PREF,RED|RED|RED
+number,http://sbmi.uth.tmc.edu/ontology/ochv#C0449788,4602-4607,PREF,NUMBER
+anova,http://sbmi.uth.tmc.edu/ontology/ochv#C0002780,4764-4768,PREF,ANOVA
+followed by,http://sbmi.uth.tmc.edu/ontology/ochv#C0332283,4770-4780,PREF,FOLLOWED BY
+students,http://sbmi.uth.tmc.edu/ontology/ochv#11792,4812-4819,PREF,STUDENTS
+t test,http://sbmi.uth.tmc.edu/ontology/ochv#51380,4821-4826,PREF,T TEST
+t test,http://sbmi.uth.tmc.edu/ontology/ochv#C0871472,4821-4826,PREF,T TEST
+wild,http://sbmi.uth.tmc.edu/ontology/ochv#C0445392,4971-4974,PREF,WILD
+material,http://sbmi.uth.tmc.edu/ontology/ochv#C0520510,5014-5021,PREF,MATERIAL
+methods,http://sbmi.uth.tmc.edu/ontology/ochv#8041,5027-5033,PREF,METHODS
+paw,http://sbmi.uth.tmc.edu/ontology/ochv#C0687080,5083-5085|7153-7155|7956-7958|11323-11325,PREF|PREF|PREF|PREF,PAW|PAW|PAW|PAW
+identified,http://sbmi.uth.tmc.edu/ontology/ochv#C0205396,5096-5105,PREF,IDENTIFIED
+fig,http://sbmi.uth.tmc.edu/ontology/ochv#C0349966,5148-5150|5259-5261|6469-6471|6672-6674|7195-7197|7676-7678|7839-7841|7983-7985|9580-9582|10602-10604,PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF,FIG|FIG|FIG|FIG|FIG|FIG|FIG|FIG|FIG|FIG
+probability,http://sbmi.uth.tmc.edu/ontology/ochv#10132,5164-5174|6331-6341,PREF|PREF,PROBABILITY|PROBABILITY
+probability,http://sbmi.uth.tmc.edu/ontology/ochv#C0033204,5164-5174|6331-6341,PREF|PREF,PROBABILITY|PROBABILITY
+pressure,http://sbmi.uth.tmc.edu/ontology/ochv#C0392677,5472-5479,PREF,PRESSURE
+pressure,http://sbmi.uth.tmc.edu/ontology/ochv#32130,5472-5479,PREF,PRESSURE
+examined,http://sbmi.uth.tmc.edu/ontology/ochv#C0332128,5497-5504,PREF,EXAMINED
+sensory stimulation,http://sbmi.uth.tmc.edu/ontology/ochv#C0150763,5624-5642|10755-10773,PREF|PREF,SENSORY STIMULATION|SENSORY STIMULATION
+increased,http://sbmi.uth.tmc.edu/ontology/ochv#C0205217,5644-5652|6184-6192|6269-6277|6606-6614|6682-6690|7946-7954|8208-8216|8794-8802,PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF,INCREASED|INCREASED|INCREASED|INCREASED|INCREASED|INCREASED|INCREASED|INCREASED
+ratio,http://sbmi.uth.tmc.edu/ontology/ochv#C0456603,5673-5677|6315-6319,PREF|PREF,RATIO|RATIO
+hyperexcitability,http://sbmi.uth.tmc.edu/ontology/ochv#C0856984,5722-5738|8622-8638,PREF|PREF,HYPEREXCITABILITY|HYPEREXCITABILITY
+hyperexcitability,http://sbmi.uth.tmc.edu/ontology/ochv#C0814034,5722-5738|8622-8638,PREF|PREF,HYPEREXCITABILITY|HYPEREXCITABILITY
+hypersensitivity,http://sbmi.uth.tmc.edu/ontology/ochv#C1306443,5873-5888,PREF,HYPERSENSITIVITY
+hypersensitivity,http://sbmi.uth.tmc.edu/ontology/ochv#6439,5873-5888,PREF,HYPERSENSITIVITY
+green,http://sbmi.uth.tmc.edu/ontology/ochv#C0332583,6008-6012|12376-12380,PREF|PREF,GREEN|GREEN
+astrocytes,http://sbmi.uth.tmc.edu/ontology/ochv#1545,6045-6054,PREF,ASTROCYTES
+astrocytes,http://sbmi.uth.tmc.edu/ontology/ochv#C0004112,6045-6054,PREF,ASTROCYTES
+analysis,http://sbmi.uth.tmc.edu/ontology/ochv#C0936012,6085-6092,PREF,ANALYSIS
+analysis,http://sbmi.uth.tmc.edu/ontology/ochv#52824,6085-6092,PREF,ANALYSIS
+error,http://sbmi.uth.tmc.edu/ontology/ochv#47508,6220-6224|12987-12991,PREF|PREF,ERROR|ERROR
+error,http://sbmi.uth.tmc.edu/ontology/ochv#C0743559,6220-6224|12987-12991,PREF|PREF,ERROR|ERROR
+respect,http://sbmi.uth.tmc.edu/ontology/ochv#43010,6284-6290,PREF,RESPECT
+respect,http://sbmi.uth.tmc.edu/ontology/ochv#C0679133,6284-6290,PREF,RESPECT
+revealed,http://sbmi.uth.tmc.edu/ontology/ochv#C0443289,6513-6520,PREF,REVEALED
+network,http://sbmi.uth.tmc.edu/ontology/ochv#C0679670,6779-6785,PREF,NETWORK
+network,http://sbmi.uth.tmc.edu/ontology/ochv#43105,6779-6785,PREF,NETWORK
+role,http://sbmi.uth.tmc.edu/ontology/ochv#10933,6887-6890|7859-7862|9287-9290,PREF|PREF|PREF,ROLE|ROLE|ROLE
+receptor,http://sbmi.uth.tmc.edu/ontology/ochv#41719,7109-7116|10103-10110,PREF|PREF,RECEPTOR|RECEPTOR
+receptor,http://sbmi.uth.tmc.edu/ontology/ochv#C0597357,7109-7116|10103-10110,PREF|PREF,RECEPTOR|RECEPTOR
+antagonist,http://sbmi.uth.tmc.edu/ontology/ochv#C0231491,7118-7127|10112-10121,PREF|PREF,ANTAGONIST|ANTAGONIST
+decreased,http://sbmi.uth.tmc.edu/ontology/ochv#C0205216,7139-7147,PREF,DECREASED
+decreased,http://sbmi.uth.tmc.edu/ontology/ochv#C0442797,7139-7147,PREF,DECREASED
+threshold,http://sbmi.uth.tmc.edu/ontology/ochv#C0449864,7168-7176,PREF,THRESHOLD
+plastic,http://sbmi.uth.tmc.edu/ontology/ochv#C0032167,7358-7364|8859-8865|9035-9041|9213-9219,PREF|PREF|PREF|PREF,PLASTIC|PLASTIC|PLASTIC|PLASTIC
+expression,http://sbmi.uth.tmc.edu/ontology/ochv#C0185117,7457-7466,PREF,EXPRESSION
+normal,http://sbmi.uth.tmc.edu/ontology/ochv#C0205307,7499-7504,PREF,NORMAL
+local,http://sbmi.uth.tmc.edu/ontology/ochv#C0205276,7533-7537|7726-7730,PREF|PREF,LOCAL|LOCAL
+slope,http://sbmi.uth.tmc.edu/ontology/ochv#49051,7596-7600|12550-12554,PREF|PREF,SLOPE|SLOPE
+slope,http://sbmi.uth.tmc.edu/ontology/ochv#C0807955,7596-7600|12550-12554,PREF|PREF,SLOPE|SLOPE
+disinhibition,http://sbmi.uth.tmc.edu/ontology/ochv#C0424296,7694-7706|9515-9527,PREF|PREF,DISINHIBITION|DISINHIBITION
+disinhibition,http://sbmi.uth.tmc.edu/ontology/ochv#C0234410,7694-7706|9515-9527,PREF|PREF,DISINHIBITION|DISINHIBITION
+discussion,http://sbmi.uth.tmc.edu/ontology/ochv#C0557061,7988-7997,PREF,DISCUSSION
+plasticity,http://sbmi.uth.tmc.edu/ontology/ochv#42852,8008-8017|8529-8538|11189-11198|12096-12105,PREF|PREF|PREF|PREF,PLASTICITY|PLASTICITY|PLASTICITY|PLASTICITY
+plasticity,http://sbmi.uth.tmc.edu/ontology/ochv#C0678558,8008-8017|8529-8538|11189-11198|12096-12105,PREF|PREF|PREF|PREF,PLASTICITY|PLASTICITY|PLASTICITY|PLASTICITY
+memory,http://sbmi.uth.tmc.edu/ontology/ochv#7916,8081-8086,PREF,MEMORY
+memory,http://sbmi.uth.tmc.edu/ontology/ochv#C0025260,8081-8086,PREF,MEMORY
+formation,http://sbmi.uth.tmc.edu/ontology/ochv#C0439634,8088-8096|11872-11880,PREF|PREF,FORMATION|FORMATION
+present,http://sbmi.uth.tmc.edu/ontology/ochv#16843,8124-8130|10513-10519,PREF|PREF,PRESENT|PRESENT
+present,http://sbmi.uth.tmc.edu/ontology/ochv#C0150312,8124-8130|10513-10519,PREF|PREF,PRESENT|PRESENT
+in vivo,http://sbmi.uth.tmc.edu/ontology/ochv#48995,8139-8145|8142-8145|11200-11206|11203-11206,PREF|SYN|PREF|SYN,IN VIVO|VIVO|IN VIVO|VIVO
+in vivo,http://sbmi.uth.tmc.edu/ontology/ochv#C0796568,8139-8145|11200-11206,PREF|PREF,IN VIVO|IN VIVO
+single,http://sbmi.uth.tmc.edu/ontology/ochv#C0205171,8160-8165,PREF,SINGLE
+excitability,http://sbmi.uth.tmc.edu/ontology/ochv#C0235169,8218-8229,PREF,EXCITABILITY
+location,http://sbmi.uth.tmc.edu/ontology/ochv#C0450429,8307-8314|10819-10826|12409-12416,PREF|PREF|PREF,LOCATION|LOCATION|LOCATION
+tactile,http://sbmi.uth.tmc.edu/ontology/ochv#34652,8319-8323|11294-11300,SYN|PREF,TOUCH|TACTILE
+reorganization,http://sbmi.uth.tmc.edu/ontology/ochv#43340,8384-8397|13462-13475,PREF|PREF,REORGANIZATION|REORGANIZATION
+reorganization,http://sbmi.uth.tmc.edu/ontology/ochv#C0680829,8384-8397|13462-13475,PREF|PREF,REORGANIZATION|REORGANIZATION
+afferent neurons,http://sbmi.uth.tmc.edu/ontology/ochv#C0027883,8459-8474,PREF,AFFERENT NEURONS
+exhibit,http://sbmi.uth.tmc.edu/ontology/ochv#C0015272,8503-8509,PREF,EXHIBIT
+long,http://sbmi.uth.tmc.edu/ontology/ochv#C0205166,8549-8552|13612-13615,PREF|PREF,LONG|LONG
+urban,http://sbmi.uth.tmc.edu/ontology/ochv#C0442529,8739-8743,PREF,URBAN
+urban,http://sbmi.uth.tmc.edu/ontology/ochv#35090,8739-8743,PREF,URBAN
+dependent,http://sbmi.uth.tmc.edu/ontology/ochv#C0851827,8849-8857|11862-11870,PREF|PREF,DEPENDENT|DEPENDENT
+seen,http://sbmi.uth.tmc.edu/ontology/ochv#C0205397,8926-8929,PREF,SEEN
+spinal,http://sbmi.uth.tmc.edu/ontology/ochv#37924,8934-8939|11623-11628|11774-11779,PREF|PREF|PREF,SPINAL|SPINAL|SPINAL
+spinal,http://sbmi.uth.tmc.edu/ontology/ochv#C0521329,8934-8939|11623-11628|11774-11779,PREF|PREF|PREF,SPINAL|SPINAL|SPINAL
+exaggerated,http://sbmi.uth.tmc.edu/ontology/ochv#C0442801,8996-9006,PREF,EXAGGERATED
+pain sensation,http://sbmi.uth.tmc.edu/ontology/ochv#23271,9008-9021,PREF,PAIN SENSATION
+sensation,http://sbmi.uth.tmc.edu/ontology/ochv#C0542538,9013-9021,PREF,SENSATION
+sensation,http://sbmi.uth.tmc.edu/ontology/ochv#C0036658,9013-9021,PREF,SENSATION
+functional,http://sbmi.uth.tmc.edu/ontology/ochv#C0205245,9024-9033|9187-9196|11554-11563,PREF|PREF|PREF,FUNCTIONAL|FUNCTIONAL|FUNCTIONAL
+2011,http://sbmi.uth.tmc.edu/ontology/ochv#2011,9170-9173,PREF,2011
+chronic pain syndrome,http://sbmi.uth.tmc.edu/ontology/ochv#C1298685,9295-9315,PREF,CHRONIC PAIN SYNDROME
+pain syndrome,http://sbmi.uth.tmc.edu/ontology/ochv#C0391976,9303-9315,PREF,PAIN SYNDROME
+syndrome,http://sbmi.uth.tmc.edu/ontology/ochv#C0039082,9308-9315,PREF,SYNDROME
+syndrome,http://sbmi.uth.tmc.edu/ontology/ochv#11977,9308-9315,PREF,SYNDROME
+synaptic transmission,http://sbmi.uth.tmc.edu/ontology/ochv#C0027793,9380-9400,PREF,SYNAPTIC TRANSMISSION
+synaptic transmission,http://sbmi.uth.tmc.edu/ontology/ochv#8616,9380-9400,PREF,SYNAPTIC TRANSMISSION
+excessive,http://sbmi.uth.tmc.edu/ontology/ochv#C0442802,9585-9593,PREF,EXCESSIVE
+increase,http://sbmi.uth.tmc.edu/ontology/ochv#C0442805,9673-9680,PREF,INCREASE
+experience,http://sbmi.uth.tmc.edu/ontology/ochv#C0596545,9711-9720|11392-11401|11851-11860,PREF|PREF|PREF,EXPERIENCE|EXPERIENCE|EXPERIENCE
+experience,http://sbmi.uth.tmc.edu/ontology/ochv#C0237607,9711-9720|11392-11401|11851-11860,PREF|PREF|PREF,EXPERIENCE|EXPERIENCE|EXPERIENCE
+experience,http://sbmi.uth.tmc.edu/ontology/ochv#41569,9711-9720|11392-11401|11851-11860,PREF|PREF|PREF,EXPERIENCE|EXPERIENCE|EXPERIENCE
+emotional,http://sbmi.uth.tmc.edu/ontology/ochv#C0849912,9762-9770,PREF,EMOTIONAL
+involving,http://sbmi.uth.tmc.edu/ontology/ochv#C0392760,9838-9846,PREF,INVOLVING
+involving,http://sbmi.uth.tmc.edu/ontology/ochv#C1314939,9838-9846,PREF,INVOLVING
+price,http://sbmi.uth.tmc.edu/ontology/ochv#C0080045,9878-9882,PREF,PRICE
+types,http://sbmi.uth.tmc.edu/ontology/ochv#C0332307,9931-9935,PREF,TYPES
+types,http://sbmi.uth.tmc.edu/ontology/ochv#C0449470,9931-9935,PREF,TYPES
+modulated,http://sbmi.uth.tmc.edu/ontology/ochv#C0443264,10045-10053|12277-12285,PREF|PREF,MODULATED|MODULATED
+microinjection,http://sbmi.uth.tmc.edu/ontology/ochv#C0025991,10080-10093|12674-12687,PREF|PREF,MICROINJECTION|MICROINJECTION
+ampa receptor,http://sbmi.uth.tmc.edu/ontology/ochv#C0072899,10098-10110,PREF,AMPA RECEPTOR
+closed,http://sbmi.uth.tmc.edu/ontology/ochv#40896,10202-10207,PREF,CLOSED
+closed,http://sbmi.uth.tmc.edu/ontology/ochv#C0587267,10202-10207,PREF,CLOSED
+open,http://sbmi.uth.tmc.edu/ontology/ochv#C0175566,10289-10292|12962-12965,PREF|PREF,OPEN|OPEN
+open,http://sbmi.uth.tmc.edu/ontology/ochv#18146,10289-10292|12962-12965,PREF|PREF,OPEN|OPEN
+indirect,http://sbmi.uth.tmc.edu/ontology/ochv#C0439852,10420-10427,PREF,INDIRECT
+central,http://sbmi.uth.tmc.edu/ontology/ochv#C0205099,10912-10918,PREF,CENTRAL
+central,http://sbmi.uth.tmc.edu/ontology/ochv#20304,10912-10918,PREF,CENTRAL
+new,http://sbmi.uth.tmc.edu/ontology/ochv#C0205314,10961-10963,PREF,NEW
+focusing,http://sbmi.uth.tmc.edu/ontology/ochv#C0344236,11016-11023,PREF,FOCUSING
+induced,http://sbmi.uth.tmc.edu/ontology/ochv#C0205263,11138-11144,PREF,INDUCED
+sensory deprivation,http://sbmi.uth.tmc.edu/ontology/ochv#C0036674,11149-11167,PREF,SENSORY DEPRIVATION
+sensory deprivation,http://sbmi.uth.tmc.edu/ontology/ochv#11204,11149-11167,PREF,SENSORY DEPRIVATION
+deprivation,http://sbmi.uth.tmc.edu/ontology/ochv#51445,11157-11167,PREF,DEPRIVATION
+deprivation,http://sbmi.uth.tmc.edu/ontology/ochv#C0871712,11157-11167,PREF,DEPRIVATION
+map,http://sbmi.uth.tmc.edu/ontology/ochv#C0024779,11185-11187,PREF,MAP
+quantitative,http://sbmi.uth.tmc.edu/ontology/ochv#C0392762,11267-11278,PREF,QUANTITATIVE
+rat,http://sbmi.uth.tmc.edu/ontology/ochv#C0034721,11319-11321|11770-11772|11958-11960|13336-13338,PREF|PREF|PREF|PREF,RAT|RAT|RAT|RAT
+function,http://sbmi.uth.tmc.edu/ontology/ochv#38604,11445-11452,PREF,FUNCTION
+function,http://sbmi.uth.tmc.edu/ontology/ochv#C0542341,11445-11452,PREF,FUNCTION
+function,http://sbmi.uth.tmc.edu/ontology/ochv#C0422812,11445-11452,PREF,FUNCTION
+brain,http://sbmi.uth.tmc.edu/ontology/ochv#C0006104,11576-11580|12616-12620,PREF|PREF,BRAIN|BRAIN
+brain,http://sbmi.uth.tmc.edu/ontology/ochv#2128,11576-11580|12616-12620,PREF|PREF,BRAIN|BRAIN
+neuropathic pain,http://sbmi.uth.tmc.edu/ontology/ochv#C0423716,11590-11605,PREF,NEUROPATHIC PAIN
+spinal cord injury,http://sbmi.uth.tmc.edu/ontology/ochv#C0037929,11623-11640,PREF,SPINAL CORD INJURY
+spinal cord,http://sbmi.uth.tmc.edu/ontology/ochv#11612,11623-11633,PREF,SPINAL CORD
+spinal cord,http://sbmi.uth.tmc.edu/ontology/ochv#C0037925,11623-11633,PREF,SPINAL CORD
+effect,http://sbmi.uth.tmc.edu/ontology/ochv#C1280500,11704-11709,PREF,EFFECT
+zinc,http://sbmi.uth.tmc.edu/ontology/ochv#13277,11714-11717,PREF,ZINC
+zinc,http://sbmi.uth.tmc.edu/ontology/ochv#C0043481,11714-11717,PREF,ZINC
+dorsal horn,http://sbmi.uth.tmc.edu/ontology/ochv#C0475854,11781-11791,PREF,DORSAL HORN
+dorsal,http://sbmi.uth.tmc.edu/ontology/ochv#20300,11781-11786,PREF,DORSAL
+horn,http://sbmi.uth.tmc.edu/ontology/ochv#C0019939,11788-11791,PREF,HORN
+dominance,http://sbmi.uth.tmc.edu/ontology/ochv#C0870441,12086-12094,PREF,DOMINANCE
+dominance,http://sbmi.uth.tmc.edu/ontology/ochv#51111,12086-12094,PREF,DOMINANCE
+primate,http://sbmi.uth.tmc.edu/ontology/ochv#C0033147,12204-12210,PREF,PRIMATE
+sectional,http://sbmi.uth.tmc.edu/ontology/ochv#C0205155,12309-12317,PREF,SECTIONAL
+diffusion,http://sbmi.uth.tmc.edu/ontology/ochv#C0012222,12365-12373,PREF,DIFFUSION
+diffusion,http://sbmi.uth.tmc.edu/ontology/ochv#3930,12365-12373,PREF,DIFFUSION
+right,http://sbmi.uth.tmc.edu/ontology/ochv#C0205090,12390-12394|12457-12461,PREF|PREF,RIGHT|RIGHT
+not detected,http://sbmi.uth.tmc.edu/ontology/ochv#C0442737,12532-12543,PREF,NOT DETECTED
+detected,http://sbmi.uth.tmc.edu/ontology/ochv#C0442726,12536-12543,PREF,DETECTED
+line,http://sbmi.uth.tmc.edu/ontology/ochv#C0205132,12564-12567,PREF,LINE
+square,http://sbmi.uth.tmc.edu/ontology/ochv#C0205120,12967-12972,PREF,SQUARE
+dynamic,http://sbmi.uth.tmc.edu/ontology/ochv#C0729333,13109-13115|13278-13284,PREF|PREF,DYNAMIC|DYNAMIC
+patients,http://sbmi.uth.tmc.edu/ontology/ochv#9372,13141-13148|13512-13519,PREF|PREF,PATIENTS|PATIENTS
+mononeuropathy,http://sbmi.uth.tmc.edu/ontology/ochv#C0494491,13155-13168,PREF,MONONEUROPATHY
+primary,http://sbmi.uth.tmc.edu/ontology/ochv#20418,13480-13486,PREF,PRIMARY
+primary,http://sbmi.uth.tmc.edu/ontology/ochv#C0205225,13480-13486,PREF,PRIMARY
+somatosensory cortex,http://sbmi.uth.tmc.edu/ontology/ochv#11523,13488-13507,PREF,SOMATOSENSORY CORTEX
+somatosensory cortex,http://sbmi.uth.tmc.edu/ontology/ochv#C0037658,13488-13507,PREF,SOMATOSENSORY CORTEX
+unilateral,http://sbmi.uth.tmc.edu/ontology/ochv#C0205092,13526-13535,PREF,UNILATERAL
+kato,http://sbmi.uth.tmc.edu/ontology/ochv#45854,13713-13716,PREF,KATO
+kato,http://sbmi.uth.tmc.edu/ontology/ochv#C0721226,13713-13716,PREF,KATO
+fluorescent,http://sbmi.uth.tmc.edu/ontology/ochv#C0303920,13773-13783,PREF,FLUORESCENT
+labeling,http://sbmi.uth.tmc.edu/ontology/ochv#55452,13785-13792,PREF,LABELING
+labeling,http://sbmi.uth.tmc.edu/ontology/ochv#C1167624,13785-13792,PREF,LABELING
+vesicular,http://sbmi.uth.tmc.edu/ontology/ochv#C0205378,13839-13847,PREF,VESICULAR
+transporter,http://sbmi.uth.tmc.edu/ontology/ochv#C0596902,13854-13864,PREF,TRANSPORTER

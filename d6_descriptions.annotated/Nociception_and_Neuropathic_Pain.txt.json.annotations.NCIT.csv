@@ -1,0 +1,30 @@
+prefLabel,id,from_to,matchType,text
+Nociception,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C21075,1-11|825-835,PREF|PREF,NOCICEPTION|NOCICEPTION
+Process,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C29862,34-40,PREF,PROCESS
+Pain,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3303,79-82|169-172|401-404|564-567,PREF|PREF|PREF|PREF,PAIN|PAIN|PAIN|PAIN
+Peripheral,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25233,100-109|363-372,PREF|PREF,PERIPHERAL|PERIPHERAL
+Neural,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25363,111-116|222-227,PREF|PREF,NEURAL|NEURAL
+Central Nervous System,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12438,134-155,PREF,CENTRAL NERVOUS SYSTEM
+Nervous System,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12755,142-155,PREF,NERVOUS SYSTEM
+Nervous,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25584,142-148,PREF,NERVOUS
+System,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25700,150-155,PREF,SYSTEM
+Actual,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25274,190-195,PREF,ACTUAL
+Pending,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C53470,200-206,PREF,PENDING
+Damage,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C61555,208-213|474-479,PREF|PREF,DAMAGE|DAMAGE
+Due To,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C89272,243-248|300-305|409-414,PREF|PREF|PREF,DUE TO|DUE TO|DUE TO
+Activation,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C64382,250-259|276-285,PREF|PREF,ACTIVATION|ACTIVATION
+Combination,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C61517,309-319,PREF,COMBINATION
+Chemical,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C48807,339-346,PREF,CHEMICAL
+Sensitization,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C50738,348-360|374-386,PREF|PREF,SENSITIZATION|SENSITIZATION
+Neuropathic Pain,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C96210,389-404|552-567,PREF|PREF,NEUROPATHIC PAIN|NEUROPATHIC PAIN
+Clinical,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25398,416-423,PREF,CLINICAL
+Nerve Damage,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C50669,468-479,PREF,NERVE DAMAGE
+Nerve,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12466,468-472,PREF,NERVE
+Compression,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C41208,486-496,PREF,COMPRESSION
+Inflammation,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3137,499-510,PREF,INFLAMMATION
+Degeneration,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C61557,516-527,PREF,DEGENERATION
+Study,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C63536,534-538,PREF,STUDY
+Little,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C76350,583-588,PREF,LITTLE
+Confidence,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43367,594-603,PREF,CONFIDENCE
+Present,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25626,609-615,PREF,PRESENT
+Difference,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C46003,748-757,PREF,DIFFERENCE

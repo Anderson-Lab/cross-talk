@@ -1,0 +1,4 @@
+uri,uri_annotations
+file:/d5_descriptions/Demographics.txt.json,file:/d5_descriptions.annotated/Demographics.txt.json.annotations.SCIO.csv
+file:/d5_descriptions/Familial_Attributes.txt.json,file:/d5_descriptions.annotated/Familial_Attributes.txt.json.annotations.SCIO.csv
+file:/d5_descriptions/Genetics.txt.json,file:/d5_descriptions.annotated/Genetics.txt.json.annotations.SCIO.csv

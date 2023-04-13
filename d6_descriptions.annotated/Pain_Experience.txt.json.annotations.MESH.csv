@@ -1,0 +1,12 @@
+prefLabel,id,from_to,matchType,text
+Pain,http://purl.bioontology.org/ontology/MESH/D010146,83-86|100-103|145-148|207-210|227-230|260-263|360-363|390-393|430-433|465-468|550-553|597-600|738-741|767-770|831-834,PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF,PAIN|PAIN|PAIN|PAIN|PAIN|PAIN|PAIN|PAIN|PAIN|PAIN|PAIN|PAIN|PAIN|PAIN|PAIN
+Affect,http://purl.bioontology.org/ontology/MESH/D000339,150-155,PREF,AFFECT
+Perception,http://purl.bioontology.org/ontology/MESH/D010465,279-288,PREF,PERCEPTION
+Bias,http://purl.bioontology.org/ontology/MESH/D015982,290-293,PREF,BIAS
+Sensation,http://purl.bioontology.org/ontology/MESH/D012677,470-478|555-563,PREF|PREF,SENSATION|SENSATION
+Fatigue,http://purl.bioontology.org/ontology/MESH/D005221,623-629,PREF,FATIGUE
+Memory,http://purl.bioontology.org/ontology/MESH/D008568,660-665,PREF,MEMORY
+Lifting,http://purl.bioontology.org/ontology/MESH/D017770,897-903|909-916,PREF|SYN,LIFTING|CARRYING
+Activity,http://purl.bioontology.org/ontology/STY/T052,943-950,PREF,ACTIVITY
+Sick Leave,http://purl.bioontology.org/ontology/MESH/D018582,953-962,PREF,SICK LEAVE
+Functional Status,http://purl.bioontology.org/ontology/MESH/D000085542,986-1002,PREF,FUNCTIONAL STATUS

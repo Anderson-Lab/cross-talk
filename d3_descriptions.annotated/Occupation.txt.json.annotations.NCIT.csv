@@ -1,0 +1,17 @@
+prefLabel,id,from_to,matchType,text
+Occupational,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25600,1-12,PREF,OCCUPATIONAL
+Work,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C74299,26-29|92-95|293-296|338-341|437-440,PREF|PREF|PREF|PREF|PREF,WORK|WORK|WORK|WORK|WORK
+Employment Status,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C179143,55-71,PREF,EMPLOYMENT STATUS
+Status,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25688,66-71|298-303,PREF|PREF,STATUS|STATUS
+Satisfaction,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C62185,78-89,PREF,SATISFACTION
+Social,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C62650,112-117,PREF,SOCIAL
+Support,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C37902,119-125,PREF,SUPPORT
+Associated,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25281,151-160,PREF,ASSOCIATED
+Physical,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25618,172-179|428-435,PREF|PREF,PHYSICAL|PHYSICAL
+Fatigue,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3036,181-187,PREF,FATIGUE
+Exhaustion,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C181246,205-214,PREF,EXHAUSTION
+Data,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25474,281-284,PREF,DATA
+Little,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C76350,385-390|496-501,PREF|PREF,LITTLE|LITTLE
+Confidence,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43367,396-405|507-516,PREF|PREF,CONFIDENCE|CONFIDENCE
+Reduced,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25640,420-426,PREF,REDUCED
+Effect,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25492,467-472,PREF,EFFECT

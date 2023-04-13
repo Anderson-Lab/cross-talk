@@ -1,0 +1,60 @@
+prefLabel,id,from_to,matchType,text
+pain,http://sbmi.uth.tmc.edu/ontology/ochv#9185,13-16|45-48|207-210|595-598|652-655|1204-1207,PREF|PREF|PREF|PREF|PREF|PREF,PAIN|PAIN|PAIN|PAIN|PAIN|PAIN
+pain,http://sbmi.uth.tmc.edu/ontology/ochv#C0030193,13-16|45-48|207-210|595-598|652-655|1204-1207,PREF|PREF|PREF|PREF|PREF|PREF,PAIN|PAIN|PAIN|PAIN|PAIN|PAIN
+pain perception,http://sbmi.uth.tmc.edu/ontology/ochv#49233,45-59,PREF,PAIN PERCEPTION
+pain perception,http://sbmi.uth.tmc.edu/ontology/ochv#C0814071,45-59,PREF,PAIN PERCEPTION
+perception,http://sbmi.uth.tmc.edu/ontology/ochv#9468,50-59,PREF,PERCEPTION
+perception,http://sbmi.uth.tmc.edu/ontology/ochv#C0030971,50-59,PREF,PERCEPTION
+responses,http://sbmi.uth.tmc.edu/ontology/ochv#51316,65-73|195-202,PREF|SYN,RESPONSES|RESPONSE
+lazarus,http://sbmi.uth.tmc.edu/ontology/ochv#C0968374,96-102,PREF,LAZARUS
+behavioral medicine,http://sbmi.uth.tmc.edu/ontology/ochv#1756,145-163,PREF,BEHAVIORAL MEDICINE
+behavioral medicine,http://sbmi.uth.tmc.edu/ontology/ochv#C0004937,145-163,PREF,BEHAVIORAL MEDICINE
+medicine,http://sbmi.uth.tmc.edu/ontology/ochv#7863,156-163,PREF,MEDICINE
+response to pain,http://sbmi.uth.tmc.edu/ontology/ochv#C0424543,195-210,PREF,RESPONSE TO PAIN
+psychological well-being,http://sbmi.uth.tmc.edu/ontology/ochv#C0424578,248-271,PREF,PSYCHOLOGICAL WELL-BEING
+psychological,http://sbmi.uth.tmc.edu/ontology/ochv#57896,248-260,PREF,PSYCHOLOGICAL
+psychological,http://sbmi.uth.tmc.edu/ontology/ochv#C1306597,248-260,PREF,PSYCHOLOGICAL
+style,http://sbmi.uth.tmc.edu/ontology/ochv#37291,320-325|772-776|828-832,SYN|PREF|PREF,STYLES|STYLE|STYLE
+avoidance,http://sbmi.uth.tmc.edu/ontology/ochv#51036,387-395|676-684|718-726|1243-1251,PREF|PREF|PREF|PREF,AVOIDANCE|AVOIDANCE|AVOIDANCE|AVOIDANCE
+avoidance,http://sbmi.uth.tmc.edu/ontology/ochv#C0870186,387-395|676-684|718-726|1243-1251,PREF|PREF|PREF|PREF,AVOIDANCE|AVOIDANCE|AVOIDANCE|AVOIDANCE
+distress,http://sbmi.uth.tmc.edu/ontology/ochv#C0231303,411-418,PREF,DISTRESS
+endurance,http://sbmi.uth.tmc.edu/ontology/ochv#37627,420-428,PREF,ENDURANCE
+active,http://sbmi.uth.tmc.edu/ontology/ochv#20376,434-439|546-551,PREF|PREF,ACTIVE|ACTIVE
+active,http://sbmi.uth.tmc.edu/ontology/ochv#C0205177,434-439|546-551,PREF|PREF,ACTIVE|ACTIVE
+approach,http://sbmi.uth.tmc.edu/ontology/ochv#C0449445,441-448,PREF,APPROACH
+diversion,http://sbmi.uth.tmc.edu/ontology/ochv#19126,482-490,PREF,DIVERSION
+diversion,http://sbmi.uth.tmc.edu/ontology/ochv#C0185033,482-490,PREF,DIVERSION
+diversion,http://sbmi.uth.tmc.edu/ontology/ochv#34675,482-490,PREF,DIVERSION
+diversion,http://sbmi.uth.tmc.edu/ontology/ochv#C0439843,482-490,PREF,DIVERSION
+measures,http://sbmi.uth.tmc.edu/ontology/ochv#15235,570-577,PREF,MEASURES
+distraction,http://sbmi.uth.tmc.edu/ontology/ochv#C0150189,660-670,PREF,DISTRACTION
+activity,http://sbmi.uth.tmc.edu/ontology/ochv#C0439167,689-696|1265-1272,PREF|PREF,ACTIVITY|ACTIVITY
+activity,http://sbmi.uth.tmc.edu/ontology/ochv#C0441655,689-696|1265-1272,PREF|PREF,ACTIVITY|ACTIVITY
+style,http://sbmi.uth.tmc.edu/ontology/ochv#C0489654,772-776|828-832,PREF|PREF,STYLE|STYLE
+research,http://sbmi.uth.tmc.edu/ontology/ochv#10739,859-866,PREF,RESEARCH
+research,http://sbmi.uth.tmc.edu/ontology/ochv#C0035168,859-866,PREF,RESEARCH
+coping skills,http://sbmi.uth.tmc.edu/ontology/ochv#C0086059,871-883,PREF,COPING SKILLS
+coping skills,http://sbmi.uth.tmc.edu/ontology/ochv#15831,871-883,PREF,COPING SKILLS
+skills,http://sbmi.uth.tmc.edu/ontology/ochv#42926,878-883,PREF,SKILLS
+confidence,http://sbmi.uth.tmc.edu/ontology/ochv#C0237529,939-948|993-1002|1055-1064,PREF|PREF|PREF,CONFIDENCE|CONFIDENCE|CONFIDENCE
+self-efficacy,http://sbmi.uth.tmc.edu/ontology/ochv#C0600564,1010-1022,PREF,SELF-EFFICACY
+self,http://sbmi.uth.tmc.edu/ontology/ochv#11168,1010-1013,PREF,SELF
+self,http://sbmi.uth.tmc.edu/ontology/ochv#C0036588,1010-1013,PREF,SELF
+relationship,http://sbmi.uth.tmc.edu/ontology/ochv#C0439849,1070-1081,PREF,RELATIONSHIP
+disability,http://sbmi.uth.tmc.edu/ontology/ochv#C0231170,1086-1095,PREF,DISABILITY
+functional,http://sbmi.uth.tmc.edu/ontology/ochv#C0205245,1098-1107,PREF,FUNCTIONAL
+limitation,http://sbmi.uth.tmc.edu/ontology/ochv#C0449295,1109-1118,PREF,LIMITATION
+lifting,http://sbmi.uth.tmc.edu/ontology/ochv#C0206244,1121-1127,PREF,LIFTING
+lifting,http://sbmi.uth.tmc.edu/ontology/ochv#20877,1121-1127,PREF,LIFTING
+work,http://sbmi.uth.tmc.edu/ontology/ochv#C0043227,1139-1142,PREF,WORK
+work,http://sbmi.uth.tmc.edu/ontology/ochv#13188,1139-1142,PREF,WORK
+status,http://sbmi.uth.tmc.edu/ontology/ochv#C0449438,1144-1149,PREF,STATUS
+acute,http://sbmi.uth.tmc.edu/ontology/ochv#C0205178,1172-1176,PREF,ACUTE
+chronic,http://sbmi.uth.tmc.edu/ontology/ochv#C0205191,1181-1187,PREF,CHRONIC
+beliefs,http://sbmi.uth.tmc.edu/ontology/ochv#1764,1209-1215,PREF,BELIEFS
+reduced,http://sbmi.uth.tmc.edu/ontology/ochv#C0392756,1257-1263,PREF,REDUCED
+lead,http://sbmi.uth.tmc.edu/ontology/ochv#7256,1278-1281,PREF,LEAD
+lead,http://sbmi.uth.tmc.edu/ontology/ochv#C0023175,1278-1281,PREF,LEAD
+physical,http://sbmi.uth.tmc.edu/ontology/ochv#20620,1296-1303,PREF,PHYSICAL
+physical,http://sbmi.uth.tmc.edu/ontology/ochv#C0205485,1296-1303,PREF,PHYSICAL
+conditioning,http://sbmi.uth.tmc.edu/ontology/ochv#C0009647,1305-1316,PREF,CONDITIONING

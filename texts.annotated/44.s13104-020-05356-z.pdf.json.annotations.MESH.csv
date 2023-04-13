@@ -1,0 +1,60 @@
+prefLabel,id,from_to,matchType,text
+Address,http://purl.bioontology.org/ontology/MESH/D019484,302-308,PREF,ADDRESS
+Paper,http://purl.bioontology.org/ontology/MESH/D010209,329-333|2453-2457,PREF|PREF,PAPER|PAPER
+methods,http://purl.bioontology.org/ontology/MESH/Q000379,348-358|4123-4129,SYN|PREF,METHODOLOGY|METHODS
+Pain-Free,http://purl.bioontology.org/ontology/MESH/C121034,526-534,PREF,PAIN-FREE
+Pain,http://purl.bioontology.org/ontology/MESH/D010146,526-529|690-693|1326-1329|1890-1893|2902-2905|3533-3536|3694-3697|4776-4779|5299-5302|5896-5899|6002-6005|11430-11433,PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF,PAIN|PAIN|PAIN|PAIN|PAIN|PAIN|PAIN|PAIN|PAIN|PAIN|PAIN|PAIN
+Copyright,http://purl.bioontology.org/ontology/MESH/D003309,1286-1294,PREF,COPYRIGHT
+Low Back Pain,http://purl.bioontology.org/ontology/MESH/D017116,1317-1329|11421-11433,PREF|PREF,LOW BACK PAIN|LOW BACK PAIN
+Back Pain,http://purl.bioontology.org/ontology/MESH/D001416,1321-1329|11425-11433,PREF|PREF,BACK PAIN|BACK PAIN
+Recurrence,http://purl.bioontology.org/ontology/MESH/D012008,1864-1873|7971-7980|11459-11468,PREF|PREF|PREF,RECURRENCE|RECURRENCE|RECURRENCE
+Sleep,http://purl.bioontology.org/ontology/MESH/D012890,1968-1972|2659-2663|7418-7422,PREF|PREF|PREF,SLEEP|SLEEP|SLEEP
+Time,http://purl.bioontology.org/ontology/MESH/D013995,2107-2110|5052-5055|5083-5086|5200-5203|6303-6306|7009-7012|9560-9563|9609-9612|9679-9682|10942-10945,PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF,TIME|TIME|TIME|TIME|TIME|TIME|TIME|TIME|TIME|TIME
+Biological Factors,http://purl.bioontology.org/ontology/MESH/D001685,2276-2293,PREF,BIOLOGICAL FACTORS
+Data Collection,http://purl.bioontology.org/ontology/MESH/D003625,2500-2514|10205-10219,PREF|PREF,DATA COLLECTION|DATA COLLECTION
+Collection,http://purl.bioontology.org/ontology/MESH/D020471,2505-2514|9693-9702|10210-10219,PREF|PREF|PREF,COLLECTION|COLLECTION|COLLECTION
+Activity,http://purl.bioontology.org/ontology/STY/T052,2675-2682,PREF,ACTIVITY
+Smoking,http://purl.bioontology.org/ontology/MESH/D012907,2709-2715,PREF,SMOKING
+Health,http://purl.bioontology.org/ontology/MESH/D006262,2929-2934|8221-8226|10774-10779,PREF|PREF|PREF,HEALTH|HEALTH|HEALTH
+Queensland,http://purl.bioontology.org/ontology/MESH/D011793,3071-3080|10365-10374,PREF|PREF,QUEENSLAND|QUEENSLAND
+Group,http://purl.bioontology.org/ontology/STY/T096,3313-3317,PREF,GROUP
+Social Media,http://purl.bioontology.org/ontology/MESH/D061108,3984-3995,PREF,SOCIAL MEDIA
+Hospitals,http://purl.bioontology.org/ontology/MESH/D006761,4012-4020|10686-10693,PREF|SYN,HOSPITALS|HOSPITAL
+Methods,http://purl.bioontology.org/ontology/MESH/D008722,4123-4129|4209-4214,PREF|SYN,METHODS|METHOD
+Depression,http://purl.bioontology.org/ontology/MESH/D003863,4969-4978,PREF,DEPRESSION
+Respect,http://purl.bioontology.org/ontology/MESH/D000078682,5212-5218,PREF,RESPECT
+Blood,http://purl.bioontology.org/ontology/MESH/D001769,5536-5540|9527-9531|9687-9691,PREF|PREF|PREF,BLOOD|BLOOD|BLOOD
+blood,http://purl.bioontology.org/ontology/MESH/Q000097,5536-5540|9527-9531|9687-9691,PREF|PREF|PREF,BLOOD|BLOOD|BLOOD
+Temperature,http://purl.bioontology.org/ontology/MESH/D013696,5576-5586,PREF,TEMPERATURE
+Serum,http://purl.bioontology.org/ontology/MESH/D044967,5594-5598,PREF,SERUM
+Centrifugation,http://purl.bioontology.org/ontology/MESH/D002498,5617-5630,PREF,CENTRIFUGATION
+Forearm,http://purl.bioontology.org/ontology/MESH/D005542,5722-5728,PREF,FOREARM
+Sitting Position,http://purl.bioontology.org/ontology/MESH/D000077708,6065-6080,PREF,SITTING POSITION
+Pelvis,http://purl.bioontology.org/ontology/MESH/D010388,6094-6099,PREF,PELVIS
+Back Muscles,http://purl.bioontology.org/ontology/MESH/D064131,6383-6394,PREF,BACK MUSCLES
+Muscles,http://purl.bioontology.org/ontology/MESH/D009132,6388-6394|11302-11307,PREF|SYN,MUSCLES|MUSCLE
+Electrodes,http://purl.bioontology.org/ontology/MESH/D004566,6427-6436,PREF,ELECTRODES
+Rest,http://purl.bioontology.org/ontology/MESH/D012146,6780-6783,PREF,REST
+Feedback,http://purl.bioontology.org/ontology/MESH/D005246,6831-6838|7072-7079,PREF|PREF,FEEDBACK|FEEDBACK
+Body Weight,http://purl.bioontology.org/ontology/MESH/D001835,7032-7042,PREF,BODY WEIGHT
+Sleep Quality,http://purl.bioontology.org/ontology/MESH/D000089943,7418-7430,PREF,SLEEP QUALITY
+Dataset,http://purl.bioontology.org/ontology/MESH/D064886,7668-7674,PREF,DATASET
+Research,http://purl.bioontology.org/ontology/MESH/D012106,8012-8019|8101-8108|10473-10480|10617-10624|10702-10709|10787-10794|11256-11263,PREF|PREF|PREF|PREF|PREF|PREF|PREF,RESEARCH|RESEARCH|RESEARCH|RESEARCH|RESEARCH|RESEARCH|RESEARCH
+Intention,http://purl.bioontology.org/ontology/MESH/D033182,8130-8138,PREF,INTENTION
+Sample Size,http://purl.bioontology.org/ontology/MESH/D018401,8325-8335,PREF,SAMPLE SIZE
+Role,http://purl.bioontology.org/ontology/MESH/D012380,9306-9309|10179-10182,PREF|PREF,ROLE|ROLE
+Cytokines,http://purl.bioontology.org/ontology/MESH/D016207,9663-9671|9777-9784,PREF|SYN,CYTOKINES|CYTOKINE
+Abbreviations,http://purl.bioontology.org/ontology/MESH/D020463,9821-9833,PREF,ABBREVIATIONS
+Manuscript,http://purl.bioontology.org/ontology/MESH/D020486,10096-10105|10148-10157|10279-10288,PREF|PREF|PREF,MANUSCRIPT|MANUSCRIPT|MANUSCRIPT
+analysis,http://purl.bioontology.org/ontology/MESH/Q000032,10226-10233,PREF,ANALYSIS
+Australia,http://purl.bioontology.org/ontology/MESH/D001315,10387-10395,PREF,AUSTRALIA
+ethics,http://purl.bioontology.org/ontology/MESH/Q000941,10512-10517|10627-10632|10711-10716|10796-10801,PREF|PREF|PREF|PREF,ETHICS|ETHICS|ETHICS|ETHICS
+Ethics,http://purl.bioontology.org/ontology/MESH/D004989,10512-10517|10627-10632|10711-10716|10796-10801,PREF|PREF|PREF|PREF,ETHICS|ETHICS|ETHICS|ETHICS
+Human,http://purl.bioontology.org/ontology/STY/T016,10611-10615|10696-10700|10781-10785,PREF|PREF|PREF,HUMAN|HUMAN|HUMAN
+Informed Consent,http://purl.bioontology.org/ontology/MESH/D007258,10860-10875,PREF,INFORMED CONSENT
+Gold,http://purl.bioontology.org/ontology/MESH/D006046,11171-11174,PREF,GOLD
+Reflex,http://purl.bioontology.org/ontology/MESH/D012018,11309-11314,PREF,REFLEX
+Risk,http://purl.bioontology.org/ontology/MESH/D012306,11339-11342,PREF,RISK
+injuries,http://purl.bioontology.org/ontology/MESH/Q000293,11357-11364,PREF,INJURIES
+Literature,http://purl.bioontology.org/ontology/MESH/D008091,11515-11524,PREF,LITERATURE
+Nature,http://purl.bioontology.org/ontology/MESH/D019368,11571-11576,PREF,NATURE

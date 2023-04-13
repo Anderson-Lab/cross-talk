@@ -1,0 +1,211 @@
+prefLabel,id,from_to,matchType,text
+Chronic,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C14141,14-20|1529-1535|9939-9945|10041-10047,PREF|PREF|PREF|PREF,CHRONIC|CHRONIC|CHRONIC|CHRONIC
+Low,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C54722,22-24|1364-1366|9947-9949|10049-10051|10144-10146|10306-10308|10434-10436|10598-10600|10613-10615,PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF,LOW|LOW|LOW|LOW|LOW|LOW|LOW|LOW|LOW
+Back Pain,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C41830,26-34|1368-1376|4476-4484|4801-4809|9951-9959|10053-10061|10148-10156|10310-10318|10438-10446|10602-10610|10617-10625,PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF,BACK PAIN|BACK PAIN|BACK PAIN|BACK PAIN|BACK PAIN|BACK PAIN|BACK PAIN|BACK PAIN|BACK PAIN|BACK PAIN|BACK PAIN
+Pain,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3303,31-34|144-147|618-621|1373-1376|1726-1729|3725-3728|4010-4013|4128-4131|4481-4484|4806-4809|4837-4840|4854-4857|6220-6223|7269-7272|8364-8367|9956-9959|10058-10061|10125-10128|10153-10156|10315-10318|10443-10446|10607-10610|10622-10625,PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF,PAIN|PAIN|PAIN|PAIN|PAIN|PAIN|PAIN|PAIN|PAIN|PAIN|PAIN|PAIN|PAIN|PAIN|PAIN|PAIN|PAIN|PAIN|PAIN|PAIN|PAIN|PAIN|PAIN
+Major,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C45368,50-54|1389-1393,PREF|PREF,MAJOR|MAJOR
+Health,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25178,56-61|1402-1407|3378-3383,PREF|PREF|PREF,HEALTH|HEALTH|HEALTH
+Problem,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C28020,63-69|1409-1415,PREF|PREF,PROBLEM|PROBLEM
+Fifth,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C54567,92-96|8143-8147,PREF|PREF,FIFTH|FIFTH
+Injury,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3671,152-157|1734-1739|2152-2157,PREF|PREF|PREF,INJURY|INJURY|INJURY
+Patient,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C16960,160-167|582-589|872-879|3692-3699|3816-3823|3906-3913|4383-4390|4753-4760|6187-6194|6670-6677|6929-6936|7228-7235|7316-7323|7525-7532|7609-7616|7716-7723|7836-7843|8235-8242|8321-8328|8640-8646|9117-9124|9961-9968|10627-10634,SYN|SYN|SYN|SYN|SYN|SYN|SYN|SYN|SYN|SYN|SYN|SYN|SYN|SYN|SYN|SYN|SYN|SYN|SYN|PREF|SYN|SYN|SYN,PATIENTS|PATIENTS|PATIENTS|PATIENTS|PATIENTS|PATIENTS|PATIENTS|PATIENTS|PATIENTS|PATIENTS|PATIENTS|PATIENTS|PATIENTS|PATIENTS|PATIENTS|PATIENTS|PATIENTS|PATIENTS|PATIENTS|PATIENT|PATIENTS|PATIENTS|PATIENTS
+Movement,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C37994,205-212|676-683|1786-1793|1916-1923|3504-3511|4723-4730|6833-6840|7451-7458|7803-7810|8187-8194|9303-9310|9593-9600,PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF,MOVEMENT|MOVEMENT|MOVEMENT|MOVEMENT|MOVEMENT|MOVEMENT|MOVEMENT|MOVEMENT|MOVEMENT|MOVEMENT|MOVEMENT|MOVEMENT
+Pattern,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25336,214-220|6842-6848|7460-7466|7812-7818|8196-8202|9312-9318|9602-9608,PREF|PREF|PREF|PREF|PREF|PREF|PREF,PATTERN|PATTERN|PATTERN|PATTERN|PATTERN|PATTERN|PATTERN
+Unknown,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C17998,277-283,PREF,UNKNOWN
+Lumbar Spine,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C69314,308-313|2299-2310|2299-2304|2579-2584|2797-2802|3491-3502|3491-3496|3634-3639|5658-5663|5962-5967|6114-6119|6644-6649|6857-6862|7175-7180|7378-7383|7499-7504|8484-8495|8484-8489|8753-8764|8753-8758|8788-8793|9406-9411|9719-9724|10015-10020|10407-10412,SYN|PREF|SYN|SYN|SYN|PREF|SYN|SYN|SYN|SYN|SYN|SYN|SYN|SYN|SYN|SYN|PREF|SYN|PREF|SYN|SYN|SYN|SYN|SYN|SYN,LUMBAR|LUMBAR SPINE|LUMBAR|LUMBAR|LUMBAR|LUMBAR SPINE|LUMBAR|LUMBAR|LUMBAR|LUMBAR|LUMBAR|LUMBAR|LUMBAR|LUMBAR|LUMBAR|LUMBAR|LUMBAR SPINE|LUMBAR|LUMBAR SPINE|LUMBAR|LUMBAR|LUMBAR|LUMBAR|LUMBAR|LUMBAR
+Lordosis,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C34787,315-322|2586-2593|2804-2811|3641-3648|5665-5672|5969-5976|6121-6128|6651-6658|6864-6871|7182-7189|7506-7513|7685-7692|8795-8802|9413-9420|9726-9733|10414-10421,PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF,LORDOSIS|LORDOSIS|LORDOSIS|LORDOSIS|LORDOSIS|LORDOSIS|LORDOSIS|LORDOSIS|LORDOSIS|LORDOSIS|LORDOSIS|LORDOSIS|LORDOSIS|LORDOSIS|LORDOSIS|LORDOSIS
+Angle,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C67505,324-328|2595-2599|2813-2817|5934-5938|5978-5982|6982-6986|7049-7053|9422-9426,PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF,ANGLE|ANGLE|ANGLE|ANGLE|ANGLE|ANGLE|ANGLE|ANGLE
+Walking,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C73554,373-379|490-496|757-763|941-947|1001-1007|1114-1120|1238-1244|2390-2396|3231-3237|3534-3540|3664-3670|5363-5369|5498-5504|6757-6763|7205-7211|7428-7434|8617-8623|8668-8674|9435-9441|9970-9973|10211-10217,PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|SYN|PREF,WALKING|WALKING|WALKING|WALKING|WALKING|WALKING|WALKING|WALKING|WALKING|WALKING|WALKING|WALKING|WALKING|WALKING|WALKING|WALKING|WALKING|WALKING|WALKING|WALK|WALKING
+Running,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C94737,384-390|502-508|769-775|953-959|1145-1151|1250-1256|2445-2451|3243-3249|3546-3552|3676-3682|4170-4176|5375-5381|5510-5516|6769-6775|6887-6893|7217-7223|7475-7481|7852-7858|8045-8051|8629-8635|9327-9333|9447-9453|9617-9623|9770-9776|10223-10229|10395-10401,PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF,RUNNING|RUNNING|RUNNING|RUNNING|RUNNING|RUNNING|RUNNING|RUNNING|RUNNING|RUNNING|RUNNING|RUNNING|RUNNING|RUNNING|RUNNING|RUNNING|RUNNING|RUNNING|RUNNING|RUNNING|RUNNING|RUNNING|RUNNING|RUNNING|RUNNING|RUNNING
+Pilot Study,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C15303,398-408|398-402|3579-3589|3579-3583|3883-3893|3883-3887|7120-7130|7120-7124,PREF|SYN|PREF|SYN|PREF|SYN|PREF|SYN,PILOT STUDY|PILOT|PILOT STUDY|PILOT|PILOT STUDY|PILOT|PILOT STUDY|PILOT
+Study,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C63536,404-408|1165-1169|3585-3589|3889-3893|4560-4564|7126-7130|8550-8554|9353-9357,PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF,STUDY|STUDY|STUDY|STUDY|STUDY|STUDY|STUDY|STUDY
+Possible,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C82490,439-446|3610-3617|6090-6097|7151-7158,PREF|PREF|PREF|PREF,POSSIBLE|POSSIBLE|POSSIBLE|POSSIBLE
+Discrete,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C75300,525-532|3026-3033|3759-3766|6138-6145|7025-7032,PREF|PREF|PREF|PREF|PREF,DISCRETE|DISCRETE|DISCRETE|DISCRETE|DISCRETE
+Data,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25474,567-570|1033-1036|3018-3021|3112-3115|3801-3804|5582-5585|6173-6176|6609-6612|7055-7058|8965-8968,PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF,DATA|DATA|DATA|DATA|DATA|DATA|DATA|DATA|DATA|DATA
+Thirteen,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C113427,573-580|3807-3814,PREF|PREF,THIRTEEN|THIRTEEN
+Healthy,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C115935,610-616|3717-3723|3844-3850|3975-3981|6212-6218|7261-7267|7635-7641|8158-8164|8356-8362|8583-8589|9165-9171,PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF,HEALTHY|HEALTHY|HEALTHY|HEALTHY|HEALTHY|HEALTHY|HEALTHY|HEALTHY|HEALTHY|HEALTHY|HEALTHY
+Analysis,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25391,685-692|4732-4739|7593-7600,PREF|PREF|PREF,ANALYSIS|ANALYSIS|ANALYSIS
+Standing,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C62166,747-754|931-938|5334-5341|5448-5455|8607-8614|8655-8662|10477-10484,PREF|PREF|PREF|PREF|PREF|PREF|PREF,STANDING|STANDING|STANDING|STANDING|STANDING|STANDING|STANDING
+Reduced,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25640,903-909|2996-3002|7406-7412,PREF|PREF|PREF,REDUCED|REDUCED|REDUCED
+Average,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C37917,911-917|9034-9040,PREF|PREF,AVERAGE|AVERAGE
+Lower,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C86568,980-984|6638-6642|10183-10187,PREF|PREF|PREF,LOWER|LOWER|LOWER
+Lower,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25309,980-984|6638-6642|10183-10187,PREF|PREF|PREF,LOWER|LOWER|LOWER
+Largest,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25550,1052-1058|6701-6707,PREF|PREF,LARGEST|LARGEST
+Group,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43359,1060-1064|6474-6478,PREF|PREF,GROUP|GROUP
+Cycle,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25472,1153-1157|6777-6782|9778-9782,PREF|SYN|PREF,CYCLE|CYCLES|CYCLE
+Evidence,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43583,1192-1199|1877-1884|9368-9375,PREF|PREF|PREF,EVIDENCE|EVIDENCE|EVIDENCE
+Basis,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25430,1290-1294|2497-2501|9487-9491,PREF|SYN|PREF,BASIS|BASED|BASIS
+Future,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C67527,1300-1305|8851-8856|9497-9502,PREF|PREF|PREF,FUTURE|FUTURE|FUTURE
+Large,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C49508,1307-1311|9504-9508,PREF|PREF,LARGE|LARGE
+Scale,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25664,1313-1317|4529-4533|9510-9514,PREF|PREF|PREF,SCALE|SCALE|SCALE
+Hypothesis,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C28362,1344-1353|9541-9550,PREF|PREF,HYPOTHESIS|HYPOTHESIS
+Testing,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C15336,1355-1361|9552-9558,PREF|PREF,TESTING|TESTING
+Global,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C68846,1395-1400,PREF,GLOBAL
+Up to,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C64643,1423-1427,PREF,UP TO
+Episode,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C75539,1471-1477,PREF,EPISODE
+Form,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C19464,1537-1540,PREF,FORM
+Order,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C48906,1561-1565|8950-8954,PREF|PREF,ORDER|ORDER
+Order,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C54092,1561-1565|8950-8954,PREF|PREF,ORDER|ORDER
+Order,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C42680,1561-1565|8950-8954,PREF|PREF,ORDER|ORDER
+Order,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C45287,1561-1565|8950-8954,PREF|PREF,ORDER|ORDER
+Better,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C71685,1578-1583|2281-2286,PREF|PREF,BETTER|BETTER
+Underlying,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C154417,1654-1663,PREF,UNDERLYING
+High,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25227,1692-1695|8024-8027|8094-8097|8929-8934|10576-10581,PREF|PREF|PREF|SYN|SYN,HIGH|HIGH|HIGH|HIGHER|HIGHER
+People,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C95553,1742-1747|10586-10591,PREF|PREF,PEOPLE|PEOPLE
+Trunk,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C33816,1780-1784|2532-2536|7916-7920|10166-10170|10353-10357,PREF|PREF|PREF|PREF|PREF,TRUNK|TRUNK|TRUNK|TRUNK|TRUNK
+Potential,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C62230,1805-1813,PREF,POTENTIAL
+Impact,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C122929,1815-1820,PREF,IMPACT
+Certain,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C107561,1901-1907,PREF,CERTAIN
+Spinal,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C38026,1909-1914|2076-2081|5101-5106|8282-8287|9996-10001|10232-10237,PREF|PREF|PREF|PREF|PREF|PREF,SPINAL|SPINAL|SPINAL|SPINAL|SPINAL|SPINAL
+Daily,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25473,1943-1947|10288-10292,PREF|PREF,DAILY|DAILY
+Persistent,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43623,1992-2001,PREF,PERSISTENT
+Long,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C48311,2024-2027,PREF,LONG
+Long,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25248,2024-2027,PREF,LONG
+Term,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C45559,2029-2032,PREF,TERM
+Term,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25703,2029-2032,PREF,TERM
+Disruption,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25486,2042-2051,PREF,DISRUPTION
+Muscle,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C13056,2095-2100,PREF,MUSCLE
+Fatigue,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3036,2102-2108,PREF,FATIGUE
+Past,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25609,2226-2229,PREF,PAST
+Decade,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C87556,2231-2236,PREF,DECADE
+Have,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C101282,2263-2266|3140-3143|9195-9198,PREF|PREF|PREF,HAVE|HAVE|HAVE
+Function,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25518,2312-2319|5840-5847,PREF|PREF,FUNCTION|FUNCTION
+Chair,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C122026,2399-2403,PREF,CHAIR
+Object,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C45281,2413-2418|8303-8308|8434-8439,PREF|PREF|PREF,OBJECT|OBJECT|OBJECT
+Lifting,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C86567,2420-2426|8310-8316|8423-8429,PREF|PREF|PREF,LIFTING|LIFTING|LIFTING
+Defined,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C165683,2518-2524,PREF,DEFINED
+Parameter,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C44175,2613-2621|2833-2841|9674-9682,PREF|PREF|PREF,PARAMETER|PARAMETER|PARAMETER
+Additional,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25406,2697-2706|4345-4354,PREF|PREF,ADDITIONAL|ADDITIONAL
+Information,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C48191,2708-2718|3176-3186,PREF|PREF,INFORMATION|INFORMATION
+Clinical,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25398,2824-2831|8099-8106,PREF|PREF,CLINICAL|CLINICAL
+Known,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C80137,2851-2858|4235-4239,SYN|PREF,FAMILIAR|KNOWN
+Clinician,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C85499,2869-2877,PREF,CLINICIAN
+Range of Motion,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C63507,3054-3068|10022-10036,PREF|PREF,RANGE OF MOTION|RANGE OF MOTION
+Range,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C38013,3054-3058|6453-6457|10022-10026,PREF|PREF|PREF,RANGE|RANGE|RANGE
+Motion,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C75602,3063-3068|5108-5113|7414-7419|8289-8294|8692-8697|10031-10036,PREF|PREF|PREF|PREF|PREF|PREF,MOTION|MOTION|MOTION|MOTION|MOTION|MOTION
+Time,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25207,3122-3125,PREF,TIME
+Missing,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C54031,3156-3162,PREF,MISSING
+Physical Activity,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C17708,3212-3228|3315-3331,PREF|PREF,PHYSICAL ACTIVITY|PHYSICAL ACTIVITY
+Physical,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25618,3212-3219|3315-3322,PREF|PREF,PHYSICAL|PHYSICAL
+Activity,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43431,3221-3228|3324-3331|5457-5464|7999-8006,PREF|PREF|PREF|PREF,ACTIVITY|ACTIVITY|ACTIVITY|ACTIVITY
+Associated,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25281,3354-3363,PREF,ASSOCIATED
+Prior,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25629,4023-4027|5587-5589,PREF|SYN,PRIOR|PRE
+History,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C54625,4029-4035|4090-4096,PREF|PREF,HISTORY|HISTORY
+Exclusion Criteria,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25370,4048-4065|4048-4056|4356-4373|4356-4364,PREF|SYN|PREF|SYN,EXCLUSION CRITERIA|EXCLUSION|EXCLUSION CRITERIA|EXCLUSION
+Exclusion,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C82931,4048-4056|4356-4364,PREF|PREF,EXCLUSION|EXCLUSION
+Nerve Root,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C54024,4117-4126,PREF,NERVE ROOT
+Nerve,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12466,4117-4121,PREF,NERVE
+Root,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C79664,4123-4126,PREF,ROOT
+Root,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C33446,4123-4126,PREF,ROOT
+Gait,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C75445,4162-4165|10568-10571,PREF|PREF,GAIT|GAIT
+Severe,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C70667,4188-4193,PREF,SEVERE
+Psychological,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C94316,4195-4207,PREF,PSYCHOLOGICAL
+Pregnancy,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25742,4241-4249,PREF,PREGNANCY
+Less Than,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C61585,4269-4277,PREF,LESS THAN
+Postnatal,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C81317,4288-4296,PREF,POSTNATAL
+Body Mass Index,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C16358,4311-4325|4328-4330,PREF|SYN,BODY MASS INDEX|BMI
+Body,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C13041,4311-4314,PREF,BODY
+Mass,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C34808,4316-4319,PREF,MASS
+Mass,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43246,4316-4319,PREF,MASS
+Index,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25390,4321-4325,PREF,INDEX
+Twice,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C65134,4452-4456,PREF,TWICE
+Week,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C29844,4460-4463,PREF,WEEK
+Current,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25471,4468-4474|4793-4799,PREF|PREF,CURRENT|CURRENT
+Level,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25554,4486-4490|4811-4815|5012-5016|5397-5401|6558-6562|6796-6800,PREF|PREF|PREF|PREF|PREF|PREF,LEVEL|LEVEL|LEVEL|LEVEL|LEVEL|LEVEL
+Visual Analog Scale,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C121547,4515-4533|4536-4538|4825-4827,PREF|SYN|SYN,VISUAL ANALOG SCALE|VAS|VAS
+Visual,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C38059,4515-4520,PREF,VISUAL
+Analog,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C1513,4522-4527,PREF,ANALOG
+Study Protocol,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C70817,4560-4573|4566-4573,PREF|SYN,STUDY PROTOCOL|PROTOCOL
+Protocol,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C42651,4566-4573,PREF,PROTOCOL
+Approved By,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C42615,4579-4589,PREF,APPROVED BY
+Local,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C67263,4595-4599,PREF,LOCAL
+Ethics Committee,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C142541,4601-4616,PREF,ETHICS COMMITTEE
+Ethics,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C39796,4601-4606,PREF,ETHICS
+Committee,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C78508,4608-4616,PREF,COMMITTEE
+Informed Consent,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C16735,4656-4671,PREF,INFORMED CONSENT
+Informed,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C37896,4656-4663,PREF,INFORMED
+Consent,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25460,4665-4671,PREF,CONSENT
+Visit,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25716,4710-4714,PREF,VISIT
+Laboratory,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C37984,4741-4750,PREF,LABORATORY
+Rate,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25636,4782-4785,PREF,RATE
+Worst,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25719,4848-4852,PREF,WORST
+Complete,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25250,4878-4885|7009-7016,PREF|PREF,COMPLETE|COMPLETE
+German,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43855,4891-4896,PREF,GERMAN
+Version,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25714,4898-4904,PREF,VERSION
+Disability,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C21007,4924-4933|5033-5042,PREF|PREF,DISABILITY|DISABILITY
+Bed,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C50367,4942-4944,PREF,BED
+Bound,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C70987,4946-4950,PREF,BOUND
+Sacrum,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C33508,5227-5232,PREF,SACRUM
+Performed,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C38000,5268-5274|5470-5478,SYN|PREF,PERFORM|PERFORMED
+Variety,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C62709,5278-5284,PREF,VARIETY
+Upright,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C86043,5326-5332,PREF,UPRIGHT
+Meter,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C41139,5391-5395,PREF,METER
+Normal,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C14165,5416-5421,PREF,NORMAL
+Self,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25200,5423-5426,PREF,SELF
+Speed,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C41146,5437-5441,PREF,SPEED
+Valid,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C71756,5554-5558,PREF,VALID
+Processing,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C48177,5591-5600,PREF,PROCESSING
+Package,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C79887,5635-5641,PREF,PACKAGE
+Package,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C54192,5635-5641,PREF,PACKAGE
+Routine,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C47893,5730-5736,PREF,ROUTINE
+Brief,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C61484,5765-5769,PREF,BRIEF
+Combination,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C61517,5785-5795,PREF,COMBINATION
+Polynomial,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C78538,5812-5821,PREF,POLYNOMIAL
+Circle,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C45789,5829-5834,PREF,CIRCLE
+Fit,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C70826,5836-5838,PREF,FIT
+Sagittal Plane,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C94973,5856-5869|5856-5863,PREF|SYN,SAGITTAL PLANE|SAGITTAL
+Plane,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C63534,5865-5869|10527-10531,PREF|PREF,PLANE|PLANE
+Means,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C47955,6254-6258,PREF,MEANS
+Standard,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C81893,6264-6271|6425-6432,PREF|PREF,STANDARD|STANDARD
+Standard,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C44275,6264-6271|6425-6432,PREF|PREF,STANDARD|STANDARD
+Confidence,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43367,6344-6353|6785-6794,PREF|PREF,CONFIDENCE|CONFIDENCE
+Standard Deviation,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C53322,6425-6442,PREF,STANDARD DEVIATION
+Alpha,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C72484,6552-6556,PREF,ALPHA
+Alpha,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C86942,6552-6556,PREF,ALPHA
+Set,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C47894,6564-6566|7018-7020,PREF|PREF,SET|SET
+Fig,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C71971,6811-6813,PREF,FIG
+Foot,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C32622,6994-6997,PREF,FOOT
+Material,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C48187,7105-7112,PREF,MATERIAL
+Attenuated,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C28034,7488-7497,PREF,ATTENUATED
+Attenuation,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C61471,7488-7497|7694-7704,SYN|PREF,ATTENUATED|ATTENUATION
+Line,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C71604,7553-7556,PREF,LINE
+Recent,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25280,7581-7586,PREF,RECENT
+Meta-Analysis,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C17886,7588-7600,PREF,META-ANALYSIS
+Observed,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25599,7676-7683|7820-7827,PREF|PREF,OBSERVED|OBSERVED
+Overcorrection,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C72890,7894-7907,PREF,OVERCORRECTION
+Overcorrection,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C50682,7894-7907,PREF,OVERCORRECTION
+Strategy,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C147914,7933-7940,PREF,STRATEGY
+Round,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C48348,8448-8452,PREF,ROUND
+Factor,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25506,8535-8540,PREF,FACTOR
+System,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25700,8707-8712,PREF,SYSTEM
+Use,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25340,8894-8896|9652-9654,PREF|PREF,USE|USE
+Use,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C95018,8894-8896|9652-9654,PREF|PREF,USE|USE
+Resolution,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C47876,8936-8945,PREF,RESOLUTION
+Resolution,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C75906,8936-8945,PREF,RESOLUTION
+Loss,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25559,8970-8973,PREF,LOSS
+Due To,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C89272,8975-8980,PREF,DUE TO
+Significant,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C41130,9092-9102,PREF,SIGNIFICANT
+Expected,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25501,9244-9251,PREF,EXPECTED
+Age,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25150,9263-9265,PREF,AGE
+Difference,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C46003,9267-9276|9823-9830,PREF|SYN,DIFFERENCE|CONFLICT
+Summary,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C42581,9339-9345,PREF,SUMMARY
+Make,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C64661,9638-9641,PREF,MAKE
+Outcome,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C20200,9666-9672,PREF,OUTCOME
+Interest,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C60730,9835-9842,PREF,INTEREST
+Financial,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C72888,9917-9925,PREF,FINANCIAL
+Assistance,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C89271,9927-9936,PREF,ASSISTANCE
+Locally,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C41065,9980-9986,PREF,LOCALLY
+Task,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C101129,10079-10082,PREF,TASK
+Fear,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C77960,10138-10141,PREF,FEAR
+Limb,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12429,10189-10192,PREF,LIMB
+Coordination,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25462,10328-10339,PREF,COORDINATION
+Variability,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C85443,10376-10386,PREF,VARIABILITY
+Development,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C18732,10448-10458,PREF,DEVELOPMENT
+Development,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84377,10448-10458,PREF,DEVELOPMENT
+Prolonged Standing,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C168402,10467-10484,PREF,PROLONGED STANDING
+Transverse Plane,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C73849,10516-10531|10516-10525,PREF|SYN,TRANSVERSE PLANE|TRANSVERSE
+Pelvis,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12767,10533-10538,PREF,PELVIS
+Thorax,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12799,10544-10549,PREF,THORAX
+Motor,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C28367,10651-10655,PREF,MOTOR
+Behavior,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C16326,10657-10664,PREF,BEHAVIOR
+Secondary,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25667,10679-10687,PREF,SECONDARY

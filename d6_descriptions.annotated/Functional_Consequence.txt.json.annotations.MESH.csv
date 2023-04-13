@@ -1,0 +1,11 @@
+prefLabel,id,from_to,matchType,text
+Pain,http://purl.bioontology.org/ontology/MESH/D010146,1-4|193-196|430-433|510-513,PREF|PREF|PREF|PREF,PAIN|PAIN|PAIN|PAIN
+Persons,http://purl.bioontology.org/ontology/MESH/D009272,80-86,PREF,PERSONS
+secondary,http://purl.bioontology.org/ontology/MESH/Q000556,180-188,PREF,SECONDARY
+Overall,http://purl.bioontology.org/ontology/MESH/D016424,210-216,PREF,OVERALL
+Quality of Life,http://purl.bioontology.org/ontology/MESH/D011788,218-232,PREF,QUALITY OF LIFE
+Life,http://purl.bioontology.org/ontology/MESH/D019369,229-232,PREF,LIFE
+Lifting,http://purl.bioontology.org/ontology/MESH/D017770,397-403|405-412,PREF|SYN,LIFTING|CARRYING
+Return to Work,http://purl.bioontology.org/ontology/MESH/D062707,446-459,PREF,RETURN TO WORK
+Work,http://purl.bioontology.org/ontology/MESH/D014937,456-459,PREF,WORK
+Chronic Pain,http://purl.bioontology.org/ontology/MESH/D059350,502-513,PREF,CHRONIC PAIN

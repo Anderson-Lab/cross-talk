@@ -1,0 +1,17 @@
+prefLabel,id,from_to,matchType,text
+Tissue,http://psink.de/scio/Tissue,939-944,PREF,TISSUE
+Injury,http://psink.de/scio/Injury,955-960|11635-11640,PREF|PREF,INJURY|INJURY
+Treatment,http://psink.de/scio/Treatment,998-1006,PREF,TREATMENT
+Change,http://psink.de/scio/Change,2414-2419|7366-7371|9043-9048|9108-9113|9221-9226,PREF|PREF|PREF|PREF|PREF,CHANGE|CHANGE|CHANGE|CHANGE|CHANGE
+Depth,http://psink.de/scio/Depth,2582-2586,PREF,DEPTH
+Current,http://psink.de/scio/Current,2788-2794,PREF,CURRENT
+Cell,http://psink.de/scio/Cell,2921-2924|5668-5671|6310-6313|6358-6361|8167-8170,PREF|PREF|PREF|PREF|PREF,CELL|CELL|CELL|CELL|CELL
+Vehicle,http://psink.de/scio/Vehicle,4004-4010|12924-12930,PREF|PREF,VEHICLE|VEHICLE
+Isoflurane,http://psink.de/scio/Isoflurane,4126-4135,PREF,ISOFLURANE
+Pressure,http://psink.de/scio/Pressure,5472-5479,PREF,PRESSURE
+Result,http://psink.de/scio/Result,7211-7216|9735-9740|10239-10244,PREF|PREF|PREF,RESULT|RESULT|RESULT
+Location,http://psink.de/scio/Location,8307-8314|10819-10826|12409-12416,PREF|PREF|PREF,LOCATION|LOCATION|LOCATION
+Increase,http://psink.de/scio/Increase,9673-9680,PREF,INCREASE
+Function,http://psink.de/scio/Function,11445-11452,PREF,FUNCTION
+Brain,http://psink.de/scio/Brain,11576-11580|12616-12620,PREF|PREF,BRAIN|BRAIN
+Right,http://psink.de/scio/Right,12390-12394|12457-12461,PREF|PREF,RIGHT|RIGHT

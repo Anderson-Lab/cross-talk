@@ -1,0 +1,3 @@
+prefLabel,id,from_to,matchType,text
+Pain,http://purl.bioontology.org/ontology/MESH/D010146,28-31|322-325,PREF|PREF,PAIN|PAIN
+Inflammation,http://purl.bioontology.org/ontology/MESH/D007249,300-311,PREF,INFLAMMATION

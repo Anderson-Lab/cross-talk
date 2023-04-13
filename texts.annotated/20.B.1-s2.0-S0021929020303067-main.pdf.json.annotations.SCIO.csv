@@ -1,0 +1,8 @@
+prefLabel,id,from_to,matchType,text
+Injury,http://psink.de/scio/Injury,152-157|1734-1739|2152-2157,PREF|PREF|PREF,INJURY|INJURY|INJURY
+Vertebrae,http://psink.de/scio/Vertebrae,848-856,PREF,VERTEBRAE
+Hypothesis,http://psink.de/scio/Hypothesis,1344-1353|9541-9550,PREF|PREF,HYPOTHESIS|HYPOTHESIS
+Treatment,http://psink.de/scio/Treatment,1585-1593|2939-2947,PREF|PREF,TREATMENT|TREATMENT
+Function,http://psink.de/scio/Function,2312-2319|5840-5847,PREF|PREF,FUNCTION|FUNCTION
+Current,http://psink.de/scio/Current,4468-4474|4793-4799,PREF|PREF,CURRENT|CURRENT
+Age,http://psink.de/scio/Age,9263-9265,PREF,AGE

@@ -1,0 +1,15 @@
+prefLabel,id,from_to,matchType,text
+Nociception,http://purl.bioontology.org/ontology/MESH/D059225,1-11|825-835,PREF|PREF,NOCICEPTION|NOCICEPTION
+Nociceptors,http://purl.bioontology.org/ontology/MESH/D009619,60-70|264-274,PREF|PREF,NOCICEPTORS|NOCICEPTORS
+Pain,http://purl.bioontology.org/ontology/MESH/D010146,79-82|169-172|401-404|564-567,PREF|PREF|PREF|PREF,PAIN|PAIN|PAIN|PAIN
+Neural Pathways,http://purl.bioontology.org/ontology/MESH/D009434,111-125,PREF,NEURAL PATHWAYS
+Central Nervous System,http://purl.bioontology.org/ontology/MESH/D002490,134-155,PREF,CENTRAL NERVOUS SYSTEM
+Nervous System,http://purl.bioontology.org/ontology/MESH/D009420,142-155,PREF,NERVOUS SYSTEM
+Nociceptive Pain,http://purl.bioontology.org/ontology/MESH/D059226,157-172,PREF,NOCICEPTIVE PAIN
+Spine,http://purl.bioontology.org/ontology/MESH/D013131,229-233,PREF,SPINE
+Tissues,http://purl.bioontology.org/ontology/MESH/D014024,235-241,PREF,TISSUES
+Chemical,http://purl.bioontology.org/ontology/STY/T103,339-346,PREF,CHEMICAL
+Inflammation,http://purl.bioontology.org/ontology/MESH/D007249,499-510,PREF,INFLAMMATION
+Signs and Symptoms,http://purl.bioontology.org/ontology/MESH/D012816,646-663,PREF,SIGNS AND SYMPTOMS
+Radiculopathy,http://purl.bioontology.org/ontology/MESH/D011843,692-704,PREF,RADICULOPATHY
+Disease,http://purl.bioontology.org/ontology/MESH/D004194,716-722|759-765,PREF|PREF,DISEASE|DISEASE

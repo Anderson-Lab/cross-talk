@@ -1,0 +1,14 @@
+prefLabel,id,from_to,matchType,text
+Activity,http://purl.bioontology.org/ontology/STY/T052,10-17|226-233|352-359|562-569|735-742,PREF|PREF|PREF|PREF|PREF,ACTIVITY|ACTIVITY|ACTIVITY|ACTIVITY|ACTIVITY
+Movement,http://purl.bioontology.org/ontology/MESH/D009068,49-57|375-382,SYN|PREF,MOVEMENTS|MOVEMENT
+Spine,http://purl.bioontology.org/ontology/MESH/D013131,68-72,PREF,SPINE
+Literature,http://purl.bioontology.org/ontology/MESH/D008091,74-83,PREF,LITERATURE
+Sports,http://purl.bioontology.org/ontology/MESH/D013177,290-295,PREF,SPORTS
+World Health Organization,http://purl.bioontology.org/ontology/MESH/D014944,309-333,PREF,WORLD HEALTH ORGANIZATION
+Health,http://purl.bioontology.org/ontology/MESH/D006262,315-320,PREF,HEALTH
+Organization,http://purl.bioontology.org/ontology/STY/T092,322-333,PREF,ORGANIZATION
+Accelerometry,http://purl.bioontology.org/ontology/MESH/D061725,820-832,PREF,ACCELEROMETRY
+Work,http://purl.bioontology.org/ontology/MESH/D014937,849-852,PREF,WORK
+Pain,http://purl.bioontology.org/ontology/MESH/D010146,878-881,PREF,PAIN
+Fear,http://purl.bioontology.org/ontology/MESH/D005239,935-938|1033-1036,PREF|PREF,FEAR|FEAR
+Patients,http://purl.bioontology.org/ontology/MESH/D010361,1000-1007,PREF,PATIENTS

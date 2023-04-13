@@ -1,0 +1,3 @@
+prefLabel,id,from_to,matchType,text
+Age,http://psink.de/scio/Age,56-58|551-553,PREF|PREF,AGE|AGE
+Gender,http://psink.de/scio/Gender,495-500,PREF,GENDER

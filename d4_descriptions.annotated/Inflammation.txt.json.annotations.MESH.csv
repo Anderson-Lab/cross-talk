@@ -1,0 +1,18 @@
+prefLabel,id,from_to,matchType,text
+Inflammation,http://purl.bioontology.org/ontology/MESH/D007249,9-20|184-195|499-510|1132-1143,PREF|PREF|PREF|PREF,INFLAMMATION|INFLAMMATION|INFLAMMATION|INFLAMMATION
+Cytokines,http://purl.bioontology.org/ontology/MESH/D016207,69-77|610-617,PREF|SYN,CYTOKINES|CYTOKINE
+Low Back Pain,http://purl.bioontology.org/ontology/MESH/D017116,157-169,PREF,LOW BACK PAIN
+Back Pain,http://purl.bioontology.org/ontology/MESH/D001416,161-169|426-434,PREF|PREF,BACK PAIN|BACK PAIN
+Pain,http://purl.bioontology.org/ontology/MESH/D010146,166-169|431-434,PREF|PREF,PAIN|PAIN
+Tissue,http://purl.bioontology.org/ontology/STY/T024,216-221,PREF,TISSUE
+Pathologic Processes,http://purl.bioontology.org/ontology/MESH/D010335,242-261,PREF,PATHOLOGIC PROCESSES
+Osteoarthritis,http://purl.bioontology.org/ontology/MESH/D010003,298-311,PREF,OSTEOARTHRITIS
+Ligaments,http://purl.bioontology.org/ontology/MESH/D008022,391-399,PREF,LIGAMENTS
+Obesity,http://purl.bioontology.org/ontology/MESH/D009765,436-442,PREF,OBESITY
+Biomarkers,http://purl.bioontology.org/ontology/MESH/D015415,512-521,PREF,BIOMARKERS
+Necrosis,http://purl.bioontology.org/ontology/MESH/D009336,572-579,PREF,NECROSIS
+Substance P,http://purl.bioontology.org/ontology/MESH/D013373,736-746,PREF,SUBSTANCE P
+Substance,http://purl.bioontology.org/ontology/STY/T167,736-744,PREF,SUBSTANCE
+Nitrous Oxide,http://purl.bioontology.org/ontology/MESH/D009609,764-776,PREF,NITROUS OXIDE
+Matrix Metalloproteinases,http://purl.bioontology.org/ontology/MESH/D020782,783-807,PREF,MATRIX METALLOPROTEINASES
+Association,http://purl.bioontology.org/ontology/MESH/D001244,975-985,PREF,ASSOCIATION

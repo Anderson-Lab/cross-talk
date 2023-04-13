@@ -1,0 +1,4 @@
+prefLabel,id,from_to,matchType,text
+Duration,http://psink.de/scio/Duration,62-69,PREF,DURATION
+Tissue,http://psink.de/scio/Tissue,227-232|269-274|314-319|454-459|649-654,PREF|PREF|PREF|PREF|PREF,TISSUE|TISSUE|TISSUE|TISSUE|TISSUE
+Result,http://psink.de/scio/Result,364-369,PREF,RESULT

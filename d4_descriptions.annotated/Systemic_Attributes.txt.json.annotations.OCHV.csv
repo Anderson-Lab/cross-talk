@@ -1,0 +1,28 @@
+prefLabel,id,from_to,matchType,text
+pain,http://sbmi.uth.tmc.edu/ontology/ochv#9185,6-9,PREF,PAIN
+pain,http://sbmi.uth.tmc.edu/ontology/ochv#C0030193,6-9,PREF,PAIN
+experience,http://sbmi.uth.tmc.edu/ontology/ochv#C0596545,11-20,PREF,EXPERIENCE
+experience,http://sbmi.uth.tmc.edu/ontology/ochv#C0237607,11-20,PREF,EXPERIENCE
+experience,http://sbmi.uth.tmc.edu/ontology/ochv#41569,11-20,PREF,EXPERIENCE
+systemic,http://sbmi.uth.tmc.edu/ontology/ochv#C0205373,57-64,PREF,SYSTEMIC
+nutritional status,http://sbmi.uth.tmc.edu/ontology/ochv#32037,105-122,PREF,NUTRITIONAL STATUS
+nutritional status,http://sbmi.uth.tmc.edu/ontology/ochv#C0392209,105-122,PREF,NUTRITIONAL STATUS
+status,http://sbmi.uth.tmc.edu/ontology/ochv#C0449438,117-122,PREF,STATUS
+metabolic diseases,http://sbmi.uth.tmc.edu/ontology/ochv#7997,125-142,PREF,METABOLIC DISEASES
+metabolic,http://sbmi.uth.tmc.edu/ontology/ochv#28406,125-133,PREF,METABOLIC
+metabolic,http://sbmi.uth.tmc.edu/ontology/ochv#C0311400,125-133,PREF,METABOLIC
+endocrine,http://sbmi.uth.tmc.edu/ontology/ochv#C0521425,171-179,PREF,ENDOCRINE
+endocrine,http://sbmi.uth.tmc.edu/ontology/ochv#37951,171-179,PREF,ENDOCRINE
+sleep,http://sbmi.uth.tmc.edu/ontology/ochv#11413,195-199,PREF,SLEEP
+sleep,http://sbmi.uth.tmc.edu/ontology/ochv#C0037313,195-199,PREF,SLEEP
+lead,http://sbmi.uth.tmc.edu/ontology/ochv#7256,237-240,PREF,LEAD
+lead,http://sbmi.uth.tmc.edu/ontology/ochv#C0023175,237-240,PREF,LEAD
+inflammatory,http://sbmi.uth.tmc.edu/ontology/ochv#29703,275-286,PREF,INFLAMMATORY
+inflammatory,http://sbmi.uth.tmc.edu/ontology/ochv#C0333348,275-286,PREF,INFLAMMATORY
+clinical,http://sbmi.uth.tmc.edu/ontology/ochv#C0205210,289-296,PREF,CLINICAL
+physical,http://sbmi.uth.tmc.edu/ontology/ochv#20620,299-306,PREF,PHYSICAL
+physical,http://sbmi.uth.tmc.edu/ontology/ochv#C0205485,299-306,PREF,PHYSICAL
+psychosocial factors,http://sbmi.uth.tmc.edu/ontology/ochv#C0033963,313-332,PREF,PSYCHOSOCIAL FACTORS
+psychosocial factors,http://sbmi.uth.tmc.edu/ontology/ochv#10343,313-332,PREF,PSYCHOSOCIAL FACTORS
+psychosocial,http://sbmi.uth.tmc.edu/ontology/ochv#38590,313-324,PREF,PSYCHOSOCIAL
+psychosocial,http://sbmi.uth.tmc.edu/ontology/ochv#C0542298,313-324,PREF,PSYCHOSOCIAL

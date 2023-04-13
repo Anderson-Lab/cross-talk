@@ -1,0 +1,13 @@
+prefLabel,id,from_to,matchType,text
+Epidemiologic Factors,http://purl.bioontology.org/ontology/MESH/D015981,1-21,PREF,EPIDEMIOLOGIC FACTORS
+Sex,http://purl.bioontology.org/ontology/MESH/D012723,61-63,PREF,SEX
+Ethnicity,http://purl.bioontology.org/ontology/MESH/D005006,100-108,PREF,ETHNICITY
+Family,http://purl.bioontology.org/ontology/MESH/D005190,137-142,PREF,FAMILY
+Culture,http://purl.bioontology.org/ontology/MESH/D003469,148-154,PREF,CULTURE
+Prevalence,http://purl.bioontology.org/ontology/MESH/D015995,323-332|362-371,PREF|PREF,PREVALENCE|PREVALENCE
+Women,http://purl.bioontology.org/ontology/MESH/D014930,337-341,PREF,WOMEN
+Men,http://purl.bioontology.org/ontology/MESH/D008571,350-352,PREF,MEN
+Income,http://purl.bioontology.org/ontology/MESH/D007182,433-438,PREF,INCOME
+education,http://purl.bioontology.org/ontology/MESH/Q000193,459-467,PREF,EDUCATION
+Education,http://purl.bioontology.org/ontology/MESH/D004493,459-467,PREF,EDUCATION
+Lifting,http://purl.bioontology.org/ontology/MESH/D017770,620-626|632-639,PREF|SYN,LIFTING|CARRYING

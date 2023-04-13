@@ -1,0 +1,53 @@
+prefLabel,id,from_to,matchType,text
+personal history,http://sbmi.uth.tmc.edu/ontology/ochv#C0424945,6-21|506-521,PREF|PREF,PERSONAL HISTORY|PERSONAL HISTORY
+medical history,http://sbmi.uth.tmc.edu/ontology/ochv#25495,15-21|146-152|311-325|319-328|319-325|515-521,SYN|SYN|PREF|SYN|SYN|SYN,HISTORY|HISTORY|MEDICAL HISTORY|HISTORY OF|HISTORY|HISTORY
+history,http://sbmi.uth.tmc.edu/ontology/ochv#C1321503,15-21|146-152|319-325|515-521,PREF|PREF|PREF|PREF,HISTORY|HISTORY|HISTORY|HISTORY
+history,http://sbmi.uth.tmc.edu/ontology/ochv#C0262512,15-21|146-152|319-325|515-521,PREF|PREF|PREF|PREF,HISTORY|HISTORY|HISTORY|HISTORY
+life,http://sbmi.uth.tmc.edu/ontology/ochv#C0376558,44-47|944-947,PREF|PREF,LIFE|LIFE
+life,http://sbmi.uth.tmc.edu/ontology/ochv#31817,44-47|944-947,PREF|PREF,LIFE|LIFE
+including,http://sbmi.uth.tmc.edu/ontology/ochv#C0332257,49-57|523-531|980-988,PREF|PREF|PREF,INCLUDING|INCLUDING|INCLUDING
+employment,http://sbmi.uth.tmc.edu/ontology/ochv#4401,59-68,PREF,EMPLOYMENT
+employment,http://sbmi.uth.tmc.edu/ontology/ochv#C0014003,59-68,PREF,EMPLOYMENT
+status,http://sbmi.uth.tmc.edu/ontology/ochv#C0449438,70-75|115-120|925-930,PREF|PREF|PREF,STATUS|STATUS|STATUS
+insurance,http://sbmi.uth.tmc.edu/ontology/ochv#C0021672,105-113,PREF,INSURANCE
+insurance,http://sbmi.uth.tmc.edu/ontology/ochv#6790,105-113,PREF,INSURANCE
+social,http://sbmi.uth.tmc.edu/ontology/ochv#46637,139-144,PREF,SOCIAL
+social,http://sbmi.uth.tmc.edu/ontology/ochv#C0728831,139-144,PREF,SOCIAL
+tobacco,http://sbmi.uth.tmc.edu/ontology/ochv#12323,171-177,PREF,TOBACCO
+tobacco,http://sbmi.uth.tmc.edu/ontology/ochv#C0040329,171-177,PREF,TOBACCO
+substance use,http://sbmi.uth.tmc.edu/ontology/ochv#C0237123,183-195,PREF,SUBSTANCE USE
+substance,http://sbmi.uth.tmc.edu/ontology/ochv#C0439861,183-191,PREF,SUBSTANCE
+expectations,http://sbmi.uth.tmc.edu/ontology/ochv#C0679138,234-245,PREF,EXPECTATIONS
+habits,http://sbmi.uth.tmc.edu/ontology/ochv#C0018464,248-253,PREF,HABITS
+habits,http://sbmi.uth.tmc.edu/ontology/ochv#5754,248-253,PREF,HABITS
+sleep,http://sbmi.uth.tmc.edu/ontology/ochv#11413,263-267|592-596|901-905,PREF|PREF|PREF,SLEEP|SLEEP|SLEEP
+sleep,http://sbmi.uth.tmc.edu/ontology/ochv#C0037313,263-267|592-596|901-905,PREF|PREF|PREF,SLEEP|SLEEP|SLEEP
+schedule,http://sbmi.uth.tmc.edu/ontology/ochv#C0086960,269-276,PREF,SCHEDULE
+clothing,http://sbmi.uth.tmc.edu/ontology/ochv#3076,279-286,PREF,CLOTHING
+clothing,http://sbmi.uth.tmc.edu/ontology/ochv#C0009072,279-286,PREF,CLOTHING
+diet,http://sbmi.uth.tmc.edu/ontology/ochv#C0012155,301-304,PREF,DIET
+diet,http://sbmi.uth.tmc.edu/ontology/ochv#3909,301-304,PREF,DIET
+medical history,http://sbmi.uth.tmc.edu/ontology/ochv#C0262926,311-325,PREF,MEDICAL HISTORY
+medical,http://sbmi.uth.tmc.edu/ontology/ochv#C0205476,311-317|772-778,PREF|PREF,MEDICAL|MEDICAL
+isolated,http://sbmi.uth.tmc.edu/ontology/ochv#C0205409,330-337,PREF,ISOLATED
+chronic,http://sbmi.uth.tmc.edu/ontology/ochv#C0205191,343-349,PREF,CHRONIC
+likely,http://sbmi.uth.tmc.edu/ontology/ochv#48325,404-409,PREF,LIKELY
+likely,http://sbmi.uth.tmc.edu/ontology/ochv#C0750504,404-409,PREF,LIKELY
+pain,http://sbmi.uth.tmc.edu/ontology/ochv#9185,429-432|718-721|895-898,PREF|PREF|PREF,PAIN|PAIN|PAIN
+pain,http://sbmi.uth.tmc.edu/ontology/ochv#C0030193,429-432|718-721|895-898,PREF|PREF|PREF,PAIN|PAIN|PAIN
+individual,http://sbmi.uth.tmc.edu/ontology/ochv#C0237401,457-466,PREF,INDIVIDUAL
+vitamin d deficiency,http://sbmi.uth.tmc.edu/ontology/ochv#C0042870,533-552,PREF,VITAMIN D DEFICIENCY
+vitamin D,http://sbmi.uth.tmc.edu/ontology/ochv#C0042866,533-541,PREF,VITAMIN D
+vitamin D,http://sbmi.uth.tmc.edu/ontology/ochv#13054,533-541,PREF,VITAMIN D
+confidence,http://sbmi.uth.tmc.edu/ontology/ochv#C0237529,579-588|642-651|705-714|759-768|813-822|860-869,PREF|PREF|PREF|PREF|PREF|PREF,CONFIDENCE|CONFIDENCE|CONFIDENCE|CONFIDENCE|CONFIDENCE|CONFIDENCE
+insomnia,http://sbmi.uth.tmc.edu/ontology/ochv#52357,610-617,PREF,INSOMNIA
+functional,http://sbmi.uth.tmc.edu/ontology/ochv#C0205245,655-664,PREF,FUNCTIONAL
+shoes,http://sbmi.uth.tmc.edu/ontology/ochv#11307,666-670,PREF,SHOES
+shoes,http://sbmi.uth.tmc.edu/ontology/ochv#C0036988,666-670,PREF,SHOES
+surgery,http://sbmi.uth.tmc.edu/ontology/ochv#C0543467,886-892,PREF,SURGERY
+disability,http://sbmi.uth.tmc.edu/ontology/ochv#C0231170,908-917,PREF,DISABILITY
+work,http://sbmi.uth.tmc.edu/ontology/ochv#C0043227,920-923,PREF,WORK
+work,http://sbmi.uth.tmc.edu/ontology/ochv#13188,920-923,PREF,WORK
+quality of life,http://sbmi.uth.tmc.edu/ontology/ochv#C0034380,933-947,PREF,QUALITY OF LIFE
+quality of life,http://sbmi.uth.tmc.edu/ontology/ochv#10484,933-947,PREF,QUALITY OF LIFE
+balance,http://sbmi.uth.tmc.edu/ontology/ochv#C0014653,998-1004,PREF,BALANCE

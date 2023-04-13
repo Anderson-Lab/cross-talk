@@ -1,0 +1,14 @@
+prefLabel,id,from_to,matchType,text
+abnormalities,http://purl.bioontology.org/ontology/MESH/Q000002,12-24,PREF,ABNORMALITIES
+Spine,http://purl.bioontology.org/ontology/MESH/D013131,97-101|703-710,PREF|SYN,SPINE|VERTEBRA
+Pain,http://purl.bioontology.org/ontology/MESH/D010146,103-106|834-837,PREF|PREF,PAIN|PAIN
+Intervertebral Disc,http://purl.bioontology.org/ontology/MESH/D007403,179-197,PREF,INTERVERTEBRAL DISC
+Joints,http://purl.bioontology.org/ontology/MESH/D007596,206-211|225-230,PREF|PREF,JOINTS|JOINTS
+Paraspinal Muscles,http://purl.bioontology.org/ontology/MESH/D064170,283-300,PREF,PARASPINAL MUSCLES
+Muscles,http://purl.bioontology.org/ontology/MESH/D009132,294-300,PREF,MUSCLES
+Inflammation,http://purl.bioontology.org/ontology/MESH/D007249,501-512,PREF,INFLAMMATION
+Tissue,http://purl.bioontology.org/ontology/STY/T024,631-636,PREF,TISSUE
+classification,http://purl.bioontology.org/ontology/MESH/Q000145,818-831,PREF,CLASSIFICATION
+Classification,http://purl.bioontology.org/ontology/MESH/D002965,818-831,PREF,CLASSIFICATION
+Classification,http://purl.bioontology.org/ontology/STY/T185,818-831,PREF,CLASSIFICATION
+Nociceptors,http://purl.bioontology.org/ontology/MESH/D009619,933-943,PREF,NOCICEPTORS
