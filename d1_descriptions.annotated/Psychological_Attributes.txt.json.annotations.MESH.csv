@@ -1,0 +1,5 @@
+prefLabel,id,from_to,matchType,text
+Affect,http://purl.bioontology.org/ontology/MESH/D000339,294-299,PREF,AFFECT
+Personality,http://purl.bioontology.org/ontology/MESH/D010551,331-341,PREF,PERSONALITY
+Attention,http://purl.bioontology.org/ontology/MESH/D001288,391-399,PREF,ATTENTION
+Pain,http://purl.bioontology.org/ontology/MESH/D010146,416-419,PREF,PAIN

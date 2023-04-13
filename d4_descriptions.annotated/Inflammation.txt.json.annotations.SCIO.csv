@@ -1,0 +1,3 @@
+prefLabel,id,from_to,matchType,text
+Tissue,http://psink.de/scio/Tissue,216-221,PREF,TISSUE
+Substance,http://psink.de/scio/Substance,736-744,PREF,SUBSTANCE

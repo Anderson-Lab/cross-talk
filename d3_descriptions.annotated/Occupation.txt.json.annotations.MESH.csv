@@ -1,0 +1,8 @@
+prefLabel,id,from_to,matchType,text
+Work,http://purl.bioontology.org/ontology/MESH/D014937,26-29|92-95|293-296|338-341|437-440,PREF|PREF|PREF|PREF|PREF,WORK|WORK|WORK|WORK|WORK
+Employment,http://purl.bioontology.org/ontology/MESH/D004651,55-64,PREF,EMPLOYMENT
+Job Satisfaction,http://purl.bioontology.org/ontology/MESH/D007588,74-89,PREF,JOB SATISFACTION
+Social Support,http://purl.bioontology.org/ontology/MESH/D012944,112-125,PREF,SOCIAL SUPPORT
+Workplace,http://purl.bioontology.org/ontology/MESH/D017132,134-142,PREF,WORKPLACE
+Fatigue,http://purl.bioontology.org/ontology/MESH/D005221,181-187,PREF,FATIGUE
+Affect,http://purl.bioontology.org/ontology/MESH/D000339,331-336,PREF,AFFECT

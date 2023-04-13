@@ -1,0 +1,11 @@
+prefLabel,id,from_to,matchType,text
+Spine,http://purl.bioontology.org/ontology/MESH/D013131,27-31,PREF,SPINE
+Spinal Cord,http://purl.bioontology.org/ontology/MESH/D013116,67-77,PREF,SPINAL CORD
+Joints,http://purl.bioontology.org/ontology/MESH/D007596,236-241,PREF,JOINTS
+Ligaments,http://purl.bioontology.org/ontology/MESH/D008022,244-252,PREF,LIGAMENTS
+Muscles,http://purl.bioontology.org/ontology/MESH/D009132,267-273,PREF,MUSCLES
+Tissues,http://purl.bioontology.org/ontology/MESH/D014024,276-282|499-505,PREF|PREF,TISSUES|TISSUES
+Aging,http://purl.bioontology.org/ontology/MESH/D000375,398-402,PREF,AGING
+Lead,http://purl.bioontology.org/ontology/MESH/D007854,408-411,PREF,LEAD
+Pathology,http://purl.bioontology.org/ontology/MESH/D010336,427-435,PREF,PATHOLOGY
+pathology,http://purl.bioontology.org/ontology/MESH/Q000473,427-435,PREF,PATHOLOGY

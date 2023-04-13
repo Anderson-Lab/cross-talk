@@ -1,0 +1,12 @@
+prefLabel,id,from_to,matchType,text
+Determine,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C136827,14-22,PREF,DETERMINE
+Pain,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3303,28-31|322-325,PREF|PREF,PAIN|PAIN
+Cognitive,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C37926,96-104,PREF,COGNITIVE
+Patient,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C16960,173-179,PREF,PATIENT
+Bidirectional,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C54200,192-204,PREF,BIDIRECTIONAL
+Include,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C74521,214-220,PREF,INCLUDE
+Peripheral,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25233,242-251|278-287,PREF|PREF,PERIPHERAL|PERIPHERAL
+Stimulation,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C61406,265-275,PREF,STIMULATION
+Inflammation,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3137,300-311,PREF,INFLAMMATION
+Modulation,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C90063,327-336,PREF,MODULATION
+Psychological,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C94316,359-371,PREF,PSYCHOLOGICAL

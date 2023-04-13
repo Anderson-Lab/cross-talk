@@ -1,0 +1,28 @@
+prefLabel,id,from_to,matchType,text
+Pain,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3303,1-4|193-196|430-433|510-513,PREF|PREF|PREF|PREF,PAIN|PAIN|PAIN|PAIN
+Impact,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C122929,71-76|198-203,PREF|PREF,IMPACT|IMPACT
+Independence,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C61366,88-99,PREF,INDEPENDENCE
+Secondary,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25667,180-188,PREF,SECONDARY
+Overall Quality of Life,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C104594,210-232,PREF,OVERALL QUALITY OF LIFE
+Overall,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25605,210-216,PREF,OVERALL
+Quality of Life,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C17047,218-232,PREF,QUALITY OF LIFE
+Quality,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25283,218-224,PREF,QUALITY
+Life,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C142142,229-232,PREF,LIFE
+Data,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25474,256-259,PREF,DATA
+Self,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25200,270-273,PREF,SELF
+Disability,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C21007,284-293|541-550,PREF|PREF,DISABILITY|DISABILITY
+Little,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C76350,309-314|369-374,PREF|PREF,LITTLE|LITTLE
+Confidence,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43367,328-337|380-389,PREF|PREF,CONFIDENCE|CONFIDENCE
+Lifting,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C86567,397-403,PREF,LIFTING
+Carrying,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C81005,405-412,PREF,CARRYING
+Capacity,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25443,414-421,PREF,CAPACITY
+Intensity,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25539,435-443,PREF,INTENSITY
+Return,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C71900,446-451,PREF,RETURN
+Work,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C74299,456-459,PREF,WORK
+Status,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25688,461-466,PREF,STATUS
+Transition,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C75958,477-486,PREF,TRANSITION
+Acute,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C14140,493-497,PREF,ACUTE
+Chronic Pain,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C26940,502-513,PREF,CHRONIC PAIN
+Chronic,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C14141,502-508,PREF,CHRONIC
+Measured,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C44473,518-525,PREF,MEASURED
+Functional Disability,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C132289,530-550,PREF,FUNCTIONAL DISABILITY

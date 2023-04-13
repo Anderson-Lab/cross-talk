@@ -1,0 +1,6 @@
+prefLabel,id,from_to,matchType,text
+Pain,http://purl.bioontology.org/ontology/MESH/D010146,268-271|333-336|347-350|639-642,PREF|PREF|PREF|PREF,PAIN|PAIN|PAIN|PAIN
+Emotions,http://purl.bioontology.org/ontology/MESH/D004644,422-429,PREF,EMOTIONS
+Mindfulness,http://purl.bioontology.org/ontology/MESH/D064866,459-469,PREF,MINDFULNESS
+Awareness,http://purl.bioontology.org/ontology/MESH/D001364,490-498,PREF,AWARENESS
+Work,http://purl.bioontology.org/ontology/MESH/D014937,626-629,PREF,WORK

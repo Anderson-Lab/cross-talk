@@ -1,0 +1,20 @@
+prefLabel,id,from_to,matchType,text
+pain,http://sbmi.uth.tmc.edu/ontology/ochv#9185,28-31|322-325,PREF|PREF,PAIN|PAIN
+pain,http://sbmi.uth.tmc.edu/ontology/ochv#C0030193,28-31|322-325,PREF|PREF,PAIN|PAIN
+physiological,http://sbmi.uth.tmc.edu/ontology/ochv#C0205463,81-93,PREF,PHYSIOLOGICAL
+responses,http://sbmi.uth.tmc.edu/ontology/ochv#51316,133-141,PREF,RESPONSES
+patient,http://sbmi.uth.tmc.edu/ontology/ochv#C0030705,173-179,PREF,PATIENT
+strength,http://sbmi.uth.tmc.edu/ontology/ochv#C0808080,226-233,PREF,STRENGTH
+strength,http://sbmi.uth.tmc.edu/ontology/ochv#49052,226-233,PREF,STRENGTH
+peripheral,http://sbmi.uth.tmc.edu/ontology/ochv#C0205100,242-251|278-287,PREF|PREF,PERIPHERAL|PERIPHERAL
+stimulation,http://sbmi.uth.tmc.edu/ontology/ochv#C0441691,265-275,PREF,STIMULATION
+stimulation,http://sbmi.uth.tmc.edu/ontology/ochv#C1292856,265-275,PREF,STIMULATION
+central,http://sbmi.uth.tmc.edu/ontology/ochv#C0205099,292-298|314-320,PREF|PREF,CENTRAL|CENTRAL
+central,http://sbmi.uth.tmc.edu/ontology/ochv#20304,292-298|314-320,PREF|PREF,CENTRAL|CENTRAL
+inflammation,http://sbmi.uth.tmc.edu/ontology/ochv#C0021368,300-311,PREF,INFLAMMATION
+inflammation,http://sbmi.uth.tmc.edu/ontology/ochv#6703,300-311,PREF,INFLAMMATION
+central pain,http://sbmi.uth.tmc.edu/ontology/ochv#C0234243,314-325,PREF,CENTRAL PAIN
+psychological factors,http://sbmi.uth.tmc.edu/ontology/ochv#C0033898,359-379,PREF,PSYCHOLOGICAL FACTORS
+psychological factors,http://sbmi.uth.tmc.edu/ontology/ochv#10317,359-379,PREF,PSYCHOLOGICAL FACTORS
+psychological,http://sbmi.uth.tmc.edu/ontology/ochv#57896,359-371,PREF,PSYCHOLOGICAL
+psychological,http://sbmi.uth.tmc.edu/ontology/ochv#C1306597,359-371,PREF,PSYCHOLOGICAL

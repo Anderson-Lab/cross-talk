@@ -1,0 +1,9 @@
+prefLabel,id,from_to,matchType,text
+Axis,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25154,17-20,PREF,AXIS
+Have,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C101282,36-39,PREF,HAVE
+Systemic,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C13310,43-50,PREF,SYSTEMIC
+Effect,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25492,52-57,PREF,EFFECT
+System,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25700,66-71,PREF,SYSTEM
+Physiologic,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C17650,95-105,PREF,PHYSIOLOGIC
+Level,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25554,160-164,PREF,LEVEL
+Stress,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C35041,215-220,PREF,STRESS

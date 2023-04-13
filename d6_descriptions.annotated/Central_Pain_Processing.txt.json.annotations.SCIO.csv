@@ -1,0 +1,7 @@
+prefLabel,id,from_to,matchType,text
+Tissue,http://psink.de/scio/Tissue,790-795,PREF,TISSUE
+Injury,http://psink.de/scio/Injury,797-802,PREF,INJURY
+Volume,http://psink.de/scio/Volume,866-871,PREF,VOLUME
+Function,http://psink.de/scio/Function,1013-1020,PREF,FUNCTION
+Brain,http://psink.de/scio/Brain,1180-1184,PREF,BRAIN
+Result,http://psink.de/scio/Result,1737-1742,PREF,RESULT

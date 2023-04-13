@@ -1,0 +1,6 @@
+prefLabel,id,from_to,matchType,text
+Spine,http://purl.bioontology.org/ontology/MESH/D013131,43-47,PREF,SPINE
+Cell,http://purl.bioontology.org/ontology/STY/T025,321-324,PREF,CELL
+Inflammation,http://purl.bioontology.org/ontology/MESH/D007249,378-389,PREF,INFLAMMATION
+Obesity,http://purl.bioontology.org/ontology/MESH/D009765,392-398,PREF,OBESITY
+Joints,http://purl.bioontology.org/ontology/MESH/D007596,460-465,PREF,JOINTS

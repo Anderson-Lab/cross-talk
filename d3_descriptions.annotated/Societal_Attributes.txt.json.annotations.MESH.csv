@@ -1,0 +1,4 @@
+prefLabel,id,from_to,matchType,text
+Chronic Pain,http://purl.bioontology.org/ontology/MESH/D059350,5-16,PREF,CHRONIC PAIN
+Pain,http://purl.bioontology.org/ontology/MESH/D010146,13-16|186-189,PREF|PREF,PAIN|PAIN
+Family,http://purl.bioontology.org/ontology/MESH/D005190,146-151,PREF,FAMILY

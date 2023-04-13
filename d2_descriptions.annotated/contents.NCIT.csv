@@ -1,0 +1,6 @@
+uri,uri_annotations
+file:/d2_descriptions/Biomechanical_Attributes.txt.json,file:/d2_descriptions.annotated/Biomechanical_Attributes.txt.json.annotations.NCIT.csv
+file:/d2_descriptions/Load.txt.json,file:/d2_descriptions.annotated/Load.txt.json.annotations.NCIT.csv
+file:/d2_descriptions/Physical_Activity.txt.json,file:/d2_descriptions.annotated/Physical_Activity.txt.json.annotations.NCIT.csv
+file:/d2_descriptions/Sensorimotor_Control.txt.json,file:/d2_descriptions.annotated/Sensorimotor_Control.txt.json.annotations.NCIT.csv
+file:/d2_descriptions/Tissue_Tolerance.txt.json,file:/d2_descriptions.annotated/Tissue_Tolerance.txt.json.annotations.NCIT.csv

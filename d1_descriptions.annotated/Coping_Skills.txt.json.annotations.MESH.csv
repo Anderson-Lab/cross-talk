@@ -1,0 +1,14 @@
+prefLabel,id,from_to,matchType,text
+Pain,http://purl.bioontology.org/ontology/MESH/D010146,13-16|45-48|207-210|595-598|652-655|1204-1207,PREF|PREF|PREF|PREF|PREF|PREF,PAIN|PAIN|PAIN|PAIN|PAIN|PAIN
+Pain Perception,http://purl.bioontology.org/ontology/MESH/D058748,45-59,PREF,PAIN PERCEPTION
+Perception,http://purl.bioontology.org/ontology/MESH/D010465,50-59,PREF,PERCEPTION
+Behavioral Medicine,http://purl.bioontology.org/ontology/MESH/D001524,145-163,PREF,BEHAVIORAL MEDICINE
+Medicine,http://purl.bioontology.org/ontology/MESH/D008511,156-163,PREF,MEDICINE
+Psychological Well-Being,http://purl.bioontology.org/ontology/MESH/D000092862,248-271,PREF,PSYCHOLOGICAL WELL-BEING
+Interoception,http://purl.bioontology.org/ontology/MESH/D065812,516-528,PREF,INTEROCEPTION
+Activity,http://purl.bioontology.org/ontology/STY/T052,689-696|1265-1272,PREF|PREF,ACTIVITY|ACTIVITY
+Fear,http://purl.bioontology.org/ontology/MESH/D005239,713-716|1238-1241,PREF|PREF,FEAR|FEAR
+Research,http://purl.bioontology.org/ontology/MESH/D012106,859-866,PREF,RESEARCH
+Lifting,http://purl.bioontology.org/ontology/MESH/D017770,1121-1127,PREF,LIFTING
+Work,http://purl.bioontology.org/ontology/MESH/D014937,1139-1142,PREF,WORK
+Lead,http://purl.bioontology.org/ontology/MESH/D007854,1278-1281,PREF,LEAD

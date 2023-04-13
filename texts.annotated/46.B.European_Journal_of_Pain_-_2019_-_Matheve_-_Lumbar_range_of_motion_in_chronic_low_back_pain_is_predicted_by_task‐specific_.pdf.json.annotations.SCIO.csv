@@ -1,0 +1,15 @@
+prefLabel,id,from_to,matchType,text
+Significance,http://psink.de/scio/Significance,787-798,PREF,SIGNIFICANCE
+Result,http://psink.de/scio/Result,1390-1395,PREF,RESULT
+Injury,http://psink.de/scio/Injury,1598-1603,PREF,INJURY
+Tissue,http://psink.de/scio/Tissue,1948-1953,PREF,TISSUE
+Hypothesis,http://psink.de/scio/Hypothesis,2430-2439|11615-11624|16212-16221|20026-20035,PREF|PREF|PREF|PREF,HYPOTHESIS|HYPOTHESIS|HYPOTHESIS|HYPOTHESIS
+Treatment,http://psink.de/scio/Treatment,3913-3921|12512-12520|12732-12740|17879-17887|18299-18307|18944-18952,PREF|PREF|PREF|PREF|PREF|PREF,TREATMENT|TREATMENT|TREATMENT|TREATMENT|TREATMENT|TREATMENT
+Observation,http://psink.de/scio/Observation,4273-4283,PREF,OBSERVATION
+Duration,http://psink.de/scio/Duration,6186-6193|9427-9434,PREF|PREF,DURATION|DURATION
+Distance,http://psink.de/scio/Distance,8287-8294,PREF,DISTANCE
+Age,http://psink.de/scio/Age,9380-9382|9952-9954,PREF|PREF,AGE|AGE
+Current,http://psink.de/scio/Current,9390-9396|10734-10740,PREF|PREF,CURRENT|CURRENT
+Person,http://psink.de/scio/Person,11907-11912|16144-16149|16864-16869,PREF|PREF|PREF,PERSON|PERSON|PERSON
+Change,http://psink.de/scio/Change,17854-17859,PREF,CHANGE
+Decrease,http://psink.de/scio/Decrease,21168-21175,PREF,DECREASE

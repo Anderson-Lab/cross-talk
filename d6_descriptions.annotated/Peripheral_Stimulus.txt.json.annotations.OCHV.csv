@@ -1,0 +1,40 @@
+prefLabel,id,from_to,matchType,text
+responsible,http://sbmi.uth.tmc.edu/ontology/ochv#C1273518,74-84,PREF,RESPONSIBLE
+lumbar spine,http://sbmi.uth.tmc.edu/ontology/ochv#C0024091,90-101,PREF,LUMBAR SPINE
+spine pain,http://sbmi.uth.tmc.edu/ontology/ochv#C0423673,97-106,PREF,SPINE PAIN
+spine,http://sbmi.uth.tmc.edu/ontology/ochv#C0037949,97-101,PREF,SPINE
+pain,http://sbmi.uth.tmc.edu/ontology/ochv#9185,103-106|400-406|834-837,PREF|SYN|PREF,PAIN|PAINFUL|PAIN
+pain,http://sbmi.uth.tmc.edu/ontology/ochv#C0030193,103-106|834-837,PREF|PREF,PAIN|PAIN
+associated,http://sbmi.uth.tmc.edu/ontology/ochv#C0332281,131-140,PREF,ASSOCIATED
+intervertebral disc,http://sbmi.uth.tmc.edu/ontology/ochv#C0021815,179-197,PREF,INTERVERTEBRAL DISC
+intervertebral,http://sbmi.uth.tmc.edu/ontology/ochv#C0442106,179-192,PREF,INTERVERTEBRAL
+joints,http://sbmi.uth.tmc.edu/ontology/ochv#7022,206-211|225-230,PREF|PREF,JOINTS|JOINTS
+sacroiliac,http://sbmi.uth.tmc.edu/ontology/ochv#C0555898,214-223,PREF,SACROILIAC
+paraspinal,http://sbmi.uth.tmc.edu/ontology/ochv#C0442145,283-292,PREF,PARASPINAL
+TRUE,http://sbmi.uth.tmc.edu/ontology/ochv#C0205238,395-398,PREF,TRUE
+matrix,http://sbmi.uth.tmc.edu/ontology/ochv#29225,446-451,PREF,MATRIX
+matrix,http://sbmi.uth.tmc.edu/ontology/ochv#C0331858,446-451,PREF,MATRIX
+damage,http://sbmi.uth.tmc.edu/ontology/ochv#C0010957,453-458,PREF,DAMAGE
+inflammation,http://sbmi.uth.tmc.edu/ontology/ochv#C0021368,501-512,PREF,INFLAMMATION
+inflammation,http://sbmi.uth.tmc.edu/ontology/ochv#6703,501-512,PREF,INFLAMMATION
+imaging techniques,http://sbmi.uth.tmc.edu/ontology/ochv#C0079595,570-587,PREF,IMAGING TECHNIQUES
+imaging techniques,http://sbmi.uth.tmc.edu/ontology/ochv#15196,570-587,PREF,IMAGING TECHNIQUES
+peripheral,http://sbmi.uth.tmc.edu/ontology/ochv#C0205100,620-629,PREF,PERIPHERAL
+tissue,http://sbmi.uth.tmc.edu/ontology/ochv#C0040300,631-636,PREF,TISSUE
+including,http://sbmi.uth.tmc.edu/ontology/ochv#C0332257,650-658,PREF,INCLUDING
+confidence,http://sbmi.uth.tmc.edu/ontology/ochv#C0237529,690-699|737-746|786-795,PREF|PREF|PREF,CONFIDENCE|CONFIDENCE|CONFIDENCE
+vertebra,http://sbmi.uth.tmc.edu/ontology/ochv#C0549207,703-710,PREF,VERTEBRA
+relation,http://sbmi.uth.tmc.edu/ontology/ochv#C0869014,801-808,PREF,RELATION
+classification,http://sbmi.uth.tmc.edu/ontology/ochv#3021,818-831,PREF,CLASSIFICATION
+classification,http://sbmi.uth.tmc.edu/ontology/ochv#C0008902,818-831,PREF,CLASSIFICATION
+severity,http://sbmi.uth.tmc.edu/ontology/ochv#C0449294,839-846,PREF,SEVERITY
+disability,http://sbmi.uth.tmc.edu/ontology/ochv#C0231170,852-861,PREF,DISABILITY
+questionnaire,http://sbmi.uth.tmc.edu/ontology/ochv#C0034394,866-878,PREF,QUESTIONNAIRE
+local,http://sbmi.uth.tmc.edu/ontology/ochv#C0205276,880-884,PREF,LOCAL
+inflammatory,http://sbmi.uth.tmc.edu/ontology/ochv#29703,886-897,PREF,INFLAMMATORY
+inflammatory,http://sbmi.uth.tmc.edu/ontology/ochv#C0333348,886-897,PREF,INFLAMMATORY
+nociceptors,http://sbmi.uth.tmc.edu/ontology/ochv#C0028246,933-943,PREF,NOCICEPTORS
+nociceptors,http://sbmi.uth.tmc.edu/ontology/ochv#8753,933-943,PREF,NOCICEPTORS
+potential,http://sbmi.uth.tmc.edu/ontology/ochv#C0237399,949-957,PREF,POTENTIAL
+potential,http://sbmi.uth.tmc.edu/ontology/ochv#23799,949-957,PREF,POTENTIAL
+mechanisms,http://sbmi.uth.tmc.edu/ontology/ochv#C0441712,959-968,PREF,MECHANISMS

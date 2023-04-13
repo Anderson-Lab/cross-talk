@@ -1,0 +1,10 @@
+prefLabel,id,from_to,matchType,text
+Lead,http://purl.bioontology.org/ontology/MESH/D007854,152-155,PREF,LEAD
+Tissue,http://purl.bioontology.org/ontology/STY/T024,227-232|269-274|314-319|454-459|649-654,PREF|PREF|PREF|PREF|PREF,TISSUE|TISSUE|TISSUE|TISSUE|TISSUE
+Activity,http://purl.bioontology.org/ontology/STY/T052,304-311,PREF,ACTIVITY
+Inflammation,http://purl.bioontology.org/ontology/MESH/D007249,321-332,PREF,INFLAMMATION
+Pain,http://purl.bioontology.org/ontology/MESH/D010146,355-358,PREF,PAIN
+Hyperglycemia,http://purl.bioontology.org/ontology/MESH/D006943,407-419,PREF,HYPERGLYCEMIA
+Blood Vessels,http://purl.bioontology.org/ontology/MESH/D001808,505-517,PREF,BLOOD VESSELS
+Blood,http://purl.bioontology.org/ontology/MESH/D001769,505-509|545-549,PREF|PREF,BLOOD|BLOOD
+blood,http://purl.bioontology.org/ontology/MESH/Q000097,505-509|545-549,PREF|PREF,BLOOD|BLOOD

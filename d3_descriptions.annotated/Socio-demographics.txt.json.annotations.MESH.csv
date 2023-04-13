@@ -1,0 +1,16 @@
+prefLabel,id,from_to,matchType,text
+Social Factors,http://purl.bioontology.org/ontology/MESH/D000083663,9-22,PREF,SOCIAL FACTORS
+education,http://purl.bioontology.org/ontology/MESH/Q000193,116-124,PREF,EDUCATION
+Education,http://purl.bioontology.org/ontology/MESH/D004493,116-124,PREF,EDUCATION
+Income,http://purl.bioontology.org/ontology/MESH/D007182,127-132,PREF,INCOME
+Patients,http://purl.bioontology.org/ontology/MESH/D010361,359-366,PREF,PATIENTS
+Health,http://purl.bioontology.org/ontology/MESH/D006262,382-387|618-623,PREF|PREF,HEALTH|HEALTH
+Pain,http://purl.bioontology.org/ontology/MESH/D010146,536-539|1277-1280,PREF|PREF,PAIN|PAIN
+Culture,http://purl.bioontology.org/ontology/MESH/D003469,601-607|625-631,PREF|SYN,CULTURE|BELIEFS
+Social Environment,http://purl.bioontology.org/ontology/MESH/D012931,673-690,PREF,SOCIAL ENVIRONMENT
+Environment,http://purl.bioontology.org/ontology/MESH/D004777,680-690,PREF,ENVIRONMENT
+Social Support,http://purl.bioontology.org/ontology/MESH/D012944,700-713|1189-1202,PREF|PREF,SOCIAL SUPPORT|SOCIAL SUPPORT
+Meditation,http://purl.bioontology.org/ontology/MESH/D019122,852-861,PREF,MEDITATION
+Self-Management,http://purl.bioontology.org/ontology/MESH/D000073278,923-937,PREF,SELF-MANAGEMENT
+Economic Factors,http://purl.bioontology.org/ontology/MESH/D000083684,990-1005,PREF,ECONOMIC FACTORS
+Work,http://purl.bioontology.org/ontology/MESH/D014937,1264-1267,PREF,WORK

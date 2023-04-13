@@ -1,0 +1,7 @@
+prefLabel,id,from_to,matchType,text
+Increase,http://psink.de/scio/Increase,805-812,PREF,INCREASE
+Weight,http://psink.de/scio/Weight,4960-4965,PREF,WEIGHT
+Age,http://psink.de/scio/Age,6492-6494|6928-6930|15029-15031,PREF|PREF|PREF,AGE|AGE|AGE
+Gender,http://psink.de/scio/Gender,12021-12026|12344-12349|12435-12440,PREF|PREF|PREF,GENDER|GENDER|GENDER
+Significance,http://psink.de/scio/Significance,13307-13318,PREF,SIGNIFICANCE
+Result,http://psink.de/scio/Result,15180-15185,PREF,RESULT

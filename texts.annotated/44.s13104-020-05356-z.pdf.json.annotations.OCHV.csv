@@ -1,0 +1,308 @@
+prefLabel,id,from_to,matchType,text
+experience,http://sbmi.uth.tmc.edu/ontology/ochv#C0596545,163-172,PREF,EXPERIENCE
+experience,http://sbmi.uth.tmc.edu/ontology/ochv#C0237607,163-172,PREF,EXPERIENCE
+experience,http://sbmi.uth.tmc.edu/ontology/ochv#41569,163-172|5248-5258,PREF|SYN,EXPERIENCE|EXPERIENCES
+persistent,http://sbmi.uth.tmc.edu/ontology/ochv#C0205322,174-183|1039-1048|2417-2426,PREF|PREF|PREF,PERSISTENT|PERSISTENT|PERSISTENT
+recurrent,http://sbmi.uth.tmc.edu/ontology/ochv#C0205335,189-197|1054-1062|2428-2436,PREF|PREF|PREF,RECURRENT|RECURRENT|RECURRENT
+acute,http://sbmi.uth.tmc.edu/ontology/ochv#C0205178,217-221|406-410|509-513|935-939|2199-2203|2395-2399|2573-2577|8786-8790|8982-8986|9065-9069,PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF,ACUTE|ACUTE|ACUTE|ACUTE|ACUTE|ACUTE|ACUTE|ACUTE|ACUTE|ACUTE
+episode,http://sbmi.uth.tmc.edu/ontology/ochv#C0332189,223-229|2209-2215|4489-4495,PREF|PREF|PREF,EPISODE|EPISODE|EPISODE
+longitudinal,http://sbmi.uth.tmc.edu/ontology/ochv#C0205127,257-268|8861-8872,PREF|PREF,LONGITUDINAL|LONGITUDINAL
+cohort study,http://sbmi.uth.tmc.edu/ontology/ochv#C0009247,270-281,PREF,COHORT STUDY
+cohort,http://sbmi.uth.tmc.edu/ontology/ochv#42076,270-275|865-870|7687-7692,PREF|PREF|PREF,COHORT|COHORT|COHORT
+cohort,http://sbmi.uth.tmc.edu/ontology/ochv#C0599755,270-275|865-870|7687-7692,PREF|PREF|PREF,COHORT|COHORT|COHORT
+established,http://sbmi.uth.tmc.edu/ontology/ochv#C0443211,287-297,PREF,ESTABLISHED
+address,http://sbmi.uth.tmc.edu/ontology/ochv#C1306035,302-308,PREF,ADDRESS
+problem,http://sbmi.uth.tmc.edu/ontology/ochv#C0033213,315-321,PREF,PROBLEM
+paper,http://sbmi.uth.tmc.edu/ontology/ochv#9244,329-333|2453-2457,PREF|PREF,PAPER|PAPER
+paper,http://sbmi.uth.tmc.edu/ontology/ochv#C0030351,329-333|2453-2457,PREF|PREF,PAPER|PAPER
+baseline,http://sbmi.uth.tmc.edu/ontology/ochv#18092,373-380|624-631|738-745|2540-2547|5877-5884|5983-5990|8776-8783|9162-9169,PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF,BASELINE|BASELINE|BASELINE|BASELINE|BASELINE|BASELINE|BASELINE|BASELINE
+baseline,http://sbmi.uth.tmc.edu/ontology/ochv#C0168634,373-380|624-631|738-745|2540-2547|5877-5884|5983-5990|8776-8783|9162-9169,PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF,BASELINE|BASELINE|BASELINE|BASELINE|BASELINE|BASELINE|BASELINE|BASELINE
+low back pain,http://sbmi.uth.tmc.edu/ontology/ochv#7549,412-414|433-435|515-517|662-664|951-953|1064-1066|1317-1329|1332-1334|1739-1741|2023-2025|2205-2207|2402-2404|2579-2581|2629-2631|3177-3179|3309-3311|3413-3415|3607-3609|3746-3748|4485-4487|4507-4509|4618-4620|4734-4736|7735-7737|7967-7969|8792-8794|8989-8991|9483-9485|11421-11433,SYN|SYN|SYN|SYN|SYN|SYN|PREF|SYN|SYN|SYN|SYN|SYN|SYN|SYN|SYN|SYN|SYN|SYN|SYN|SYN|SYN|SYN|SYN|SYN|SYN|SYN|SYN|SYN|PREF,LBP|LBP|LBP|LBP|LBP|LBP|LOW BACK PAIN|LBP|LBP|LBP|LBP|LBP|LBP|LBP|LBP|LBP|LBP|LBP|LBP|LBP|LBP|LBP|LBP|LBP|LBP|LBP|LBP|LBP|LOW BACK PAIN
+CONTROL,http://sbmi.uth.tmc.edu/ontology/ochv#C0308718,420-426|680-686|2587-2593|3215-3221|4554-4560|7137-7143|7174-7180|7743-7749|8696-8702,PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF,CONTROL|CONTROL|CONTROL|CONTROL|CONTROL|CONTROL|CONTROL|CONTROL|CONTROL
+participant,http://sbmi.uth.tmc.edu/ontology/ochv#43099,437-448|2472-2483|2633-2644|2817-2828|3181-3192|3223-3234|3289-3300|3457-3468|3751-3762|3882-3893|4422-4433|4562-4573|4738-4749|6038-6049|6201-6212|6717-6728|6951-6962|7200-7211|7632-7643|7715-7726|7850-7860|8481-8492|8705-8716|9589-9599|9836-9847|10829-10840,SYN|SYN|SYN|SYN|SYN|SYN|SYN|SYN|SYN|SYN|SYN|SYN|SYN|SYN|SYN|SYN|SYN|SYN|SYN|SYN|PREF|SYN|SYN|PREF|SYN|SYN,PARTICIPANTS|PARTICIPANTS|PARTICIPANTS|PARTICIPANTS|PARTICIPANTS|PARTICIPANTS|PARTICIPANTS|PARTICIPANTS|PARTICIPANTS|PARTICIPANTS|PARTICIPANTS|PARTICIPANTS|PARTICIPANTS|PARTICIPANTS|PARTICIPANTS|PARTICIPANTS|PARTICIPANTS|PARTICIPANTS|PARTICIPANTS|PARTICIPANTS|PARTICIPANT|PARTICIPANTS|PARTICIPANTS|PARTICIPANT|PARTICIPANTS|PARTICIPANTS
+pain-free,http://sbmi.uth.tmc.edu/ontology/ochv#52298,526-534,PREF,PAIN-FREE
+pain-free,http://sbmi.uth.tmc.edu/ontology/ochv#C0908489,526-534,PREF,PAIN-FREE
+pain,http://sbmi.uth.tmc.edu/ontology/ochv#9185,526-529|690-693|1326-1329|1890-1893|2902-2905|3533-3536|3694-3697|4776-4779|5299-5302|5896-5899|6002-6005|11430-11433,PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF,PAIN|PAIN|PAIN|PAIN|PAIN|PAIN|PAIN|PAIN|PAIN|PAIN|PAIN|PAIN
+pain,http://sbmi.uth.tmc.edu/ontology/ochv#C0030193,526-529|690-693|1326-1329|1890-1893|2902-2905|3533-3536|3694-3697|4776-4779|5299-5302|5896-5899|6002-6005|11430-11433,PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF,PAIN|PAIN|PAIN|PAIN|PAIN|PAIN|PAIN|PAIN|PAIN|PAIN|PAIN|PAIN
+free,http://sbmi.uth.tmc.edu/ontology/ochv#C0332296,531-534,PREF,FREE
+social,http://sbmi.uth.tmc.edu/ontology/ochv#46637,573-578|3984-3989,PREF|PREF,SOCIAL|SOCIAL
+social,http://sbmi.uth.tmc.edu/ontology/ochv#C0728831,573-578|3984-3989,PREF|PREF,SOCIAL|SOCIAL
+measures,http://sbmi.uth.tmc.edu/ontology/ochv#15235,597-604|2487-2494|2647-2654|7156-7162|7874-7881|8435-8442,PREF|PREF|PREF|SYN|PREF|PREF,MEASURES|MEASURES|MEASURES|MEASURE|MEASURES|MEASURES
+monthly,http://sbmi.uth.tmc.edu/ontology/ochv#C0332177,639-645,PREF,MONTHLY
+disability,http://sbmi.uth.tmc.edu/ontology/ochv#C0231170,699-708|1368-1377|2911-2920|3542-3551|3703-3712,PREF|PREF|PREF|PREF|PREF,DISABILITY|DISABILITY|DISABILITY|DISABILITY|DISABILITY
+initial,http://sbmi.uth.tmc.edu/ontology/ochv#C0205265,840-846|3423-3429|4262-4268,PREF|PREF|PREF,INITIAL|INITIAL|INITIAL
+revealed,http://sbmi.uth.tmc.edu/ontology/ochv#C0443289,877-884,PREF,REVEALED
+future,http://sbmi.uth.tmc.edu/ontology/ochv#C0016884,966-971|8854-8859,PREF|PREF,FUTURE|FUTURE
+future,http://sbmi.uth.tmc.edu/ontology/ochv#5306,966-971|8854-8859,PREF|PREF,FUTURE|FUTURE
+provide,http://sbmi.uth.tmc.edu/ontology/ochv#C0359589,987-993|8829-8835,PREF|PREF,PROVIDE|PROVIDE
+new,http://sbmi.uth.tmc.edu/ontology/ochv#C0205314,995-997,PREF,NEW
+treatment,http://sbmi.uth.tmc.edu/ontology/ochv#C0087111,1011-1019|8152-8160|8260-8268,PREF|PREF|PREF,TREATMENT|TREATMENT|TREATMENT
+material,http://sbmi.uth.tmc.edu/ontology/ochv#C0520510,1072-1079,PREF,MATERIAL
+materials,http://sbmi.uth.tmc.edu/ontology/ochv#37749,1072-1079|10316-10324,SYN|PREF,MATERIAL|MATERIALS
+regulation,http://sbmi.uth.tmc.edu/ontology/ochv#C0851285,1191-1200,PREF,REGULATION
+regulation,http://sbmi.uth.tmc.edu/ontology/ochv#50030,1191-1200,PREF,REGULATION
+need,http://sbmi.uth.tmc.edu/ontology/ochv#C0686904,1242-1245|4443-4446,PREF|PREF,NEED|NEED
+need,http://sbmi.uth.tmc.edu/ontology/ochv#C0027552,1242-1245|4443-4446,PREF|PREF,NEED|NEED
+permission,http://sbmi.uth.tmc.edu/ontology/ochv#C0521104,1257-1266,PREF,PERMISSION
+copyright,http://sbmi.uth.tmc.edu/ontology/ochv#3349,1286-1294,PREF,COPYRIGHT
+copyright,http://sbmi.uth.tmc.edu/ontology/ochv#C0009993,1286-1294,PREF,COPYRIGHT
+holder,http://sbmi.uth.tmc.edu/ontology/ochv#C0181196,1296-1301,PREF,HOLDER
+low,http://sbmi.uth.tmc.edu/ontology/ochv#C0205251,1317-1319|11347-11349|11421-11423,PREF|PREF|PREF,LOW|LOW|LOW
+back pain,http://sbmi.uth.tmc.edu/ontology/ochv#C0004604,1321-1329|11425-11433,PREF|PREF,BACK PAIN|BACK PAIN
+back pain,http://sbmi.uth.tmc.edu/ontology/ochv#1662,1321-1329|11425-11433,PREF|PREF,BACK PAIN|BACK PAIN
+cause,http://sbmi.uth.tmc.edu/ontology/ochv#C0015127,1359-1363,PREF,CAUSE
+associated,http://sbmi.uth.tmc.edu/ontology/ochv#C0332281,1390-1399|4953-4962|11442-11451,PREF|PREF|PREF,ASSOCIATED|ASSOCIATED|ASSOCIATED
+society,http://sbmi.uth.tmc.edu/ontology/ochv#C0037455,1440-1446,PREF,SOCIETY
+psychosocial factors,http://sbmi.uth.tmc.edu/ontology/ochv#C0033963,1462-1481|2339-2358,PREF|PREF,PSYCHOSOCIAL FACTORS|PSYCHOSOCIAL FACTORS
+psychosocial factors,http://sbmi.uth.tmc.edu/ontology/ochv#10343,1462-1481|2339-2358,PREF|PREF,PSYCHOSOCIAL FACTORS|PSYCHOSOCIAL FACTORS
+psychosocial,http://sbmi.uth.tmc.edu/ontology/ochv#38590,1462-1473|2339-2350|2966-2977|9433-9444,PREF|PREF|PREF|PREF,PSYCHOSOCIAL|PSYCHOSOCIAL|PSYCHOSOCIAL|PSYCHOSOCIAL
+psychosocial,http://sbmi.uth.tmc.edu/ontology/ochv#C0542298,1462-1473|2339-2350|2966-2977|9433-9444,PREF|PREF|PREF|PREF,PSYCHOSOCIAL|PSYCHOSOCIAL|PSYCHOSOCIAL|PSYCHOSOCIAL
+long,http://sbmi.uth.tmc.edu/ontology/ochv#C0205166,1538-1541,PREF,LONG
+related,http://sbmi.uth.tmc.edu/ontology/ochv#C0163712,1583-1589|1728-1734|2885-2891,PREF|PREF|PREF,RELATED|RELATED|RELATED
+small,http://sbmi.uth.tmc.edu/ontology/ochv#C0700321,1628-1632,PREF,SMALL
+small,http://sbmi.uth.tmc.edu/ontology/ochv#44733,1628-1632|2084-2089,PREF|SYN,SMALL|LITTLE
+incomplete,http://sbmi.uth.tmc.edu/ontology/ochv#20445,1691-1700,PREF,INCOMPLETE
+incomplete,http://sbmi.uth.tmc.edu/ontology/ochv#C0205257,1691-1700,PREF,INCOMPLETE
+understanding,http://sbmi.uth.tmc.edu/ontology/ochv#C0162340,1702-1714,PREF,UNDERSTANDING
+unable,http://sbmi.uth.tmc.edu/ontology/ochv#C1299582,1846-1851,PREF,UNABLE
+PREVENT,http://sbmi.uth.tmc.edu/ontology/ochv#C0309872,1856-1862,PREF,PREVENT
+recurrence,http://sbmi.uth.tmc.edu/ontology/ochv#C0034897,1864-1873|7971-7980|11459-11468,PREF|PREF|PREF,RECURRENCE|RECURRENCE|RECURRENCE
+recurrence,http://sbmi.uth.tmc.edu/ontology/ochv#10655,1864-1873|7971-7980|11459-11468,PREF|PREF|PREF,RECURRENCE|RECURRENCE|RECURRENCE
+persistence,http://sbmi.uth.tmc.edu/ontology/ochv#C0546816,1875-1885|7982-7992,PREF|PREF,PERSISTENCE|PERSISTENCE
+sleep,http://sbmi.uth.tmc.edu/ontology/ochv#11413,1968-1972|2659-2663|7418-7422,PREF|PREF|PREF,SLEEP|SLEEP|SLEEP
+sleep,http://sbmi.uth.tmc.edu/ontology/ochv#C0037313,1968-1972|2659-2663|7418-7422,PREF|PREF|PREF,SLEEP|SLEEP|SLEEP
+unknown,http://sbmi.uth.tmc.edu/ontology/ochv#C0439673,2066-2072,PREF,UNKNOWN
+known,http://sbmi.uth.tmc.edu/ontology/ochv#C0205309,2094-2098,PREF,KNOWN
+time course,http://sbmi.uth.tmc.edu/ontology/ochv#C0449247,2107-2117,PREF,TIME COURSE
+time,http://sbmi.uth.tmc.edu/ontology/ochv#C0040223,2107-2110|5052-5055|5083-5086|5200-5203|6303-6306|7009-7012|9560-9563|9609-9612|9679-9682|10942-10945,PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF,TIME|TIME|TIME|TIME|TIME|TIME|TIME|TIME|TIME|TIME
+time,http://sbmi.uth.tmc.edu/ontology/ochv#12290,2107-2110|5052-5055|5083-5086|5200-5203|6303-6306|6577-6581|7009-7012|9560-9563|9609-9612|9679-9682|10942-10945,PREF|PREF|PREF|PREF|PREF|SYN|PREF|PREF|PREF|PREF|PREF,TIME|TIME|TIME|TIME|TIME|TIMES|TIME|TIME|TIME|TIME|TIME
+course,http://sbmi.uth.tmc.edu/ontology/ochv#C0449922,2112-2117,PREF,COURSE
+following,http://sbmi.uth.tmc.edu/ontology/ochv#C0332282,2186-2194,PREF,FOLLOWING
+strong,http://sbmi.uth.tmc.edu/ontology/ochv#C0442821,2228-2233,PREF,STRONG
+foundation,http://sbmi.uth.tmc.edu/ontology/ochv#C0016617,2235-2244|8839-8848,PREF|PREF,FOUNDATION|FOUNDATION
+biological factors,http://sbmi.uth.tmc.edu/ontology/ochv#1885,2276-2293,PREF,BIOLOGICAL FACTORS
+biological,http://sbmi.uth.tmc.edu/ontology/ochv#C0205460,2276-2285|3092-3101|7863-7872|8424-8433,PREF|PREF|PREF|PREF,BIOLOGICAL|BIOLOGICAL|BIOLOGICAL|BIOLOGICAL
+possible,http://sbmi.uth.tmc.edu/ontology/ochv#C0332149,2313-2320|9405-9412|9507-9514,PREF|PREF|PREF,POSSIBLE|POSSIBLE|POSSIBLE
+possible,http://sbmi.uth.tmc.edu/ontology/ochv#29309,2313-2320|9405-9412|9507-9514,PREF|PREF|PREF,POSSIBLE|POSSIBLE|POSSIBLE
+data collection,http://sbmi.uth.tmc.edu/ontology/ochv#3613,2500-2514|10205-10219,PREF|PREF,DATA COLLECTION|DATA COLLECTION
+data collection,http://sbmi.uth.tmc.edu/ontology/ochv#C0010995,2500-2514|10205-10219,PREF|PREF,DATA COLLECTION|DATA COLLECTION
+Collection,http://www.w3.org/2004/02/skos/core#Collection,2505-2514|9693-9702|10210-10219,PREF|PREF|PREF,COLLECTION|COLLECTION|COLLECTION
+schedule,http://sbmi.uth.tmc.edu/ontology/ochv#C0086960,2516-2523,PREF,SCHEDULE
+physical activity,http://sbmi.uth.tmc.edu/ontology/ochv#C0221187,2666-2682,PREF,PHYSICAL ACTIVITY
+physical activity,http://sbmi.uth.tmc.edu/ontology/ochv#21326,2666-2682|2675-2682,PREF|SYN,PHYSICAL ACTIVITY|ACTIVITY
+physical activity,http://sbmi.uth.tmc.edu/ontology/ochv#C0026606,2666-2682,PREF,PHYSICAL ACTIVITY
+physical,http://sbmi.uth.tmc.edu/ontology/ochv#20620,2666-2673,PREF,PHYSICAL
+physical,http://sbmi.uth.tmc.edu/ontology/ochv#C0205485,2666-2673,PREF,PHYSICAL
+activity,http://sbmi.uth.tmc.edu/ontology/ochv#C0439167,2675-2682,PREF,ACTIVITY
+activity,http://sbmi.uth.tmc.edu/ontology/ochv#C0441655,2675-2682,PREF,ACTIVITY
+activities,http://sbmi.uth.tmc.edu/ontology/ochv#34879,2675-2682|5367-5376,SYN|PREF,ACTIVITY|ACTIVITIES
+alcohol consumption,http://sbmi.uth.tmc.edu/ontology/ochv#865,2685-2703,PREF,ALCOHOL CONSUMPTION
+consumption,http://sbmi.uth.tmc.edu/ontology/ochv#C0009830,2693-2703,PREF,CONSUMPTION
+smoking,http://sbmi.uth.tmc.edu/ontology/ochv#11432,2709-2715,PREF,SMOKING
+smoking,http://sbmi.uth.tmc.edu/ontology/ochv#C0037369,2709-2715,PREF,SMOKING
+classical,http://sbmi.uth.tmc.edu/ontology/ochv#C0443177,2789-2797,PREF,CLASSICAL
+series,http://sbmi.uth.tmc.edu/ontology/ochv#C0205549,2843-2848,PREF,SERIES
+questionnaires,http://sbmi.uth.tmc.edu/ontology/ochv#10490,2869-2882|3121-3134|3251-3264|3362-3374|4353-4365|8542-8554|8589-8601|9902-9914,PREF|PREF|PREF|SYN|SYN|SYN|SYN|SYN,QUESTIONNAIRES|QUESTIONNAIRES|QUESTIONNAIRES|QUESTIONNAIRE|QUESTIONNAIRE|QUESTIONNAIRE|QUESTIONNAIRE|QUESTIONNAIRE
+health,http://sbmi.uth.tmc.edu/ontology/ochv#C0018684,2929-2934|8221-8226|10774-10779,PREF|PREF|PREF,HEALTH|HEALTH|HEALTH
+health,http://sbmi.uth.tmc.edu/ontology/ochv#5822,2929-2934|8221-8226|10774-10779,PREF|PREF|PREF,HEALTH|HEALTH|HEALTH
+status,http://sbmi.uth.tmc.edu/ontology/ochv#C0449438,2979-2984,PREF,STATUS
+laboratory,http://sbmi.uth.tmc.edu/ontology/ochv#C0022877,3016-3025|7145-7154,PREF|PREF,LABORATORY|LABORATORY
+university,http://sbmi.uth.tmc.edu/ontology/ochv#C0041740,3057-3066|3945-3954|10351-10360|10585-10594,PREF|PREF|PREF|PREF,UNIVERSITY|UNIVERSITY|UNIVERSITY|UNIVERSITY
+queensland,http://sbmi.uth.tmc.edu/ontology/ochv#10488,3071-3080|10365-10374,PREF|PREF,QUEENSLAND|QUEENSLAND
+queensland,http://sbmi.uth.tmc.edu/ontology/ochv#C0034391,3071-3080|10365-10374,PREF|PREF,QUEENSLAND|QUEENSLAND
+repeated,http://sbmi.uth.tmc.edu/ontology/ochv#C0205341,3142-3149|6565-6572,PREF|PREF,REPEATED|REPEATED
+group,http://sbmi.uth.tmc.edu/ontology/ochv#C0441833,3313-3317,PREF,GROUP
+month,http://sbmi.uth.tmc.edu/ontology/ochv#C0439231,3349-3353|4638-4642,PREF|PREF,MONTH|MONTH
+questionnaire,http://sbmi.uth.tmc.edu/ontology/ochv#C0034394,3362-3374|4353-4365|8542-8554|8589-8601|9902-9914,PREF|PREF|PREF|PREF|PREF,QUESTIONNAIRE|QUESTIONNAIRE|QUESTIONNAIRE|QUESTIONNAIRE|QUESTIONNAIRE
+email,http://sbmi.uth.tmc.edu/ontology/ochv#C0013849,3510-3514|4174-4178,PREF|PREF,EMAIL|EMAIL
+report,http://sbmi.uth.tmc.edu/ontology/ochv#C0684224,3520-3525,PREF,REPORT
+survey,http://sbmi.uth.tmc.edu/ontology/ochv#C0038951,3626-3631,PREF,SURVEY
+date,http://sbmi.uth.tmc.edu/ontology/ochv#C0011008,3681-3684,PREF,DATE
+file,http://sbmi.uth.tmc.edu/ontology/ochv#C0180853,3863-3866|4706-4709,PREF|PREF,FILE|FILE
+table,http://sbmi.uth.tmc.edu/ontology/ochv#C0039224,3871-3875|4714-4718|9803-9807,PREF|PREF|PREF,TABLE|TABLE|TABLE
+local,http://sbmi.uth.tmc.edu/ontology/ochv#C0205276,3967-3971,PREF,LOCAL
+community,http://sbmi.uth.tmc.edu/ontology/ochv#C0009462,3973-3981,PREF,COMMUNITY
+community,http://sbmi.uth.tmc.edu/ontology/ochv#3211,3973-3981,PREF,COMMUNITY
+media,http://sbmi.uth.tmc.edu/ontology/ochv#C1254021,3991-3995,PREF,MEDIA
+media,http://sbmi.uth.tmc.edu/ontology/ochv#56151,3991-3995,PREF,MEDIA
+hospitals,http://sbmi.uth.tmc.edu/ontology/ochv#6268,4012-4020|10686-10693,PREF|SYN,HOSPITALS|HOSPITAL
+professional,http://sbmi.uth.tmc.edu/ontology/ochv#C0679924,4032-4043,PREF,PROFESSIONAL
+professional,http://sbmi.uth.tmc.edu/ontology/ochv#43174,4032-4043,PREF,PROFESSIONAL
+agency,http://sbmi.uth.tmc.edu/ontology/ochv#C0237463,4057-4062,PREF,AGENCY
+screening,http://sbmi.uth.tmc.edu/ontology/ochv#C0220908,4079-4087|4270-4278|4342-4350,PREF|PREF|PREF,SCREENING|SCREENING|SCREENING
+screening,http://sbmi.uth.tmc.edu/ontology/ochv#C1305399,4079-4087|4270-4278|4342-4350,PREF|PREF|PREF,SCREENING|SCREENING|SCREENING
+methods,http://sbmi.uth.tmc.edu/ontology/ochv#8041,4123-4129|4209-4214,PREF|SYN,METHODS|METHOD
+method,http://sbmi.uth.tmc.edu/ontology/ochv#C0025663,4209-4214,PREF,METHOD
+exclusion,http://sbmi.uth.tmc.edu/ontology/ochv#C0680251,4244-4252|4401-4409|4672-4680,PREF|PREF|PREF,EXCLUSION|EXCLUSION|EXCLUSION
+exclusion,http://sbmi.uth.tmc.edu/ontology/ochv#43243,4244-4252|4401-4409|4672-4680,PREF|PREF|PREF,EXCLUSION|EXCLUSION|EXCLUSION
+replaced,http://sbmi.uth.tmc.edu/ontology/ochv#C1299987,4308-4315,PREF,REPLACED
+previous,http://sbmi.uth.tmc.edu/ontology/ochv#C0205156,4498-4505|8003-8010,PREF|PREF,PREVIOUS|PREVIOUS
+meeting,http://sbmi.uth.tmc.edu/ontology/ochv#C0556656,4660-4666,PREF,MEETING
+potential,http://sbmi.uth.tmc.edu/ontology/ochv#C0237399,4724-4732|9737-9745,PREF|PREF,POTENTIAL|POTENTIAL
+potential,http://sbmi.uth.tmc.edu/ontology/ochv#23799,4724-4732|9737-9745,PREF|PREF,POTENTIAL|POTENTIAL
+week,http://sbmi.uth.tmc.edu/ontology/ochv#C0439230,4836-4839|4921-4924,PREF|PREF,WEEK|WEEK
+respondents,http://sbmi.uth.tmc.edu/ontology/ochv#C0282122,4880-4890|5305-5315,PREF|PREF,RESPONDENTS|RESPONDENTS
+respondents,http://sbmi.uth.tmc.edu/ontology/ochv#27487,4880-4890|5237-5246|5305-5315|7585-7594,PREF|SYN|PREF|SYN,RESPONDENTS|RESPONDENT|RESPONDENTS|RESPONDENT
+likert scale,http://sbmi.uth.tmc.edu/ontology/ochv#C0451267,5000-5011|5398-5409|5467-5478|7502-7513,PREF|PREF|PREF|PREF,LIKERT SCALE|LIKERT SCALE|LIKERT SCALE|LIKERT SCALE
+responses,http://sbmi.uth.tmc.edu/ontology/ochv#51316,5090-5098|5412-5420|5739-5746|6353-6360|7448-7456|11316-11324,PREF|PREF|SYN|SYN|PREF|PREF,RESPONSES|RESPONSES|RESPONSE|RESPONSE|RESPONSES|RESPONSES
+respect,http://sbmi.uth.tmc.edu/ontology/ochv#43010,5212-5218,PREF,RESPECT
+respect,http://sbmi.uth.tmc.edu/ontology/ochv#C0679133,5212-5218,PREF,RESPECT
+certain,http://sbmi.uth.tmc.edu/ontology/ochv#C0205423,5260-5266,PREF,CERTAIN
+seven,http://sbmi.uth.tmc.edu/ontology/ochv#C0205453,5386-5390,PREF,SEVEN
+venous blood,http://sbmi.uth.tmc.edu/ontology/ochv#C0229667,5529-5540,PREF,VENOUS BLOOD
+venous,http://sbmi.uth.tmc.edu/ontology/ochv#C0348013,5529-5534,PREF,VENOUS
+blood,http://sbmi.uth.tmc.edu/ontology/ochv#C0005767,5536-5540|9527-9531|9687-9691,PREF|PREF|PREF,BLOOD|BLOOD|BLOOD
+blood,http://sbmi.uth.tmc.edu/ontology/ochv#1982,5536-5540|9527-9531|9687-9691,PREF|PREF|PREF,BLOOD|BLOOD|BLOOD
+clotted,http://sbmi.uth.tmc.edu/ontology/ochv#C0460105,5553-5559,PREF,CLOTTED
+temperature,http://sbmi.uth.tmc.edu/ontology/ochv#C0039476,5576-5586,PREF,TEMPERATURE
+temperature,http://sbmi.uth.tmc.edu/ontology/ochv#12083,5576-5586,PREF,TEMPERATURE
+serum,http://sbmi.uth.tmc.edu/ontology/ochv#22388,5594-5598,PREF,SERUM
+serum,http://sbmi.uth.tmc.edu/ontology/ochv#C0229671,5594-5598,PREF,SERUM
+separated,http://sbmi.uth.tmc.edu/ontology/ochv#C0443299,5604-5612|6759-6767,PREF|PREF,SEPARATED|SEPARATED
+separated,http://sbmi.uth.tmc.edu/ontology/ochv#C0687118,5604-5612|6759-6767,PREF|PREF,SEPARATED|SEPARATED
+separated,http://sbmi.uth.tmc.edu/ontology/ochv#C0086972,5604-5612|6759-6767,PREF|PREF,SEPARATED|SEPARATED
+centrifugation,http://sbmi.uth.tmc.edu/ontology/ochv#2626,5617-5630,PREF,CENTRIFUGATION
+centrifugation,http://sbmi.uth.tmc.edu/ontology/ochv#C0007703,5617-5630,PREF,CENTRIFUGATION
+lower back,http://sbmi.uth.tmc.edu/ontology/ochv#C0230102,5707-5716,PREF,LOWER BACK
+lower,http://sbmi.uth.tmc.edu/ontology/ochv#C0441994,5707-5711|5948-5952,PREF|PREF,LOWER|LOWER
+forearm,http://sbmi.uth.tmc.edu/ontology/ochv#5202,5722-5728,PREF,FOREARM
+forearm,http://sbmi.uth.tmc.edu/ontology/ochv#C0016536,5722-5728,PREF,FOREARM
+calculated,http://sbmi.uth.tmc.edu/ontology/ochv#C0444686,5752-5761,PREF,CALCULATED
+obtained,http://sbmi.uth.tmc.edu/ontology/ochv#C1301820,5804-5811,PREF,OBTAINED
+score,http://sbmi.uth.tmc.edu/ontology/ochv#C0449820,5852-5856|5957-5961|7441-7445|7547-7551|7601-7605,PREF|PREF|PREF|PREF|PREF,SCORE|SCORE|SCORE|SCORE|SCORE
+positive,http://sbmi.uth.tmc.edu/ontology/ochv#C0205159,5929-5936,PREF,POSITIVE
+facilitation,http://sbmi.uth.tmc.edu/ontology/ochv#C0234112,6007-6018,PREF,FACILITATION
+negative,http://sbmi.uth.tmc.edu/ontology/ochv#C0205160,6021-6028,PREF,NEGATIVE
+sitting position,http://sbmi.uth.tmc.edu/ontology/ochv#C0277814,6065-6080,PREF,SITTING POSITION
+sitting position,http://sbmi.uth.tmc.edu/ontology/ochv#27026,6065-6080,PREF,SITTING POSITION
+pelvis,http://sbmi.uth.tmc.edu/ontology/ochv#C0030797,6094-6099,PREF,PELVIS
+pelvis,http://sbmi.uth.tmc.edu/ontology/ochv#9406,6094-6099,PREF,PELVIS
+fixed,http://sbmi.uth.tmc.edu/ontology/ochv#C0443218,6101-6105,PREF,FIXED
+cable,http://sbmi.uth.tmc.edu/ontology/ochv#37344,6113-6117|6234-6238|6264-6268|6663-6667,PREF|PREF|PREF|PREF,CABLE|CABLE|CABLE|CABLE
+cable,http://sbmi.uth.tmc.edu/ontology/ochv#C0492124,6113-6117|6234-6238|6264-6268|6663-6667,PREF|PREF|PREF|PREF,CABLE|CABLE|CABLE|CABLE
+trunk,http://sbmi.uth.tmc.edu/ontology/ochv#C0460005,6164-6168|6481-6485|6642-6646|7065-7069|9314-9318|11296-11300|11412-11416,PREF|PREF|PREF|PREF|PREF|PREF|PREF,TRUNK|TRUNK|TRUNK|TRUNK|TRUNK|TRUNK|TRUNK
+instruction,http://sbmi.uth.tmc.edu/ontology/ochv#C0302828,6188-6198,PREF,INSTRUCTION
+instruction,http://sbmi.uth.tmc.edu/ontology/ochv#56008,6188-6198,PREF,INSTRUCTION
+instruction,http://sbmi.uth.tmc.edu/ontology/ochv#C1186996,6188-6198,PREF,INSTRUCTION
+force,http://sbmi.uth.tmc.edu/ontology/ochv#34895,6247-6251|6669-6673|7252-7256,PREF|PREF|PREF,FORCE|FORCE|FORCE
+force,http://sbmi.uth.tmc.edu/ontology/ochv#C0441722,6247-6251|6669-6673|7252-7256,PREF|PREF|PREF,FORCE|FORCE|FORCE
+direction,http://sbmi.uth.tmc.edu/ontology/ochv#C0449738,6335-6343|6591-6599|6885-6893,PREF|PREF|PREF,DIRECTION|DIRECTION|DIRECTION
+direction,http://sbmi.uth.tmc.edu/ontology/ochv#35862,6335-6343|6591-6599|6885-6893,PREF|PREF|PREF,DIRECTION|DIRECTION|DIRECTION
+abdominal,http://sbmi.uth.tmc.edu/ontology/ochv#C0456438,6368-6376,PREF,ABDOMINAL
+muscle,http://sbmi.uth.tmc.edu/ontology/ochv#8358,6388-6394|11302-11307,SYN|PREF,MUSCLES|MUSCLE
+surface emg,http://sbmi.uth.tmc.edu/ontology/ochv#C0430815,6415-6425,PREF,SURFACE EMG
+surface,http://sbmi.uth.tmc.edu/ontology/ochv#C0205148,6415-6421,PREF,SURFACE
+electrodes,http://sbmi.uth.tmc.edu/ontology/ochv#4333,6427-6436,PREF,ELECTRODES
+placement,http://sbmi.uth.tmc.edu/ontology/ochv#C0449268,6445-6453,PREF,PLACEMENT
+placement,http://sbmi.uth.tmc.edu/ontology/ochv#35780,6445-6453,PREF,PLACEMENT
+weight,http://sbmi.uth.tmc.edu/ontology/ochv#13132,6542-6548|7020-7025|7037-7042,SYN|PREF|PREF,WEIGHTS|WEIGHT|WEIGHT
+directions,http://sbmi.uth.tmc.edu/ontology/ochv#C0439755,6619-6628,PREF,DIRECTIONS
+kinematics,http://sbmi.uth.tmc.edu/ontology/ochv#42196,6648-6657|9335-9343,PREF|SYN,KINEMATICS|KINEMATIC
+kinematics,http://sbmi.uth.tmc.edu/ontology/ochv#C0600169,6648-6657,PREF,KINEMATICS
+performed,http://sbmi.uth.tmc.edu/ontology/ochv#C0884358,6730-6738|8453-8461,PREF|PREF,PERFORMED|PERFORMED
+rest,http://sbmi.uth.tmc.edu/ontology/ochv#C0035253,6780-6783,PREF,REST
+rest,http://sbmi.uth.tmc.edu/ontology/ochv#10775,6780-6783,PREF,REST
+period,http://sbmi.uth.tmc.edu/ontology/ochv#C0439531,6786-6791|8177-8182,PREF|PREF,PERIOD|PERIOD
+period,http://sbmi.uth.tmc.edu/ontology/ochv#C0025344,6786-6791|8177-8182,PREF|PREF,PERIOD|PERIOD
+open,http://sbmi.uth.tmc.edu/ontology/ochv#C0175566,6804-6807|11176-11179,PREF|PREF,OPEN|OPEN
+open,http://sbmi.uth.tmc.edu/ontology/ochv#18146,6804-6807|11176-11179,PREF|PREF,OPEN|OPEN
+closed,http://sbmi.uth.tmc.edu/ontology/ochv#40896,6815-6820,PREF,CLOSED
+closed,http://sbmi.uth.tmc.edu/ontology/ochv#C0587267,6815-6820,PREF,CLOSED
+feedback,http://sbmi.uth.tmc.edu/ontology/ochv#C0015744,6831-6838|7072-7079,PREF|PREF,FEEDBACK|FEEDBACK
+feedback,http://sbmi.uth.tmc.edu/ontology/ochv#4938,6831-6838|7072-7079,PREF|PREF,FEEDBACK|FEEDBACK
+computer,http://sbmi.uth.tmc.edu/ontology/ochv#C0009622,6909-6916,PREF,COMPUTER
+body weight,http://sbmi.uth.tmc.edu/ontology/ochv#2054,7020-7025|7032-7042|7037-7042,SYN|PREF|SYN,WEIGHT|BODY WEIGHT|WEIGHT
+weight,http://sbmi.uth.tmc.edu/ontology/ochv#C0043100,7020-7025|7037-7042,PREF|PREF,WEIGHT|WEIGHT
+body weight,http://sbmi.uth.tmc.edu/ontology/ochv#57827,7020-7025|7032-7042|7037-7042,SYN|PREF|SYN,WEIGHT|BODY WEIGHT|WEIGHT
+body weight,http://sbmi.uth.tmc.edu/ontology/ochv#C0005910,7032-7042,PREF,BODY WEIGHT
+body,http://sbmi.uth.tmc.edu/ontology/ochv#C0242821,7032-7035,PREF,BODY
+postural,http://sbmi.uth.tmc.edu/ontology/ochv#C0205278,7128-7135|7165-7172,PREF|PREF,POSTURAL|POSTURAL
+measure,http://sbmi.uth.tmc.edu/ontology/ochv#C0079809,7156-7162,PREF,MEASURE
+measured,http://sbmi.uth.tmc.edu/ontology/ochv#C0444706,7186-7193|7807-7814,PREF|PREF,MEASURED|MEASURED
+barefoot,http://sbmi.uth.tmc.edu/ontology/ochv#C0277844,7222-7229,PREF,BAREFOOT
+plate,http://sbmi.uth.tmc.edu/ontology/ochv#C1139930,7258-7262,PREF,PLATE
+cop,http://sbmi.uth.tmc.edu/ontology/ochv#C0086825,7290-7292,PREF,COP
+dimension,http://sbmi.uth.tmc.edu/ontology/ochv#C0439534,7327-7335,PREF,DIMENSION
+component,http://sbmi.uth.tmc.edu/ontology/ochv#C0449432,7378-7386,PREF,COMPONENT
+maximum,http://sbmi.uth.tmc.edu/ontology/ochv#C0806909,7432-7438,PREF,MAXIMUM
+maximum,http://sbmi.uth.tmc.edu/ontology/ochv#49035,7432-7438,PREF,MAXIMUM
+applicable,http://sbmi.uth.tmc.edu/ontology/ochv#C1272460,7567-7576,PREF,APPLICABLE
+participant,http://sbmi.uth.tmc.edu/ontology/ochv#C0679646,7850-7860|9589-9599,PREF|PREF,PARTICIPANT|PARTICIPANT
+research,http://sbmi.uth.tmc.edu/ontology/ochv#10739,8012-8019|8101-8108|10473-10480|10617-10624|10702-10709|10787-10794|11256-11263,PREF|PREF|PREF|PREF|PREF|PREF|PREF,RESEARCH|RESEARCH|RESEARCH|RESEARCH|RESEARCH|RESEARCH|RESEARCH
+research,http://sbmi.uth.tmc.edu/ontology/ochv#C0035168,8012-8019|8101-8108|10473-10480|10617-10624|10702-10709|10787-10794|11256-11263,PREF|PREF|PREF|PREF|PREF|PREF|PREF,RESEARCH|RESEARCH|RESEARCH|RESEARCH|RESEARCH|RESEARCH|RESEARCH
+clinical,http://sbmi.uth.tmc.edu/ontology/ochv#C0205210,8058-8065|8940-8947,PREF|PREF,CLINICAL|CLINICAL
+intention,http://sbmi.uth.tmc.edu/ontology/ochv#C0162425,8130-8138,PREF,INTENTION
+intention,http://sbmi.uth.tmc.edu/ontology/ochv#17841,8130-8138,PREF,INTENTION
+information,http://sbmi.uth.tmc.edu/ontology/ochv#C0870705,8199-8209,PREF,INFORMATION
+information,http://sbmi.uth.tmc.edu/ontology/ochv#51185,8199-8209,PREF,INFORMATION
+health care,http://sbmi.uth.tmc.edu/ontology/ochv#15910,8221-8231|10769-10779,PREF|SYN,HEALTH CARE|CARE HEALTH
+health care,http://sbmi.uth.tmc.edu/ontology/ochv#C0086388,8221-8231,PREF,HEALTH CARE
+medication use,http://sbmi.uth.tmc.edu/ontology/ochv#24389,8237-8250,PREF,MEDICATION USE
+medication use,http://sbmi.uth.tmc.edu/ontology/ochv#C0240320,8237-8250,PREF,MEDICATION USE
+planned,http://sbmi.uth.tmc.edu/ontology/ochv#C1301732,8317-8323,PREF,PLANNED
+sample size,http://sbmi.uth.tmc.edu/ontology/ochv#24889,8325-8335,PREF,SAMPLE SIZE
+sample size,http://sbmi.uth.tmc.edu/ontology/ochv#C0242618,8325-8335,PREF,SAMPLE SIZE
+size,http://sbmi.uth.tmc.edu/ontology/ochv#C0702146,8332-8335,PREF,SIZE
+due to,http://sbmi.uth.tmc.edu/ontology/ochv#C0678226,8354-8359,PREF,DUE TO
+due to,http://sbmi.uth.tmc.edu/ontology/ochv#42785,8354-8359,PREF,DUE TO
+complete,http://sbmi.uth.tmc.edu/ontology/ochv#C0205197,8511-8518,PREF,COMPLETE
+early,http://sbmi.uth.tmc.edu/ontology/ochv#C0205085,8976-8980|9059-9063,PREF|PREF,EARLY|EARLY
+acute phase,http://sbmi.uth.tmc.edu/ontology/ochv#C0439557,9065-9075,PREF,ACUTE PHASE
+phase,http://sbmi.uth.tmc.edu/ontology/ochv#C0205390,9071-9075,PREF,PHASE
+role,http://sbmi.uth.tmc.edu/ontology/ochv#10933,9306-9309|10179-10182,PREF|PREF,ROLE|ROLE
+mechanical,http://sbmi.uth.tmc.edu/ontology/ochv#C0443254,9346-9355|11383-11392,PREF|PREF,MECHANICAL|MECHANICAL
+day,http://sbmi.uth.tmc.edu/ontology/ochv#C0439228,9576-9578,PREF,DAY
+cytokine,http://sbmi.uth.tmc.edu/ontology/ochv#15126,9663-9671|9777-9784,SYN|PREF,CYTOKINES|CYTOKINE
+cytokine,http://sbmi.uth.tmc.edu/ontology/ochv#C0079189,9777-9784,PREF,CYTOKINE
+levels,http://sbmi.uth.tmc.edu/ontology/ochv#C0441889,9786-9791,PREF,LEVELS
+abbreviations,http://sbmi.uth.tmc.edu/ontology/ochv#527,9821-9833,PREF,ABBREVIATIONS
+job,http://sbmi.uth.tmc.edu/ontology/ochv#C0028811,9890-9892|9952-9954,PREF|PREF,JOB|JOB
+insecurity,http://sbmi.uth.tmc.edu/ontology/ochv#C0233497,9956-9965,PREF,INSECURITY
+conceived,http://sbmi.uth.tmc.edu/ontology/ochv#23041,9995-10003,PREF,CONCEIVED
+conceived,http://sbmi.uth.tmc.edu/ontology/ochv#C0232908,9995-10003,PREF,CONCEIVED
+manuscript,http://sbmi.uth.tmc.edu/ontology/ochv#C0600659,10096-10105|10148-10157|10279-10288,PREF|PREF|PREF,MANUSCRIPT|MANUSCRIPT|MANUSCRIPT
+approved,http://sbmi.uth.tmc.edu/ontology/ochv#C0205540,10129-10136|10569-10576,PREF|PREF,APPROVED|APPROVED
+study design,http://sbmi.uth.tmc.edu/ontology/ochv#C0035171,10191-10202,PREF,STUDY DESIGN
+analysis,http://sbmi.uth.tmc.edu/ontology/ochv#C0936012,10226-10233,PREF,ANALYSIS
+analysis,http://sbmi.uth.tmc.edu/ontology/ochv#52824,10226-10233,PREF,ANALYSIS
+decision,http://sbmi.uth.tmc.edu/ontology/ochv#C0679006,10236-10243,PREF,DECISION
+decision,http://sbmi.uth.tmc.edu/ontology/ochv#42975,10236-10243,PREF,DECISION
+availability of,http://sbmi.uth.tmc.edu/ontology/ochv#C0470187,10291-10305,PREF,AVAILABILITY OF
+Australia,http://sbmi.uth.tmc.edu/ontology/ochv#C0004340,10387-10395,PREF,AUSTRALIA
+Australia,http://sbmi.uth.tmc.edu/ontology/ochv#1595,10387-10395,PREF,AUSTRALIA
+identified,http://sbmi.uth.tmc.edu/ontology/ochv#C0205396,10434-10443,PREF,IDENTIFIED
+format,http://sbmi.uth.tmc.edu/ontology/ochv#C1301627,10445-10450,PREF,FORMAT
+access,http://sbmi.uth.tmc.edu/ontology/ochv#C0444454,10492-10497|11181-11186,PREF|PREF,ACCESS|ACCESS
+ethics,http://sbmi.uth.tmc.edu/ontology/ochv#4692,10512-10517|10627-10632|10711-10716|10796-10801,PREF|PREF|PREF|PREF,ETHICS|ETHICS|ETHICS|ETHICS
+ethics,http://sbmi.uth.tmc.edu/ontology/ochv#C0015000,10512-10517|10627-10632|10711-10716|10796-10801,PREF|PREF|PREF|PREF,ETHICS|ETHICS|ETHICS|ETHICS
+human,http://sbmi.uth.tmc.edu/ontology/ochv#6299,10611-10615|10696-10700|10781-10785,PREF|PREF|PREF,HUMAN|HUMAN|HUMAN
+human,http://sbmi.uth.tmc.edu/ontology/ochv#C0020114,10611-10615|10696-10700|10781-10785,PREF|PREF|PREF,HUMAN|HUMAN|HUMAN
+human,http://sbmi.uth.tmc.edu/ontology/ochv#C0086418,10611-10615|10696-10700|10781-10785,PREF|PREF|PREF,HUMAN|HUMAN|HUMAN
+hospital,http://sbmi.uth.tmc.edu/ontology/ochv#C0019994,10686-10693,PREF,HOSPITAL
+research ethics,http://sbmi.uth.tmc.edu/ontology/ochv#C0814851,10702-10716|10787-10801,PREF|PREF,RESEARCH ETHICS|RESEARCH ETHICS
+informed consent,http://sbmi.uth.tmc.edu/ontology/ochv#6720,10860-10875,PREF,INFORMED CONSENT
+informed consent,http://sbmi.uth.tmc.edu/ontology/ochv#C0021430,10860-10875,PREF,INFORMED CONSENT
+informed,http://sbmi.uth.tmc.edu/ontology/ochv#C0562354,10860-10867|10883-10890|10973-10980,PREF|PREF|PREF,INFORMED|INFORMED|INFORMED
+right,http://sbmi.uth.tmc.edu/ontology/ochv#C0205090,10901-10905,PREF,RIGHT
+purpose,http://sbmi.uth.tmc.edu/ontology/ochv#C0449256,10996-11002,PREF,PURPOSE
+gold,http://sbmi.uth.tmc.edu/ontology/ochv#5645,11171-11174,PREF,GOLD
+gold,http://sbmi.uth.tmc.edu/ontology/ochv#C0018026,11171-11174,PREF,GOLD
+collaboration,http://sbmi.uth.tmc.edu/ontology/ochv#C0282116,11208-11220,PREF,COLLABORATION
+collaboration,http://sbmi.uth.tmc.edu/ontology/ochv#27486,11208-11220,PREF,COLLABORATION
+increased,http://sbmi.uth.tmc.edu/ontology/ochv#C0205217,11226-11234,PREF,INCREASED
+progress,http://sbmi.uth.tmc.edu/ontology/ochv#C1272688,11278-11285,PREF,PROGRESS
+delayed,http://sbmi.uth.tmc.edu/ontology/ochv#C0205421,11288-11294,PREF,DELAYED
+muscle,http://sbmi.uth.tmc.edu/ontology/ochv#C0026845,11302-11307,PREF,MUSCLE
+reflex,http://sbmi.uth.tmc.edu/ontology/ochv#C0034929,11309-11314,PREF,REFLEX
+increase,http://sbmi.uth.tmc.edu/ontology/ochv#C0442805,11326-11333,PREF,INCREASE
+risk,http://sbmi.uth.tmc.edu/ontology/ochv#10909,11339-11345|11339-11342,SYN|PREF,RISK OF|RISK
+risk,http://sbmi.uth.tmc.edu/ontology/ochv#C0035647,11339-11342,PREF,RISK
+interpretation,http://sbmi.uth.tmc.edu/ontology/ochv#C0459471,11492-11505,PREF,INTERPRETATION
+literature,http://sbmi.uth.tmc.edu/ontology/ochv#7488,11515-11524,PREF,LITERATURE
+literature,http://sbmi.uth.tmc.edu/ontology/ochv#C0023866,11515-11524,PREF,LITERATURE
+note,http://sbmi.uth.tmc.edu/ontology/ochv#C1317574,11557-11560,PREF,NOTE
+nature,http://sbmi.uth.tmc.edu/ontology/ochv#31269,11571-11576,PREF,NATURE
+nature,http://sbmi.uth.tmc.edu/ontology/ochv#C1262865,11571-11576,PREF,NATURE
+nature,http://sbmi.uth.tmc.edu/ontology/ochv#C0349590,11571-11576,PREF,NATURE
+published,http://sbmi.uth.tmc.edu/ontology/ochv#C0034037,11634-11642,PREF,PUBLISHED
+maps,http://sbmi.uth.tmc.edu/ontology/ochv#7743,11644-11647,PREF,MAPS

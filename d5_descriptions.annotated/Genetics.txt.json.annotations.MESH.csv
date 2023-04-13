@@ -1,0 +1,12 @@
+prefLabel,id,from_to,matchType,text
+Heredity,http://purl.bioontology.org/ontology/MESH/D040941,1-8,PREF,HEREDITY
+Role,http://purl.bioontology.org/ontology/MESH/D012380,33-36,PREF,ROLE
+Back Pain,http://purl.bioontology.org/ontology/MESH/D001416,65-73,PREF,BACK PAIN
+Pain,http://purl.bioontology.org/ontology/MESH/D010146,70-73|383-386|403-406|507-510,PREF|PREF|PREF|PREF,PAIN|PAIN|PAIN|PAIN
+Risk,http://purl.bioontology.org/ontology/MESH/D012306,75-78,PREF,RISK
+Association,http://purl.bioontology.org/ontology/MESH/D001244,88-98,PREF,ASSOCIATION
+Proteins,http://purl.bioontology.org/ontology/MESH/D011506,363-370,PREF,PROTEINS
+Pain Perception,http://purl.bioontology.org/ontology/MESH/D058748,383-397,PREF,PAIN PERCEPTION
+Perception,http://purl.bioontology.org/ontology/MESH/D010465,388-397,PREF,PERCEPTION
+Personality,http://purl.bioontology.org/ontology/MESH/D010551,430-440,PREF,PERSONALITY
+Sciatica,http://purl.bioontology.org/ontology/MESH/D012585,682-689,PREF,SCIATICA

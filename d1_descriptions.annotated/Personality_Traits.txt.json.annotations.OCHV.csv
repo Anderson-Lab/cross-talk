@@ -1,0 +1,81 @@
+prefLabel,id,from_to,matchType,text
+personality,http://sbmi.uth.tmc.edu/ontology/ochv#9541,1-11|239-249|882-892|1328-1338,PREF|PREF|PREF|PREF,PERSONALITY|PERSONALITY|PERSONALITY|PERSONALITY
+personality,http://sbmi.uth.tmc.edu/ontology/ochv#C0031208,1-11|239-249|882-892|1328-1338,PREF|PREF|PREF|PREF,PERSONALITY|PERSONALITY|PERSONALITY|PERSONALITY
+people,http://sbmi.uth.tmc.edu/ontology/ochv#C0027361,28-33,PREF,PEOPLE
+pain,http://sbmi.uth.tmc.edu/ontology/ochv#9185,79-82|124-127|223-226|347-350|390-393|783-786|847-850,PREF|PREF|PREF|PREF|PREF|PREF|PREF,PAIN|PAIN|PAIN|PAIN|PAIN|PAIN|PAIN
+pain,http://sbmi.uth.tmc.edu/ontology/ochv#C0030193,79-82|124-127|223-226|347-350|390-393|783-786|847-850,PREF|PREF|PREF|PREF|PREF|PREF|PREF,PAIN|PAIN|PAIN|PAIN|PAIN|PAIN|PAIN
+adoption,http://sbmi.uth.tmc.edu/ontology/ochv#C0001593,93-100,PREF,ADOPTION
+adoption,http://sbmi.uth.tmc.edu/ontology/ochv#760,93-100,PREF,ADOPTION
+types,http://sbmi.uth.tmc.edu/ontology/ochv#C0332307,115-119,PREF,TYPES
+types,http://sbmi.uth.tmc.edu/ontology/ochv#C0449470,115-119,PREF,TYPES
+related,http://sbmi.uth.tmc.edu/ontology/ochv#C0163712,129-135,PREF,RELATED
+beliefs,http://sbmi.uth.tmc.edu/ontology/ochv#1764,137-143,PREF,BELIEFS
+emotional,http://sbmi.uth.tmc.edu/ontology/ochv#C0849912,178-186|1102-1110,PREF|PREF,EMOTIONAL|EMOTIONAL
+pain perception,http://sbmi.uth.tmc.edu/ontology/ochv#49233,223-237,PREF,PAIN PERCEPTION
+pain perception,http://sbmi.uth.tmc.edu/ontology/ochv#C0814071,223-237,PREF,PAIN PERCEPTION
+perception,http://sbmi.uth.tmc.edu/ontology/ochv#9468,228-237,PREF,PERCEPTION
+perception,http://sbmi.uth.tmc.edu/ontology/ochv#C0030971,228-237,PREF,PERCEPTION
+personality traits,http://sbmi.uth.tmc.edu/ontology/ochv#23217,239-256|1328-1345,PREF|PREF,PERSONALITY TRAITS|PERSONALITY TRAITS
+personality traits,http://sbmi.uth.tmc.edu/ontology/ochv#C0233849,239-256|1328-1345,PREF|PREF,PERSONALITY TRAITS|PERSONALITY TRAITS
+trait,http://sbmi.uth.tmc.edu/ontology/ochv#42111,251-256|680-684|863-867|1052-1057|1340-1345,SYN|PREF|PREF|SYN|SYN,TRAITS|TRAIT|TRAIT|TRAITS|TRAITS
+pattern,http://sbmi.uth.tmc.edu/ontology/ochv#C0449774,270-276,PREF,PATTERN
+thinking,http://sbmi.uth.tmc.edu/ontology/ochv#C0039869,281-288,PREF,THINKING
+thinking,http://sbmi.uth.tmc.edu/ontology/ochv#12181,281-288,PREF,THINKING
+interpretation,http://sbmi.uth.tmc.edu/ontology/ochv#C0459471,324-337,PREF,INTERPRETATION
+experience,http://sbmi.uth.tmc.edu/ontology/ochv#C0596545,352-361,PREF,EXPERIENCE
+experience,http://sbmi.uth.tmc.edu/ontology/ochv#C0237607,352-361,PREF,EXPERIENCE
+experience,http://sbmi.uth.tmc.edu/ontology/ochv#41569,352-361,PREF,EXPERIENCE
+chronic pain,http://sbmi.uth.tmc.edu/ontology/ochv#C0150055,382-393,PREF,CHRONIC PAIN
+chronic,http://sbmi.uth.tmc.edu/ontology/ochv#C0205191,382-388,PREF,CHRONIC
+avoidance,http://sbmi.uth.tmc.edu/ontology/ochv#51036,425-433,PREF,AVOIDANCE
+avoidance,http://sbmi.uth.tmc.edu/ontology/ochv#C0870186,425-433,PREF,AVOIDANCE
+fearful,http://sbmi.uth.tmc.edu/ontology/ochv#C0458278,448-454,PREF,FEARFUL
+sensitive,http://sbmi.uth.tmc.edu/ontology/ochv#C0332324,470-478,PREF,SENSITIVE
+criticism,http://sbmi.uth.tmc.edu/ontology/ochv#C0870379,483-491,PREF,CRITICISM
+criticism,http://sbmi.uth.tmc.edu/ontology/ochv#51091,483-491,PREF,CRITICISM
+high,http://sbmi.uth.tmc.edu/ontology/ochv#C0205250,504-507|921-924,PREF|PREF,HIGH|HIGH
+high,http://sbmi.uth.tmc.edu/ontology/ochv#20438,504-507|921-924,PREF|PREF,HIGH|HIGH
+levels,http://sbmi.uth.tmc.edu/ontology/ochv#C0441889,509-514,PREF,LEVELS
+reassurance,http://sbmi.uth.tmc.edu/ontology/ochv#C0204558,519-529,PREF,REASSURANCE
+lower,http://sbmi.uth.tmc.edu/ontology/ochv#C0441994,537-541,PREF,LOWER
+self,http://sbmi.uth.tmc.edu/ontology/ochv#11168,543-546,PREF,SELF
+self,http://sbmi.uth.tmc.edu/ontology/ochv#C0036588,543-546,PREF,SELF
+manifested by,http://sbmi.uth.tmc.edu/ontology/ochv#C1280444,562-574,PREF,MANIFESTED BY
+difficulty,http://sbmi.uth.tmc.edu/ontology/ochv#C1299586,576-585,PREF,DIFFICULTY
+setting,http://sbmi.uth.tmc.edu/ontology/ochv#C0542559,603-609,PREF,SETTING
+goals,http://sbmi.uth.tmc.edu/ontology/ochv#5636,622-626,PREF,GOALS
+low,http://sbmi.uth.tmc.edu/ontology/ochv#C0205251,629-631,PREF,LOW
+motivation,http://sbmi.uth.tmc.edu/ontology/ochv#C0026605,633-642,PREF,MOTIVATION
+motivation,http://sbmi.uth.tmc.edu/ontology/ochv#8273,633-642,PREF,MOTIVATION
+adaptive,http://sbmi.uth.tmc.edu/ontology/ochv#C0231193,663-670,PREF,ADAPTIVE
+adaptive,http://sbmi.uth.tmc.edu/ontology/ochv#22627,663-670,PREF,ADAPTIVE
+trait,http://sbmi.uth.tmc.edu/ontology/ochv#C0599883,680-684|863-867,PREF|PREF,TRAIT|TRAIT
+known,http://sbmi.uth.tmc.edu/ontology/ochv#C0205309,701-705,PREF,KNOWN
+increase,http://sbmi.uth.tmc.edu/ontology/ochv#C0442805,710-717,PREF,INCREASE
+anxiety,http://sbmi.uth.tmc.edu/ontology/ochv#1342,756-762|869-875,PREF|PREF,ANXIETY|ANXIETY
+anxiety,http://sbmi.uth.tmc.edu/ontology/ochv#C0003467,756-762|869-875,PREF|PREF,ANXIETY|ANXIETY
+associated,http://sbmi.uth.tmc.edu/ontology/ochv#C0332281,826-835,PREF,ASSOCIATED
+arousal,http://sbmi.uth.tmc.edu/ontology/ochv#C0003808,926-932,PREF,AROUSAL
+arousal,http://sbmi.uth.tmc.edu/ontology/ochv#1438,926-932,PREF,AROUSAL
+tension,http://sbmi.uth.tmc.edu/ontology/ochv#C0233494,950-956,PREF,TENSION
+apprehension,http://sbmi.uth.tmc.edu/ontology/ochv#C0233485,968-979,PREF,APPREHENSION
+relative,http://sbmi.uth.tmc.edu/ontology/ochv#20517,981-988,PREF,RELATIVE
+relative,http://sbmi.uth.tmc.edu/ontology/ochv#C0205345,981-988,PREF,RELATIVE
+relative,http://sbmi.uth.tmc.edu/ontology/ochv#C0080103,981-988,PREF,RELATIVE
+future,http://sbmi.uth.tmc.edu/ontology/ochv#C0016884,1036-1041,PREF,FUTURE
+future,http://sbmi.uth.tmc.edu/ontology/ochv#5306,1036-1041,PREF,FUTURE
+positive,http://sbmi.uth.tmc.edu/ontology/ochv#C0205159,1043-1050,PREF,POSITIVE
+optimism,http://sbmi.uth.tmc.edu/ontology/ochv#C0237428,1067-1074,PREF,OPTIMISM
+flexibility,http://sbmi.uth.tmc.edu/ontology/ochv#C0242808,1112-1122,PREF,FLEXIBILITY
+social support,http://sbmi.uth.tmc.edu/ontology/ochv#11465,1162-1183|1162-1175,SYN|PREF,SOCIAL SUPPORT NETWORK|SOCIAL SUPPORT
+social support,http://sbmi.uth.tmc.edu/ontology/ochv#C0037438,1162-1175,PREF,SOCIAL SUPPORT
+social,http://sbmi.uth.tmc.edu/ontology/ochv#46637,1162-1167,PREF,SOCIAL
+social,http://sbmi.uth.tmc.edu/ontology/ochv#C0728831,1162-1167,PREF,SOCIAL
+Support,http://sbmi.uth.tmc.edu/ontology/ochv#C1171411,1169-1175,PREF,SUPPORT
+network,http://sbmi.uth.tmc.edu/ontology/ochv#C0679670,1177-1183,PREF,NETWORK
+network,http://sbmi.uth.tmc.edu/ontology/ochv#43105,1177-1183,PREF,NETWORK
+coping resources,http://sbmi.uth.tmc.edu/ontology/ochv#49362,1229-1244,PREF,COPING RESOURCES
+coping resources,http://sbmi.uth.tmc.edu/ontology/ochv#C0815097,1229-1244,PREF,COPING RESOURCES
+resources,http://sbmi.uth.tmc.edu/ontology/ochv#10753,1236-1244|1271-1279,PREF|PREF,RESOURCES|RESOURCES
+psychological,http://sbmi.uth.tmc.edu/ontology/ochv#57896,1257-1269,PREF,PSYCHOLOGICAL
+psychological,http://sbmi.uth.tmc.edu/ontology/ochv#C1306597,1257-1269,PREF,PSYCHOLOGICAL

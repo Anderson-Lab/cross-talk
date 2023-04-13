@@ -1,0 +1,5 @@
+uri,uri_annotations
+file:/d4_descriptions/Inflammation.txt.json,file:/d4_descriptions.annotated/Inflammation.txt.json.annotations.OCHV.csv
+file:/d4_descriptions/Perceived_Stress.txt.json,file:/d4_descriptions.annotated/Perceived_Stress.txt.json.annotations.OCHV.csv
+file:/d4_descriptions/Physical_co-morbidities.txt.json,file:/d4_descriptions.annotated/Physical_co-morbidities.txt.json.annotations.OCHV.csv
+file:/d4_descriptions/Systemic_Attributes.txt.json,file:/d4_descriptions.annotated/Systemic_Attributes.txt.json.annotations.OCHV.csv

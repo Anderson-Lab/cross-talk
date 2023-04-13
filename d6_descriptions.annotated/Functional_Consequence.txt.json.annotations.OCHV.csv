@@ -1,0 +1,41 @@
+prefLabel,id,from_to,matchType,text
+pain,http://sbmi.uth.tmc.edu/ontology/ochv#9185,1-4|193-196|430-433|510-513,PREF|PREF|PREF|PREF,PAIN|PAIN|PAIN|PAIN
+pain,http://sbmi.uth.tmc.edu/ontology/ochv#C0030193,1-4|193-196|430-433|510-513,PREF|PREF|PREF|PREF,PAIN|PAIN|PAIN|PAIN
+functional,http://sbmi.uth.tmc.edu/ontology/ochv#C0205245,23-32|156-165|530-539,PREF|PREF|PREF,FUNCTIONAL|FUNCTIONAL|FUNCTIONAL
+impact,http://sbmi.uth.tmc.edu/ontology/ochv#C0726639,71-76|198-203,PREF|PREF,IMPACT|IMPACT
+impact,http://sbmi.uth.tmc.edu/ontology/ochv#46536,71-76|198-203,PREF|PREF,IMPACT|IMPACT
+persons,http://sbmi.uth.tmc.edu/ontology/ochv#8474,80-86,PREF,PERSONS
+independence,http://sbmi.uth.tmc.edu/ontology/ochv#15793,88-99,PREF,INDEPENDENCE
+consider,http://sbmi.uth.tmc.edu/ontology/ochv#C0750591,113-120,PREF,CONSIDER
+consider,http://sbmi.uth.tmc.edu/ontology/ochv#48345,113-120,PREF,CONSIDER
+secondary to,http://sbmi.uth.tmc.edu/ontology/ochv#C0175668,180-191,PREF,SECONDARY TO
+secondary to,http://sbmi.uth.tmc.edu/ontology/ochv#18163,180-191|180-188,PREF|SYN,SECONDARY TO|SECONDARY
+secondary,http://sbmi.uth.tmc.edu/ontology/ochv#C1290850,180-188,PREF,SECONDARY
+overall,http://sbmi.uth.tmc.edu/ontology/ochv#C0282416,210-216,PREF,OVERALL
+quality of life,http://sbmi.uth.tmc.edu/ontology/ochv#C0034380,218-232,PREF,QUALITY OF LIFE
+quality of life,http://sbmi.uth.tmc.edu/ontology/ochv#10484,218-232,PREF,QUALITY OF LIFE
+life,http://sbmi.uth.tmc.edu/ontology/ochv#C0376558,229-232,PREF,LIFE
+life,http://sbmi.uth.tmc.edu/ontology/ochv#31817,229-232,PREF,LIFE
+self,http://sbmi.uth.tmc.edu/ontology/ochv#11168,270-273,PREF,SELF
+self,http://sbmi.uth.tmc.edu/ontology/ochv#C0036588,270-273,PREF,SELF
+disability,http://sbmi.uth.tmc.edu/ontology/ochv#C0231170,284-293|541-550,PREF|PREF,DISABILITY|DISABILITY
+confidence,http://sbmi.uth.tmc.edu/ontology/ochv#C0237529,328-337|380-389,PREF|PREF,CONFIDENCE|CONFIDENCE
+lifting,http://sbmi.uth.tmc.edu/ontology/ochv#C0206244,397-403,PREF,LIFTING
+lifting,http://sbmi.uth.tmc.edu/ontology/ochv#20877,397-403,PREF,LIFTING
+carrying capacity,http://sbmi.uth.tmc.edu/ontology/ochv#2492,405-421,PREF,CARRYING CAPACITY
+carrying capacity,http://sbmi.uth.tmc.edu/ontology/ochv#C0007296,405-421,PREF,CARRYING CAPACITY
+carrying,http://sbmi.uth.tmc.edu/ontology/ochv#20876,405-412,PREF,CARRYING
+carrying,http://sbmi.uth.tmc.edu/ontology/ochv#C0206243,405-412,PREF,CARRYING
+pain intensity,http://sbmi.uth.tmc.edu/ontology/ochv#C1320357,430-443,PREF,PAIN INTENSITY
+intensity,http://sbmi.uth.tmc.edu/ontology/ochv#C0522510,435-443,PREF,INTENSITY
+return to work,http://sbmi.uth.tmc.edu/ontology/ochv#C0425105,446-459,PREF,RETURN TO WORK
+return to,http://sbmi.uth.tmc.edu/ontology/ochv#C0332156,446-454,PREF,RETURN TO
+work,http://sbmi.uth.tmc.edu/ontology/ochv#C0043227,456-459,PREF,WORK
+work,http://sbmi.uth.tmc.edu/ontology/ochv#13188,456-459,PREF,WORK
+status,http://sbmi.uth.tmc.edu/ontology/ochv#C0449438,461-466,PREF,STATUS
+acute,http://sbmi.uth.tmc.edu/ontology/ochv#C0205178,493-497,PREF,ACUTE
+chronic pain,http://sbmi.uth.tmc.edu/ontology/ochv#C0150055,502-513,PREF,CHRONIC PAIN
+chronic,http://sbmi.uth.tmc.edu/ontology/ochv#C0205191,502-508,PREF,CHRONIC
+measured,http://sbmi.uth.tmc.edu/ontology/ochv#C0444706,518-525,PREF,MEASURED
+functional disability,http://sbmi.uth.tmc.edu/ontology/ochv#51548,530-550,PREF,FUNCTIONAL DISABILITY
+functional disability,http://sbmi.uth.tmc.edu/ontology/ochv#C0872173,530-550,PREF,FUNCTIONAL DISABILITY
