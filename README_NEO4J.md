@@ -332,7 +332,6 @@ Node similarity
 ```
 CALL gds.graph.drop('myGraph');
 
-
 CALL gds.graph.project(
     'myGraph',
     ['Abstract', 'Resource'],

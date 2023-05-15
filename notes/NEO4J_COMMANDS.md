@@ -9,6 +9,29 @@ RETURN n
 LIMIT 100
 ```
 
+## Cleanup
+```
+MATCH (a:Hypothesis)
+DETACH DELETE a;
+
+MATCH (a:Abstract)
+DETACH DELETE a;
+```
+
+## Returning a hierarchy
+```
+match (e:Resource {cui:"C0026860"})<-[r:subClassOf*..20]-(e2:Resource) return * limit 100;
+```
+
+MATCH (r {prefixIRI:'Thesaurus:C16346'}) return * 
+
+## Return based on subset of ontology
+```
+MATCH (p:Paper)-[r:HAS_ENTITY]->(e2:Resource) 
+WHERE exists((:Resource {cui:"C0026860"})<-[:subClassOf*..20]-(e2:Resource))
+return *
+```
+
 ## Finding annotations
 
 Below is an example that annotates the contents field within each of the texts.
@@ -109,4 +132,12 @@ docker run -v $APPDIR/pyknowledgegraph:/app/pyknowledgegraph -v $APPDIR/scripts:
 ```
 cp $DATADIR/d6_descriptions.annotated/contents.MESH.csv $APPDIR/tmp/contents.csv && \
 docker run -v $APPDIR/pyknowledgegraph:/app/pyknowledgegraph -v $APPDIR/scripts:/app/scripts -v $APPDIR/tmp:/app/tmp cross-talk python3 ./scripts/generate_neo4j_commands.py tmp/contents.csv Description && echo "Completed"
+```
+
+## Subset of the ontology
+
+```
+MATCH (p)-[r:HAS_ENTITY]->(e2:Resource) 
+WHERE (p:Paper or p:Description) and exists((:Resource {cui:"C0026860"})<-[:subClassOf*..20]-(e2:Resource))
+return *
 ```
