@@ -1,0 +1,11 @@
+prefLabel,id,from_to,matchType,text
+Injury,http://psink.de/scio/Injury,152-157|2063-2068|2481-2486,PREF|PREF|PREF,INJURY|INJURY|INJURY
+Hypothesis,http://psink.de/scio/Hypothesis,1240-1249|10595-10604,PREF|PREF,HYPOTHESIS|HYPOTHESIS
+Treatment,http://psink.de/scio/Treatment,1798-1806|1914-1922|3617-3625|10853-10861|12322-12330,PREF|PREF|PREF|PREF|PREF,TREATMENT|TREATMENT|TREATMENT|TREATMENT|TREATMENT
+Function,http://psink.de/scio/Function,2641-2648|6187-6194,PREF|PREF,FUNCTION|FUNCTION
+Event,http://psink.de/scio/Event,5878-5882,PREF,EVENT
+Increase,http://psink.de/scio/Increase,8096-8103|8312-8319,PREF|PREF,INCREASE|INCREASE
+Age,http://psink.de/scio/Age,10317-10319|13495-13497,PREF|PREF,AGE|AGE
+Extremity,http://psink.de/scio/Extremity,12097-12105,PREF,EXTREMITY
+Change,http://psink.de/scio/Change,12383-12388,PREF,CHANGE
+Significance,http://psink.de/scio/Significance,12582-12593,PREF,SIGNIFICANCE

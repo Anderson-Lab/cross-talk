@@ -1,0 +1,16 @@
+prefLabel,id,from_to,matchType,text
+Hypothesis,http://psink.de/scio/Hypothesis,5-14,PREF,HYPOTHESIS
+Left,http://psink.de/scio/Left,225-228|3014-3017|3121-3124|9271-9274,PREF|PREF|PREF|PREF,LEFT|LEFT|LEFT|LEFT
+Increase,http://psink.de/scio/Increase,672-679,PREF,INCREASE
+Function,http://psink.de/scio/Function,939-946,PREF,FUNCTION
+Extremity,http://psink.de/scio/Extremity,1222-1230|8219-8227|9531-9539,PREF|PREF|PREF,EXTREMITY|EXTREMITY|EXTREMITY
+Result,http://psink.de/scio/Result,1702-1707,PREF,RESULT
+Gender,http://psink.de/scio/Gender,2192-2197,PREF,GENDER
+Age,http://psink.de/scio/Age,2230-2232,PREF,AGE
+Current,http://psink.de/scio/Current,2269-2275|2894-2900|5255-5261,PREF|PREF|PREF,CURRENT|CURRENT|CURRENT
+Experiment,http://psink.de/scio/Experiment,2325-2334,PREF,EXPERIMENT
+Apparatus,http://psink.de/scio/Apparatus,2418-2426,PREF,APPARATUS
+Duration,http://psink.de/scio/Duration,2659-2666|2840-2847|6349-6356|7117-7124|7206-7213,PREF|PREF|PREF|PREF|PREF,DURATION|DURATION|DURATION|DURATION|DURATION
+Location,http://psink.de/scio/Location,5190-5197|5397-5404|8669-8676,PREF|PREF|PREF,LOCATION|LOCATION|LOCATION
+Volume,http://psink.de/scio/Volume,5515-5520,PREF,VOLUME
+Injury,http://psink.de/scio/Injury,9172-9177,PREF,INJURY

@@ -1,0 +1,14 @@
+prefLabel,id,from_to,matchType,text
+Brain,http://psink.de/scio/Brain,598-602|3337-3341|3473-3477|4389-4393|6034-6038|13183-13187|13523-13527|15695-15699|15791-15795|15985-15989|18346-18350,PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF,BRAIN|BRAIN|BRAIN|BRAIN|BRAIN|BRAIN|BRAIN|BRAIN|BRAIN|BRAIN|BRAIN
+Cell,http://psink.de/scio/Cell,2289-2292,PREF,CELL
+Significance,http://psink.de/scio/Significance,2410-2421|14190-14201,PREF|PREF,SIGNIFICANCE|SIGNIFICANCE
+Left,http://psink.de/scio/Left,5861-5864|11416-11419|11865-11868|15225-15228,PREF|PREF|PREF|PREF,LEFT|LEFT|LEFT|LEFT
+Experiment,http://psink.de/scio/Experiment,6160-6169|8887-8896,PREF|PREF,EXPERIMENT|EXPERIMENT
+Change,http://psink.de/scio/Change,6278-6283,PREF,CHANGE
+Balloon,http://psink.de/scio/Balloon,7975-7981|8235-8241,PREF|PREF,BALLOON|BALLOON
+Right,http://psink.de/scio/Right,12133-12137,PREF,RIGHT
+Decrease,http://psink.de/scio/Decrease,12318-12325,PREF,DECREASE
+Duration,http://psink.de/scio/Duration,13455-13462|16610-16617,PREF|PREF,DURATION|DURATION
+Location,http://psink.de/scio/Location,13465-13472|16596-16603,PREF|PREF,LOCATION|LOCATION
+Observation,http://psink.de/scio/Observation,15870-15880,PREF,OBSERVATION
+Tissue,http://psink.de/scio/Tissue,16523-16528,PREF,TISSUE

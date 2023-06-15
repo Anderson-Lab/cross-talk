@@ -1,0 +1,16 @@
+prefLabel,id,from_to,matchType,text
+Hypothesis,http://psink.de/scio/Hypothesis,729-738|4478-4487,PREF|PREF,HYPOTHESIS|HYPOTHESIS
+Age,http://psink.de/scio/Age,4609-4611|4892-4894|7956-7958|20977-20979,PREF|PREF|PREF|PREF,AGE|AGE|AGE|AGE
+Injury,http://psink.de/scio/Injury,5075-5080|22028-22033,PREF|PREF,INJURY|INJURY
+Weight,http://psink.de/scio/Weight,7961-7966,PREF,WEIGHT
+Function,http://psink.de/scio/Function,14130-14137|20668-20675|20767-20774,PREF|PREF|PREF,FUNCTION|FUNCTION|FUNCTION
+Observation,http://psink.de/scio/Observation,14489-14499|14733-14743,PREF|PREF,OBSERVATION|OBSERVATION
+Experiment,http://psink.de/scio/Experiment,15494-15503,PREF,EXPERIMENT
+Tissue,http://psink.de/scio/Tissue,18076-18081,PREF,TISSUE
+Change,http://psink.de/scio/Change,18839-18844|21345-21350,PREF|PREF,CHANGE|CHANGE
+Treatment,http://psink.de/scio/Treatment,18915-18923|20290-20298|20912-20920,PREF|PREF|PREF,TREATMENT|TREATMENT|TREATMENT
+Left,http://psink.de/scio/Left,19268-19271,PREF,LEFT
+Right,http://psink.de/scio/Right,19303-19307,PREF,RIGHT
+Duration,http://psink.de/scio/Duration,19824-19831,PREF,DURATION
+Gender,http://psink.de/scio/Gender,20985-20990,PREF,GENDER
+Current,http://psink.de/scio/Current,22147-22153,PREF,CURRENT

@@ -1,0 +1,16 @@
+prefLabel,id,from_to,matchType,text
+Pressure,http://psink.de/scio/Pressure,754-761|15879-15886,PREF|PREF,PRESSURE|PRESSURE
+Change,http://psink.de/scio/Change,1829-1834,PREF,CHANGE
+Person,http://psink.de/scio/Person,4755-4760,PREF,PERSON
+Decrease,http://psink.de/scio/Decrease,5169-5176,PREF,DECREASE
+Age,http://psink.de/scio/Age,6637-6639|21421-21423|22320-22322|22497-22499|22715-22717,PREF|PREF|PREF|PREF|PREF,AGE|AGE|AGE|AGE|AGE
+Force,http://psink.de/scio/Force,7991-7995|10313-10317|11969-11973|12204-12208,PREF|PREF|PREF|PREF,FORCE|FORCE|FORCE|FORCE
+Duration,http://psink.de/scio/Duration,8770-8777,PREF,DURATION
+Direction,http://psink.de/scio/Direction,9273-9281|9424-9432|12166-12174,PREF|PREF|PREF,DIRECTION|DIRECTION|DIRECTION
+Significance,http://psink.de/scio/Significance,13736-13747,PREF,SIGNIFICANCE
+Increase,http://psink.de/scio/Increase,19509-19516,PREF,INCREASE
+Hypothesis,http://psink.de/scio/Hypothesis,20162-20171|21235-21244|22764-22773,PREF|PREF|PREF,HYPOTHESIS|HYPOTHESIS|HYPOTHESIS
+Weight,http://psink.de/scio/Weight,23864-23869,PREF,WEIGHT
+Treatment,http://psink.de/scio/Treatment,24039-24047,PREF,TREATMENT
+Brain,http://psink.de/scio/Brain,25751-25755|26938-26942|28681-28685|29078-29082|29381-29385,PREF|PREF|PREF|PREF|PREF,BRAIN|BRAIN|BRAIN|BRAIN|BRAIN
+Injury,http://psink.de/scio/Injury,29906-29911,PREF,INJURY
