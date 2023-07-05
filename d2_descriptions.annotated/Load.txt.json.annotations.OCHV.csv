@@ -1,16 +1,16 @@
 prefLabel,id,from_to,matchType,text
-muscle,http://sbmi.uth.tmc.edu/ontology/ochv#C0026845,1-6,PREF,MUSCLE
 muscle,http://sbmi.uth.tmc.edu/ontology/ochv#8358,1-6,PREF,MUSCLE
-gravity,http://sbmi.uth.tmc.edu/ontology/ochv#C0282189,12-18,PREF,GRAVITY
+muscle,http://sbmi.uth.tmc.edu/ontology/ochv#C0026845,1-6,PREF,MUSCLE
 gravity,http://sbmi.uth.tmc.edu/ontology/ochv#27511,12-18,PREF,GRAVITY
+gravity,http://sbmi.uth.tmc.edu/ontology/ochv#C0282189,12-18,PREF,GRAVITY
 cause,http://sbmi.uth.tmc.edu/ontology/ochv#C0015127,26-30,PREF,CAUSE
 lumbar spine,http://sbmi.uth.tmc.edu/ontology/ochv#C0024091,36-47,PREF,LUMBAR SPINE
 spine,http://sbmi.uth.tmc.edu/ontology/ochv#C0037949,43-47,PREF,SPINE
 body,http://sbmi.uth.tmc.edu/ontology/ochv#C0242821,105-108,PREF,BODY
 compression,http://sbmi.uth.tmc.edu/ontology/ochv#C0728907,143-153,PREF,COMPRESSION
 compression,http://sbmi.uth.tmc.edu/ontology/ochv#46656,143-153,PREF,COMPRESSION
-torsion,http://sbmi.uth.tmc.edu/ontology/ochv#12393,165-171,PREF,TORSION
 Torsion,http://sbmi.uth.tmc.edu/ontology/ochv#C1265748,165-171,PREF,TORSION
+torsion,http://sbmi.uth.tmc.edu/ontology/ochv#12393,165-171,PREF,TORSION
 spinal,http://sbmi.uth.tmc.edu/ontology/ochv#37924,214-219|453-458,PREF|PREF,SPINAL|SPINAL
 spinal,http://sbmi.uth.tmc.edu/ontology/ochv#C0521329,214-219|453-458,PREF|PREF,SPINAL|SPINAL
 anabolic,http://sbmi.uth.tmc.edu/ontology/ochv#C0311401,286-293,PREF,ANABOLIC

@@ -5,21 +5,21 @@ inflammation,http://sbmi.uth.tmc.edu/ontology/ochv#C0021368,9-20|184-195|499-510
 inflammation,http://sbmi.uth.tmc.edu/ontology/ochv#6703,9-20|184-195|499-510|1132-1143,PREF|PREF|PREF|PREF,INFLAMMATION|INFLAMMATION|INFLAMMATION|INFLAMMATION
 associated,http://sbmi.uth.tmc.edu/ontology/ochv#C0332281,25-34|263-272|453-462,PREF|PREF|PREF,ASSOCIATED|ASSOCIATED|ASSOCIATED
 increased,http://sbmi.uth.tmc.edu/ontology/ochv#C0205217,45-53|600-608|683-691,PREF|PREF|PREF,INCREASED|INCREASED|INCREASED
-production,http://sbmi.uth.tmc.edu/ontology/ochv#C0033268,55-64|619-628|693-702,PREF|PREF|PREF,PRODUCTION|PRODUCTION|PRODUCTION
 production,http://sbmi.uth.tmc.edu/ontology/ochv#10150,55-64|619-628|693-702,PREF|PREF|PREF,PRODUCTION|PRODUCTION|PRODUCTION
+production,http://sbmi.uth.tmc.edu/ontology/ochv#C0033268,55-64|619-628|693-702,PREF|PREF|PREF,PRODUCTION|PRODUCTION|PRODUCTION
 cytokine,http://sbmi.uth.tmc.edu/ontology/ochv#15126,69-77|610-617,SYN|PREF,CYTOKINES|CYTOKINE
 inflammatory,http://sbmi.uth.tmc.edu/ontology/ochv#29703,101-112|413-424,PREF|PREF,INFLAMMATORY|INFLAMMATORY
 inflammatory,http://sbmi.uth.tmc.edu/ontology/ochv#C0333348,101-112|413-424,PREF|PREF,INFLAMMATORY|INFLAMMATORY
 low back pain,http://sbmi.uth.tmc.edu/ontology/ochv#7549,157-169,PREF,LOW BACK PAIN
 low,http://sbmi.uth.tmc.edu/ontology/ochv#C0205251,157-159|480-482,PREF|PREF,LOW|LOW
-back pain,http://sbmi.uth.tmc.edu/ontology/ochv#C0004604,161-169|426-434,PREF|PREF,BACK PAIN|BACK PAIN
 back pain,http://sbmi.uth.tmc.edu/ontology/ochv#1662,161-169|426-434,PREF|PREF,BACK PAIN|BACK PAIN
-pain,http://sbmi.uth.tmc.edu/ontology/ochv#9185,166-169|431-434,PREF|PREF,PAIN|PAIN
+back pain,http://sbmi.uth.tmc.edu/ontology/ochv#C0004604,161-169|426-434,PREF|PREF,BACK PAIN|BACK PAIN
 pain,http://sbmi.uth.tmc.edu/ontology/ochv#C0030193,166-169|431-434,PREF|PREF,PAIN|PAIN
+pain,http://sbmi.uth.tmc.edu/ontology/ochv#9185,166-169|431-434,PREF|PREF,PAIN|PAIN
 tissue,http://sbmi.uth.tmc.edu/ontology/ochv#C0040300,216-221,PREF,TISSUE
 systemic,http://sbmi.uth.tmc.edu/ontology/ochv#C0205373,227-234|490-497|1123-1130,PREF|PREF|PREF,SYSTEMIC|SYSTEMIC|SYSTEMIC
-joint,http://sbmi.uth.tmc.edu/ontology/ochv#C0022417,292-296,PREF,JOINT
 joint,http://sbmi.uth.tmc.edu/ontology/ochv#C0392905,292-296,PREF,JOINT
+joint,http://sbmi.uth.tmc.edu/ontology/ochv#C0022417,292-296,PREF,JOINT
 osteoarthritis,http://sbmi.uth.tmc.edu/ontology/ochv#C0029408,298-311,PREF,OSTEOARTHRITIS
 intervertebral,http://sbmi.uth.tmc.edu/ontology/ochv#C0442106,359-372,PREF,INTERVERTEBRAL
 spinal,http://sbmi.uth.tmc.edu/ontology/ochv#37924,384-389,PREF,SPINAL
@@ -29,8 +29,8 @@ obesity,http://sbmi.uth.tmc.edu/ontology/ochv#8861,436-442,PREF,OBESITY
 obesity,http://sbmi.uth.tmc.edu/ontology/ochv#C0028754,436-442,PREF,OBESITY
 metabolic,http://sbmi.uth.tmc.edu/ontology/ochv#28406,469-477,PREF,METABOLIC
 metabolic,http://sbmi.uth.tmc.edu/ontology/ochv#C0311400,469-477,PREF,METABOLIC
-grade,http://sbmi.uth.tmc.edu/ontology/ochv#34921,484-488,PREF,GRADE
 grade,http://sbmi.uth.tmc.edu/ontology/ochv#C0441800,484-488,PREF,GRADE
+grade,http://sbmi.uth.tmc.edu/ontology/ochv#34921,484-488,PREF,GRADE
 interleukin,http://sbmi.uth.tmc.edu/ontology/ochv#C0021764,535-545,PREF,INTERLEUKIN
 tumor necrosis factor,http://sbmi.uth.tmc.edu/ontology/ochv#12659,566-592|566-586|589-591|845-847,SYN|PREF|SYN|SYN,TUMOR NECROSIS FACTOR (TNF)|TUMOR NECROSIS FACTOR|TNF|TNF
 tumor necrosis factor (TNF),http://sbmi.uth.tmc.edu/ontology/ochv#C0041368,566-592,PREF,TUMOR NECROSIS FACTOR (TNF)
@@ -59,5 +59,5 @@ self,http://sbmi.uth.tmc.edu/ontology/ochv#C0036588,1070-1073,PREF,SELF
 report,http://sbmi.uth.tmc.edu/ontology/ochv#C0684224,1075-1080,PREF,REPORT
 potential,http://sbmi.uth.tmc.edu/ontology/ochv#C0237399,1099-1107,PREF,POTENTIAL
 potential,http://sbmi.uth.tmc.edu/ontology/ochv#23799,1099-1107,PREF,POTENTIAL
-central,http://sbmi.uth.tmc.edu/ontology/ochv#C0205099,1149-1155,PREF,CENTRAL
 central,http://sbmi.uth.tmc.edu/ontology/ochv#20304,1149-1155,PREF,CENTRAL
+central,http://sbmi.uth.tmc.edu/ontology/ochv#C0205099,1149-1155,PREF,CENTRAL

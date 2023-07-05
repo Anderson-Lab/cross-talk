@@ -6,6 +6,6 @@ Experience,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C54627,18-27,PREF,
 Social,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C62650,50-55|96-101,PREF|PREF,SOCIAL|SOCIAL
 Context,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C63325,57-63,PREF,CONTEXT
 Quality,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25283,70-76,PREF,QUALITY
-Family,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C45290,146-151,PREF,FAMILY
 Family,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25173,146-151,PREF,FAMILY
+Family,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C45290,146-151,PREF,FAMILY
 Therapeutic,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25277,154-164,PREF,THERAPEUTIC

@@ -7,8 +7,8 @@ Activity,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43431,70-77,PREF,AC
 Interference,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C72886,79-90,PREF,INTERFERENCE
 Behavior,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C16326,111-118,PREF,BEHAVIOR
 Severity,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25676,126-133|151-158|781-788,PREF|PREF|PREF,SEVERITY|SEVERITY|SEVERITY
-Depression,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C124639,140-149,PREF,DEPRESSION
 Depression,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C2982,140-149,PREF,DEPRESSION
+Depression,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C124639,140-149,PREF,DEPRESSION
 Notable,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C126374,169-175,PREF,NOTABLE
 Fear,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C77960,189-192|604-607|944-947,PREF|PREF|PREF,FEAR|FEAR|FEAR
 Movement,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C37994,197-204,PREF,MOVEMENT

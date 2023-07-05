@@ -1,10 +1,10 @@
 prefLabel,id,from_to,matchType,text
 Genetic,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C17938,1-7,PREF,GENETIC
-Environment,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C16551,13-25|277-287,SYN|PREF,ENVIRONMENTAL|ENVIRONMENT
 Environmental,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C149494,13-25,PREF,ENVIRONMENTAL
+Environment,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C16551,13-25|277-287,SYN|PREF,ENVIRONMENTAL|ENVIRONMENT
 Shared,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C38019,38-43,PREF,SHARED
-Development,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C18732,79-89,PREF,DEVELOPMENT
 Development,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84377,79-89,PREF,DEVELOPMENT
+Development,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C18732,79-89,PREF,DEVELOPMENT
 Maintenance,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C53297,95-105,PREF,MAINTENANCE
 Chronic Pain,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C26940,110-121,PREF,CHRONIC PAIN
 Chronic,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C14141,110-116,PREF,CHRONIC
@@ -13,6 +13,6 @@ Inflammation,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3137,166-177,PR
 Peripheral,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25233,180-189,PREF,PERIPHERAL
 Sensitization,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C50738,191-203,PREF,SENSITIZATION
 Modified By,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C42629,221-231,PREF,MODIFIED BY
-Complex,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C47881,233-239,PREF,COMPLEX
 Complex,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C19398,233-239,PREF,COMPLEX
+Complex,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C47881,233-239,PREF,COMPLEX
 Genome,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C16629,266-271,PREF,GENOME

@@ -2,38 +2,38 @@ prefLabel,id,from_to,matchType,text
 spinal,http://sbmi.uth.tmc.edu/ontology/ochv#37924,1-6,PREF,SPINAL
 spinal,http://sbmi.uth.tmc.edu/ontology/ochv#C0521329,1-6,PREF,SPINAL
 magnitude,http://sbmi.uth.tmc.edu/ontology/ochv#C0439535,48-56,PREF,MAGNITUDE
-duration,http://sbmi.uth.tmc.edu/ontology/ochv#35766,62-69,PREF,DURATION
 duration,http://sbmi.uth.tmc.edu/ontology/ochv#C0449238,62-69,PREF,DURATION
-active,http://sbmi.uth.tmc.edu/ontology/ochv#20376,99-104,PREF,ACTIVE
+duration,http://sbmi.uth.tmc.edu/ontology/ochv#35766,62-69,PREF,DURATION
 active,http://sbmi.uth.tmc.edu/ontology/ochv#C0205177,99-104,PREF,ACTIVE
+active,http://sbmi.uth.tmc.edu/ontology/ochv#20376,99-104,PREF,ACTIVE
 trauma,http://sbmi.uth.tmc.edu/ontology/ochv#C1313867,141-146,PREF,TRAUMA
 trauma,http://sbmi.uth.tmc.edu/ontology/ochv#57968,141-146,PREF,TRAUMA
-lead,http://sbmi.uth.tmc.edu/ontology/ochv#7256,152-155,PREF,LEAD
 lead,http://sbmi.uth.tmc.edu/ontology/ochv#C0023175,152-155,PREF,LEAD
+lead,http://sbmi.uth.tmc.edu/ontology/ochv#7256,152-155,PREF,LEAD
 damage,http://sbmi.uth.tmc.edu/ontology/ochv#C0010957,191-196|461-466,PREF|PREF,DAMAGE|DAMAGE
 tissue,http://sbmi.uth.tmc.edu/ontology/ochv#C0040300,227-232|269-274|314-319|454-459|649-654,PREF|PREF|PREF|PREF|PREF,TISSUE|TISSUE|TISSUE|TISSUE|TISSUE
-strength,http://sbmi.uth.tmc.edu/ontology/ochv#C0808080,234-241,PREF,STRENGTH
 strength,http://sbmi.uth.tmc.edu/ontology/ochv#49052,234-241,PREF,STRENGTH
+strength,http://sbmi.uth.tmc.edu/ontology/ochv#C0808080,234-241,PREF,STRENGTH
 material,http://sbmi.uth.tmc.edu/ontology/ochv#C0520510,244-251,PREF,MATERIAL
 activity,http://sbmi.uth.tmc.edu/ontology/ochv#C0439167,304-311,PREF,ACTIVITY
 activity,http://sbmi.uth.tmc.edu/ontology/ochv#C0441655,304-311,PREF,ACTIVITY
 inflammation,http://sbmi.uth.tmc.edu/ontology/ochv#C0021368,321-332,PREF,INFLAMMATION
 inflammation,http://sbmi.uth.tmc.edu/ontology/ochv#6703,321-332,PREF,INFLAMMATION
-pain,http://sbmi.uth.tmc.edu/ontology/ochv#9185,355-358,PREF,PAIN
 pain,http://sbmi.uth.tmc.edu/ontology/ochv#C0030193,355-358,PREF,PAIN
+pain,http://sbmi.uth.tmc.edu/ontology/ochv#9185,355-358,PREF,PAIN
 biochemical,http://sbmi.uth.tmc.edu/ontology/ochv#C0205474,375-385,PREF,BIOCHEMICAL
 diabetes,http://sbmi.uth.tmc.edu/ontology/ochv#C0011849,397-404,PREF,DIABETES
 hyperglycemia,http://sbmi.uth.tmc.edu/ontology/ochv#6414,407-419,PREF,HYPERGLYCEMIA
-dyslipidemia,http://sbmi.uth.tmc.edu/ontology/ochv#24780,425-436,PREF,DYSLIPIDEMIA
 dyslipidemia,http://sbmi.uth.tmc.edu/ontology/ochv#C0242339,425-436,PREF,DYSLIPIDEMIA
-due to,http://sbmi.uth.tmc.edu/ontology/ochv#C0678226,475-480,PREF,DUE TO
+dyslipidemia,http://sbmi.uth.tmc.edu/ontology/ochv#24780,425-436,PREF,DYSLIPIDEMIA
 due to,http://sbmi.uth.tmc.edu/ontology/ochv#42785,475-480,PREF,DUE TO
+due to,http://sbmi.uth.tmc.edu/ontology/ochv#C0678226,475-480,PREF,DUE TO
 blood vessels,http://sbmi.uth.tmc.edu/ontology/ochv#2023,505-517|511-517,PREF|SYN,BLOOD VESSELS|VESSELS
 blood,http://sbmi.uth.tmc.edu/ontology/ochv#C0005767,505-509|545-549,PREF|PREF,BLOOD|BLOOD
 blood,http://sbmi.uth.tmc.edu/ontology/ochv#1982,505-509|545-549,PREF|PREF,BLOOD|BLOOD
 reduced,http://sbmi.uth.tmc.edu/ontology/ochv#C0392756,530-536,PREF,REDUCED
-muscle,http://sbmi.uth.tmc.edu/ontology/ochv#C0026845,538-543,PREF,MUSCLE
 muscle,http://sbmi.uth.tmc.edu/ontology/ochv#8358,538-543,PREF,MUSCLE
+muscle,http://sbmi.uth.tmc.edu/ontology/ochv#C0026845,538-543,PREF,MUSCLE
 flow,http://sbmi.uth.tmc.edu/ontology/ochv#C0806140,551-554,PREF,FLOW
 flow,http://sbmi.uth.tmc.edu/ontology/ochv#49026,551-554,PREF,FLOW
 increased,http://sbmi.uth.tmc.edu/ontology/ochv#C0205217,560-568,PREF,INCREASED

@@ -3,22 +3,22 @@ nociception,http://sbmi.uth.tmc.edu/ontology/ochv#C0234194,1-11|825-835,PREF|PRE
 specific,http://sbmi.uth.tmc.edu/ontology/ochv#C0205369,51-58,PREF,SPECIFIC
 nociceptors,http://sbmi.uth.tmc.edu/ontology/ochv#C0028246,60-70|264-274,PREF|PREF,NOCICEPTORS|NOCICEPTORS
 nociceptors,http://sbmi.uth.tmc.edu/ontology/ochv#8753,60-70|264-274,PREF|PREF,NOCICEPTORS|NOCICEPTORS
-pain,http://sbmi.uth.tmc.edu/ontology/ochv#9185,79-82|169-172|401-404|564-567,PREF|PREF|PREF|PREF,PAIN|PAIN|PAIN|PAIN
 pain,http://sbmi.uth.tmc.edu/ontology/ochv#C0030193,79-82|169-172|401-404|564-567,PREF|PREF|PREF|PREF,PAIN|PAIN|PAIN|PAIN
+pain,http://sbmi.uth.tmc.edu/ontology/ochv#9185,79-82|169-172|401-404|564-567,PREF|PREF|PREF|PREF,PAIN|PAIN|PAIN|PAIN
 peripheral,http://sbmi.uth.tmc.edu/ontology/ochv#C0205100,100-109|363-372,PREF|PREF,PERIPHERAL|PERIPHERAL
 neural pathways,http://sbmi.uth.tmc.edu/ontology/ochv#8615,111-125,PREF,NEURAL PATHWAYS
-neural,http://sbmi.uth.tmc.edu/ontology/ochv#42098,111-116|222-227,PREF|PREF,NEURAL|NEURAL
 neural,http://sbmi.uth.tmc.edu/ontology/ochv#C0599851,111-116|222-227,PREF|PREF,NEURAL|NEURAL
-central,http://sbmi.uth.tmc.edu/ontology/ochv#C0205099,134-140,PREF,CENTRAL
+neural,http://sbmi.uth.tmc.edu/ontology/ochv#42098,111-116|222-227,PREF|PREF,NEURAL|NEURAL
 central,http://sbmi.uth.tmc.edu/ontology/ochv#20304,134-140,PREF,CENTRAL
+central,http://sbmi.uth.tmc.edu/ontology/ochv#C0205099,134-140,PREF,CENTRAL
 nervous system,http://sbmi.uth.tmc.edu/ontology/ochv#C0027763,142-155,PREF,NERVOUS SYSTEM
-actual,http://sbmi.uth.tmc.edu/ontology/ochv#C0237400,190-195,PREF,ACTUAL
 actual,http://sbmi.uth.tmc.edu/ontology/ochv#23800,190-195,PREF,ACTUAL
+actual,http://sbmi.uth.tmc.edu/ontology/ochv#C0237400,190-195,PREF,ACTUAL
 damage,http://sbmi.uth.tmc.edu/ontology/ochv#C0010957,208-213|474-479,PREF|PREF,DAMAGE|DAMAGE
 spine,http://sbmi.uth.tmc.edu/ontology/ochv#C0037949,229-233,PREF,SPINE
 tissues,http://sbmi.uth.tmc.edu/ontology/ochv#12321,235-241,PREF,TISSUES
-due to,http://sbmi.uth.tmc.edu/ontology/ochv#C0678226,243-248|300-305|409-414,PREF|PREF|PREF,DUE TO|DUE TO|DUE TO
 due to,http://sbmi.uth.tmc.edu/ontology/ochv#42785,243-248|300-305|409-414,PREF|PREF|PREF,DUE TO|DUE TO|DUE TO
+due to,http://sbmi.uth.tmc.edu/ontology/ochv#C0678226,243-248|300-305|409-414,PREF|PREF|PREF,DUE TO|DUE TO|DUE TO
 mechanical,http://sbmi.uth.tmc.edu/ontology/ochv#C0443254,324-333,PREF,MECHANICAL
 neuropathic pain,http://sbmi.uth.tmc.edu/ontology/ochv#C0423716,389-404|552-567,PREF|PREF,NEUROPATHIC PAIN|NEUROPATHIC PAIN
 clinical,http://sbmi.uth.tmc.edu/ontology/ochv#C0205210,416-423,PREF,CLINICAL

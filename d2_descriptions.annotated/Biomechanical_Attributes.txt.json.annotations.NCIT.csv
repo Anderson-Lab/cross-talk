@@ -7,8 +7,8 @@ Support,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C37902,83-89,PREF,SUP
 Upper,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25355,91-95,PREF,UPPER
 Body,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C13041,97-100,PREF,BODY
 Trunk,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C33816,127-131,PREF,TRUNK
-Complex,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C47881,180-186,PREF,COMPLEX
 Complex,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C19398,180-186,PREF,COMPLEX
+Complex,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C47881,180-186,PREF,COMPLEX
 Integration,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C48038,188-198,PREF,INTEGRATION
 Active,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C45329,259-264,PREF,ACTIVE
 Neuromuscular,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C148418,293-305,PREF,NEUROMUSCULAR

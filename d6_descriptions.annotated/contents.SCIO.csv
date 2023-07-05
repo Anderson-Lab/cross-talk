@@ -1,3 +1,4 @@
+uri,uri_annotations
 file:/d6_descriptions/Anatomy.txt.json,file:/d6_descriptions.annotated/Anatomy.txt.json.annotations.SCIO.csv
 file:/d6_descriptions/Central_Pain_Processing.txt.json,file:/d6_descriptions.annotated/Central_Pain_Processing.txt.json.annotations.SCIO.csv
 file:/d6_descriptions/Central_Schema_Attributes.txt.json,file:/d6_descriptions.annotated/Central_Schema_Attributes.txt.json.annotations.SCIO.csv

@@ -2,13 +2,13 @@ prefLabel,id,from_to,matchType,text
 style,http://sbmi.uth.tmc.edu/ontology/ochv#C0489654,8-12,PREF,STYLE
 style,http://sbmi.uth.tmc.edu/ontology/ochv#37291,8-12,PREF,STYLE
 dependent,http://sbmi.uth.tmc.edu/ontology/ochv#C0851827,17-25,PREF,DEPENDENT
-psychological,http://sbmi.uth.tmc.edu/ontology/ochv#57896,45-57|196-208|432-444|555-567,PREF|PREF|PREF|PREF,PSYCHOLOGICAL|PSYCHOLOGICAL|PSYCHOLOGICAL|PSYCHOLOGICAL
 psychological,http://sbmi.uth.tmc.edu/ontology/ochv#C1306597,45-57|196-208|432-444|555-567,PREF|PREF|PREF|PREF,PSYCHOLOGICAL|PSYCHOLOGICAL|PSYCHOLOGICAL|PSYCHOLOGICAL
+psychological,http://sbmi.uth.tmc.edu/ontology/ochv#57896,45-57|196-208|432-444|555-567,PREF|PREF|PREF|PREF,PSYCHOLOGICAL|PSYCHOLOGICAL|PSYCHOLOGICAL|PSYCHOLOGICAL
 resources,http://sbmi.uth.tmc.edu/ontology/ochv#10753,59-67,PREF,RESOURCES
 limited,http://sbmi.uth.tmc.edu/ontology/ochv#C0439801,80-86,PREF,LIMITED
 associated,http://sbmi.uth.tmc.edu/ontology/ochv#C0332281,221-230,PREF,ASSOCIATED
-pain,http://sbmi.uth.tmc.edu/ontology/ochv#9185,268-271|333-336|347-350|639-642,PREF|PREF|PREF|PREF,PAIN|PAIN|PAIN|PAIN
 pain,http://sbmi.uth.tmc.edu/ontology/ochv#C0030193,268-271|333-336|347-350|639-642,PREF|PREF|PREF|PREF,PAIN|PAIN|PAIN|PAIN
+pain,http://sbmi.uth.tmc.edu/ontology/ochv#9185,268-271|333-336|347-350|639-642,PREF|PREF|PREF|PREF,PAIN|PAIN|PAIN|PAIN
 strong,http://sbmi.uth.tmc.edu/ontology/ochv#C0442821,290-295,PREF,STRONG
 self-efficacy,http://sbmi.uth.tmc.edu/ontology/ochv#C0600564,352-364,PREF,SELF-EFFICACY
 self,http://sbmi.uth.tmc.edu/ontology/ochv#11168,352-355|395-398,PREF|PREF,SELF|SELF
@@ -16,8 +16,8 @@ self,http://sbmi.uth.tmc.edu/ontology/ochv#C0036588,352-355|395-398,PREF|PREF,SE
 emotions,http://sbmi.uth.tmc.edu/ontology/ochv#C0013987,422-429,PREF,EMOTIONS
 emotions,http://sbmi.uth.tmc.edu/ontology/ochv#4396,422-429,PREF,EMOTIONS
 flexibility,http://sbmi.uth.tmc.edu/ontology/ochv#C0242808,446-456,PREF,FLEXIBILITY
-awareness,http://sbmi.uth.tmc.edu/ontology/ochv#1627,490-498,PREF,AWARENESS
 awareness,http://sbmi.uth.tmc.edu/ontology/ochv#C0004448,490-498,PREF,AWARENESS
+awareness,http://sbmi.uth.tmc.edu/ontology/ochv#1627,490-498,PREF,AWARENESS
 measures,http://sbmi.uth.tmc.edu/ontology/ochv#15235,534-541,PREF,MEASURES
 negative,http://sbmi.uth.tmc.edu/ontology/ochv#C0205160,546-553,PREF,NEGATIVE
 confidence,http://sbmi.uth.tmc.edu/ontology/ochv#C0237529,599-608,PREF,CONFIDENCE

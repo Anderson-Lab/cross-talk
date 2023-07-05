@@ -1,0 +1,226 @@
+prefLabel,id,from_to,matchType,text
+skin,http://sbmi.uth.tmc.edu/ontology/ochv#54821,13-16|457-460|9961-9964|10260-10263,PREF|PREF|PREF|PREF,SKIN|SKIN|SKIN|SKIN
+skin,http://sbmi.uth.tmc.edu/ontology/ochv#C1123023,13-16|457-460|9961-9964|10260-10263,PREF|PREF|PREF|PREF,SKIN|SKIN|SKIN|SKIN
+analysis,http://sbmi.uth.tmc.edu/ontology/ochv#52824,31-38|666-673|1009-1016|3034-3041|5621-5628|9157-9164|9210-9217|9575-9582,PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF,ANALYSIS|ANALYSIS|ANALYSIS|ANALYSIS|ANALYSIS|ANALYSIS|ANALYSIS|ANALYSIS
+analysis,http://sbmi.uth.tmc.edu/ontology/ochv#C0936012,31-38|666-673|1009-1016|3034-3041|5621-5628|9157-9164|9210-9217|9575-9582,PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF,ANALYSIS|ANALYSIS|ANALYSIS|ANALYSIS|ANALYSIS|ANALYSIS|ANALYSIS|ANALYSIS
+functional,http://sbmi.uth.tmc.edu/ontology/ochv#C0205245,43-52|521-530|1694-1703|2747-2756|3994-4003|5594-5603|10132-10141,PREF|PREF|PREF|PREF|PREF|PREF|PREF,FUNCTIONAL|FUNCTIONAL|FUNCTIONAL|FUNCTIONAL|FUNCTIONAL|FUNCTIONAL|FUNCTIONAL
+spinal,http://sbmi.uth.tmc.edu/ontology/ochv#37924,54-59|174-179|495-500|1464-1469|1504-1509|1821-1826|2664-2669|5542-5547|7429-7434|8998-9003|9039-9044|9059-9064|10278-10283,PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF,SPINAL|SPINAL|SPINAL|SPINAL|SPINAL|SPINAL|SPINAL|SPINAL|SPINAL|SPINAL|SPINAL|SPINAL|SPINAL
+spinal,http://sbmi.uth.tmc.edu/ontology/ochv#C0521329,54-59|174-179|495-500|1464-1469|1504-1509|1821-1826|2664-2669|5542-5547|7429-7434|8998-9003|9039-9044|9059-9064|10278-10283,PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF,SPINAL|SPINAL|SPINAL|SPINAL|SPINAL|SPINAL|SPINAL|SPINAL|SPINAL|SPINAL|SPINAL|SPINAL|SPINAL
+movement,http://sbmi.uth.tmc.edu/ontology/ochv#8292,61-68|657-664|1705-1712|3025-3032|3607-3614|6446-6453|8338-8345|9148-9155|9201-9208,PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF,MOVEMENT|MOVEMENT|MOVEMENT|MOVEMENT|MOVEMENT|MOVEMENT|MOVEMENT|MOVEMENT|MOVEMENT
+methods,http://sbmi.uth.tmc.edu/ontology/ochv#8041,86-91|587-593|1637-1642,SYN|PREF|SYN,METHOD|METHODS|METHOD
+method,http://sbmi.uth.tmc.edu/ontology/ochv#C0025663,86-91|1637-1642,PREF|PREF,METHOD|METHOD
+longitudinal,http://sbmi.uth.tmc.edu/ontology/ochv#C0205127,109-120|1412-1423|1758-1769|8947-8958,PREF|PREF|PREF|PREF,LONGITUDINAL|LONGITUDINAL|LONGITUDINAL|LONGITUDINAL
+treatment,http://sbmi.uth.tmc.edu/ontology/ochv#C0087111,133-141|267-275|1436-1444|1786-1794|1927-1935|2386-2394|8971-8979,PREF|PREF|PREF|PREF|PREF|PREF|PREF,TREATMENT|TREATMENT|TREATMENT|TREATMENT|TREATMENT|TREATMENT|TREATMENT
+interventions,http://sbmi.uth.tmc.edu/ontology/ochv#52243,143-155|277-288|1447-1459|1937-1948|2396-2407|8981-8993,PREF|SYN|PREF|SYN|SYN|PREF,INTERVENTIONS|INTERVENTION|INTERVENTIONS|INTERVENTION|INTERVENTION|INTERVENTIONS
+patients,http://sbmi.uth.tmc.edu/ontology/ochv#9372,160-167|1490-1497|1807-1814|9025-9032,PREF|PREF|PREF|PREF,PATIENTS|PATIENTS|PATIENTS|PATIENTS
+day,http://sbmi.uth.tmc.edu/ontology/ochv#C0439228,213-215|220-222|397-399|404-406|1859-1861|1866-1868|2085-2087|2092-2094,PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF,DAY|DAY|DAY|DAY|DAY|DAY|DAY|DAY
+due to,http://sbmi.uth.tmc.edu/ontology/ochv#42785,257-262|1904-1909|2236-2244|4669-4674|6647-6660|6647-6655,PREF|PREF|SYN|PREF|SYN|SYN,DUE TO|DUE TO|RESULTING|DUE TO|RESULTING FROM|RESULTING
+due to,http://sbmi.uth.tmc.edu/ontology/ochv#C0678226,257-262|1904-1909|4669-4674,PREF|PREF|PREF,DUE TO|DUE TO|DUE TO
+intervention,http://sbmi.uth.tmc.edu/ontology/ochv#C0886296,277-288|1937-1948|2396-2407,PREF|PREF|PREF,INTERVENTION|INTERVENTION|INTERVENTION
+error,http://sbmi.uth.tmc.edu/ontology/ochv#47508,311-316|838-843|1972-1977|2452-2456|4139-4144|4725-4730|5065-5070|6856-6861,SYN|SYN|SYN|PREF|SYN|SYN|SYN|SYN,ERRORS|ERRORS|ERRORS|ERROR|ERRORS|ERRORS|ERRORS|ERRORS
+related,http://sbmi.uth.tmc.edu/ontology/ochv#C0163712,318-324|1979-1985,PREF|PREF,RELATED|RELATED
+soft tissue,http://sbmi.uth.tmc.edu/ontology/ochv#C0225317,329-339|2017-2027|9394-9404|9854-9864,PREF|PREF|PREF|PREF,SOFT TISSUE|SOFT TISSUE|SOFT TISSUE|SOFT TISSUE
+soft,http://sbmi.uth.tmc.edu/ontology/ochv#C0205358,329-332|2017-2020|6729-6732|9394-9397|9854-9857,PREF|PREF|PREF|PREF|PREF,SOFT|SOFT|SOFT|SOFT|SOFT
+tissue,http://sbmi.uth.tmc.edu/ontology/ochv#C0040300,334-339|2022-2027|6735-6740|9399-9404|9859-9864,PREF|PREF|PREF|PREF|PREF,TISSUE|TISSUE|TISSUE|TISSUE|TISSUE
+artifacts,http://sbmi.uth.tmc.edu/ontology/ochv#C0699801,341-349|2029-2037,PREF|PREF,ARTIFACTS|ARTIFACTS
+placement,http://sbmi.uth.tmc.edu/ontology/ochv#C0449268,360-368|2047-2055,PREF|PREF,PLACEMENT|PLACEMENT
+placement,http://sbmi.uth.tmc.edu/ontology/ochv#35780,360-368|2047-2055,PREF|PREF,PLACEMENT|PLACEMENT
+biological,http://sbmi.uth.tmc.edu/ontology/ochv#C0205460,386-395|2074-2083,PREF|PREF,BIOLOGICAL|BIOLOGICAL
+research question,http://sbmi.uth.tmc.edu/ontology/ochv#C0681799,421-437,PREF,RESEARCH QUESTION
+research,http://sbmi.uth.tmc.edu/ontology/ochv#C0035168,421-428,PREF,RESEARCH
+research,http://sbmi.uth.tmc.edu/ontology/ochv#10739,421-428,PREF,RESEARCH
+three-dimensional,http://sbmi.uth.tmc.edu/ontology/ochv#C0450363,477-493|2646-2662|5524-5540,PREF|PREF|PREF,THREE-DIMENSIONAL|THREE-DIMENSIONAL|THREE-DIMENSIONAL
+kinematics,http://sbmi.uth.tmc.edu/ontology/ochv#C0600169,502-511|2672-2681|9067-9076|9329-9338|10635-10644,PREF|PREF|PREF|PREF|PREF,KINEMATICS|KINEMATICS|KINEMATICS|KINEMATICS|KINEMATICS
+kinematics,http://sbmi.uth.tmc.edu/ontology/ochv#42196,502-511|2672-2681|6103-6111|9067-9076|9329-9338|10635-10644,PREF|PREF|SYN|PREF|PREF|PREF,KINEMATICS|KINEMATICS|KINEMATIC|KINEMATICS|KINEMATICS|KINEMATICS
+functional activities,http://sbmi.uth.tmc.edu/ontology/ochv#C0695584,521-541|3994-4014|5594-5614|10132-10152,PREF|PREF|PREF|PREF,FUNCTIONAL ACTIVITIES|FUNCTIONAL ACTIVITIES|FUNCTIONAL ACTIVITIES|FUNCTIONAL ACTIVITIES
+functional activities,http://sbmi.uth.tmc.edu/ontology/ochv#44247,521-541|3994-4014|5594-5614|10132-10152,PREF|PREF|PREF|PREF,FUNCTIONAL ACTIVITIES|FUNCTIONAL ACTIVITIES|FUNCTIONAL ACTIVITIES|FUNCTIONAL ACTIVITIES
+activities,http://sbmi.uth.tmc.edu/ontology/ochv#34879,532-541|1101-1110|2759-2768|3355-3364|3677-3686|4005-4014|5605-5614|5713-5722|8306-8315|10143-10152,PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF,ACTIVITIES|ACTIVITIES|ACTIVITIES|ACTIVITIES|ACTIVITIES|ACTIVITIES|ACTIVITIES|ACTIVITIES|ACTIVITIES|ACTIVITIES
+measurement,http://sbmi.uth.tmc.edu/ontology/ochv#C0242485,564-574|2979-2989|10574-10584,PREF|PREF|PREF,MEASUREMENT|MEASUREMENT|MEASUREMENT
+measurement,http://sbmi.uth.tmc.edu/ontology/ochv#24845,564-574|2525-2536|2979-2989|10574-10584,PREF|SYN|PREF|PREF,MEASUREMENT|MEASUREMENTS|MEASUREMENT|MEASUREMENT
+females,http://sbmi.uth.tmc.edu/ontology/ochv#15888,622-628,PREF,FEMALES
+males,http://sbmi.uth.tmc.edu/ontology/ochv#15961,632-636,PREF,MALES
+laboratory,http://sbmi.uth.tmc.edu/ontology/ochv#C0022877,676-685|3043-3052|9638-9647,PREF|PREF|PREF,LABORATORY|LABORATORY|LABORATORY
+separated,http://sbmi.uth.tmc.edu/ontology/ochv#C0443299,702-710|3069-3077,PREF|PREF,SEPARATED|SEPARATED
+separated,http://sbmi.uth.tmc.edu/ontology/ochv#C0687118,702-710|3069-3077,PREF|PREF,SEPARATED|SEPARATED
+separated,http://sbmi.uth.tmc.edu/ontology/ochv#C0086972,702-710|3069-3077,PREF|PREF,SEPARATED|SEPARATED
+continuous,http://sbmi.uth.tmc.edu/ontology/ochv#C0549178,758-767|2684-2693|4262-4271|5499-5508,PREF|PREF|PREF|PREF,CONTINUOUS|CONTINUOUS|CONTINUOUS|CONTINUOUS
+minimal,http://sbmi.uth.tmc.edu/ontology/ochv#C0547039,944-950|7218-7224|7902-7908|10701-10707,PREF|PREF|PREF|PREF,MINIMAL|MINIMAL|MINIMAL|MINIMAL
+high,http://sbmi.uth.tmc.edu/ontology/ochv#C0205250,1028-1031|4824-4827|5640-5643|6559-6562,PREF|PREF|PREF|PREF,HIGH|HIGH|HIGH|HIGH
+high,http://sbmi.uth.tmc.edu/ontology/ochv#20438,1028-1031|4824-4827|5640-5643|6559-6562,PREF|PREF|PREF|PREF,HIGH|HIGH|HIGH|HIGH
+overall,http://sbmi.uth.tmc.edu/ontology/ochv#C0282416,1033-1039|4829-4835|5645-5651,PREF|PREF|PREF,OVERALL|OVERALL|OVERALL
+consistency,http://sbmi.uth.tmc.edu/ontology/ochv#C0332529,1041-1051|1123-1133|4487-4497|4837-4847|4982-4992|5653-5663|5735-5745|6376-6386|7155-7165,PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF,CONSISTENCY|CONSISTENCY|CONSISTENCY|CONSISTENCY|CONSISTENCY|CONSISTENCY|CONSISTENCY|CONSISTENCY|CONSISTENCY
+sagittal plane,http://sbmi.uth.tmc.edu/ontology/ochv#52779,1057-1070|4791-4804|5021-5034|5284-5297|5402-5415|5669-5682|6343-6356|7962-7975,PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF,SAGITTAL PLANE|SAGITTAL PLANE|SAGITTAL PLANE|SAGITTAL PLANE|SAGITTAL PLANE|SAGITTAL PLANE|SAGITTAL PLANE|SAGITTAL PLANE
+sagittal plane,http://sbmi.uth.tmc.edu/ontology/ochv#C0935598,1057-1070|4791-4804|5021-5034|5284-5297|5402-5415|5669-5682|6343-6356|7962-7975,PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF,SAGITTAL PLANE|SAGITTAL PLANE|SAGITTAL PLANE|SAGITTAL PLANE|SAGITTAL PLANE|SAGITTAL PLANE|SAGITTAL PLANE|SAGITTAL PLANE
+sagittal,http://sbmi.uth.tmc.edu/ontology/ochv#C0205129,1057-1064|3834-3841|4791-4798|5021-5028|5284-5291|5402-5409|5669-5676|6343-6350|7370-7377|7632-7639|7691-7698|7962-7969|9914-9921,PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF,SAGITTAL|SAGITTAL|SAGITTAL|SAGITTAL|SAGITTAL|SAGITTAL|SAGITTAL|SAGITTAL|SAGITTAL|SAGITTAL|SAGITTAL|SAGITTAL|SAGITTAL
+plane,http://sbmi.uth.tmc.edu/ontology/ochv#C0444660,1066-1070|1162-1166|3855-3859|3900-3904|4800-4804|4914-4918|5030-5034|5215-5219|5293-5297|5411-5415|5678-5682|5774-5778|6267-6271|6352-6356|7403-7407|7971-7975|8086-8090|8171-8175,PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF,PLANE|PLANE|PLANE|PLANE|PLANE|PLANE|PLANE|PLANE|PLANE|PLANE|PLANE|PLANE|PLANE|PLANE|PLANE|PLANE|PLANE|PLANE
+lower,http://sbmi.uth.tmc.edu/ontology/ochv#C0441994,1117-1121|5729-5733|6370-6374|6506-6510|9678-9682,PREF|PREF|PREF|PREF|PREF,LOWER|LOWER|LOWER|LOWER|LOWER
+frontal,http://sbmi.uth.tmc.edu/ontology/ochv#C0205123,1139-1145|3847-3853|4890-4896|5191-5197|5751-5757|6244-6250|7380-7386|8078-8084,PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF,FRONTAL|FRONTAL|FRONTAL|FRONTAL|FRONTAL|FRONTAL|FRONTAL|FRONTAL
+transverse plane,http://sbmi.uth.tmc.edu/ontology/ochv#C0446380,1151-1166|3889-3904|4903-4918|5204-5219|5763-5778|6256-6271|7392-7407|8160-8175,PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF,TRANSVERSE PLANE|TRANSVERSE PLANE|TRANSVERSE PLANE|TRANSVERSE PLANE|TRANSVERSE PLANE|TRANSVERSE PLANE|TRANSVERSE PLANE|TRANSVERSE PLANE
+transverse,http://sbmi.uth.tmc.edu/ontology/ochv#C0205106,1151-1160|3889-3898|4903-4912|5204-5213|5763-5772|6256-6265|7392-7401|8160-8169,PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF,TRANSVERSE|TRANSVERSE|TRANSVERSE|TRANSVERSE|TRANSVERSE|TRANSVERSE|TRANSVERSE|TRANSVERSE
+walking,http://sbmi.uth.tmc.edu/ontology/ochv#C0080331,1183-1189|3413-3419|4934-4940|5243-5249|5794-5800|6287-6293|10508-10514,PREF|PREF|PREF|PREF|PREF|PREF|PREF,WALKING|WALKING|WALKING|WALKING|WALKING|WALKING|WALKING
+walking,http://sbmi.uth.tmc.edu/ontology/ochv#15339,1183-1189|3413-3419|4934-4940|5243-5249|5794-5800|6287-6293|10508-10514,PREF|PREF|PREF|PREF|PREF|PREF|PREF,WALKING|WALKING|WALKING|WALKING|WALKING|WALKING|WALKING
+running,http://sbmi.uth.tmc.edu/ontology/ochv#10968,1195-1201|3425-3431|4946-4952|5255-5261|5807-5813|6299-6305,PREF|PREF|PREF|PREF|PREF|PREF,RUNNING|RUNNING|RUNNING|RUNNING|RUNNING|RUNNING
+region,http://sbmi.uth.tmc.edu/ontology/ochv#C0205147,1280-1285|5386-5391|5892-5897|6756-6761|8038-8043,PREF|PREF|PREF|PREF|PREF,REGION|REGION|REGION|REGION|REGION
+information,http://sbmi.uth.tmc.edu/ontology/ochv#51185,1318-1328|2304-2314|8853-8863,PREF|PREF|PREF,INFORMATION|INFORMATION|INFORMATION
+information,http://sbmi.uth.tmc.edu/ontology/ochv#C0870705,1318-1328|2304-2314|8853-8863,PREF|PREF|PREF,INFORMATION|INFORMATION|INFORMATION
+researchers,http://sbmi.uth.tmc.edu/ontology/ochv#C0035173,1361-1371|2267-2277|8895-8905,PREF|PREF|PREF,RESEARCHERS|RESEARCHERS|RESEARCHERS
+clinicians,http://sbmi.uth.tmc.edu/ontology/ochv#C0871685,1377-1386|2283-2292|8912-8921,PREF|PREF|PREF,CLINICIANS|CLINICIANS|CLINICIANS
+clinicians,http://sbmi.uth.tmc.edu/ontology/ochv#51438,1377-1386|2283-2292|8912-8921,PREF|PREF|PREF,CLINICIANS|CLINICIANS|CLINICIANS
+motion,http://sbmi.uth.tmc.edu/ontology/ochv#C0026597,1471-1476|1602-1607|2804-2809|6640-6645|7589-7594|8442-8447|9006-9011|9608-9613|10118-10123,PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF,MOTION|MOTION|MOTION|MOTION|MOTION|MOTION|MOTION|MOTION|MOTION
+motion,http://sbmi.uth.tmc.edu/ontology/ochv#8269,1471-1476|1602-1607|2804-2809|6640-6645|7589-7594|8442-8447|9006-9011|9608-9613|10118-10123,PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF,MOTION|MOTION|MOTION|MOTION|MOTION|MOTION|MOTION|MOTION|MOTION
+behavior,http://sbmi.uth.tmc.edu/ontology/ochv#C0004927,1478-1485|9013-9020,PREF|PREF,BEHAVIOR|BEHAVIOR
+behavior,http://sbmi.uth.tmc.edu/ontology/ochv#1751,1478-1485|9013-9020,PREF|PREF,BEHAVIOR|BEHAVIOR
+peer review,http://sbmi.uth.tmc.edu/ontology/ochv#C0030768,1581-1591|7348-7358|8810-8820,PREF|PREF|PREF,PEER REVIEW|PEER REVIEW|PEER REVIEW
+peer review,http://sbmi.uth.tmc.edu/ontology/ochv#9393,1581-1591|7348-7358|8810-8820,PREF|PREF|PREF,PEER REVIEW|PEER REVIEW|PEER REVIEW
+peer,http://sbmi.uth.tmc.edu/ontology/ochv#C0679739,1581-1584|7348-7351|8810-8813,PREF|PREF|PREF,PEER|PEER|PEER
+peer,http://sbmi.uth.tmc.edu/ontology/ochv#43125,1581-1584|7348-7351|8810-8813,PREF|PREF|PREF,PEER|PEER|PEER
+review,http://sbmi.uth.tmc.edu/ontology/ochv#C0282443,1586-1591|7353-7358|8815-8820,PREF|PREF|PREF,REVIEW|REVIEW|REVIEW
+biomechanics,http://sbmi.uth.tmc.edu/ontology/ochv#C0005537,1660-1671,PREF,BIOMECHANICS
+biomechanics,http://sbmi.uth.tmc.edu/ontology/ochv#1899,1660-1671,PREF,BIOMECHANICS
+spine,http://sbmi.uth.tmc.edu/ontology/ochv#C0037949,1680-1684|6486-6490|6529-6533|8524-8528|9940-9944|10494-10498,PREF|PREF|PREF|PREF|PREF|PREF,SPINE|SPINE|SPINE|SPINE|SPINE|SPINE
+evaluation,http://sbmi.uth.tmc.edu/ontology/ochv#21203,1771-1780|6830-6839|9655-9664|10220-10229,PREF|PREF|PREF|PREF,EVALUATION|EVALUATION|EVALUATION|EVALUATION
+evaluation,http://sbmi.uth.tmc.edu/ontology/ochv#C0220825,1771-1780|6830-6839|9655-9664|10220-10229,PREF|PREF|PREF|PREF,EVALUATION|EVALUATION|EVALUATION|EVALUATION
+extent,http://sbmi.uth.tmc.edu/ontology/ochv#C0439792,2214-2219|6455-6460,PREF|PREF,EXTENT|EXTENT
+need,http://sbmi.uth.tmc.edu/ontology/ochv#C0686904,2294-2297,PREF,NEED
+need,http://sbmi.uth.tmc.edu/ontology/ochv#C0027552,2294-2297,PREF,NEED
+change,http://sbmi.uth.tmc.edu/ontology/ochv#C0392747,2350-2355|7237-7242|7921-7926|10720-10725,PREF|PREF|PREF|PREF,CHANGE|CHANGE|CHANGE|CHANGE
+error,http://sbmi.uth.tmc.edu/ontology/ochv#C0743559,2452-2456,PREF,ERROR
+possible,http://sbmi.uth.tmc.edu/ontology/ochv#C0332149,2471-2478,PREF,POSSIBLE
+possible,http://sbmi.uth.tmc.edu/ontology/ochv#29309,2471-2478,PREF,POSSIBLE
+repeated,http://sbmi.uth.tmc.edu/ontology/ochv#C0205341,2515-2522,PREF,REPEATED
+approach,http://sbmi.uth.tmc.edu/ontology/ochv#C0449445,2559-2566,PREF,APPROACH
+approved,http://sbmi.uth.tmc.edu/ontology/ochv#C0205540,2878-2885,PREF,APPROVED
+local,http://sbmi.uth.tmc.edu/ontology/ochv#C0205276,2894-2898,PREF,LOCAL
+ethics,http://sbmi.uth.tmc.edu/ontology/ochv#C0015000,2900-2905,PREF,ETHICS
+ethics,http://sbmi.uth.tmc.edu/ontology/ochv#4692,2900-2905,PREF,ETHICS
+informed consent,http://sbmi.uth.tmc.edu/ontology/ochv#C0021430,2930-2945,PREF,INFORMED CONSENT
+informed consent,http://sbmi.uth.tmc.edu/ontology/ochv#6720,2930-2945,PREF,INFORMED CONSENT
+informed,http://sbmi.uth.tmc.edu/ontology/ochv#C0562354,2930-2937,PREF,INFORMED
+obtained,http://sbmi.uth.tmc.edu/ontology/ochv#C1301820,2951-2958,PREF,OBTAINED
+configuration,http://sbmi.uth.tmc.edu/ontology/ochv#C0449830,3223-3235|6071-6083,PREF|PREF,CONFIGURATION|CONFIGURATION
+sit,http://sbmi.uth.tmc.edu/ontology/ochv#C0728713,3275-3277,PREF,SIT
+stand,http://sbmi.uth.tmc.edu/ontology/ochv#C0596013,3283-3287,PREF,STAND
+following,http://sbmi.uth.tmc.edu/ontology/ochv#C0332282,3345-3353,PREF,FOLLOWING
+barefoot,http://sbmi.uth.tmc.edu/ontology/ochv#C0277844,3368-3375,PREF,BAREFOOT
+self,http://sbmi.uth.tmc.edu/ontology/ochv#11168,3384-3387,PREF,SELF
+self,http://sbmi.uth.tmc.edu/ontology/ochv#C0036588,3384-3387,PREF,SELF
+normal,http://sbmi.uth.tmc.edu/ontology/ochv#C0205307,3398-3403,PREF,NORMAL
+speed,http://sbmi.uth.tmc.edu/ontology/ochv#C0678536,3405-3409,PREF,SPEED
+meter,http://sbmi.uth.tmc.edu/ontology/ochv#C0475209,3441-3445,PREF,METER
+meter,http://sbmi.uth.tmc.edu/ontology/ochv#37080,3441-3445,PREF,METER
+standing up,http://sbmi.uth.tmc.edu/ontology/ochv#C0444796,3462-3472|7733-7743,PREF|PREF,STANDING UP|STANDING UP
+chair,http://sbmi.uth.tmc.edu/ontology/ochv#C0179847,3496-3500|3503-3507|5131-5135|7751-7755|7775-7779|8276-8280,PREF|PREF|PREF|PREF|PREF|PREF,CHAIR|CHAIR|CHAIR|CHAIR|CHAIR|CHAIR
+lifting,http://sbmi.uth.tmc.edu/ontology/ochv#C0206244,3518-3524|3563-3569|8298-8304,PREF|PREF|PREF,LIFTING|LIFTING|LIFTING
+lifting,http://sbmi.uth.tmc.edu/ontology/ochv#20877,3518-3524|3563-3569|8298-8304,PREF|PREF|PREF,LIFTING|LIFTING|LIFTING
+vertical,http://sbmi.uth.tmc.edu/ontology/ochv#C0205128,3590-3597,PREF,VERTICAL
+counter,http://sbmi.uth.tmc.edu/ontology/ochv#C0677601,3599-3605,PREF,COUNTER
+standardization,http://sbmi.uth.tmc.edu/ontology/ochv#11684,3640-3654|8347-8361,PREF|PREF,STANDARDIZATION|STANDARDIZATION
+standardization,http://sbmi.uth.tmc.edu/ontology/ochv#C0038136,3640-3654|8347-8361,PREF|PREF,STANDARDIZATION|STANDARDIZATION
+execution,http://sbmi.uth.tmc.edu/ontology/ochv#27008,3660-3668,PREF,EXECUTION
+execution,http://sbmi.uth.tmc.edu/ontology/ochv#C0277671,3660-3668,PREF,EXECUTION
+custom,http://sbmi.uth.tmc.edu/ontology/ochv#C0162343,3751-3756,PREF,CUSTOM
+algorithms,http://sbmi.uth.tmc.edu/ontology/ochv#895,3765-3774,PREF,ALGORITHMS
+frontal plane,http://sbmi.uth.tmc.edu/ontology/ochv#C1183148,3847-3859|8078-8090,PREF|PREF,FRONTAL PLANE|FRONTAL PLANE
+segmental,http://sbmi.uth.tmc.edu/ontology/ochv#C0205122,3906-3914|10619-10627,PREF|PREF,SEGMENTAL|SEGMENTAL
+rotation,http://sbmi.uth.tmc.edu/ontology/ochv#C0035868,3917-3924|5563-5570|8194-8201,PREF|PREF|PREF,ROTATION|ROTATION|ROTATION
+rotation,http://sbmi.uth.tmc.edu/ontology/ochv#10950,3917-3924|5563-5570|8194-8201,PREF|PREF|PREF,ROTATION|ROTATION|ROTATION
+alpha,http://sbmi.uth.tmc.edu/ontology/ochv#C0439095,4175-4179,PREF,ALPHA
+individual differences,http://sbmi.uth.tmc.edu/ontology/ochv#C0021228,4226-4247,PREF,INDIVIDUAL DIFFERENCES
+individual,http://sbmi.uth.tmc.edu/ontology/ochv#C0237401,4226-4235,PREF,INDIVIDUAL
+relative,http://sbmi.uth.tmc.edu/ontology/ochv#C0080103,4406-4413|7189-7196,PREF|PREF,RELATIVE|RELATIVE
+relative,http://sbmi.uth.tmc.edu/ontology/ochv#20517,4406-4413|7189-7196,PREF|PREF,RELATIVE|RELATIVE
+relative,http://sbmi.uth.tmc.edu/ontology/ochv#C0205345,4406-4413|7189-7196,PREF|PREF,RELATIVE|RELATIVE
+absolute,http://sbmi.uth.tmc.edu/ontology/ochv#C0205344,4522-4529|7255-7262,PREF|PREF,ABSOLUTE|ABSOLUTE
+calculated,http://sbmi.uth.tmc.edu/ontology/ochv#C0444686,4568-4577,PREF,CALCULATED
+standard deviation,http://sbmi.uth.tmc.edu/ontology/ochv#C0871420,4593-4610,PREF,STANDARD DEVIATION
+incomplete,http://sbmi.uth.tmc.edu/ontology/ochv#C0205257,4676-4685,PREF,INCOMPLETE
+incomplete,http://sbmi.uth.tmc.edu/ontology/ochv#20445,4676-4685,PREF,INCOMPLETE
+left,http://sbmi.uth.tmc.edu/ontology/ochv#C0205091,4761-4764|6797-6800|8104-8107|8189-8192,PREF|PREF|PREF|PREF,LEFT|LEFT|LEFT|LEFT
+column,http://sbmi.uth.tmc.edu/ontology/ochv#55990,4766-4772|6802-6807|7095-7101,SYN|PREF|SYN,COLUMNS|COLUMN|COLUMNS
+low,http://sbmi.uth.tmc.edu/ontology/ochv#C0205251,4966-4968,PREF,LOW
+moderate,http://sbmi.uth.tmc.edu/ontology/ochv#C0205081,4973-4980,PREF,MODERATE
+except for,http://sbmi.uth.tmc.edu/ontology/ochv#C0332300,5084-5093,PREF,EXCEPT FOR
+planes,http://sbmi.uth.tmc.edu/ontology/ochv#C1049866,5331-5336,PREF,PLANES
+spinal curvature,http://sbmi.uth.tmc.edu/ontology/ochv#C0037932,5542-5557|7429-7444|10278-10293,PREF|PREF|PREF,SPINAL CURVATURE|SPINAL CURVATURE|SPINAL CURVATURE
+literature,http://sbmi.uth.tmc.edu/ontology/ochv#C0023866,5916-5925,PREF,LITERATURE
+literature,http://sbmi.uth.tmc.edu/ontology/ochv#7488,5916-5925,PREF,LITERATURE
+published,http://sbmi.uth.tmc.edu/ontology/ochv#C0034037,5979-5987,PREF,PUBLISHED
+smaller,http://sbmi.uth.tmc.edu/ontology/ochv#C0547044,6438-6444|6593-6599|8553-8559,PREF|PREF|PREF,SMALLER|SMALLER|SMALLER
+thoracic spine,http://sbmi.uth.tmc.edu/ontology/ochv#C0581269,6477-6490,PREF,THORACIC SPINE
+lumbar spine,http://sbmi.uth.tmc.edu/ontology/ochv#C0024091,6522-6533|8517-8528,PREF|PREF,LUMBAR SPINE|LUMBAR SPINE
+probably,http://sbmi.uth.tmc.edu/ontology/ochv#C0750492,6605-6612,PREF,PROBABLY
+probably,http://sbmi.uth.tmc.edu/ontology/ochv#48320,6605-6612,PREF,PROBABLY
+rib cage,http://sbmi.uth.tmc.edu/ontology/ochv#C0222762,6690-6697,PREF,RIB CAGE
+rib,http://sbmi.uth.tmc.edu/ontology/ochv#C0035561,6690-6692,PREF,RIB
+cage,http://sbmi.uth.tmc.edu/ontology/ochv#C0337189,6694-6697,PREF,CAGE
+lumbar region,http://sbmi.uth.tmc.edu/ontology/ochv#C0024090,6749-6761,PREF,LUMBAR REGION
+lumbar region,http://sbmi.uth.tmc.edu/ontology/ochv#7559,6749-6761,PREF,LUMBAR REGION
+column,http://sbmi.uth.tmc.edu/ontology/ochv#C1185738,6802-6807,PREF,COLUMN
+independent,http://sbmi.uth.tmc.edu/ontology/ochv#C1299583,6869-6879,PREF,INDEPENDENT
+test,http://sbmi.uth.tmc.edu/ontology/ochv#C0392366,6892-6895|10012-10015|10672-10675,PREF|PREF|PREF,TEST|TEST|TEST
+horizontal,http://sbmi.uth.tmc.edu/ontology/ochv#C0205126,6986-6995,PREF,HORIZONTAL
+colored,http://sbmi.uth.tmc.edu/ontology/ochv#C0522507,6997-7003,PREF,COLORED
+statistical significance,http://sbmi.uth.tmc.edu/ontology/ochv#23891,7041-7064,PREF,STATISTICAL SIGNIFICANCE
+statistical significance,http://sbmi.uth.tmc.edu/ontology/ochv#C0237881,7041-7064,PREF,STATISTICAL SIGNIFICANCE
+middle,http://sbmi.uth.tmc.edu/ontology/ochv#C0549183,7078-7083,PREF,MIDDLE
+right,http://sbmi.uth.tmc.edu/ontology/ochv#C0205090,7089-7093|10544-10548,PREF|PREF,RIGHT|RIGHT
+table,http://sbmi.uth.tmc.edu/ontology/ochv#C0039224,7361-7365,PREF,TABLE
+abbreviations,http://sbmi.uth.tmc.edu/ontology/ochv#527,7839-7851,PREF,ABBREVIATIONS
+negative,http://sbmi.uth.tmc.edu/ontology/ochv#C0205160,7931-7938|8046-8053|8129-8136,PREF|PREF|PREF,NEGATIVE|NEGATIVE|NEGATIVE
+Posture,http://sbmi.uth.tmc.edu/ontology/ochv#C0722716,7998-8004|10522-10528,PREF|PREF,POSTURE|POSTURE
+posture,http://sbmi.uth.tmc.edu/ontology/ochv#10002,7998-8004|10522-10528,PREF|PREF,POSTURE|POSTURE
+back region,http://sbmi.uth.tmc.edu/ontology/ochv#C1183153,8033-8043,PREF,BACK REGION
+left lateral,http://sbmi.uth.tmc.edu/ontology/ochv#C0450414,8104-8115,PREF,LEFT LATERAL
+lateral,http://sbmi.uth.tmc.edu/ontology/ochv#C0205093,8109-8115,PREF,LATERAL
+beginning,http://sbmi.uth.tmc.edu/ontology/ochv#C0439659,8259-8267,PREF,BEGINNING
+beginning,http://sbmi.uth.tmc.edu/ontology/ochv#34577,8259-8267,PREF,BEGINNING
+event,http://sbmi.uth.tmc.edu/ontology/ochv#C0441471,8367-8371,PREF,EVENT
+limitation,http://sbmi.uth.tmc.edu/ontology/ochv#C0449295,8405-8414,PREF,LIMITATION
+able,http://sbmi.uth.tmc.edu/ontology/ochv#C1299581,8479-8482,PREF,ABLE
+lumbar lordosis,http://sbmi.uth.tmc.edu/ontology/ochv#55976,8608-8622,PREF,LUMBAR LORDOSIS
+lumbar lordosis,http://sbmi.uth.tmc.edu/ontology/ochv#C1184923,8608-8622,PREF,LUMBAR LORDOSIS
+lordosis,http://sbmi.uth.tmc.edu/ontology/ochv#C0599412,8615-8622,PREF,LORDOSIS
+lordosis,http://sbmi.uth.tmc.edu/ontology/ochv#7544,8615-8622,PREF,LORDOSIS
+future,http://sbmi.uth.tmc.edu/ontology/ochv#C0016884,8651-8656,PREF,FUTURE
+future,http://sbmi.uth.tmc.edu/ontology/ochv#5306,8651-8656,PREF,FUTURE
+gait,http://sbmi.uth.tmc.edu/ontology/ochv#5313,9085-9088|10517-10520|10666-10669,PREF|PREF|PREF,GAIT|GAIT|GAIT
+gait,http://sbmi.uth.tmc.edu/ontology/ochv#C0016928,9085-9088|10517-10520|10666-10669,PREF|PREF|PREF,GAIT|GAIT|GAIT
+age,http://sbmi.uth.tmc.edu/ontology/ochv#C0001779,9130-9132,PREF,AGE
+human,http://sbmi.uth.tmc.edu/ontology/ochv#6299,9142-9146|9195-9199|9884-9888,PREF|PREF|PREF,HUMAN|HUMAN|HUMAN
+human,http://sbmi.uth.tmc.edu/ontology/ochv#C0020114,9142-9146|9195-9199|9884-9888,PREF|PREF|PREF,HUMAN|HUMAN|HUMAN
+human,http://sbmi.uth.tmc.edu/ontology/ochv#C0086418,9142-9146|9195-9199|9884-9888,PREF|PREF|PREF,HUMAN|HUMAN|HUMAN
+stereophotogrammetry,http://sbmi.uth.tmc.edu/ontology/ochv#C0087029,9173-9192|9226-9245,PREF|PREF,STEREOPHOTOGRAMMETRY|STEREOPHOTOGRAMMETRY
+stereophotogrammetry,http://sbmi.uth.tmc.edu/ontology/ochv#16065,9173-9192|9226-9245,PREF|PREF,STEREOPHOTOGRAMMETRY|STEREOPHOTOGRAMMETRY
+anatomical landmark,http://sbmi.uth.tmc.edu/ontology/ochv#C0504075,9270-9288|9689-9707,PREF|PREF,ANATOMICAL LANDMARK|ANATOMICAL LANDMARK
+joint,http://sbmi.uth.tmc.edu/ontology/ochv#C0392905,9323-9327|9773-9777,PREF|PREF,JOINT|JOINT
+joint,http://sbmi.uth.tmc.edu/ontology/ochv#C0022417,9323-9327|9773-9777,PREF|PREF,JOINT|JOINT
+artifact,http://sbmi.uth.tmc.edu/ontology/ochv#C0085089,9406-9413,PREF,ARTIFACT
+compensation,http://sbmi.uth.tmc.edu/ontology/ochv#C1306867,9430-9441,PREF,COMPENSATION
+compensation,http://sbmi.uth.tmc.edu/ontology/ochv#C0152057,9430-9441,PREF,COMPENSATION
+compensation,http://sbmi.uth.tmc.edu/ontology/ochv#C0152058,9430-9441,PREF,COMPENSATION
+positioning,http://sbmi.uth.tmc.edu/ontology/ochv#C0733755,9469-9479,PREF,POSITIONING
+performance,http://sbmi.uth.tmc.edu/ontology/ochv#41688,9481-9491,PREF,PERFORMANCE
+performance,http://sbmi.uth.tmc.edu/ontology/ochv#C0597198,9481-9491,PREF,PERFORMANCE
+pelvis,http://sbmi.uth.tmc.edu/ontology/ochv#C0030797,9667-9672,PREF,PELVIS
+pelvis,http://sbmi.uth.tmc.edu/ontology/ochv#9406,9667-9672,PREF,PELVIS
+calibration,http://sbmi.uth.tmc.edu/ontology/ochv#2313,9710-9720,PREF,CALIBRATION
+calibration,http://sbmi.uth.tmc.edu/ontology/ochv#C0006751,9710-9720,PREF,CALIBRATION
+bone,http://sbmi.uth.tmc.edu/ontology/ochv#C0262950,9755-9758,PREF,BONE
+geometry,http://sbmi.uth.tmc.edu/ontology/ochv#C0449829,9760-9767,PREF,GEOMETRY
+List,http://www.w3.org/1999/02/22-rdf-syntax-ns#List,9799-9802,PREF,LIST
+measured,http://sbmi.uth.tmc.edu/ontology/ochv#C0444706,9946-9953,PREF,MEASURED
+open,http://sbmi.uth.tmc.edu/ontology/ochv#18146,9982-9985,PREF,OPEN
+open,http://sbmi.uth.tmc.edu/ontology/ochv#C0175566,9982-9985,PREF,OPEN
+upright,http://sbmi.uth.tmc.edu/ontology/ochv#38054,9987-9993,PREF,UPRIGHT
+upright,http://sbmi.uth.tmc.edu/ontology/ochv#C0522015,9987-9993,PREF,UPRIGHT
+sensor,http://sbmi.uth.tmc.edu/ontology/ochv#C0183210,10184-10189,PREF,SENSOR
+adolescent,http://sbmi.uth.tmc.edu/ontology/ochv#20669,10327-10336|10483-10492,PREF|PREF,ADOLESCENT|ADOLESCENT
+scoliosis,http://sbmi.uth.tmc.edu/ontology/ochv#C0036439,10350-10358,PREF,SCOLIOSIS
+radiographic,http://sbmi.uth.tmc.edu/ontology/ochv#C0444708,10376-10387,PREF,RADIOGRAPHIC
+leg length discrepancy,http://sbmi.uth.tmc.edu/ontology/ochv#C0023221,10453-10474,PREF,LEG LENGTH DISCREPANCY
+leg length,http://sbmi.uth.tmc.edu/ontology/ochv#C0426952,10453-10462,PREF,LEG LENGTH
+leg,http://sbmi.uth.tmc.edu/ontology/ochv#55074,10453-10455,PREF,LEG
+length,http://sbmi.uth.tmc.edu/ontology/ochv#C0439537,10457-10462,PREF,LENGTH
+discrepancy,http://sbmi.uth.tmc.edu/ontology/ochv#C1290905,10464-10474,PREF,DISCREPANCY
+trunk,http://sbmi.uth.tmc.edu/ontology/ochv#C0460005,10629-10633,PREF,TRUNK
+kinetics,http://sbmi.uth.tmc.edu/ontology/ochv#7113,10650-10657,PREF,KINETICS

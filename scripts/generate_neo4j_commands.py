@@ -28,7 +28,7 @@ RETURN batches, total, timeTaken, committedOperations;
 def generate_annotate_command(uri_json,uri_annotations,type):
     return command1%(uri_annotations,uri_json,type)
 
-print("############# START")
+#print("############# START")
 for ix in contents.index:
     uri_json = contents.loc[ix,"uri"]
     uri_annotations = contents.loc[ix,"uri_annotations"]
@@ -36,4 +36,4 @@ for ix in contents.index:
     #print(f"<START id='{ix}'>")
     print(generate_annotate_command(uri_json,uri_annotations,type))
     #print("</END>")
-print("############# END")
+#print("############# END")

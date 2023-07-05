@@ -1,3 +1,4 @@
+uri,uri_annotations
 file:/d2_descriptions/Biomechanical_Attributes.txt.json,file:/d2_descriptions.annotated/Biomechanical_Attributes.txt.json.annotations.SCIO.csv
 file:/d2_descriptions/Load.txt.json,file:/d2_descriptions.annotated/Load.txt.json.annotations.SCIO.csv
 file:/d2_descriptions/Physical_Activity.txt.json,file:/d2_descriptions.annotated/Physical_Activity.txt.json.annotations.SCIO.csv

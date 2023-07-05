@@ -4,8 +4,8 @@ Negative,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25247,47-54|91-98|5
 Perception,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C16967,70-78|723-732,SYN|PREF,PERCEIVED|PERCEPTION
 Intensity,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25539,80-88,PREF,INTENSITY
 Long-Term,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25322,124-132,PREF,LONG-TERM
-Long,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C48311,124-127,PREF,LONG
 Long,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25248,124-127,PREF,LONG
+Long,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C48311,124-127,PREF,LONG
 Term,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C45559,129-132,PREF,TERM
 Term,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25703,129-132,PREF,TERM
 Trait,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C85496,135-139|558-562|824-828,PREF|PREF|PREF,TRAIT|TRAIT|TRAIT
@@ -20,8 +20,8 @@ Associated,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25281,232-241|398
 Anger,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C73506,265-269,PREF,ANGER
 Sadness,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C74534,272-278,PREF,SADNESS
 Irritability,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C50623,281-292,PREF,IRRITABILITY
-State,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C87194,295-299|998-1002,PREF|PREF,STATE|STATE
 State,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25687,295-299|998-1002,PREF|PREF,STATE|STATE
+State,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C87194,295-299|998-1002,PREF|PREF,STATE|STATE
 Anxiety,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C26696,301-307,PREF,ANXIETY
 Fear,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C77960,314-317|1353-1356,PREF|PREF,FEAR|FEAR
 Contrast,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C70754,322-329,PREF,CONTRAST
@@ -44,8 +44,8 @@ Certain,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C107561,855-861,PREF,
 Sensitivity,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25201,923-933,PREF,SENSITIVITY
 Sensitivity,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C68816,923-933,PREF,SENSITIVITY
 Data,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25474,961-964,PREF,DATA
-Depression,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C124639,1025-1034|1232-1241,PREF|PREF,DEPRESSION|DEPRESSION
 Depression,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C2982,1025-1034|1232-1241,PREF|PREF,DEPRESSION|DEPRESSION
+Depression,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C124639,1025-1034|1232-1241,PREF|PREF,DEPRESSION|DEPRESSION
 Relationship,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25648,1036-1042|1096-1107,SYN|PREF,RELATED|RELATIONSHIP
 Little,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C76350,1062-1067,PREF,LITTLE
 Confidence,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43367,1081-1090,PREF,CONFIDENCE

@@ -1,7 +1,7 @@
 prefLabel,id,from_to,matchType,text
 spine,http://sbmi.uth.tmc.edu/ontology/ochv#C0037949,27-31,PREF,SPINE
-spinal cord,http://sbmi.uth.tmc.edu/ontology/ochv#11612,67-77,PREF,SPINAL CORD
 spinal cord,http://sbmi.uth.tmc.edu/ontology/ochv#C0037925,67-77,PREF,SPINAL CORD
+spinal cord,http://sbmi.uth.tmc.edu/ontology/ochv#11612,67-77,PREF,SPINAL CORD
 spinal,http://sbmi.uth.tmc.edu/ontology/ochv#37924,67-72,PREF,SPINAL
 spinal,http://sbmi.uth.tmc.edu/ontology/ochv#C0521329,67-72,PREF,SPINAL
 Support,http://sbmi.uth.tmc.edu/ontology/ochv#C1171411,83-89,PREF,SUPPORT
@@ -13,15 +13,15 @@ mobility,http://sbmi.uth.tmc.edu/ontology/ochv#C0449580,133-140,PREF,MOBILITY
 complex,http://sbmi.uth.tmc.edu/ontology/ochv#C0439855,180-186,PREF,COMPLEX
 joints,http://sbmi.uth.tmc.edu/ontology/ochv#7022,236-241,PREF,JOINTS
 ligaments,http://sbmi.uth.tmc.edu/ontology/ochv#7416,244-252,PREF,LIGAMENTS
-active,http://sbmi.uth.tmc.edu/ontology/ochv#20376,259-264,PREF,ACTIVE
 active,http://sbmi.uth.tmc.edu/ontology/ochv#C0205177,259-264,PREF,ACTIVE
+active,http://sbmi.uth.tmc.edu/ontology/ochv#20376,259-264,PREF,ACTIVE
 tissues,http://sbmi.uth.tmc.edu/ontology/ochv#12321,276-282|499-505,PREF|PREF,TISSUES|TISSUES
 control system,http://sbmi.uth.tmc.edu/ontology/ochv#C0680582,307-320,PREF,CONTROL SYSTEM
 CONTROL,http://sbmi.uth.tmc.edu/ontology/ochv#C0308718,307-313,PREF,CONTROL
 aging,http://sbmi.uth.tmc.edu/ontology/ochv#C0001811,398-402,PREF,AGING
 aging,http://sbmi.uth.tmc.edu/ontology/ochv#824,398-402,PREF,AGING
-lead,http://sbmi.uth.tmc.edu/ontology/ochv#7256,408-411,PREF,LEAD
 lead,http://sbmi.uth.tmc.edu/ontology/ochv#C0023175,408-411,PREF,LEAD
+lead,http://sbmi.uth.tmc.edu/ontology/ochv#7256,408-411,PREF,LEAD
 functional,http://sbmi.uth.tmc.edu/ontology/ochv#C0205245,416-425,PREF,FUNCTIONAL
 pathology,http://sbmi.uth.tmc.edu/ontology/ochv#C0030664,427-435,PREF,PATHOLOGY
 pathology,http://sbmi.uth.tmc.edu/ontology/ochv#9354,427-435,PREF,PATHOLOGY

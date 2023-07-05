@@ -1,13 +1,62 @@
 # cross-talk
 ## Prereqs
 * Neo4j
-  * See README_NEO4J.md
 * Docker
 
-## Building and setup
+## Docker
 docker build -t cross-talk .
 
-## Converting PDFs to text
+## Neo4J
+
+1. Create new project
+2. Under that project create or connect to a new DBMS
+3. Start DBMS (version 5.7 because at the time of writing this the plugins weren't available in later versionss)
+4. Install plugins: n10s, Graph Data Science, and APOC.
+
+## Post install Neo4J
+
+```
+CREATE CONSTRAINT n10s_unique_uri FOR (r:Resource) REQUIRE r.uri IS UNIQUE;
+
+CALL n10s.graphconfig.init({handleVocabUris: "MAP"});
+```
+
+## Importing ontologies
+
+### MESH
+```
+WITH "https://data.bioontology.org/ontologies/MESH/download?apikey=8b5b7825-538d-40e0-9e9e-5ab9274a9aeb&download_format=rdf"
+AS uri
+CALL n10s.rdf.import.fetch(uri, 'RDF/XML',{ classLabel : 'MESH_Class'})
+YIELD terminationStatus, triplesLoaded, triplesParsed, namespaces, callParams, extraInfo
+RETURN terminationStatus, triplesLoaded, triplesParsed, namespaces, callParams, extraInfo;
+```
+
+### NCIT
+```
+WITH "https://data.bioontology.org/ontologies/NCIT/download?apikey=8b5b7825-538d-40e0-9e9e-5ab9274a9aeb&download_format=rdf"
+AS uri
+CALL n10s.rdf.import.fetch(uri, 'RDF/XML',{ classLabel : 'NCIT_Class'})
+YIELD terminationStatus, triplesLoaded, triplesParsed, namespaces, callParams, extraInfo
+RETURN terminationStatus, triplesLoaded, triplesParsed, namespaces, callParams, extraInfo;
+```
+
+## Local file access
+
+In order to access local files, we need to change some configuration of Neo4J. In the settings, you must add the following with modifications depending on your system:
+
+```
+dbms.security.allow_csv_import_from_file_urls=true
+server.directories.import=/home/paul/
+apoc.import.file.enabled=true
+```
+
+You should replace the import directory to match your system, but all imports will be relative to this directory.
+
+## Executing things at the command line
+
+In order to execute things at the command line, you must set some
+environment variables.
 
 ```
 export APPDIR=path to this repo
@@ -15,92 +64,6 @@ export DATADIR=path to data directory # all other paths will be relative
 export OPENAI_API_KEY=foobar
 ```
 
-```
-$APPDIR/scripts/pdfs_to_texts.sh $DATADIR/pdfs abstracts | grep 'Completed\|Failed'
-```
+## Next steps
 
-## Annotating directories
-Below is an example that annotates the abstract field within each of the texts.
-```
-$APPDIR/scripts/annotate_dir.sh $DATADIR/abstracts abstract | grep 'Completed\|Failed'
-```
-
-Below is an example that annotates the text field within each of the hypotheses.
-```
-$APPDIR/scripts/annotate_dir.sh $DATADIR/hypotheses text | grep 'Completed\|Failed'
-```
-
-OpenAI
-```
-docker run --env OPENAI_API_KEY=$OPENAI_API_KEY -v $APPDIR/scripts:/app/scripts cross-talk python3 /app/scripts/openai_verification.py
-```
-
-```
-$APPDIR/scripts/get_embeddings.sh $DATADIR/domains text | grep 'Completed\|Failed'
-```
-
-```
-$APPDIR/scripts/get_embeddings.sh $DATADIR/results text | grep 'Completed\|Failed'
-```
-
-
-# older cross-talk notes for historical purposes
-
-## Installation notes
-### Misc
-I'm assuming a directory tmp is created but it is not tracked in git, so you'll have to mkdir tmp inside this repo.
-
-### Google Drive
-For ease of use for the entire team, we are storing results in Google Drive. To make this easier, I am assuming folks can mount google drive locally. Here are the links that worked for me.
-
-https://medium.com/@enthu.cutlet/how-to-mount-google-drive-on-linux-windows-systems-5ef4bff24288
-
-https://github.com/astrada/google-drive-ocamlfuse/wiki/Headless-Usage-&-Authorization
-
-google-drive-ocamlfuse -headless -label me -id 991295574367-b5jslg94q7ingil90887qqpjomkq41mu.apps.googleusercontent.com -secret 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
-
-google-drive-ocamlfuse -label me $HOME/googledrive
-
-
-## Workflow Examples
-docker build -t cross-talk .
-
-export OPENAI_API_KEY=foobar
-
-docker run --env OPENAI_API_KEY=$OPENAI_API_KEY cross-talk env
-
-docker run --env OPENAI_API_KEY=$OPENAI_API_KEY -v $APPDIR/scripts:/app/scripts cross-talk python3 /app/scripts/openai_verification.py
-
-
-cp "$HOME/googledrive/cLBP–chronic_lower_back_pain/cross-talk/papers/Papers cited by Schmid et al./PDFs_Schmid_Refs/1.38037-PB1-9531-R2.pdf" tmp/source.pdf && \
-docker run -v $PWD/scripts:/app/scripts -v $PWD/tmp:/app/tmp cross-talk python3 ./scripts/pdf_to_text.py tmp/source.pdf tmp/source.json
-
-docker run --env OPENAI_API_KEY=$OPENAI_API_KEY -v $PWD/scripts:/app/scripts -v $PWD/tmp:/app/tmp cross-talk python3 ./scripts/clean_text.py /app/tmp/1.38037-PB1-9531-R2.pdf.tika.txt
-
-docker run --env OPENAI_API_KEY=$OPENAI_API_KEY -v $PWD/scripts:/app/scripts -v $PWD/tmp:/app/tmp cross-talk python3 ./scripts/openai_summarize.py /app/tmp/1.38037-PB1-9531-R2.pdf.tika.txt
-
-docker run -it --env OPENAI_API_KEY=$OPENAI_API_KEY --gpus all -v $PWD/scripts:/app/scripts -v $PWD/tmp:/app/tmp cross-talk /bin/bash
-
-### Create text/json from pdfs
-./scripts/pdfs_to_texts.sh "$HOME/googledrive/cLBP–chronic_lower_back_pain/cross-talk/papers/Papers cited by Schmid et al./PDFs_Schmid_Refs"
-
-## Neo4j
-
-Setup and commands are assuming Neo4j desktop and cypher-shell
-
-From Neo4j browser, create new project. I'm calling mine cross-talk.
-
-Then add local DBMS. I'm numbering mine for trial and error purposes, so I'm going to start with v1. Create it with a password and then start it. Making it active in the desktop. I'll be using the neo4j default database.
-
-Then you should be able to ./cypher-shell -u neo4j -p [your password here]
-
-I always forget the goofy way you install plugins which we need. You have to click on Projects and then click on the DB you created. The plugins tab will then be on the right side of screen.
-
-I'm installing:
-* APOC
-* Neo4j streaming
-* neosemantics
-
-I also set dbms.security.allow_csv_import_from_file_urls=true
-
-See NEO4J_DB.md
+You can find the next steps for the setup under the notes folder.

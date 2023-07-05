@@ -31,8 +31,8 @@ Effect,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25492,974-979,PREF,EF
 Stress,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C35041,1036-1041,PREF,STRESS
 Self-Report,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C74528,1055-1065,PREF,SELF-REPORT
 Report,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25375,1060-1065|1150-1157,PREF|SYN,REPORT|REPORTED
-Objective,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C88181,1068-1076,PREF,OBJECTIVE
 Objective,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C49155,1068-1076,PREF,OBJECTIVE
+Objective,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C88181,1068-1076,PREF,OBJECTIVE
 Axis,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25154,1083-1086,PREF,AXIS
 Study,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C63536,1144-1148,PREF,STUDY
 Data,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25474,1159-1162,PREF,DATA

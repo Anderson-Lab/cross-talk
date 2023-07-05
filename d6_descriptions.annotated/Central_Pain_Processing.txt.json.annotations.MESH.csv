@@ -10,6 +10,6 @@ Perception,http://purl.bioontology.org/ontology/MESH/D010465,960-969,PREF,PERCEP
 Brain,http://purl.bioontology.org/ontology/MESH/D001921,1180-1184,PREF,BRAIN
 Anatomy,http://purl.bioontology.org/ontology/MESH/D000715,1186-1192,PREF,ANATOMY
 Association,http://purl.bioontology.org/ontology/MESH/D001244,1349-1359,PREF,ASSOCIATION
-classification,http://purl.bioontology.org/ontology/MESH/Q000145,1401-1414,PREF,CLASSIFICATION
 Classification,http://purl.bioontology.org/ontology/MESH/D002965,1401-1414,PREF,CLASSIFICATION
+classification,http://purl.bioontology.org/ontology/MESH/Q000145,1401-1414,PREF,CLASSIFICATION
 Classification,http://purl.bioontology.org/ontology/STY/T185,1401-1414,PREF,CLASSIFICATION

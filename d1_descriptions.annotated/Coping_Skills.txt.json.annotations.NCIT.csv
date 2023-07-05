@@ -16,15 +16,15 @@ Avoidance,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C54264,387-395|676-
 Distress,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C37942,411-418,PREF,DISTRESS
 Endurance,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C89276,420-428,PREF,ENDURANCE
 Active,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C45329,434-439|546-551|689-696|1265-1272,PREF|PREF|SYN|SYN,ACTIVE|ACTIVE|ACTIVITY|ACTIVITY
-Approach,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C176499,441-448,PREF,APPROACH
 Approach,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25424,441-448,PREF,APPROACH
+Approach,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C176499,441-448,PREF,APPROACH
 Taken,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25701,579-583,PREF,TAKEN
 Cognitive,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C37926,609-617,PREF,COGNITIVE
 Distraction,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C5330,660-670,PREF,DISTRACTION
 Activity,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43431,689-696|1265-1272,PREF|PREF,ACTIVITY|ACTIVITY
 Fear,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C77960,713-716|1238-1241,PREF|PREF,FEAR|FEAR
-Model,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43383,728-732,PREF,MODEL
 Model,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C16866,728-732,PREF,MODEL
+Model,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43383,728-732,PREF,MODEL
 Style,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C71598,772-776|828-832,PREF|PREF,STYLE|STYLE
 Coping Skills,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C19382,871-883,PREF,COPING SKILLS
 Include,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C74521,890-896,PREF,INCLUDE

@@ -1,0 +1,1696 @@
+CALL apoc.periodic.iterate(
+"WITH 'file:/texts.pdfs.psychology.and.biomechanics.annotated/13.pdf.json.annotations.MESH.csv' AS uri_annotations
+WITH uri_annotations, 'file:/texts.pdfs.psychology.and.biomechanics/13.pdf.json' as uri_json
+LOAD CSV WITH HEADERS FROM uri_annotations AS row
+UNWIND row.id AS entity_uri
+RETURN entity_uri,uri_json,uri_annotations",
+"MATCH (c:Class {uri: entity_uri})
+ WITH c, entity_uri, uri_json
+ MATCH (a:Paper {uri: uri_json})
+ WITH a,c
+ MERGE (a)-[:HAS_ENTITY]->(c)
+ ",
+{batchSize: 5, parallel: true}
+)
+YIELD batches, total, timeTaken, committedOperations
+RETURN batches, total, timeTaken, committedOperations;
+CALL apoc.periodic.iterate(
+"WITH 'file:/texts.pdfs.psychology.and.biomechanics.annotated/14.pdf.json.annotations.MESH.csv' AS uri_annotations
+WITH uri_annotations, 'file:/texts.pdfs.psychology.and.biomechanics/14.pdf.json' as uri_json
+LOAD CSV WITH HEADERS FROM uri_annotations AS row
+UNWIND row.id AS entity_uri
+RETURN entity_uri,uri_json,uri_annotations",
+"MATCH (c:Class {uri: entity_uri})
+ WITH c, entity_uri, uri_json
+ MATCH (a:Paper {uri: uri_json})
+ WITH a,c
+ MERGE (a)-[:HAS_ENTITY]->(c)
+ ",
+{batchSize: 5, parallel: true}
+)
+YIELD batches, total, timeTaken, committedOperations
+RETURN batches, total, timeTaken, committedOperations;
+CALL apoc.periodic.iterate(
+"WITH 'file:/texts.pdfs.psychology.and.biomechanics.annotated/16.pdf.json.annotations.MESH.csv' AS uri_annotations
+WITH uri_annotations, 'file:/texts.pdfs.psychology.and.biomechanics/16.pdf.json' as uri_json
+LOAD CSV WITH HEADERS FROM uri_annotations AS row
+UNWIND row.id AS entity_uri
+RETURN entity_uri,uri_json,uri_annotations",
+"MATCH (c:Class {uri: entity_uri})
+ WITH c, entity_uri, uri_json
+ MATCH (a:Paper {uri: uri_json})
+ WITH a,c
+ MERGE (a)-[:HAS_ENTITY]->(c)
+ ",
+{batchSize: 5, parallel: true}
+)
+YIELD batches, total, timeTaken, committedOperations
+RETURN batches, total, timeTaken, committedOperations;
+CALL apoc.periodic.iterate(
+"WITH 'file:/texts.pdfs.psychology.and.biomechanics.annotated/17.pdf.json.annotations.MESH.csv' AS uri_annotations
+WITH uri_annotations, 'file:/texts.pdfs.psychology.and.biomechanics/17.pdf.json' as uri_json
+LOAD CSV WITH HEADERS FROM uri_annotations AS row
+UNWIND row.id AS entity_uri
+RETURN entity_uri,uri_json,uri_annotations",
+"MATCH (c:Class {uri: entity_uri})
+ WITH c, entity_uri, uri_json
+ MATCH (a:Paper {uri: uri_json})
+ WITH a,c
+ MERGE (a)-[:HAS_ENTITY]->(c)
+ ",
+{batchSize: 5, parallel: true}
+)
+YIELD batches, total, timeTaken, committedOperations
+RETURN batches, total, timeTaken, committedOperations;
+CALL apoc.periodic.iterate(
+"WITH 'file:/texts.pdfs.psychology.and.biomechanics.annotated/21.pdf.json.annotations.MESH.csv' AS uri_annotations
+WITH uri_annotations, 'file:/texts.pdfs.psychology.and.biomechanics/21.pdf.json' as uri_json
+LOAD CSV WITH HEADERS FROM uri_annotations AS row
+UNWIND row.id AS entity_uri
+RETURN entity_uri,uri_json,uri_annotations",
+"MATCH (c:Class {uri: entity_uri})
+ WITH c, entity_uri, uri_json
+ MATCH (a:Paper {uri: uri_json})
+ WITH a,c
+ MERGE (a)-[:HAS_ENTITY]->(c)
+ ",
+{batchSize: 5, parallel: true}
+)
+YIELD batches, total, timeTaken, committedOperations
+RETURN batches, total, timeTaken, committedOperations;
+CALL apoc.periodic.iterate(
+"WITH 'file:/texts.pdfs.psychology.and.biomechanics.annotated/26.pdf.json.annotations.MESH.csv' AS uri_annotations
+WITH uri_annotations, 'file:/texts.pdfs.psychology.and.biomechanics/26.pdf.json' as uri_json
+LOAD CSV WITH HEADERS FROM uri_annotations AS row
+UNWIND row.id AS entity_uri
+RETURN entity_uri,uri_json,uri_annotations",
+"MATCH (c:Class {uri: entity_uri})
+ WITH c, entity_uri, uri_json
+ MATCH (a:Paper {uri: uri_json})
+ WITH a,c
+ MERGE (a)-[:HAS_ENTITY]->(c)
+ ",
+{batchSize: 5, parallel: true}
+)
+YIELD batches, total, timeTaken, committedOperations
+RETURN batches, total, timeTaken, committedOperations;
+CALL apoc.periodic.iterate(
+"WITH 'file:/texts.pdfs.psychology.and.biomechanics.annotated/46.pdf.json.annotations.MESH.csv' AS uri_annotations
+WITH uri_annotations, 'file:/texts.pdfs.psychology.and.biomechanics/46.pdf.json' as uri_json
+LOAD CSV WITH HEADERS FROM uri_annotations AS row
+UNWIND row.id AS entity_uri
+RETURN entity_uri,uri_json,uri_annotations",
+"MATCH (c:Class {uri: entity_uri})
+ WITH c, entity_uri, uri_json
+ MATCH (a:Paper {uri: uri_json})
+ WITH a,c
+ MERGE (a)-[:HAS_ENTITY]->(c)
+ ",
+{batchSize: 5, parallel: true}
+)
+YIELD batches, total, timeTaken, committedOperations
+RETURN batches, total, timeTaken, committedOperations;
+CALL apoc.periodic.iterate(
+"WITH 'file:/texts.pdfs.psychology.and.biomechanics.annotated/47.pdf.json.annotations.MESH.csv' AS uri_annotations
+WITH uri_annotations, 'file:/texts.pdfs.psychology.and.biomechanics/47.pdf.json' as uri_json
+LOAD CSV WITH HEADERS FROM uri_annotations AS row
+UNWIND row.id AS entity_uri
+RETURN entity_uri,uri_json,uri_annotations",
+"MATCH (c:Class {uri: entity_uri})
+ WITH c, entity_uri, uri_json
+ MATCH (a:Paper {uri: uri_json})
+ WITH a,c
+ MERGE (a)-[:HAS_ENTITY]->(c)
+ ",
+{batchSize: 5, parallel: true}
+)
+YIELD batches, total, timeTaken, committedOperations
+RETURN batches, total, timeTaken, committedOperations;
+CALL apoc.periodic.iterate(
+"WITH 'file:/texts.pdfs.psychology.and.biomechanics.annotated/48.pdf.json.annotations.MESH.csv' AS uri_annotations
+WITH uri_annotations, 'file:/texts.pdfs.psychology.and.biomechanics/48.pdf.json' as uri_json
+LOAD CSV WITH HEADERS FROM uri_annotations AS row
+UNWIND row.id AS entity_uri
+RETURN entity_uri,uri_json,uri_annotations",
+"MATCH (c:Class {uri: entity_uri})
+ WITH c, entity_uri, uri_json
+ MATCH (a:Paper {uri: uri_json})
+ WITH a,c
+ MERGE (a)-[:HAS_ENTITY]->(c)
+ ",
+{batchSize: 5, parallel: true}
+)
+YIELD batches, total, timeTaken, committedOperations
+RETURN batches, total, timeTaken, committedOperations;
+CALL apoc.periodic.iterate(
+"WITH 'file:/texts.pdfs.psychology.and.biomechanics.annotated/49.pdf.json.annotations.MESH.csv' AS uri_annotations
+WITH uri_annotations, 'file:/texts.pdfs.psychology.and.biomechanics/49.pdf.json' as uri_json
+LOAD CSV WITH HEADERS FROM uri_annotations AS row
+UNWIND row.id AS entity_uri
+RETURN entity_uri,uri_json,uri_annotations",
+"MATCH (c:Class {uri: entity_uri})
+ WITH c, entity_uri, uri_json
+ MATCH (a:Paper {uri: uri_json})
+ WITH a,c
+ MERGE (a)-[:HAS_ENTITY]->(c)
+ ",
+{batchSize: 5, parallel: true}
+)
+YIELD batches, total, timeTaken, committedOperations
+RETURN batches, total, timeTaken, committedOperations;
+CALL apoc.periodic.iterate(
+"WITH 'file:/texts.pdfs.psychology.and.biomechanics.annotated/13.pdf.json.annotations.NCIT.csv' AS uri_annotations
+WITH uri_annotations, 'file:/texts.pdfs.psychology.and.biomechanics/13.pdf.json' as uri_json
+LOAD CSV WITH HEADERS FROM uri_annotations AS row
+UNWIND row.id AS entity_uri
+RETURN entity_uri,uri_json,uri_annotations",
+"MATCH (c:Class {uri: entity_uri})
+ WITH c, entity_uri, uri_json
+ MATCH (a:Paper {uri: uri_json})
+ WITH a,c
+ MERGE (a)-[:HAS_ENTITY]->(c)
+ ",
+{batchSize: 5, parallel: true}
+)
+YIELD batches, total, timeTaken, committedOperations
+RETURN batches, total, timeTaken, committedOperations;
+CALL apoc.periodic.iterate(
+"WITH 'file:/texts.pdfs.psychology.and.biomechanics.annotated/14.pdf.json.annotations.NCIT.csv' AS uri_annotations
+WITH uri_annotations, 'file:/texts.pdfs.psychology.and.biomechanics/14.pdf.json' as uri_json
+LOAD CSV WITH HEADERS FROM uri_annotations AS row
+UNWIND row.id AS entity_uri
+RETURN entity_uri,uri_json,uri_annotations",
+"MATCH (c:Class {uri: entity_uri})
+ WITH c, entity_uri, uri_json
+ MATCH (a:Paper {uri: uri_json})
+ WITH a,c
+ MERGE (a)-[:HAS_ENTITY]->(c)
+ ",
+{batchSize: 5, parallel: true}
+)
+YIELD batches, total, timeTaken, committedOperations
+RETURN batches, total, timeTaken, committedOperations;
+CALL apoc.periodic.iterate(
+"WITH 'file:/texts.pdfs.psychology.and.biomechanics.annotated/16.pdf.json.annotations.NCIT.csv' AS uri_annotations
+WITH uri_annotations, 'file:/texts.pdfs.psychology.and.biomechanics/16.pdf.json' as uri_json
+LOAD CSV WITH HEADERS FROM uri_annotations AS row
+UNWIND row.id AS entity_uri
+RETURN entity_uri,uri_json,uri_annotations",
+"MATCH (c:Class {uri: entity_uri})
+ WITH c, entity_uri, uri_json
+ MATCH (a:Paper {uri: uri_json})
+ WITH a,c
+ MERGE (a)-[:HAS_ENTITY]->(c)
+ ",
+{batchSize: 5, parallel: true}
+)
+YIELD batches, total, timeTaken, committedOperations
+RETURN batches, total, timeTaken, committedOperations;
+CALL apoc.periodic.iterate(
+"WITH 'file:/texts.pdfs.psychology.and.biomechanics.annotated/17.pdf.json.annotations.NCIT.csv' AS uri_annotations
+WITH uri_annotations, 'file:/texts.pdfs.psychology.and.biomechanics/17.pdf.json' as uri_json
+LOAD CSV WITH HEADERS FROM uri_annotations AS row
+UNWIND row.id AS entity_uri
+RETURN entity_uri,uri_json,uri_annotations",
+"MATCH (c:Class {uri: entity_uri})
+ WITH c, entity_uri, uri_json
+ MATCH (a:Paper {uri: uri_json})
+ WITH a,c
+ MERGE (a)-[:HAS_ENTITY]->(c)
+ ",
+{batchSize: 5, parallel: true}
+)
+YIELD batches, total, timeTaken, committedOperations
+RETURN batches, total, timeTaken, committedOperations;
+CALL apoc.periodic.iterate(
+"WITH 'file:/texts.pdfs.psychology.and.biomechanics.annotated/21.pdf.json.annotations.NCIT.csv' AS uri_annotations
+WITH uri_annotations, 'file:/texts.pdfs.psychology.and.biomechanics/21.pdf.json' as uri_json
+LOAD CSV WITH HEADERS FROM uri_annotations AS row
+UNWIND row.id AS entity_uri
+RETURN entity_uri,uri_json,uri_annotations",
+"MATCH (c:Class {uri: entity_uri})
+ WITH c, entity_uri, uri_json
+ MATCH (a:Paper {uri: uri_json})
+ WITH a,c
+ MERGE (a)-[:HAS_ENTITY]->(c)
+ ",
+{batchSize: 5, parallel: true}
+)
+YIELD batches, total, timeTaken, committedOperations
+RETURN batches, total, timeTaken, committedOperations;
+CALL apoc.periodic.iterate(
+"WITH 'file:/texts.pdfs.psychology.and.biomechanics.annotated/26.pdf.json.annotations.NCIT.csv' AS uri_annotations
+WITH uri_annotations, 'file:/texts.pdfs.psychology.and.biomechanics/26.pdf.json' as uri_json
+LOAD CSV WITH HEADERS FROM uri_annotations AS row
+UNWIND row.id AS entity_uri
+RETURN entity_uri,uri_json,uri_annotations",
+"MATCH (c:Class {uri: entity_uri})
+ WITH c, entity_uri, uri_json
+ MATCH (a:Paper {uri: uri_json})
+ WITH a,c
+ MERGE (a)-[:HAS_ENTITY]->(c)
+ ",
+{batchSize: 5, parallel: true}
+)
+YIELD batches, total, timeTaken, committedOperations
+RETURN batches, total, timeTaken, committedOperations;
+CALL apoc.periodic.iterate(
+"WITH 'file:/texts.pdfs.psychology.and.biomechanics.annotated/46.pdf.json.annotations.NCIT.csv' AS uri_annotations
+WITH uri_annotations, 'file:/texts.pdfs.psychology.and.biomechanics/46.pdf.json' as uri_json
+LOAD CSV WITH HEADERS FROM uri_annotations AS row
+UNWIND row.id AS entity_uri
+RETURN entity_uri,uri_json,uri_annotations",
+"MATCH (c:Class {uri: entity_uri})
+ WITH c, entity_uri, uri_json
+ MATCH (a:Paper {uri: uri_json})
+ WITH a,c
+ MERGE (a)-[:HAS_ENTITY]->(c)
+ ",
+{batchSize: 5, parallel: true}
+)
+YIELD batches, total, timeTaken, committedOperations
+RETURN batches, total, timeTaken, committedOperations;
+CALL apoc.periodic.iterate(
+"WITH 'file:/texts.pdfs.psychology.and.biomechanics.annotated/47.pdf.json.annotations.NCIT.csv' AS uri_annotations
+WITH uri_annotations, 'file:/texts.pdfs.psychology.and.biomechanics/47.pdf.json' as uri_json
+LOAD CSV WITH HEADERS FROM uri_annotations AS row
+UNWIND row.id AS entity_uri
+RETURN entity_uri,uri_json,uri_annotations",
+"MATCH (c:Class {uri: entity_uri})
+ WITH c, entity_uri, uri_json
+ MATCH (a:Paper {uri: uri_json})
+ WITH a,c
+ MERGE (a)-[:HAS_ENTITY]->(c)
+ ",
+{batchSize: 5, parallel: true}
+)
+YIELD batches, total, timeTaken, committedOperations
+RETURN batches, total, timeTaken, committedOperations;
+CALL apoc.periodic.iterate(
+"WITH 'file:/texts.pdfs.psychology.and.biomechanics.annotated/48.pdf.json.annotations.NCIT.csv' AS uri_annotations
+WITH uri_annotations, 'file:/texts.pdfs.psychology.and.biomechanics/48.pdf.json' as uri_json
+LOAD CSV WITH HEADERS FROM uri_annotations AS row
+UNWIND row.id AS entity_uri
+RETURN entity_uri,uri_json,uri_annotations",
+"MATCH (c:Class {uri: entity_uri})
+ WITH c, entity_uri, uri_json
+ MATCH (a:Paper {uri: uri_json})
+ WITH a,c
+ MERGE (a)-[:HAS_ENTITY]->(c)
+ ",
+{batchSize: 5, parallel: true}
+)
+YIELD batches, total, timeTaken, committedOperations
+RETURN batches, total, timeTaken, committedOperations;
+CALL apoc.periodic.iterate(
+"WITH 'file:/texts.pdfs.psychology.and.biomechanics.annotated/49.pdf.json.annotations.NCIT.csv' AS uri_annotations
+WITH uri_annotations, 'file:/texts.pdfs.psychology.and.biomechanics/49.pdf.json' as uri_json
+LOAD CSV WITH HEADERS FROM uri_annotations AS row
+UNWIND row.id AS entity_uri
+RETURN entity_uri,uri_json,uri_annotations",
+"MATCH (c:Class {uri: entity_uri})
+ WITH c, entity_uri, uri_json
+ MATCH (a:Paper {uri: uri_json})
+ WITH a,c
+ MERGE (a)-[:HAS_ENTITY]->(c)
+ ",
+{batchSize: 5, parallel: true}
+)
+YIELD batches, total, timeTaken, committedOperations
+RETURN batches, total, timeTaken, committedOperations;
+CALL apoc.periodic.iterate(
+"WITH 'file:/texts.pdfs.psychology.annotated/40.pdf.json.annotations.MESH.csv' AS uri_annotations
+WITH uri_annotations, 'file:/texts.pdfs.psychology/40.pdf.json' as uri_json
+LOAD CSV WITH HEADERS FROM uri_annotations AS row
+UNWIND row.id AS entity_uri
+RETURN entity_uri,uri_json,uri_annotations",
+"MATCH (c:Class {uri: entity_uri})
+ WITH c, entity_uri, uri_json
+ MATCH (a:Paper {uri: uri_json})
+ WITH a,c
+ MERGE (a)-[:HAS_ENTITY]->(c)
+ ",
+{batchSize: 5, parallel: true}
+)
+YIELD batches, total, timeTaken, committedOperations
+RETURN batches, total, timeTaken, committedOperations;
+CALL apoc.periodic.iterate(
+"WITH 'file:/texts.pdfs.psychology.annotated/41.pdf.json.annotations.MESH.csv' AS uri_annotations
+WITH uri_annotations, 'file:/texts.pdfs.psychology/41.pdf.json' as uri_json
+LOAD CSV WITH HEADERS FROM uri_annotations AS row
+UNWIND row.id AS entity_uri
+RETURN entity_uri,uri_json,uri_annotations",
+"MATCH (c:Class {uri: entity_uri})
+ WITH c, entity_uri, uri_json
+ MATCH (a:Paper {uri: uri_json})
+ WITH a,c
+ MERGE (a)-[:HAS_ENTITY]->(c)
+ ",
+{batchSize: 5, parallel: true}
+)
+YIELD batches, total, timeTaken, committedOperations
+RETURN batches, total, timeTaken, committedOperations;
+CALL apoc.periodic.iterate(
+"WITH 'file:/texts.pdfs.psychology.annotated/42.pdf.json.annotations.MESH.csv' AS uri_annotations
+WITH uri_annotations, 'file:/texts.pdfs.psychology/42.pdf.json' as uri_json
+LOAD CSV WITH HEADERS FROM uri_annotations AS row
+UNWIND row.id AS entity_uri
+RETURN entity_uri,uri_json,uri_annotations",
+"MATCH (c:Class {uri: entity_uri})
+ WITH c, entity_uri, uri_json
+ MATCH (a:Paper {uri: uri_json})
+ WITH a,c
+ MERGE (a)-[:HAS_ENTITY]->(c)
+ ",
+{batchSize: 5, parallel: true}
+)
+YIELD batches, total, timeTaken, committedOperations
+RETURN batches, total, timeTaken, committedOperations;
+CALL apoc.periodic.iterate(
+"WITH 'file:/texts.pdfs.psychology.annotated/43.pdf.json.annotations.MESH.csv' AS uri_annotations
+WITH uri_annotations, 'file:/texts.pdfs.psychology/43.pdf.json' as uri_json
+LOAD CSV WITH HEADERS FROM uri_annotations AS row
+UNWIND row.id AS entity_uri
+RETURN entity_uri,uri_json,uri_annotations",
+"MATCH (c:Class {uri: entity_uri})
+ WITH c, entity_uri, uri_json
+ MATCH (a:Paper {uri: uri_json})
+ WITH a,c
+ MERGE (a)-[:HAS_ENTITY]->(c)
+ ",
+{batchSize: 5, parallel: true}
+)
+YIELD batches, total, timeTaken, committedOperations
+RETURN batches, total, timeTaken, committedOperations;
+CALL apoc.periodic.iterate(
+"WITH 'file:/texts.pdfs.psychology.annotated/44.pdf.json.annotations.MESH.csv' AS uri_annotations
+WITH uri_annotations, 'file:/texts.pdfs.psychology/44.pdf.json' as uri_json
+LOAD CSV WITH HEADERS FROM uri_annotations AS row
+UNWIND row.id AS entity_uri
+RETURN entity_uri,uri_json,uri_annotations",
+"MATCH (c:Class {uri: entity_uri})
+ WITH c, entity_uri, uri_json
+ MATCH (a:Paper {uri: uri_json})
+ WITH a,c
+ MERGE (a)-[:HAS_ENTITY]->(c)
+ ",
+{batchSize: 5, parallel: true}
+)
+YIELD batches, total, timeTaken, committedOperations
+RETURN batches, total, timeTaken, committedOperations;
+CALL apoc.periodic.iterate(
+"WITH 'file:/texts.pdfs.psychology.annotated/51.pdf.json.annotations.MESH.csv' AS uri_annotations
+WITH uri_annotations, 'file:/texts.pdfs.psychology/51.pdf.json' as uri_json
+LOAD CSV WITH HEADERS FROM uri_annotations AS row
+UNWIND row.id AS entity_uri
+RETURN entity_uri,uri_json,uri_annotations",
+"MATCH (c:Class {uri: entity_uri})
+ WITH c, entity_uri, uri_json
+ MATCH (a:Paper {uri: uri_json})
+ WITH a,c
+ MERGE (a)-[:HAS_ENTITY]->(c)
+ ",
+{batchSize: 5, parallel: true}
+)
+YIELD batches, total, timeTaken, committedOperations
+RETURN batches, total, timeTaken, committedOperations;
+CALL apoc.periodic.iterate(
+"WITH 'file:/texts.pdfs.psychology.annotated/52.pdf.json.annotations.MESH.csv' AS uri_annotations
+WITH uri_annotations, 'file:/texts.pdfs.psychology/52.pdf.json' as uri_json
+LOAD CSV WITH HEADERS FROM uri_annotations AS row
+UNWIND row.id AS entity_uri
+RETURN entity_uri,uri_json,uri_annotations",
+"MATCH (c:Class {uri: entity_uri})
+ WITH c, entity_uri, uri_json
+ MATCH (a:Paper {uri: uri_json})
+ WITH a,c
+ MERGE (a)-[:HAS_ENTITY]->(c)
+ ",
+{batchSize: 5, parallel: true}
+)
+YIELD batches, total, timeTaken, committedOperations
+RETURN batches, total, timeTaken, committedOperations;
+CALL apoc.periodic.iterate(
+"WITH 'file:/texts.pdfs.psychology.annotated/53.pdf.json.annotations.MESH.csv' AS uri_annotations
+WITH uri_annotations, 'file:/texts.pdfs.psychology/53.pdf.json' as uri_json
+LOAD CSV WITH HEADERS FROM uri_annotations AS row
+UNWIND row.id AS entity_uri
+RETURN entity_uri,uri_json,uri_annotations",
+"MATCH (c:Class {uri: entity_uri})
+ WITH c, entity_uri, uri_json
+ MATCH (a:Paper {uri: uri_json})
+ WITH a,c
+ MERGE (a)-[:HAS_ENTITY]->(c)
+ ",
+{batchSize: 5, parallel: true}
+)
+YIELD batches, total, timeTaken, committedOperations
+RETURN batches, total, timeTaken, committedOperations;
+CALL apoc.periodic.iterate(
+"WITH 'file:/texts.pdfs.psychology.annotated/54.pdf.json.annotations.MESH.csv' AS uri_annotations
+WITH uri_annotations, 'file:/texts.pdfs.psychology/54.pdf.json' as uri_json
+LOAD CSV WITH HEADERS FROM uri_annotations AS row
+UNWIND row.id AS entity_uri
+RETURN entity_uri,uri_json,uri_annotations",
+"MATCH (c:Class {uri: entity_uri})
+ WITH c, entity_uri, uri_json
+ MATCH (a:Paper {uri: uri_json})
+ WITH a,c
+ MERGE (a)-[:HAS_ENTITY]->(c)
+ ",
+{batchSize: 5, parallel: true}
+)
+YIELD batches, total, timeTaken, committedOperations
+RETURN batches, total, timeTaken, committedOperations;
+CALL apoc.periodic.iterate(
+"WITH 'file:/texts.pdfs.psychology.annotated/55.pdf.json.annotations.MESH.csv' AS uri_annotations
+WITH uri_annotations, 'file:/texts.pdfs.psychology/55.pdf.json' as uri_json
+LOAD CSV WITH HEADERS FROM uri_annotations AS row
+UNWIND row.id AS entity_uri
+RETURN entity_uri,uri_json,uri_annotations",
+"MATCH (c:Class {uri: entity_uri})
+ WITH c, entity_uri, uri_json
+ MATCH (a:Paper {uri: uri_json})
+ WITH a,c
+ MERGE (a)-[:HAS_ENTITY]->(c)
+ ",
+{batchSize: 5, parallel: true}
+)
+YIELD batches, total, timeTaken, committedOperations
+RETURN batches, total, timeTaken, committedOperations;
+CALL apoc.periodic.iterate(
+"WITH 'file:/texts.pdfs.psychology.annotated/40.pdf.json.annotations.NCIT.csv' AS uri_annotations
+WITH uri_annotations, 'file:/texts.pdfs.psychology/40.pdf.json' as uri_json
+LOAD CSV WITH HEADERS FROM uri_annotations AS row
+UNWIND row.id AS entity_uri
+RETURN entity_uri,uri_json,uri_annotations",
+"MATCH (c:Class {uri: entity_uri})
+ WITH c, entity_uri, uri_json
+ MATCH (a:Paper {uri: uri_json})
+ WITH a,c
+ MERGE (a)-[:HAS_ENTITY]->(c)
+ ",
+{batchSize: 5, parallel: true}
+)
+YIELD batches, total, timeTaken, committedOperations
+RETURN batches, total, timeTaken, committedOperations;
+CALL apoc.periodic.iterate(
+"WITH 'file:/texts.pdfs.psychology.annotated/41.pdf.json.annotations.NCIT.csv' AS uri_annotations
+WITH uri_annotations, 'file:/texts.pdfs.psychology/41.pdf.json' as uri_json
+LOAD CSV WITH HEADERS FROM uri_annotations AS row
+UNWIND row.id AS entity_uri
+RETURN entity_uri,uri_json,uri_annotations",
+"MATCH (c:Class {uri: entity_uri})
+ WITH c, entity_uri, uri_json
+ MATCH (a:Paper {uri: uri_json})
+ WITH a,c
+ MERGE (a)-[:HAS_ENTITY]->(c)
+ ",
+{batchSize: 5, parallel: true}
+)
+YIELD batches, total, timeTaken, committedOperations
+RETURN batches, total, timeTaken, committedOperations;
+CALL apoc.periodic.iterate(
+"WITH 'file:/texts.pdfs.psychology.annotated/42.pdf.json.annotations.NCIT.csv' AS uri_annotations
+WITH uri_annotations, 'file:/texts.pdfs.psychology/42.pdf.json' as uri_json
+LOAD CSV WITH HEADERS FROM uri_annotations AS row
+UNWIND row.id AS entity_uri
+RETURN entity_uri,uri_json,uri_annotations",
+"MATCH (c:Class {uri: entity_uri})
+ WITH c, entity_uri, uri_json
+ MATCH (a:Paper {uri: uri_json})
+ WITH a,c
+ MERGE (a)-[:HAS_ENTITY]->(c)
+ ",
+{batchSize: 5, parallel: true}
+)
+YIELD batches, total, timeTaken, committedOperations
+RETURN batches, total, timeTaken, committedOperations;
+CALL apoc.periodic.iterate(
+"WITH 'file:/texts.pdfs.psychology.annotated/43.pdf.json.annotations.NCIT.csv' AS uri_annotations
+WITH uri_annotations, 'file:/texts.pdfs.psychology/43.pdf.json' as uri_json
+LOAD CSV WITH HEADERS FROM uri_annotations AS row
+UNWIND row.id AS entity_uri
+RETURN entity_uri,uri_json,uri_annotations",
+"MATCH (c:Class {uri: entity_uri})
+ WITH c, entity_uri, uri_json
+ MATCH (a:Paper {uri: uri_json})
+ WITH a,c
+ MERGE (a)-[:HAS_ENTITY]->(c)
+ ",
+{batchSize: 5, parallel: true}
+)
+YIELD batches, total, timeTaken, committedOperations
+RETURN batches, total, timeTaken, committedOperations;
+CALL apoc.periodic.iterate(
+"WITH 'file:/texts.pdfs.psychology.annotated/44.pdf.json.annotations.NCIT.csv' AS uri_annotations
+WITH uri_annotations, 'file:/texts.pdfs.psychology/44.pdf.json' as uri_json
+LOAD CSV WITH HEADERS FROM uri_annotations AS row
+UNWIND row.id AS entity_uri
+RETURN entity_uri,uri_json,uri_annotations",
+"MATCH (c:Class {uri: entity_uri})
+ WITH c, entity_uri, uri_json
+ MATCH (a:Paper {uri: uri_json})
+ WITH a,c
+ MERGE (a)-[:HAS_ENTITY]->(c)
+ ",
+{batchSize: 5, parallel: true}
+)
+YIELD batches, total, timeTaken, committedOperations
+RETURN batches, total, timeTaken, committedOperations;
+CALL apoc.periodic.iterate(
+"WITH 'file:/texts.pdfs.psychology.annotated/51.pdf.json.annotations.NCIT.csv' AS uri_annotations
+WITH uri_annotations, 'file:/texts.pdfs.psychology/51.pdf.json' as uri_json
+LOAD CSV WITH HEADERS FROM uri_annotations AS row
+UNWIND row.id AS entity_uri
+RETURN entity_uri,uri_json,uri_annotations",
+"MATCH (c:Class {uri: entity_uri})
+ WITH c, entity_uri, uri_json
+ MATCH (a:Paper {uri: uri_json})
+ WITH a,c
+ MERGE (a)-[:HAS_ENTITY]->(c)
+ ",
+{batchSize: 5, parallel: true}
+)
+YIELD batches, total, timeTaken, committedOperations
+RETURN batches, total, timeTaken, committedOperations;
+CALL apoc.periodic.iterate(
+"WITH 'file:/texts.pdfs.psychology.annotated/52.pdf.json.annotations.NCIT.csv' AS uri_annotations
+WITH uri_annotations, 'file:/texts.pdfs.psychology/52.pdf.json' as uri_json
+LOAD CSV WITH HEADERS FROM uri_annotations AS row
+UNWIND row.id AS entity_uri
+RETURN entity_uri,uri_json,uri_annotations",
+"MATCH (c:Class {uri: entity_uri})
+ WITH c, entity_uri, uri_json
+ MATCH (a:Paper {uri: uri_json})
+ WITH a,c
+ MERGE (a)-[:HAS_ENTITY]->(c)
+ ",
+{batchSize: 5, parallel: true}
+)
+YIELD batches, total, timeTaken, committedOperations
+RETURN batches, total, timeTaken, committedOperations;
+CALL apoc.periodic.iterate(
+"WITH 'file:/texts.pdfs.psychology.annotated/53.pdf.json.annotations.NCIT.csv' AS uri_annotations
+WITH uri_annotations, 'file:/texts.pdfs.psychology/53.pdf.json' as uri_json
+LOAD CSV WITH HEADERS FROM uri_annotations AS row
+UNWIND row.id AS entity_uri
+RETURN entity_uri,uri_json,uri_annotations",
+"MATCH (c:Class {uri: entity_uri})
+ WITH c, entity_uri, uri_json
+ MATCH (a:Paper {uri: uri_json})
+ WITH a,c
+ MERGE (a)-[:HAS_ENTITY]->(c)
+ ",
+{batchSize: 5, parallel: true}
+)
+YIELD batches, total, timeTaken, committedOperations
+RETURN batches, total, timeTaken, committedOperations;
+CALL apoc.periodic.iterate(
+"WITH 'file:/texts.pdfs.psychology.annotated/54.pdf.json.annotations.NCIT.csv' AS uri_annotations
+WITH uri_annotations, 'file:/texts.pdfs.psychology/54.pdf.json' as uri_json
+LOAD CSV WITH HEADERS FROM uri_annotations AS row
+UNWIND row.id AS entity_uri
+RETURN entity_uri,uri_json,uri_annotations",
+"MATCH (c:Class {uri: entity_uri})
+ WITH c, entity_uri, uri_json
+ MATCH (a:Paper {uri: uri_json})
+ WITH a,c
+ MERGE (a)-[:HAS_ENTITY]->(c)
+ ",
+{batchSize: 5, parallel: true}
+)
+YIELD batches, total, timeTaken, committedOperations
+RETURN batches, total, timeTaken, committedOperations;
+CALL apoc.periodic.iterate(
+"WITH 'file:/texts.pdfs.psychology.annotated/55.pdf.json.annotations.NCIT.csv' AS uri_annotations
+WITH uri_annotations, 'file:/texts.pdfs.psychology/55.pdf.json' as uri_json
+LOAD CSV WITH HEADERS FROM uri_annotations AS row
+UNWIND row.id AS entity_uri
+RETURN entity_uri,uri_json,uri_annotations",
+"MATCH (c:Class {uri: entity_uri})
+ WITH c, entity_uri, uri_json
+ MATCH (a:Paper {uri: uri_json})
+ WITH a,c
+ MERGE (a)-[:HAS_ENTITY]->(c)
+ ",
+{batchSize: 5, parallel: true}
+)
+YIELD batches, total, timeTaken, committedOperations
+RETURN batches, total, timeTaken, committedOperations;
+CALL apoc.periodic.iterate(
+"WITH 'file:/texts.pdfs.biomechanics.annotated/10.pdf.json.annotations.MESH.csv' AS uri_annotations
+WITH uri_annotations, 'file:/texts.pdfs.biomechanics/10.pdf.json' as uri_json
+LOAD CSV WITH HEADERS FROM uri_annotations AS row
+UNWIND row.id AS entity_uri
+RETURN entity_uri,uri_json,uri_annotations",
+"MATCH (c:Class {uri: entity_uri})
+ WITH c, entity_uri, uri_json
+ MATCH (a:Paper {uri: uri_json})
+ WITH a,c
+ MERGE (a)-[:HAS_ENTITY]->(c)
+ ",
+{batchSize: 5, parallel: true}
+)
+YIELD batches, total, timeTaken, committedOperations
+RETURN batches, total, timeTaken, committedOperations;
+CALL apoc.periodic.iterate(
+"WITH 'file:/texts.pdfs.biomechanics.annotated/15.pdf.json.annotations.MESH.csv' AS uri_annotations
+WITH uri_annotations, 'file:/texts.pdfs.biomechanics/15.pdf.json' as uri_json
+LOAD CSV WITH HEADERS FROM uri_annotations AS row
+UNWIND row.id AS entity_uri
+RETURN entity_uri,uri_json,uri_annotations",
+"MATCH (c:Class {uri: entity_uri})
+ WITH c, entity_uri, uri_json
+ MATCH (a:Paper {uri: uri_json})
+ WITH a,c
+ MERGE (a)-[:HAS_ENTITY]->(c)
+ ",
+{batchSize: 5, parallel: true}
+)
+YIELD batches, total, timeTaken, committedOperations
+RETURN batches, total, timeTaken, committedOperations;
+CALL apoc.periodic.iterate(
+"WITH 'file:/texts.pdfs.biomechanics.annotated/18.pdf.json.annotations.MESH.csv' AS uri_annotations
+WITH uri_annotations, 'file:/texts.pdfs.biomechanics/18.pdf.json' as uri_json
+LOAD CSV WITH HEADERS FROM uri_annotations AS row
+UNWIND row.id AS entity_uri
+RETURN entity_uri,uri_json,uri_annotations",
+"MATCH (c:Class {uri: entity_uri})
+ WITH c, entity_uri, uri_json
+ MATCH (a:Paper {uri: uri_json})
+ WITH a,c
+ MERGE (a)-[:HAS_ENTITY]->(c)
+ ",
+{batchSize: 5, parallel: true}
+)
+YIELD batches, total, timeTaken, committedOperations
+RETURN batches, total, timeTaken, committedOperations;
+CALL apoc.periodic.iterate(
+"WITH 'file:/texts.pdfs.biomechanics.annotated/19.pdf.json.annotations.MESH.csv' AS uri_annotations
+WITH uri_annotations, 'file:/texts.pdfs.biomechanics/19.pdf.json' as uri_json
+LOAD CSV WITH HEADERS FROM uri_annotations AS row
+UNWIND row.id AS entity_uri
+RETURN entity_uri,uri_json,uri_annotations",
+"MATCH (c:Class {uri: entity_uri})
+ WITH c, entity_uri, uri_json
+ MATCH (a:Paper {uri: uri_json})
+ WITH a,c
+ MERGE (a)-[:HAS_ENTITY]->(c)
+ ",
+{batchSize: 5, parallel: true}
+)
+YIELD batches, total, timeTaken, committedOperations
+RETURN batches, total, timeTaken, committedOperations;
+CALL apoc.periodic.iterate(
+"WITH 'file:/texts.pdfs.biomechanics.annotated/20.pdf.json.annotations.MESH.csv' AS uri_annotations
+WITH uri_annotations, 'file:/texts.pdfs.biomechanics/20.pdf.json' as uri_json
+LOAD CSV WITH HEADERS FROM uri_annotations AS row
+UNWIND row.id AS entity_uri
+RETURN entity_uri,uri_json,uri_annotations",
+"MATCH (c:Class {uri: entity_uri})
+ WITH c, entity_uri, uri_json
+ MATCH (a:Paper {uri: uri_json})
+ WITH a,c
+ MERGE (a)-[:HAS_ENTITY]->(c)
+ ",
+{batchSize: 5, parallel: true}
+)
+YIELD batches, total, timeTaken, committedOperations
+RETURN batches, total, timeTaken, committedOperations;
+CALL apoc.periodic.iterate(
+"WITH 'file:/texts.pdfs.biomechanics.annotated/22.pdf.json.annotations.MESH.csv' AS uri_annotations
+WITH uri_annotations, 'file:/texts.pdfs.biomechanics/22.pdf.json' as uri_json
+LOAD CSV WITH HEADERS FROM uri_annotations AS row
+UNWIND row.id AS entity_uri
+RETURN entity_uri,uri_json,uri_annotations",
+"MATCH (c:Class {uri: entity_uri})
+ WITH c, entity_uri, uri_json
+ MATCH (a:Paper {uri: uri_json})
+ WITH a,c
+ MERGE (a)-[:HAS_ENTITY]->(c)
+ ",
+{batchSize: 5, parallel: true}
+)
+YIELD batches, total, timeTaken, committedOperations
+RETURN batches, total, timeTaken, committedOperations;
+CALL apoc.periodic.iterate(
+"WITH 'file:/texts.pdfs.biomechanics.annotated/23.pdf.json.annotations.MESH.csv' AS uri_annotations
+WITH uri_annotations, 'file:/texts.pdfs.biomechanics/23.pdf.json' as uri_json
+LOAD CSV WITH HEADERS FROM uri_annotations AS row
+UNWIND row.id AS entity_uri
+RETURN entity_uri,uri_json,uri_annotations",
+"MATCH (c:Class {uri: entity_uri})
+ WITH c, entity_uri, uri_json
+ MATCH (a:Paper {uri: uri_json})
+ WITH a,c
+ MERGE (a)-[:HAS_ENTITY]->(c)
+ ",
+{batchSize: 5, parallel: true}
+)
+YIELD batches, total, timeTaken, committedOperations
+RETURN batches, total, timeTaken, committedOperations;
+CALL apoc.periodic.iterate(
+"WITH 'file:/texts.pdfs.biomechanics.annotated/24.pdf.json.annotations.MESH.csv' AS uri_annotations
+WITH uri_annotations, 'file:/texts.pdfs.biomechanics/24.pdf.json' as uri_json
+LOAD CSV WITH HEADERS FROM uri_annotations AS row
+UNWIND row.id AS entity_uri
+RETURN entity_uri,uri_json,uri_annotations",
+"MATCH (c:Class {uri: entity_uri})
+ WITH c, entity_uri, uri_json
+ MATCH (a:Paper {uri: uri_json})
+ WITH a,c
+ MERGE (a)-[:HAS_ENTITY]->(c)
+ ",
+{batchSize: 5, parallel: true}
+)
+YIELD batches, total, timeTaken, committedOperations
+RETURN batches, total, timeTaken, committedOperations;
+CALL apoc.periodic.iterate(
+"WITH 'file:/texts.pdfs.biomechanics.annotated/25.pdf.json.annotations.MESH.csv' AS uri_annotations
+WITH uri_annotations, 'file:/texts.pdfs.biomechanics/25.pdf.json' as uri_json
+LOAD CSV WITH HEADERS FROM uri_annotations AS row
+UNWIND row.id AS entity_uri
+RETURN entity_uri,uri_json,uri_annotations",
+"MATCH (c:Class {uri: entity_uri})
+ WITH c, entity_uri, uri_json
+ MATCH (a:Paper {uri: uri_json})
+ WITH a,c
+ MERGE (a)-[:HAS_ENTITY]->(c)
+ ",
+{batchSize: 5, parallel: true}
+)
+YIELD batches, total, timeTaken, committedOperations
+RETURN batches, total, timeTaken, committedOperations;
+CALL apoc.periodic.iterate(
+"WITH 'file:/texts.pdfs.biomechanics.annotated/29.pdf.json.annotations.MESH.csv' AS uri_annotations
+WITH uri_annotations, 'file:/texts.pdfs.biomechanics/29.pdf.json' as uri_json
+LOAD CSV WITH HEADERS FROM uri_annotations AS row
+UNWIND row.id AS entity_uri
+RETURN entity_uri,uri_json,uri_annotations",
+"MATCH (c:Class {uri: entity_uri})
+ WITH c, entity_uri, uri_json
+ MATCH (a:Paper {uri: uri_json})
+ WITH a,c
+ MERGE (a)-[:HAS_ENTITY]->(c)
+ ",
+{batchSize: 5, parallel: true}
+)
+YIELD batches, total, timeTaken, committedOperations
+RETURN batches, total, timeTaken, committedOperations;
+CALL apoc.periodic.iterate(
+"WITH 'file:/texts.pdfs.biomechanics.annotated/30.pdf.json.annotations.MESH.csv' AS uri_annotations
+WITH uri_annotations, 'file:/texts.pdfs.biomechanics/30.pdf.json' as uri_json
+LOAD CSV WITH HEADERS FROM uri_annotations AS row
+UNWIND row.id AS entity_uri
+RETURN entity_uri,uri_json,uri_annotations",
+"MATCH (c:Class {uri: entity_uri})
+ WITH c, entity_uri, uri_json
+ MATCH (a:Paper {uri: uri_json})
+ WITH a,c
+ MERGE (a)-[:HAS_ENTITY]->(c)
+ ",
+{batchSize: 5, parallel: true}
+)
+YIELD batches, total, timeTaken, committedOperations
+RETURN batches, total, timeTaken, committedOperations;
+CALL apoc.periodic.iterate(
+"WITH 'file:/texts.pdfs.biomechanics.annotated/34.pdf.json.annotations.MESH.csv' AS uri_annotations
+WITH uri_annotations, 'file:/texts.pdfs.biomechanics/34.pdf.json' as uri_json
+LOAD CSV WITH HEADERS FROM uri_annotations AS row
+UNWIND row.id AS entity_uri
+RETURN entity_uri,uri_json,uri_annotations",
+"MATCH (c:Class {uri: entity_uri})
+ WITH c, entity_uri, uri_json
+ MATCH (a:Paper {uri: uri_json})
+ WITH a,c
+ MERGE (a)-[:HAS_ENTITY]->(c)
+ ",
+{batchSize: 5, parallel: true}
+)
+YIELD batches, total, timeTaken, committedOperations
+RETURN batches, total, timeTaken, committedOperations;
+CALL apoc.periodic.iterate(
+"WITH 'file:/texts.pdfs.biomechanics.annotated/38.pdf.json.annotations.MESH.csv' AS uri_annotations
+WITH uri_annotations, 'file:/texts.pdfs.biomechanics/38.pdf.json' as uri_json
+LOAD CSV WITH HEADERS FROM uri_annotations AS row
+UNWIND row.id AS entity_uri
+RETURN entity_uri,uri_json,uri_annotations",
+"MATCH (c:Class {uri: entity_uri})
+ WITH c, entity_uri, uri_json
+ MATCH (a:Paper {uri: uri_json})
+ WITH a,c
+ MERGE (a)-[:HAS_ENTITY]->(c)
+ ",
+{batchSize: 5, parallel: true}
+)
+YIELD batches, total, timeTaken, committedOperations
+RETURN batches, total, timeTaken, committedOperations;
+CALL apoc.periodic.iterate(
+"WITH 'file:/texts.pdfs.biomechanics.annotated/59.pdf.json.annotations.MESH.csv' AS uri_annotations
+WITH uri_annotations, 'file:/texts.pdfs.biomechanics/59.pdf.json' as uri_json
+LOAD CSV WITH HEADERS FROM uri_annotations AS row
+UNWIND row.id AS entity_uri
+RETURN entity_uri,uri_json,uri_annotations",
+"MATCH (c:Class {uri: entity_uri})
+ WITH c, entity_uri, uri_json
+ MATCH (a:Paper {uri: uri_json})
+ WITH a,c
+ MERGE (a)-[:HAS_ENTITY]->(c)
+ ",
+{batchSize: 5, parallel: true}
+)
+YIELD batches, total, timeTaken, committedOperations
+RETURN batches, total, timeTaken, committedOperations;
+CALL apoc.periodic.iterate(
+"WITH 'file:/texts.pdfs.biomechanics.annotated/5.pdf.json.annotations.MESH.csv' AS uri_annotations
+WITH uri_annotations, 'file:/texts.pdfs.biomechanics/5.pdf.json' as uri_json
+LOAD CSV WITH HEADERS FROM uri_annotations AS row
+UNWIND row.id AS entity_uri
+RETURN entity_uri,uri_json,uri_annotations",
+"MATCH (c:Class {uri: entity_uri})
+ WITH c, entity_uri, uri_json
+ MATCH (a:Paper {uri: uri_json})
+ WITH a,c
+ MERGE (a)-[:HAS_ENTITY]->(c)
+ ",
+{batchSize: 5, parallel: true}
+)
+YIELD batches, total, timeTaken, committedOperations
+RETURN batches, total, timeTaken, committedOperations;
+CALL apoc.periodic.iterate(
+"WITH 'file:/texts.pdfs.biomechanics.annotated/60.pdf.json.annotations.MESH.csv' AS uri_annotations
+WITH uri_annotations, 'file:/texts.pdfs.biomechanics/60.pdf.json' as uri_json
+LOAD CSV WITH HEADERS FROM uri_annotations AS row
+UNWIND row.id AS entity_uri
+RETURN entity_uri,uri_json,uri_annotations",
+"MATCH (c:Class {uri: entity_uri})
+ WITH c, entity_uri, uri_json
+ MATCH (a:Paper {uri: uri_json})
+ WITH a,c
+ MERGE (a)-[:HAS_ENTITY]->(c)
+ ",
+{batchSize: 5, parallel: true}
+)
+YIELD batches, total, timeTaken, committedOperations
+RETURN batches, total, timeTaken, committedOperations;
+CALL apoc.periodic.iterate(
+"WITH 'file:/texts.pdfs.biomechanics.annotated/61.pdf.json.annotations.MESH.csv' AS uri_annotations
+WITH uri_annotations, 'file:/texts.pdfs.biomechanics/61.pdf.json' as uri_json
+LOAD CSV WITH HEADERS FROM uri_annotations AS row
+UNWIND row.id AS entity_uri
+RETURN entity_uri,uri_json,uri_annotations",
+"MATCH (c:Class {uri: entity_uri})
+ WITH c, entity_uri, uri_json
+ MATCH (a:Paper {uri: uri_json})
+ WITH a,c
+ MERGE (a)-[:HAS_ENTITY]->(c)
+ ",
+{batchSize: 5, parallel: true}
+)
+YIELD batches, total, timeTaken, committedOperations
+RETURN batches, total, timeTaken, committedOperations;
+CALL apoc.periodic.iterate(
+"WITH 'file:/texts.pdfs.biomechanics.annotated/62.pdf.json.annotations.MESH.csv' AS uri_annotations
+WITH uri_annotations, 'file:/texts.pdfs.biomechanics/62.pdf.json' as uri_json
+LOAD CSV WITH HEADERS FROM uri_annotations AS row
+UNWIND row.id AS entity_uri
+RETURN entity_uri,uri_json,uri_annotations",
+"MATCH (c:Class {uri: entity_uri})
+ WITH c, entity_uri, uri_json
+ MATCH (a:Paper {uri: uri_json})
+ WITH a,c
+ MERGE (a)-[:HAS_ENTITY]->(c)
+ ",
+{batchSize: 5, parallel: true}
+)
+YIELD batches, total, timeTaken, committedOperations
+RETURN batches, total, timeTaken, committedOperations;
+CALL apoc.periodic.iterate(
+"WITH 'file:/texts.pdfs.biomechanics.annotated/65.pdf.json.annotations.MESH.csv' AS uri_annotations
+WITH uri_annotations, 'file:/texts.pdfs.biomechanics/65.pdf.json' as uri_json
+LOAD CSV WITH HEADERS FROM uri_annotations AS row
+UNWIND row.id AS entity_uri
+RETURN entity_uri,uri_json,uri_annotations",
+"MATCH (c:Class {uri: entity_uri})
+ WITH c, entity_uri, uri_json
+ MATCH (a:Paper {uri: uri_json})
+ WITH a,c
+ MERGE (a)-[:HAS_ENTITY]->(c)
+ ",
+{batchSize: 5, parallel: true}
+)
+YIELD batches, total, timeTaken, committedOperations
+RETURN batches, total, timeTaken, committedOperations;
+CALL apoc.periodic.iterate(
+"WITH 'file:/texts.pdfs.biomechanics.annotated/7.pdf.json.annotations.MESH.csv' AS uri_annotations
+WITH uri_annotations, 'file:/texts.pdfs.biomechanics/7.pdf.json' as uri_json
+LOAD CSV WITH HEADERS FROM uri_annotations AS row
+UNWIND row.id AS entity_uri
+RETURN entity_uri,uri_json,uri_annotations",
+"MATCH (c:Class {uri: entity_uri})
+ WITH c, entity_uri, uri_json
+ MATCH (a:Paper {uri: uri_json})
+ WITH a,c
+ MERGE (a)-[:HAS_ENTITY]->(c)
+ ",
+{batchSize: 5, parallel: true}
+)
+YIELD batches, total, timeTaken, committedOperations
+RETURN batches, total, timeTaken, committedOperations;
+CALL apoc.periodic.iterate(
+"WITH 'file:/texts.pdfs.biomechanics.annotated/8.pdf.json.annotations.MESH.csv' AS uri_annotations
+WITH uri_annotations, 'file:/texts.pdfs.biomechanics/8.pdf.json' as uri_json
+LOAD CSV WITH HEADERS FROM uri_annotations AS row
+UNWIND row.id AS entity_uri
+RETURN entity_uri,uri_json,uri_annotations",
+"MATCH (c:Class {uri: entity_uri})
+ WITH c, entity_uri, uri_json
+ MATCH (a:Paper {uri: uri_json})
+ WITH a,c
+ MERGE (a)-[:HAS_ENTITY]->(c)
+ ",
+{batchSize: 5, parallel: true}
+)
+YIELD batches, total, timeTaken, committedOperations
+RETURN batches, total, timeTaken, committedOperations;
+CALL apoc.periodic.iterate(
+"WITH 'file:/texts.pdfs.biomechanics.annotated/10.pdf.json.annotations.NCIT.csv' AS uri_annotations
+WITH uri_annotations, 'file:/texts.pdfs.biomechanics/10.pdf.json' as uri_json
+LOAD CSV WITH HEADERS FROM uri_annotations AS row
+UNWIND row.id AS entity_uri
+RETURN entity_uri,uri_json,uri_annotations",
+"MATCH (c:Class {uri: entity_uri})
+ WITH c, entity_uri, uri_json
+ MATCH (a:Paper {uri: uri_json})
+ WITH a,c
+ MERGE (a)-[:HAS_ENTITY]->(c)
+ ",
+{batchSize: 5, parallel: true}
+)
+YIELD batches, total, timeTaken, committedOperations
+RETURN batches, total, timeTaken, committedOperations;
+CALL apoc.periodic.iterate(
+"WITH 'file:/texts.pdfs.biomechanics.annotated/15.pdf.json.annotations.NCIT.csv' AS uri_annotations
+WITH uri_annotations, 'file:/texts.pdfs.biomechanics/15.pdf.json' as uri_json
+LOAD CSV WITH HEADERS FROM uri_annotations AS row
+UNWIND row.id AS entity_uri
+RETURN entity_uri,uri_json,uri_annotations",
+"MATCH (c:Class {uri: entity_uri})
+ WITH c, entity_uri, uri_json
+ MATCH (a:Paper {uri: uri_json})
+ WITH a,c
+ MERGE (a)-[:HAS_ENTITY]->(c)
+ ",
+{batchSize: 5, parallel: true}
+)
+YIELD batches, total, timeTaken, committedOperations
+RETURN batches, total, timeTaken, committedOperations;
+CALL apoc.periodic.iterate(
+"WITH 'file:/texts.pdfs.biomechanics.annotated/18.pdf.json.annotations.NCIT.csv' AS uri_annotations
+WITH uri_annotations, 'file:/texts.pdfs.biomechanics/18.pdf.json' as uri_json
+LOAD CSV WITH HEADERS FROM uri_annotations AS row
+UNWIND row.id AS entity_uri
+RETURN entity_uri,uri_json,uri_annotations",
+"MATCH (c:Class {uri: entity_uri})
+ WITH c, entity_uri, uri_json
+ MATCH (a:Paper {uri: uri_json})
+ WITH a,c
+ MERGE (a)-[:HAS_ENTITY]->(c)
+ ",
+{batchSize: 5, parallel: true}
+)
+YIELD batches, total, timeTaken, committedOperations
+RETURN batches, total, timeTaken, committedOperations;
+CALL apoc.periodic.iterate(
+"WITH 'file:/texts.pdfs.biomechanics.annotated/19.pdf.json.annotations.NCIT.csv' AS uri_annotations
+WITH uri_annotations, 'file:/texts.pdfs.biomechanics/19.pdf.json' as uri_json
+LOAD CSV WITH HEADERS FROM uri_annotations AS row
+UNWIND row.id AS entity_uri
+RETURN entity_uri,uri_json,uri_annotations",
+"MATCH (c:Class {uri: entity_uri})
+ WITH c, entity_uri, uri_json
+ MATCH (a:Paper {uri: uri_json})
+ WITH a,c
+ MERGE (a)-[:HAS_ENTITY]->(c)
+ ",
+{batchSize: 5, parallel: true}
+)
+YIELD batches, total, timeTaken, committedOperations
+RETURN batches, total, timeTaken, committedOperations;
+CALL apoc.periodic.iterate(
+"WITH 'file:/texts.pdfs.biomechanics.annotated/20.pdf.json.annotations.NCIT.csv' AS uri_annotations
+WITH uri_annotations, 'file:/texts.pdfs.biomechanics/20.pdf.json' as uri_json
+LOAD CSV WITH HEADERS FROM uri_annotations AS row
+UNWIND row.id AS entity_uri
+RETURN entity_uri,uri_json,uri_annotations",
+"MATCH (c:Class {uri: entity_uri})
+ WITH c, entity_uri, uri_json
+ MATCH (a:Paper {uri: uri_json})
+ WITH a,c
+ MERGE (a)-[:HAS_ENTITY]->(c)
+ ",
+{batchSize: 5, parallel: true}
+)
+YIELD batches, total, timeTaken, committedOperations
+RETURN batches, total, timeTaken, committedOperations;
+CALL apoc.periodic.iterate(
+"WITH 'file:/texts.pdfs.biomechanics.annotated/22.pdf.json.annotations.NCIT.csv' AS uri_annotations
+WITH uri_annotations, 'file:/texts.pdfs.biomechanics/22.pdf.json' as uri_json
+LOAD CSV WITH HEADERS FROM uri_annotations AS row
+UNWIND row.id AS entity_uri
+RETURN entity_uri,uri_json,uri_annotations",
+"MATCH (c:Class {uri: entity_uri})
+ WITH c, entity_uri, uri_json
+ MATCH (a:Paper {uri: uri_json})
+ WITH a,c
+ MERGE (a)-[:HAS_ENTITY]->(c)
+ ",
+{batchSize: 5, parallel: true}
+)
+YIELD batches, total, timeTaken, committedOperations
+RETURN batches, total, timeTaken, committedOperations;
+CALL apoc.periodic.iterate(
+"WITH 'file:/texts.pdfs.biomechanics.annotated/23.pdf.json.annotations.NCIT.csv' AS uri_annotations
+WITH uri_annotations, 'file:/texts.pdfs.biomechanics/23.pdf.json' as uri_json
+LOAD CSV WITH HEADERS FROM uri_annotations AS row
+UNWIND row.id AS entity_uri
+RETURN entity_uri,uri_json,uri_annotations",
+"MATCH (c:Class {uri: entity_uri})
+ WITH c, entity_uri, uri_json
+ MATCH (a:Paper {uri: uri_json})
+ WITH a,c
+ MERGE (a)-[:HAS_ENTITY]->(c)
+ ",
+{batchSize: 5, parallel: true}
+)
+YIELD batches, total, timeTaken, committedOperations
+RETURN batches, total, timeTaken, committedOperations;
+CALL apoc.periodic.iterate(
+"WITH 'file:/texts.pdfs.biomechanics.annotated/24.pdf.json.annotations.NCIT.csv' AS uri_annotations
+WITH uri_annotations, 'file:/texts.pdfs.biomechanics/24.pdf.json' as uri_json
+LOAD CSV WITH HEADERS FROM uri_annotations AS row
+UNWIND row.id AS entity_uri
+RETURN entity_uri,uri_json,uri_annotations",
+"MATCH (c:Class {uri: entity_uri})
+ WITH c, entity_uri, uri_json
+ MATCH (a:Paper {uri: uri_json})
+ WITH a,c
+ MERGE (a)-[:HAS_ENTITY]->(c)
+ ",
+{batchSize: 5, parallel: true}
+)
+YIELD batches, total, timeTaken, committedOperations
+RETURN batches, total, timeTaken, committedOperations;
+CALL apoc.periodic.iterate(
+"WITH 'file:/texts.pdfs.biomechanics.annotated/25.pdf.json.annotations.NCIT.csv' AS uri_annotations
+WITH uri_annotations, 'file:/texts.pdfs.biomechanics/25.pdf.json' as uri_json
+LOAD CSV WITH HEADERS FROM uri_annotations AS row
+UNWIND row.id AS entity_uri
+RETURN entity_uri,uri_json,uri_annotations",
+"MATCH (c:Class {uri: entity_uri})
+ WITH c, entity_uri, uri_json
+ MATCH (a:Paper {uri: uri_json})
+ WITH a,c
+ MERGE (a)-[:HAS_ENTITY]->(c)
+ ",
+{batchSize: 5, parallel: true}
+)
+YIELD batches, total, timeTaken, committedOperations
+RETURN batches, total, timeTaken, committedOperations;
+CALL apoc.periodic.iterate(
+"WITH 'file:/texts.pdfs.biomechanics.annotated/29.pdf.json.annotations.NCIT.csv' AS uri_annotations
+WITH uri_annotations, 'file:/texts.pdfs.biomechanics/29.pdf.json' as uri_json
+LOAD CSV WITH HEADERS FROM uri_annotations AS row
+UNWIND row.id AS entity_uri
+RETURN entity_uri,uri_json,uri_annotations",
+"MATCH (c:Class {uri: entity_uri})
+ WITH c, entity_uri, uri_json
+ MATCH (a:Paper {uri: uri_json})
+ WITH a,c
+ MERGE (a)-[:HAS_ENTITY]->(c)
+ ",
+{batchSize: 5, parallel: true}
+)
+YIELD batches, total, timeTaken, committedOperations
+RETURN batches, total, timeTaken, committedOperations;
+CALL apoc.periodic.iterate(
+"WITH 'file:/texts.pdfs.biomechanics.annotated/30.pdf.json.annotations.NCIT.csv' AS uri_annotations
+WITH uri_annotations, 'file:/texts.pdfs.biomechanics/30.pdf.json' as uri_json
+LOAD CSV WITH HEADERS FROM uri_annotations AS row
+UNWIND row.id AS entity_uri
+RETURN entity_uri,uri_json,uri_annotations",
+"MATCH (c:Class {uri: entity_uri})
+ WITH c, entity_uri, uri_json
+ MATCH (a:Paper {uri: uri_json})
+ WITH a,c
+ MERGE (a)-[:HAS_ENTITY]->(c)
+ ",
+{batchSize: 5, parallel: true}
+)
+YIELD batches, total, timeTaken, committedOperations
+RETURN batches, total, timeTaken, committedOperations;
+CALL apoc.periodic.iterate(
+"WITH 'file:/texts.pdfs.biomechanics.annotated/34.pdf.json.annotations.NCIT.csv' AS uri_annotations
+WITH uri_annotations, 'file:/texts.pdfs.biomechanics/34.pdf.json' as uri_json
+LOAD CSV WITH HEADERS FROM uri_annotations AS row
+UNWIND row.id AS entity_uri
+RETURN entity_uri,uri_json,uri_annotations",
+"MATCH (c:Class {uri: entity_uri})
+ WITH c, entity_uri, uri_json
+ MATCH (a:Paper {uri: uri_json})
+ WITH a,c
+ MERGE (a)-[:HAS_ENTITY]->(c)
+ ",
+{batchSize: 5, parallel: true}
+)
+YIELD batches, total, timeTaken, committedOperations
+RETURN batches, total, timeTaken, committedOperations;
+CALL apoc.periodic.iterate(
+"WITH 'file:/texts.pdfs.biomechanics.annotated/38.pdf.json.annotations.NCIT.csv' AS uri_annotations
+WITH uri_annotations, 'file:/texts.pdfs.biomechanics/38.pdf.json' as uri_json
+LOAD CSV WITH HEADERS FROM uri_annotations AS row
+UNWIND row.id AS entity_uri
+RETURN entity_uri,uri_json,uri_annotations",
+"MATCH (c:Class {uri: entity_uri})
+ WITH c, entity_uri, uri_json
+ MATCH (a:Paper {uri: uri_json})
+ WITH a,c
+ MERGE (a)-[:HAS_ENTITY]->(c)
+ ",
+{batchSize: 5, parallel: true}
+)
+YIELD batches, total, timeTaken, committedOperations
+RETURN batches, total, timeTaken, committedOperations;
+CALL apoc.periodic.iterate(
+"WITH 'file:/texts.pdfs.biomechanics.annotated/59.pdf.json.annotations.NCIT.csv' AS uri_annotations
+WITH uri_annotations, 'file:/texts.pdfs.biomechanics/59.pdf.json' as uri_json
+LOAD CSV WITH HEADERS FROM uri_annotations AS row
+UNWIND row.id AS entity_uri
+RETURN entity_uri,uri_json,uri_annotations",
+"MATCH (c:Class {uri: entity_uri})
+ WITH c, entity_uri, uri_json
+ MATCH (a:Paper {uri: uri_json})
+ WITH a,c
+ MERGE (a)-[:HAS_ENTITY]->(c)
+ ",
+{batchSize: 5, parallel: true}
+)
+YIELD batches, total, timeTaken, committedOperations
+RETURN batches, total, timeTaken, committedOperations;
+CALL apoc.periodic.iterate(
+"WITH 'file:/texts.pdfs.biomechanics.annotated/5.pdf.json.annotations.NCIT.csv' AS uri_annotations
+WITH uri_annotations, 'file:/texts.pdfs.biomechanics/5.pdf.json' as uri_json
+LOAD CSV WITH HEADERS FROM uri_annotations AS row
+UNWIND row.id AS entity_uri
+RETURN entity_uri,uri_json,uri_annotations",
+"MATCH (c:Class {uri: entity_uri})
+ WITH c, entity_uri, uri_json
+ MATCH (a:Paper {uri: uri_json})
+ WITH a,c
+ MERGE (a)-[:HAS_ENTITY]->(c)
+ ",
+{batchSize: 5, parallel: true}
+)
+YIELD batches, total, timeTaken, committedOperations
+RETURN batches, total, timeTaken, committedOperations;
+CALL apoc.periodic.iterate(
+"WITH 'file:/texts.pdfs.biomechanics.annotated/60.pdf.json.annotations.NCIT.csv' AS uri_annotations
+WITH uri_annotations, 'file:/texts.pdfs.biomechanics/60.pdf.json' as uri_json
+LOAD CSV WITH HEADERS FROM uri_annotations AS row
+UNWIND row.id AS entity_uri
+RETURN entity_uri,uri_json,uri_annotations",
+"MATCH (c:Class {uri: entity_uri})
+ WITH c, entity_uri, uri_json
+ MATCH (a:Paper {uri: uri_json})
+ WITH a,c
+ MERGE (a)-[:HAS_ENTITY]->(c)
+ ",
+{batchSize: 5, parallel: true}
+)
+YIELD batches, total, timeTaken, committedOperations
+RETURN batches, total, timeTaken, committedOperations;
+CALL apoc.periodic.iterate(
+"WITH 'file:/texts.pdfs.biomechanics.annotated/61.pdf.json.annotations.NCIT.csv' AS uri_annotations
+WITH uri_annotations, 'file:/texts.pdfs.biomechanics/61.pdf.json' as uri_json
+LOAD CSV WITH HEADERS FROM uri_annotations AS row
+UNWIND row.id AS entity_uri
+RETURN entity_uri,uri_json,uri_annotations",
+"MATCH (c:Class {uri: entity_uri})
+ WITH c, entity_uri, uri_json
+ MATCH (a:Paper {uri: uri_json})
+ WITH a,c
+ MERGE (a)-[:HAS_ENTITY]->(c)
+ ",
+{batchSize: 5, parallel: true}
+)
+YIELD batches, total, timeTaken, committedOperations
+RETURN batches, total, timeTaken, committedOperations;
+CALL apoc.periodic.iterate(
+"WITH 'file:/texts.pdfs.biomechanics.annotated/62.pdf.json.annotations.NCIT.csv' AS uri_annotations
+WITH uri_annotations, 'file:/texts.pdfs.biomechanics/62.pdf.json' as uri_json
+LOAD CSV WITH HEADERS FROM uri_annotations AS row
+UNWIND row.id AS entity_uri
+RETURN entity_uri,uri_json,uri_annotations",
+"MATCH (c:Class {uri: entity_uri})
+ WITH c, entity_uri, uri_json
+ MATCH (a:Paper {uri: uri_json})
+ WITH a,c
+ MERGE (a)-[:HAS_ENTITY]->(c)
+ ",
+{batchSize: 5, parallel: true}
+)
+YIELD batches, total, timeTaken, committedOperations
+RETURN batches, total, timeTaken, committedOperations;
+CALL apoc.periodic.iterate(
+"WITH 'file:/texts.pdfs.biomechanics.annotated/65.pdf.json.annotations.NCIT.csv' AS uri_annotations
+WITH uri_annotations, 'file:/texts.pdfs.biomechanics/65.pdf.json' as uri_json
+LOAD CSV WITH HEADERS FROM uri_annotations AS row
+UNWIND row.id AS entity_uri
+RETURN entity_uri,uri_json,uri_annotations",
+"MATCH (c:Class {uri: entity_uri})
+ WITH c, entity_uri, uri_json
+ MATCH (a:Paper {uri: uri_json})
+ WITH a,c
+ MERGE (a)-[:HAS_ENTITY]->(c)
+ ",
+{batchSize: 5, parallel: true}
+)
+YIELD batches, total, timeTaken, committedOperations
+RETURN batches, total, timeTaken, committedOperations;
+CALL apoc.periodic.iterate(
+"WITH 'file:/texts.pdfs.biomechanics.annotated/7.pdf.json.annotations.NCIT.csv' AS uri_annotations
+WITH uri_annotations, 'file:/texts.pdfs.biomechanics/7.pdf.json' as uri_json
+LOAD CSV WITH HEADERS FROM uri_annotations AS row
+UNWIND row.id AS entity_uri
+RETURN entity_uri,uri_json,uri_annotations",
+"MATCH (c:Class {uri: entity_uri})
+ WITH c, entity_uri, uri_json
+ MATCH (a:Paper {uri: uri_json})
+ WITH a,c
+ MERGE (a)-[:HAS_ENTITY]->(c)
+ ",
+{batchSize: 5, parallel: true}
+)
+YIELD batches, total, timeTaken, committedOperations
+RETURN batches, total, timeTaken, committedOperations;
+CALL apoc.periodic.iterate(
+"WITH 'file:/texts.pdfs.biomechanics.annotated/8.pdf.json.annotations.NCIT.csv' AS uri_annotations
+WITH uri_annotations, 'file:/texts.pdfs.biomechanics/8.pdf.json' as uri_json
+LOAD CSV WITH HEADERS FROM uri_annotations AS row
+UNWIND row.id AS entity_uri
+RETURN entity_uri,uri_json,uri_annotations",
+"MATCH (c:Class {uri: entity_uri})
+ WITH c, entity_uri, uri_json
+ MATCH (a:Paper {uri: uri_json})
+ WITH a,c
+ MERGE (a)-[:HAS_ENTITY]->(c)
+ ",
+{batchSize: 5, parallel: true}
+)
+YIELD batches, total, timeTaken, committedOperations
+RETURN batches, total, timeTaken, committedOperations;
+CALL apoc.periodic.iterate(
+"WITH 'file:/texts.pdfs.neither.psychology.nor.biomechanics.annotated/1.pdf.json.annotations.MESH.csv' AS uri_annotations
+WITH uri_annotations, 'file:/texts.pdfs.neither.psychology.nor.biomechanics/1.pdf.json' as uri_json
+LOAD CSV WITH HEADERS FROM uri_annotations AS row
+UNWIND row.id AS entity_uri
+RETURN entity_uri,uri_json,uri_annotations",
+"MATCH (c:Class {uri: entity_uri})
+ WITH c, entity_uri, uri_json
+ MATCH (a:Paper {uri: uri_json})
+ WITH a,c
+ MERGE (a)-[:HAS_ENTITY]->(c)
+ ",
+{batchSize: 5, parallel: true}
+)
+YIELD batches, total, timeTaken, committedOperations
+RETURN batches, total, timeTaken, committedOperations;
+CALL apoc.periodic.iterate(
+"WITH 'file:/texts.pdfs.neither.psychology.nor.biomechanics.annotated/28.pdf.json.annotations.MESH.csv' AS uri_annotations
+WITH uri_annotations, 'file:/texts.pdfs.neither.psychology.nor.biomechanics/28.pdf.json' as uri_json
+LOAD CSV WITH HEADERS FROM uri_annotations AS row
+UNWIND row.id AS entity_uri
+RETURN entity_uri,uri_json,uri_annotations",
+"MATCH (c:Class {uri: entity_uri})
+ WITH c, entity_uri, uri_json
+ MATCH (a:Paper {uri: uri_json})
+ WITH a,c
+ MERGE (a)-[:HAS_ENTITY]->(c)
+ ",
+{batchSize: 5, parallel: true}
+)
+YIELD batches, total, timeTaken, committedOperations
+RETURN batches, total, timeTaken, committedOperations;
+CALL apoc.periodic.iterate(
+"WITH 'file:/texts.pdfs.neither.psychology.nor.biomechanics.annotated/2.pdf.json.annotations.MESH.csv' AS uri_annotations
+WITH uri_annotations, 'file:/texts.pdfs.neither.psychology.nor.biomechanics/2.pdf.json' as uri_json
+LOAD CSV WITH HEADERS FROM uri_annotations AS row
+UNWIND row.id AS entity_uri
+RETURN entity_uri,uri_json,uri_annotations",
+"MATCH (c:Class {uri: entity_uri})
+ WITH c, entity_uri, uri_json
+ MATCH (a:Paper {uri: uri_json})
+ WITH a,c
+ MERGE (a)-[:HAS_ENTITY]->(c)
+ ",
+{batchSize: 5, parallel: true}
+)
+YIELD batches, total, timeTaken, committedOperations
+RETURN batches, total, timeTaken, committedOperations;
+CALL apoc.periodic.iterate(
+"WITH 'file:/texts.pdfs.neither.psychology.nor.biomechanics.annotated/31.pdf.json.annotations.MESH.csv' AS uri_annotations
+WITH uri_annotations, 'file:/texts.pdfs.neither.psychology.nor.biomechanics/31.pdf.json' as uri_json
+LOAD CSV WITH HEADERS FROM uri_annotations AS row
+UNWIND row.id AS entity_uri
+RETURN entity_uri,uri_json,uri_annotations",
+"MATCH (c:Class {uri: entity_uri})
+ WITH c, entity_uri, uri_json
+ MATCH (a:Paper {uri: uri_json})
+ WITH a,c
+ MERGE (a)-[:HAS_ENTITY]->(c)
+ ",
+{batchSize: 5, parallel: true}
+)
+YIELD batches, total, timeTaken, committedOperations
+RETURN batches, total, timeTaken, committedOperations;
+CALL apoc.periodic.iterate(
+"WITH 'file:/texts.pdfs.neither.psychology.nor.biomechanics.annotated/32.pdf.json.annotations.MESH.csv' AS uri_annotations
+WITH uri_annotations, 'file:/texts.pdfs.neither.psychology.nor.biomechanics/32.pdf.json' as uri_json
+LOAD CSV WITH HEADERS FROM uri_annotations AS row
+UNWIND row.id AS entity_uri
+RETURN entity_uri,uri_json,uri_annotations",
+"MATCH (c:Class {uri: entity_uri})
+ WITH c, entity_uri, uri_json
+ MATCH (a:Paper {uri: uri_json})
+ WITH a,c
+ MERGE (a)-[:HAS_ENTITY]->(c)
+ ",
+{batchSize: 5, parallel: true}
+)
+YIELD batches, total, timeTaken, committedOperations
+RETURN batches, total, timeTaken, committedOperations;
+CALL apoc.periodic.iterate(
+"WITH 'file:/texts.pdfs.neither.psychology.nor.biomechanics.annotated/33.pdf.json.annotations.MESH.csv' AS uri_annotations
+WITH uri_annotations, 'file:/texts.pdfs.neither.psychology.nor.biomechanics/33.pdf.json' as uri_json
+LOAD CSV WITH HEADERS FROM uri_annotations AS row
+UNWIND row.id AS entity_uri
+RETURN entity_uri,uri_json,uri_annotations",
+"MATCH (c:Class {uri: entity_uri})
+ WITH c, entity_uri, uri_json
+ MATCH (a:Paper {uri: uri_json})
+ WITH a,c
+ MERGE (a)-[:HAS_ENTITY]->(c)
+ ",
+{batchSize: 5, parallel: true}
+)
+YIELD batches, total, timeTaken, committedOperations
+RETURN batches, total, timeTaken, committedOperations;
+CALL apoc.periodic.iterate(
+"WITH 'file:/texts.pdfs.neither.psychology.nor.biomechanics.annotated/36.pdf.json.annotations.MESH.csv' AS uri_annotations
+WITH uri_annotations, 'file:/texts.pdfs.neither.psychology.nor.biomechanics/36.pdf.json' as uri_json
+LOAD CSV WITH HEADERS FROM uri_annotations AS row
+UNWIND row.id AS entity_uri
+RETURN entity_uri,uri_json,uri_annotations",
+"MATCH (c:Class {uri: entity_uri})
+ WITH c, entity_uri, uri_json
+ MATCH (a:Paper {uri: uri_json})
+ WITH a,c
+ MERGE (a)-[:HAS_ENTITY]->(c)
+ ",
+{batchSize: 5, parallel: true}
+)
+YIELD batches, total, timeTaken, committedOperations
+RETURN batches, total, timeTaken, committedOperations;
+CALL apoc.periodic.iterate(
+"WITH 'file:/texts.pdfs.neither.psychology.nor.biomechanics.annotated/37.pdf.json.annotations.MESH.csv' AS uri_annotations
+WITH uri_annotations, 'file:/texts.pdfs.neither.psychology.nor.biomechanics/37.pdf.json' as uri_json
+LOAD CSV WITH HEADERS FROM uri_annotations AS row
+UNWIND row.id AS entity_uri
+RETURN entity_uri,uri_json,uri_annotations",
+"MATCH (c:Class {uri: entity_uri})
+ WITH c, entity_uri, uri_json
+ MATCH (a:Paper {uri: uri_json})
+ WITH a,c
+ MERGE (a)-[:HAS_ENTITY]->(c)
+ ",
+{batchSize: 5, parallel: true}
+)
+YIELD batches, total, timeTaken, committedOperations
+RETURN batches, total, timeTaken, committedOperations;
+CALL apoc.periodic.iterate(
+"WITH 'file:/texts.pdfs.neither.psychology.nor.biomechanics.annotated/3.pdf.json.annotations.MESH.csv' AS uri_annotations
+WITH uri_annotations, 'file:/texts.pdfs.neither.psychology.nor.biomechanics/3.pdf.json' as uri_json
+LOAD CSV WITH HEADERS FROM uri_annotations AS row
+UNWIND row.id AS entity_uri
+RETURN entity_uri,uri_json,uri_annotations",
+"MATCH (c:Class {uri: entity_uri})
+ WITH c, entity_uri, uri_json
+ MATCH (a:Paper {uri: uri_json})
+ WITH a,c
+ MERGE (a)-[:HAS_ENTITY]->(c)
+ ",
+{batchSize: 5, parallel: true}
+)
+YIELD batches, total, timeTaken, committedOperations
+RETURN batches, total, timeTaken, committedOperations;
+CALL apoc.periodic.iterate(
+"WITH 'file:/texts.pdfs.neither.psychology.nor.biomechanics.annotated/50.pdf.json.annotations.MESH.csv' AS uri_annotations
+WITH uri_annotations, 'file:/texts.pdfs.neither.psychology.nor.biomechanics/50.pdf.json' as uri_json
+LOAD CSV WITH HEADERS FROM uri_annotations AS row
+UNWIND row.id AS entity_uri
+RETURN entity_uri,uri_json,uri_annotations",
+"MATCH (c:Class {uri: entity_uri})
+ WITH c, entity_uri, uri_json
+ MATCH (a:Paper {uri: uri_json})
+ WITH a,c
+ MERGE (a)-[:HAS_ENTITY]->(c)
+ ",
+{batchSize: 5, parallel: true}
+)
+YIELD batches, total, timeTaken, committedOperations
+RETURN batches, total, timeTaken, committedOperations;
+CALL apoc.periodic.iterate(
+"WITH 'file:/texts.pdfs.neither.psychology.nor.biomechanics.annotated/58.pdf.json.annotations.MESH.csv' AS uri_annotations
+WITH uri_annotations, 'file:/texts.pdfs.neither.psychology.nor.biomechanics/58.pdf.json' as uri_json
+LOAD CSV WITH HEADERS FROM uri_annotations AS row
+UNWIND row.id AS entity_uri
+RETURN entity_uri,uri_json,uri_annotations",
+"MATCH (c:Class {uri: entity_uri})
+ WITH c, entity_uri, uri_json
+ MATCH (a:Paper {uri: uri_json})
+ WITH a,c
+ MERGE (a)-[:HAS_ENTITY]->(c)
+ ",
+{batchSize: 5, parallel: true}
+)
+YIELD batches, total, timeTaken, committedOperations
+RETURN batches, total, timeTaken, committedOperations;
+CALL apoc.periodic.iterate(
+"WITH 'file:/texts.pdfs.neither.psychology.nor.biomechanics.annotated/9.pdf.json.annotations.MESH.csv' AS uri_annotations
+WITH uri_annotations, 'file:/texts.pdfs.neither.psychology.nor.biomechanics/9.pdf.json' as uri_json
+LOAD CSV WITH HEADERS FROM uri_annotations AS row
+UNWIND row.id AS entity_uri
+RETURN entity_uri,uri_json,uri_annotations",
+"MATCH (c:Class {uri: entity_uri})
+ WITH c, entity_uri, uri_json
+ MATCH (a:Paper {uri: uri_json})
+ WITH a,c
+ MERGE (a)-[:HAS_ENTITY]->(c)
+ ",
+{batchSize: 5, parallel: true}
+)
+YIELD batches, total, timeTaken, committedOperations
+RETURN batches, total, timeTaken, committedOperations;
+CALL apoc.periodic.iterate(
+"WITH 'file:/texts.pdfs.neither.psychology.nor.biomechanics.annotated/1.pdf.json.annotations.NCIT.csv' AS uri_annotations
+WITH uri_annotations, 'file:/texts.pdfs.neither.psychology.nor.biomechanics/1.pdf.json' as uri_json
+LOAD CSV WITH HEADERS FROM uri_annotations AS row
+UNWIND row.id AS entity_uri
+RETURN entity_uri,uri_json,uri_annotations",
+"MATCH (c:Class {uri: entity_uri})
+ WITH c, entity_uri, uri_json
+ MATCH (a:Paper {uri: uri_json})
+ WITH a,c
+ MERGE (a)-[:HAS_ENTITY]->(c)
+ ",
+{batchSize: 5, parallel: true}
+)
+YIELD batches, total, timeTaken, committedOperations
+RETURN batches, total, timeTaken, committedOperations;
+CALL apoc.periodic.iterate(
+"WITH 'file:/texts.pdfs.neither.psychology.nor.biomechanics.annotated/28.pdf.json.annotations.NCIT.csv' AS uri_annotations
+WITH uri_annotations, 'file:/texts.pdfs.neither.psychology.nor.biomechanics/28.pdf.json' as uri_json
+LOAD CSV WITH HEADERS FROM uri_annotations AS row
+UNWIND row.id AS entity_uri
+RETURN entity_uri,uri_json,uri_annotations",
+"MATCH (c:Class {uri: entity_uri})
+ WITH c, entity_uri, uri_json
+ MATCH (a:Paper {uri: uri_json})
+ WITH a,c
+ MERGE (a)-[:HAS_ENTITY]->(c)
+ ",
+{batchSize: 5, parallel: true}
+)
+YIELD batches, total, timeTaken, committedOperations
+RETURN batches, total, timeTaken, committedOperations;
+CALL apoc.periodic.iterate(
+"WITH 'file:/texts.pdfs.neither.psychology.nor.biomechanics.annotated/2.pdf.json.annotations.NCIT.csv' AS uri_annotations
+WITH uri_annotations, 'file:/texts.pdfs.neither.psychology.nor.biomechanics/2.pdf.json' as uri_json
+LOAD CSV WITH HEADERS FROM uri_annotations AS row
+UNWIND row.id AS entity_uri
+RETURN entity_uri,uri_json,uri_annotations",
+"MATCH (c:Class {uri: entity_uri})
+ WITH c, entity_uri, uri_json
+ MATCH (a:Paper {uri: uri_json})
+ WITH a,c
+ MERGE (a)-[:HAS_ENTITY]->(c)
+ ",
+{batchSize: 5, parallel: true}
+)
+YIELD batches, total, timeTaken, committedOperations
+RETURN batches, total, timeTaken, committedOperations;
+CALL apoc.periodic.iterate(
+"WITH 'file:/texts.pdfs.neither.psychology.nor.biomechanics.annotated/31.pdf.json.annotations.NCIT.csv' AS uri_annotations
+WITH uri_annotations, 'file:/texts.pdfs.neither.psychology.nor.biomechanics/31.pdf.json' as uri_json
+LOAD CSV WITH HEADERS FROM uri_annotations AS row
+UNWIND row.id AS entity_uri
+RETURN entity_uri,uri_json,uri_annotations",
+"MATCH (c:Class {uri: entity_uri})
+ WITH c, entity_uri, uri_json
+ MATCH (a:Paper {uri: uri_json})
+ WITH a,c
+ MERGE (a)-[:HAS_ENTITY]->(c)
+ ",
+{batchSize: 5, parallel: true}
+)
+YIELD batches, total, timeTaken, committedOperations
+RETURN batches, total, timeTaken, committedOperations;
+CALL apoc.periodic.iterate(
+"WITH 'file:/texts.pdfs.neither.psychology.nor.biomechanics.annotated/32.pdf.json.annotations.NCIT.csv' AS uri_annotations
+WITH uri_annotations, 'file:/texts.pdfs.neither.psychology.nor.biomechanics/32.pdf.json' as uri_json
+LOAD CSV WITH HEADERS FROM uri_annotations AS row
+UNWIND row.id AS entity_uri
+RETURN entity_uri,uri_json,uri_annotations",
+"MATCH (c:Class {uri: entity_uri})
+ WITH c, entity_uri, uri_json
+ MATCH (a:Paper {uri: uri_json})
+ WITH a,c
+ MERGE (a)-[:HAS_ENTITY]->(c)
+ ",
+{batchSize: 5, parallel: true}
+)
+YIELD batches, total, timeTaken, committedOperations
+RETURN batches, total, timeTaken, committedOperations;
+CALL apoc.periodic.iterate(
+"WITH 'file:/texts.pdfs.neither.psychology.nor.biomechanics.annotated/33.pdf.json.annotations.NCIT.csv' AS uri_annotations
+WITH uri_annotations, 'file:/texts.pdfs.neither.psychology.nor.biomechanics/33.pdf.json' as uri_json
+LOAD CSV WITH HEADERS FROM uri_annotations AS row
+UNWIND row.id AS entity_uri
+RETURN entity_uri,uri_json,uri_annotations",
+"MATCH (c:Class {uri: entity_uri})
+ WITH c, entity_uri, uri_json
+ MATCH (a:Paper {uri: uri_json})
+ WITH a,c
+ MERGE (a)-[:HAS_ENTITY]->(c)
+ ",
+{batchSize: 5, parallel: true}
+)
+YIELD batches, total, timeTaken, committedOperations
+RETURN batches, total, timeTaken, committedOperations;
+CALL apoc.periodic.iterate(
+"WITH 'file:/texts.pdfs.neither.psychology.nor.biomechanics.annotated/36.pdf.json.annotations.NCIT.csv' AS uri_annotations
+WITH uri_annotations, 'file:/texts.pdfs.neither.psychology.nor.biomechanics/36.pdf.json' as uri_json
+LOAD CSV WITH HEADERS FROM uri_annotations AS row
+UNWIND row.id AS entity_uri
+RETURN entity_uri,uri_json,uri_annotations",
+"MATCH (c:Class {uri: entity_uri})
+ WITH c, entity_uri, uri_json
+ MATCH (a:Paper {uri: uri_json})
+ WITH a,c
+ MERGE (a)-[:HAS_ENTITY]->(c)
+ ",
+{batchSize: 5, parallel: true}
+)
+YIELD batches, total, timeTaken, committedOperations
+RETURN batches, total, timeTaken, committedOperations;
+CALL apoc.periodic.iterate(
+"WITH 'file:/texts.pdfs.neither.psychology.nor.biomechanics.annotated/37.pdf.json.annotations.NCIT.csv' AS uri_annotations
+WITH uri_annotations, 'file:/texts.pdfs.neither.psychology.nor.biomechanics/37.pdf.json' as uri_json
+LOAD CSV WITH HEADERS FROM uri_annotations AS row
+UNWIND row.id AS entity_uri
+RETURN entity_uri,uri_json,uri_annotations",
+"MATCH (c:Class {uri: entity_uri})
+ WITH c, entity_uri, uri_json
+ MATCH (a:Paper {uri: uri_json})
+ WITH a,c
+ MERGE (a)-[:HAS_ENTITY]->(c)
+ ",
+{batchSize: 5, parallel: true}
+)
+YIELD batches, total, timeTaken, committedOperations
+RETURN batches, total, timeTaken, committedOperations;
+CALL apoc.periodic.iterate(
+"WITH 'file:/texts.pdfs.neither.psychology.nor.biomechanics.annotated/3.pdf.json.annotations.NCIT.csv' AS uri_annotations
+WITH uri_annotations, 'file:/texts.pdfs.neither.psychology.nor.biomechanics/3.pdf.json' as uri_json
+LOAD CSV WITH HEADERS FROM uri_annotations AS row
+UNWIND row.id AS entity_uri
+RETURN entity_uri,uri_json,uri_annotations",
+"MATCH (c:Class {uri: entity_uri})
+ WITH c, entity_uri, uri_json
+ MATCH (a:Paper {uri: uri_json})
+ WITH a,c
+ MERGE (a)-[:HAS_ENTITY]->(c)
+ ",
+{batchSize: 5, parallel: true}
+)
+YIELD batches, total, timeTaken, committedOperations
+RETURN batches, total, timeTaken, committedOperations;
+CALL apoc.periodic.iterate(
+"WITH 'file:/texts.pdfs.neither.psychology.nor.biomechanics.annotated/50.pdf.json.annotations.NCIT.csv' AS uri_annotations
+WITH uri_annotations, 'file:/texts.pdfs.neither.psychology.nor.biomechanics/50.pdf.json' as uri_json
+LOAD CSV WITH HEADERS FROM uri_annotations AS row
+UNWIND row.id AS entity_uri
+RETURN entity_uri,uri_json,uri_annotations",
+"MATCH (c:Class {uri: entity_uri})
+ WITH c, entity_uri, uri_json
+ MATCH (a:Paper {uri: uri_json})
+ WITH a,c
+ MERGE (a)-[:HAS_ENTITY]->(c)
+ ",
+{batchSize: 5, parallel: true}
+)
+YIELD batches, total, timeTaken, committedOperations
+RETURN batches, total, timeTaken, committedOperations;
+CALL apoc.periodic.iterate(
+"WITH 'file:/texts.pdfs.neither.psychology.nor.biomechanics.annotated/58.pdf.json.annotations.NCIT.csv' AS uri_annotations
+WITH uri_annotations, 'file:/texts.pdfs.neither.psychology.nor.biomechanics/58.pdf.json' as uri_json
+LOAD CSV WITH HEADERS FROM uri_annotations AS row
+UNWIND row.id AS entity_uri
+RETURN entity_uri,uri_json,uri_annotations",
+"MATCH (c:Class {uri: entity_uri})
+ WITH c, entity_uri, uri_json
+ MATCH (a:Paper {uri: uri_json})
+ WITH a,c
+ MERGE (a)-[:HAS_ENTITY]->(c)
+ ",
+{batchSize: 5, parallel: true}
+)
+YIELD batches, total, timeTaken, committedOperations
+RETURN batches, total, timeTaken, committedOperations;
+CALL apoc.periodic.iterate(
+"WITH 'file:/texts.pdfs.neither.psychology.nor.biomechanics.annotated/9.pdf.json.annotations.NCIT.csv' AS uri_annotations
+WITH uri_annotations, 'file:/texts.pdfs.neither.psychology.nor.biomechanics/9.pdf.json' as uri_json
+LOAD CSV WITH HEADERS FROM uri_annotations AS row
+UNWIND row.id AS entity_uri
+RETURN entity_uri,uri_json,uri_annotations",
+"MATCH (c:Class {uri: entity_uri})
+ WITH c, entity_uri, uri_json
+ MATCH (a:Paper {uri: uri_json})
+ WITH a,c
+ MERGE (a)-[:HAS_ENTITY]->(c)
+ ",
+{batchSize: 5, parallel: true}
+)
+YIELD batches, total, timeTaken, committedOperations
+RETURN batches, total, timeTaken, committedOperations;

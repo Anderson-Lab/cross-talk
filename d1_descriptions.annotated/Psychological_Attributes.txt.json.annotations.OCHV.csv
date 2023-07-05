@@ -1,6 +1,6 @@
 prefLabel,id,from_to,matchType,text
-psychological,http://sbmi.uth.tmc.edu/ontology/ochv#57896,79-91|162-174,PREF|PREF,PSYCHOLOGICAL|PSYCHOLOGICAL
 psychological,http://sbmi.uth.tmc.edu/ontology/ochv#C1306597,79-91|162-174,PREF|PREF,PSYCHOLOGICAL|PSYCHOLOGICAL
+psychological,http://sbmi.uth.tmc.edu/ontology/ochv#57896,79-91|162-174,PREF|PREF,PSYCHOLOGICAL|PSYCHOLOGICAL
 patient,http://sbmi.uth.tmc.edu/ontology/ochv#C0030705,226-232,PREF,PATIENT
 beliefs,http://sbmi.uth.tmc.edu/ontology/ochv#1764,234-240,PREF,BELIEFS
 future,http://sbmi.uth.tmc.edu/ontology/ochv#C0016884,273-278,PREF,FUTURE
@@ -11,10 +11,10 @@ personality traits,http://sbmi.uth.tmc.edu/ontology/ochv#C0233849,331-348,PREF,P
 personality,http://sbmi.uth.tmc.edu/ontology/ochv#9541,331-341,PREF,PERSONALITY
 personality,http://sbmi.uth.tmc.edu/ontology/ochv#C0031208,331-341,PREF,PERSONALITY
 resources,http://sbmi.uth.tmc.edu/ontology/ochv#10753,380-388,PREF,RESOURCES
-attention,http://sbmi.uth.tmc.edu/ontology/ochv#1577,391-399,PREF,ATTENTION
 attention,http://sbmi.uth.tmc.edu/ontology/ochv#C0004268,391-399,PREF,ATTENTION
-pain,http://sbmi.uth.tmc.edu/ontology/ochv#9185,416-419,PREF,PAIN
+attention,http://sbmi.uth.tmc.edu/ontology/ochv#1577,391-399,PREF,ATTENTION
 pain,http://sbmi.uth.tmc.edu/ontology/ochv#C0030193,416-419,PREF,PAIN
+pain,http://sbmi.uth.tmc.edu/ontology/ochv#9185,416-419,PREF,PAIN
 self-efficacy,http://sbmi.uth.tmc.edu/ontology/ochv#C0600564,422-434,PREF,SELF-EFFICACY
 self,http://sbmi.uth.tmc.edu/ontology/ochv#11168,422-425,PREF,SELF
 self,http://sbmi.uth.tmc.edu/ontology/ochv#C0036588,422-425,PREF,SELF

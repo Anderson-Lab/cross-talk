@@ -15,8 +15,8 @@ Obesity,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3283,239-245,PREF,OB
 Age,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25150,257-259,PREF,AGE
 Study,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C63536,288-292,PREF,STUDY
 Data,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25474,303-306,PREF,DATA
-Lower,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C86568,320-324,PREF,LOWER
 Lower,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25309,320-324,PREF,LOWER
+Lower,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C86568,320-324,PREF,LOWER
 Little,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C76350,344-349,PREF,LITTLE
 Confidence,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43367,355-364,PREF,CONFIDENCE
 Improved,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C125459,372-379,PREF,IMPROVED

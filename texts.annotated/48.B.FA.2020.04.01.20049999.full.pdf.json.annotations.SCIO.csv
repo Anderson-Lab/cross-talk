@@ -1,5 +1,0 @@
-prefLabel,id,from_to,matchType,text
-Increase,http://psink.de/scio/Increase,549-556,PREF,INCREASE
-Result,http://psink.de/scio/Result,661-666,PREF,RESULT
-Current,http://psink.de/scio/Current,3048-3054|3650-3656|3725-3731,PREF|PREF|PREF,CURRENT|CURRENT|CURRENT
-Person,http://psink.de/scio/Person,3093-3098,PREF,PERSON

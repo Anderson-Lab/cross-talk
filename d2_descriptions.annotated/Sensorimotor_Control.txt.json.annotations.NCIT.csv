@@ -40,8 +40,8 @@ Activity,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43431,1063-1070,PRE
 Have,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C101282,1072-1075,PREF,HAVE
 Pain,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3303,1099-1102|1123-1126|1134-1137|1179-1182|1657-1660,PREF|PREF|PREF|PREF|PREF,PAIN|PAIN|PAIN|PAIN|PAIN
 Tension,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C95502,1112-1118,PREF,TENSION
-Model,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43383,1139-1143,PREF,MODEL
 Model,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C16866,1139-1143,PREF,MODEL
+Model,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43383,1139-1143,PREF,MODEL
 Restriction,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C53452,1149-1159,PREF,RESTRICTION
 Motion,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C75602,1171-1176,PREF,MOTION
 Adaptation,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C158868,1184-1193,PREF,ADAPTATION

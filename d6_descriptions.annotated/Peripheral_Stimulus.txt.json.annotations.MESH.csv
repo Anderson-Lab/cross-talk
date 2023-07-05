@@ -8,7 +8,7 @@ Paraspinal Muscles,http://purl.bioontology.org/ontology/MESH/D064170,283-300,PRE
 Muscles,http://purl.bioontology.org/ontology/MESH/D009132,294-300,PREF,MUSCLES
 Inflammation,http://purl.bioontology.org/ontology/MESH/D007249,501-512,PREF,INFLAMMATION
 Tissue,http://purl.bioontology.org/ontology/STY/T024,631-636,PREF,TISSUE
-classification,http://purl.bioontology.org/ontology/MESH/Q000145,818-831,PREF,CLASSIFICATION
 Classification,http://purl.bioontology.org/ontology/MESH/D002965,818-831,PREF,CLASSIFICATION
+classification,http://purl.bioontology.org/ontology/MESH/Q000145,818-831,PREF,CLASSIFICATION
 Classification,http://purl.bioontology.org/ontology/STY/T185,818-831,PREF,CLASSIFICATION
 Nociceptors,http://purl.bioontology.org/ontology/MESH/D009619,933-943,PREF,NOCICEPTORS

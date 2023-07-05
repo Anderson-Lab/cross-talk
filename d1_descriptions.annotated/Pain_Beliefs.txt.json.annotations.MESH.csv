@@ -1,8 +1,8 @@
 prefLabel,id,from_to,matchType,text
 Pain,http://purl.bioontology.org/ontology/MESH/D010146,1-4|106-109|121-124|452-455|484-487|668-671|776-779|857-860|907-910,PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF,PAIN|PAIN|PAIN|PAIN|PAIN|PAIN|PAIN|PAIN|PAIN
 Activity,http://purl.bioontology.org/ontology/STY/T052,70-77,PREF,ACTIVITY
-Behavior,http://purl.bioontology.org/ontology/MESH/D001519,111-118,PREF,BEHAVIOR
 Behavior,http://purl.bioontology.org/ontology/STY/T053,111-118,PREF,BEHAVIOR
+Behavior,http://purl.bioontology.org/ontology/MESH/D001519,111-118,PREF,BEHAVIOR
 Depression,http://purl.bioontology.org/ontology/MESH/D003863,140-149,PREF,DEPRESSION
 Fear,http://purl.bioontology.org/ontology/MESH/D005239,189-192|604-607|944-947,PREF|PREF|PREF,FEAR|FEAR|FEAR
 Movement,http://purl.bioontology.org/ontology/MESH/D009068,197-204,PREF,MOVEMENT

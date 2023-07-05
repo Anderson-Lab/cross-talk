@@ -1,9 +1,9 @@
 prefLabel,id,from_to,matchType,text
 Sensory,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C28259,1-7|1005-1011|1041-1047|1278-1284,PREF|PREF|PREF|PREF,SENSORY|SENSORY|SENSORY|SENSORY
 Pain,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3303,30-33|80-83|95-98|127-130|195-198|258-261|326-329|367-370|689-692|753-756|955-958|1087-1090|1153-1156|1426-1429|1548-1551,PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF|PREF,PAIN|PAIN|PAIN|PAIN|PAIN|PAIN|PAIN|PAIN|PAIN|PAIN|PAIN|PAIN|PAIN|PAIN|PAIN
-Hypersensitivity,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3114,35-45|100-110|200-210|331-341|555-570|1092-1107,SYN|SYN|SYN|SYN|PREF|PREF,SENSITIVITY|SENSITIVITY|SENSITIVITY|SENSITIVITY|HYPERSENSITIVITY|HYPERSENSITIVITY
 Sensitivity,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25201,35-45|100-110|200-210|331-341,PREF|PREF|PREF|PREF,SENSITIVITY|SENSITIVITY|SENSITIVITY|SENSITIVITY
 Sensitivity,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C68816,35-45|100-110|200-210|331-341,PREF|PREF|PREF|PREF,SENSITIVITY|SENSITIVITY|SENSITIVITY|SENSITIVITY
+Hypersensitivity,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3114,35-45|100-110|200-210|331-341|555-570|1092-1107,SYN|SYN|SYN|SYN|PREF|PREF,SENSITIVITY|SENSITIVITY|SENSITIVITY|SENSITIVITY|HYPERSENSITIVITY|HYPERSENSITIVITY
 Chronic Pain,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C26940,72-83|1540-1551,PREF|PREF,CHRONIC PAIN|CHRONIC PAIN
 Chronic,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C14141,72-78|1540-1546,PREF|PREF,CHRONIC|CHRONIC
 Increased,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C164135,85-93,PREF,INCREASED
@@ -25,13 +25,13 @@ Allodynia,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C180616,633-641,PRE
 Evidence,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43583,669-676|1075-1082,PREF|PREF,EVIDENCE|EVIDENCE
 Amplification,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25418,694-706,PREF,AMPLIFICATION
 Processing,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C48177,729-738|1158-1167|1700-1709,PREF|PREF|PREF,PROCESSING|PROCESSING|PROCESSING
-State,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C87194,758-762,PREF,STATE
 State,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25687,758-762,PREF,STATE
+State,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C87194,758-762,PREF,STATE
 Tissue,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12801,790-795,PREF,TISSUE
 Injury,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3671,797-802,PREF,INJURY
 Absent,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C48190,822-827,PREF,ABSENT
-Volume,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43320,866-871,PREF,VOLUME
 Volume,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25335,866-871,PREF,VOLUME
+Volume,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43320,866-871,PREF,VOLUME
 Relationship,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25648,944-950|1134-1140|1349-1359|1380-1391,SYN|SYN|SYN|PREF,RELATED|RELATED|ASSOCIATION|RELATIONSHIP
 Perception,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C16967,960-969,PREF,PERCEPTION
 Integration,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C48038,975-985,PREF,INTEGRATION
@@ -52,7 +52,7 @@ Occur,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C54069,1529-1533,PREF,O
 Associate,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C51802,1564-1572,PREF,ASSOCIATE
 Emotional,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25495,1589-1597,PREF,EMOTIONAL
 Cognitive,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C37926,1603-1611,PREF,COGNITIVE
-Complex,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C47881,1643-1649,PREF,COMPLEX
 Complex,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C19398,1643-1649,PREF,COMPLEX
+Complex,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C47881,1643-1649,PREF,COMPLEX
 Interaction,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C54216,1651-1661,PREF,INTERACTION
 Input,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C47905,1682-1686,PREF,INPUT

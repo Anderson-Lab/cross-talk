@@ -15,8 +15,8 @@ Activity,http://purl.bioontology.org/ontology/STY/T052,1063-1070,PREF,ACTIVITY
 Pain,http://purl.bioontology.org/ontology/MESH/D010146,1099-1102|1123-1126|1134-1137|1179-1182|1657-1660,PREF|PREF|PREF|PREF|PREF,PAIN|PAIN|PAIN|PAIN|PAIN
 Spasm,http://purl.bioontology.org/ontology/MESH/D013035,1128-1132,PREF,SPASM
 Motion,http://purl.bioontology.org/ontology/MESH/D009038,1171-1176,PREF,MOTION
-classification,http://purl.bioontology.org/ontology/MESH/Q000145,1628-1641,PREF,CLASSIFICATION
 Classification,http://purl.bioontology.org/ontology/MESH/D002965,1628-1641,PREF,CLASSIFICATION
+classification,http://purl.bioontology.org/ontology/MESH/Q000145,1628-1641,PREF,CLASSIFICATION
 Classification,http://purl.bioontology.org/ontology/STY/T185,1628-1641,PREF,CLASSIFICATION
 Spine,http://purl.bioontology.org/ontology/MESH/D013131,1773-1777,PREF,SPINE
 Risk,http://purl.bioontology.org/ontology/MESH/D012306,1813-1816,PREF,RISK

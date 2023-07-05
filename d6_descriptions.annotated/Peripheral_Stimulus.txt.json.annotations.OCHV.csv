@@ -3,8 +3,8 @@ responsible,http://sbmi.uth.tmc.edu/ontology/ochv#C1273518,74-84,PREF,RESPONSIBL
 lumbar spine,http://sbmi.uth.tmc.edu/ontology/ochv#C0024091,90-101,PREF,LUMBAR SPINE
 spine pain,http://sbmi.uth.tmc.edu/ontology/ochv#C0423673,97-106,PREF,SPINE PAIN
 spine,http://sbmi.uth.tmc.edu/ontology/ochv#C0037949,97-101,PREF,SPINE
-pain,http://sbmi.uth.tmc.edu/ontology/ochv#9185,103-106|400-406|834-837,PREF|SYN|PREF,PAIN|PAINFUL|PAIN
 pain,http://sbmi.uth.tmc.edu/ontology/ochv#C0030193,103-106|834-837,PREF|PREF,PAIN|PAIN
+pain,http://sbmi.uth.tmc.edu/ontology/ochv#9185,103-106|400-406|834-837,PREF|SYN|PREF,PAIN|PAINFUL|PAIN
 associated,http://sbmi.uth.tmc.edu/ontology/ochv#C0332281,131-140,PREF,ASSOCIATED
 intervertebral disc,http://sbmi.uth.tmc.edu/ontology/ochv#C0021815,179-197,PREF,INTERVERTEBRAL DISC
 intervertebral,http://sbmi.uth.tmc.edu/ontology/ochv#C0442106,179-192,PREF,INTERVERTEBRAL
@@ -25,8 +25,8 @@ including,http://sbmi.uth.tmc.edu/ontology/ochv#C0332257,650-658,PREF,INCLUDING
 confidence,http://sbmi.uth.tmc.edu/ontology/ochv#C0237529,690-699|737-746|786-795,PREF|PREF|PREF,CONFIDENCE|CONFIDENCE|CONFIDENCE
 vertebra,http://sbmi.uth.tmc.edu/ontology/ochv#C0549207,703-710,PREF,VERTEBRA
 relation,http://sbmi.uth.tmc.edu/ontology/ochv#C0869014,801-808,PREF,RELATION
-classification,http://sbmi.uth.tmc.edu/ontology/ochv#3021,818-831,PREF,CLASSIFICATION
 classification,http://sbmi.uth.tmc.edu/ontology/ochv#C0008902,818-831,PREF,CLASSIFICATION
+classification,http://sbmi.uth.tmc.edu/ontology/ochv#3021,818-831,PREF,CLASSIFICATION
 severity,http://sbmi.uth.tmc.edu/ontology/ochv#C0449294,839-846,PREF,SEVERITY
 disability,http://sbmi.uth.tmc.edu/ontology/ochv#C0231170,852-861,PREF,DISABILITY
 questionnaire,http://sbmi.uth.tmc.edu/ontology/ochv#C0034394,866-878,PREF,QUESTIONNAIRE

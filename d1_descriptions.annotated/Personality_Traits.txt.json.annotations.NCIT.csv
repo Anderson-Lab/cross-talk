@@ -18,8 +18,8 @@ Chronic,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C14141,382-388,PREF,C
 Include,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C74521,405-411|1059-1065,PREF|PREF,INCLUDE|INCLUDE
 High,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25227,413-418|504-507|921-924,SYN|PREF|PREF,HIGHER|HIGH|HIGH
 Avoidance,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C54264,425-433,PREF,AVOIDANCE
-Lower,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C86568,537-541,PREF,LOWER
 Lower,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25309,537-541,PREF,LOWER
+Lower,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C86568,537-541,PREF,LOWER
 Self,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25200,543-546,PREF,SELF
 Difficulty,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C62189,576-585,PREF,DIFFICULTY
 Low,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C54722,629-631,PREF,LOW
@@ -27,8 +27,8 @@ Motivation,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C28495,633-642,PRE
 Trait,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C85496,680-684|863-867,PREF|PREF,TRAIT|TRAIT
 Known,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C80137,701-705,PREF,KNOWN
 Increase,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25533,710-717,PREF,INCREASE
-Depression,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C124639,744-753,PREF,DEPRESSION
 Depression,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C2982,744-753,PREF,DEPRESSION
+Depression,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C124639,744-753,PREF,DEPRESSION
 Anxiety,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C26696,756-762|869-875,PREF|PREF,ANXIETY|ANXIETY
 Associated,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25281,826-835,PREF,ASSOCIATED
 Constant,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C64638,912-919,PREF,CONSTANT

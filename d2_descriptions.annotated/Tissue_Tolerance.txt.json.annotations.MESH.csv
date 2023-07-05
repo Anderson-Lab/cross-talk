@@ -6,5 +6,5 @@ Inflammation,http://purl.bioontology.org/ontology/MESH/D007249,321-332,PREF,INFL
 Pain,http://purl.bioontology.org/ontology/MESH/D010146,355-358,PREF,PAIN
 Hyperglycemia,http://purl.bioontology.org/ontology/MESH/D006943,407-419,PREF,HYPERGLYCEMIA
 Blood Vessels,http://purl.bioontology.org/ontology/MESH/D001808,505-517,PREF,BLOOD VESSELS
-Blood,http://purl.bioontology.org/ontology/MESH/D001769,505-509|545-549,PREF|PREF,BLOOD|BLOOD
 blood,http://purl.bioontology.org/ontology/MESH/Q000097,505-509|545-549,PREF|PREF,BLOOD|BLOOD
+Blood,http://purl.bioontology.org/ontology/MESH/D001769,505-509|545-549,PREF|PREF,BLOOD|BLOOD
