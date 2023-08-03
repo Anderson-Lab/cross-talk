@@ -40,6 +40,13 @@ RUN adduser --disabled-password \
     ${NB_USER}
 
 RUN chown -R ${NB_UID} ${HOME}
+
+RUN apt-get install -y wget
+RUN wget -O - https://debian.neo4j.com/neotechnology.gpg.key | apt-key add -
+RUN echo 'deb https://debian.neo4j.com stable latest' | tee -a /etc/apt/sources.list.d/neo4j.list
+RUN apt-get update
+RUN apt-get install -y neo4j=1:5.10.0
+
 USER ${NB_USER}
 
 WORKDIR ${HOME}
