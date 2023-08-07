@@ -4,7 +4,7 @@ You can change the Dockerfile to be something that works for your project, but t
 
 ### Build docker image
 
-docker build . -t remote_neo4j
+docker build . -t remote_ubuntu
 
 ### Starting
 
@@ -13,5 +13,5 @@ Head to remotedesktop.google.com and click set up via SSH. Copy the code 4/... f
 ```
 export CODE=<here>
 export HOSTNAME=<here>
-docker run --rm -e CODE=$CODE --name $HOSTNAME --privileged --network host -it --ipc=host --ulimit memlock=-1 --ulimit stack=67108864 -e HOSTNAME=$HOSTNAME -e PIN=123456 -h $HOSTNAME -p 7687:7687 -v /mnt/clbp:/mnt/clbp remote_neo4j
+docker run --rm -e CODE=$CODE --name $HOSTNAME --privileged --network chronic_pain -it --ipc=host --ulimit memlock=-1 --ulimit stack=67108864 -e HOSTNAME=$HOSTNAME -e PIN=123456 -h $HOSTNAME -v /mnt/clbp:/mnt/clbp remote_ubuntu
 ```

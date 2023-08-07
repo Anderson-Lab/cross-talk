@@ -23,12 +23,14 @@ RUN apt-get install --assume-yes --fix-broken
 RUN dpkg --install chrome-remote-desktop_current_amd64.deb
 RUN bash -c 'echo "exec /etc/X11/Xsession /usr/bin/xfce4-session" > /etc/chrome-remote-desktop-session'
 
-RUN apt-get -y install default-jre-headless
-RUN apt-get install -y wget
-RUN wget -O - https://debian.neo4j.com/neotechnology.gpg.key | apt-key add -
-RUN echo 'deb https://debian.neo4j.com stable latest' | tee -a /etc/apt/sources.list.d/neo4j.list
-RUN apt-get update
-RUN apt-get install -y neo4j=1:5.10.0
+RUN apt-get install -y net-tools
+
+#RUN apt-get -y install default-jre-headless
+#RUN apt-get install -y wget
+#RUN wget -O - https://debian.neo4j.com/neotechnology.gpg.key | apt-key add -
+#RUN echo 'deb https://debian.neo4j.com stable latest' | tee -a /etc/apt/sources.list.d/neo4j.list
+#RUN apt-get update
+#RUN apt-get install -y neo4j=1:5.10.0
 
 RUN apt-get install --assume-yes firefox
 # ---------------------------------------------------------- 
@@ -45,9 +47,7 @@ RUN mkhomedir_helper $USER
 RUN adduser $USER sudo
 RUN echo '%sudo ALL=(ALL) NOPASSWD:ALL' >> /etc/sudoers
 RUN usermod -aG chrome-remote-desktop $USER
-#RUN usermod -aG pulse,pulse-access $USER
 USER $USER
-#RUN pip install pyxdg
 WORKDIR /home/$USER
 RUN mkdir -p .config/chrome-remote-desktop
 RUN chown "$USER:$USER" .config/chrome-remote-desktop
