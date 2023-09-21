@@ -1,0 +1,52 @@
+{
+    "abstract": "We recently demonstrated that treatment with the 5-HT(1A/7) receptor agonist [(R)-(+)-8-hydroxy-2-di-n-propylamino]tetralin (8-OH-DPAT) increases bladder capacity in chloralose-anesthetized female cats with chronic spinal cord injury. In the current study, we investigated the effects of 8-OH-DPAT on bladder capacity and external urethral sphincter (EUS) activity in urethane-anesthetized female rats (initial body mass 175-200 g) with chronic spinal cord injury (transsection at T10). Cystometric study took place 8-12 wk posttranssection. Intravesical pressure was monitored in urethane-anesthetized rats with a transvesical catheter, and EUS activity was assessed electromyographically. Spinal cord injury disrupts phasic activity of the EUS, resulting in decreased voiding efficiency and increased residual volume. 8-OH-DPAT induced a dose-dependent decrease in bladder capacity (the opposite of its effect in chronic spinal cord-injured cats) with an increase in micturition volume and decrease in residual volume resulting from improvement in voiding efficiency. The unexpected improvement in voiding efficiency can be explained by the 8-OH-DPAT-induced emergence of phasic EUS relaxation. Phasic EUS relaxation was also altered by 8-OH-DPAT in spinally intact rats, whereas the 5-HT(1A) receptor antagonist N-tert-butyl-3-[4-(2-methoxyphenyl)-piperazin-1-yl]-2-phenylpropanamide (WAY-100635), on its own, was without effect. It remains to be determined when phasic relaxation is restored after spinal cord injury, and indeed whether it is ever truly lost or is only temporarily separated from excitatory input.",
+    "authors": [
+        {
+            "affiliation": "Department of Surgery, Veterans Affairs Medical Center, Durham, NC, USA.",
+            "firstname": "Paul C",
+            "initials": "PC",
+            "lastname": "Dolber"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Baojun",
+            "initials": "B",
+            "lastname": "Gu"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Xiaoyang",
+            "initials": "X",
+            "lastname": "Zhang"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Matthew O",
+            "initials": "MO",
+            "lastname": "Fraser"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Karl B",
+            "initials": "KB",
+            "lastname": "Thor"
+        },
+        {
+            "affiliation": null,
+            "firstname": "Jerome P",
+            "initials": "JP",
+            "lastname": "Reiter"
+        }
+    ],
+    "conclusions": null,
+    "copyrights": null,
+    "doi": "10.1152/ajpregu.00142.2006",
+    "journal": "American journal of physiology. Regulatory, integrative and comparative physiology",
+    "keywords": [],
+    "methods": null,
+    "publication_date": "2007-01-06",
+    "pubmed_id": "17204596",
+    "results": null,
+    "title": "Activation of the external urethral sphincter central pattern generator by a 5-HT(1A) receptor agonist in rats with chronic spinal cord injury.",
+    "xml": "<Element 'PubmedArticle' at 0x7fa57ead6c00>"
+}
