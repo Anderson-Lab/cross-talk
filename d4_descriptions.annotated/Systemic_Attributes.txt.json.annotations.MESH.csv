@@ -1,6 +1,0 @@
-prefLabel,id,from_to,matchType,text
-Pain,http://purl.bioontology.org/ontology/MESH/D010146,6-9,PREF,PAIN
-Nutritional Status,http://purl.bioontology.org/ontology/MESH/D009752,105-122,PREF,NUTRITIONAL STATUS
-Metabolic Diseases,http://purl.bioontology.org/ontology/MESH/D008659,125-142,PREF,METABOLIC DISEASES
-Sleep,http://purl.bioontology.org/ontology/MESH/D012890,195-199,PREF,SLEEP
-Lead,http://purl.bioontology.org/ontology/MESH/D007854,237-240,PREF,LEAD

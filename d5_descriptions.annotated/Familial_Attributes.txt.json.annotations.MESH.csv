@@ -1,7 +1,0 @@
-prefLabel,id,from_to,matchType,text
-Maintenance,http://purl.bioontology.org/ontology/MESH/D008283,95-105,PREF,MAINTENANCE
-Chronic Pain,http://purl.bioontology.org/ontology/MESH/D059350,110-121,PREF,CHRONIC PAIN
-Pain,http://purl.bioontology.org/ontology/MESH/D010146,118-121|209-212,PREF|PREF,PAIN|PAIN
-Inflammation,http://purl.bioontology.org/ontology/MESH/D007249,166-177,PREF,INFLAMMATION
-Genome,http://purl.bioontology.org/ontology/MESH/D016678,266-271,PREF,GENOME
-Environment,http://purl.bioontology.org/ontology/MESH/D004777,277-287,PREF,ENVIRONMENT

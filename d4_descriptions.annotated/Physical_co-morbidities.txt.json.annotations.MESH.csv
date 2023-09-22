@@ -1,8 +1,0 @@
-prefLabel,id,from_to,matchType,text
-Osteoarthritis,http://purl.bioontology.org/ontology/MESH/D010003,38-51,PREF,OSTEOARTHRITIS
-Disease,http://purl.bioontology.org/ontology/MESH/D004194,77-83,PREF,DISEASE
-Pain,http://purl.bioontology.org/ontology/MESH/D010146,116-119,PREF,PAIN
-Overall,http://purl.bioontology.org/ontology/MESH/D016424,151-157,PREF,OVERALL
-Association,http://purl.bioontology.org/ontology/MESH/D001244,204-214,PREF,ASSOCIATION
-Obesity,http://purl.bioontology.org/ontology/MESH/D009765,239-245,PREF,OBESITY
-Exercise,http://purl.bioontology.org/ontology/MESH/D015444,395-402,PREF,EXERCISE

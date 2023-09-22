@@ -1,4 +1,0 @@
-prefLabel,id,from_to,matchType,text
-Function,http://psink.de/scio/Function,104-111,PREF,FUNCTION
-Gender,http://psink.de/scio/Gender,176-181|267-272,PREF|PREF,GENDER|GENDER
-Person,http://psink.de/scio/Person,283-288,PREF,PERSON
