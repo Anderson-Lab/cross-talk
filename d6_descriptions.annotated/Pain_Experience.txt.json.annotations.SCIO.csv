@@ -1,4 +1,0 @@
-prefLabel,id,from_to,matchType,text
-Person,http://psink.de/scio/Person,127-132|169-174,PREF|PREF,PERSON|PERSON
-Location,http://psink.de/scio/Location,232-239,PREF,LOCATION
-Duration,http://psink.de/scio/Duration,836-843,PREF,DURATION

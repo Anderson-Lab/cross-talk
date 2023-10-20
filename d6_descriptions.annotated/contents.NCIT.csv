@@ -1,9 +1,0 @@
-uri,uri_annotations
-file:/d6_descriptions/Anatomy.txt.json,file:/d6_descriptions.annotated/Anatomy.txt.json.annotations.NCIT.csv
-file:/d6_descriptions/Central_Pain_Processing.txt.json,file:/d6_descriptions.annotated/Central_Pain_Processing.txt.json.annotations.NCIT.csv
-file:/d6_descriptions/Central_Schema_Attributes.txt.json,file:/d6_descriptions.annotated/Central_Schema_Attributes.txt.json.annotations.NCIT.csv
-file:/d6_descriptions/Functional_Consequence.txt.json,file:/d6_descriptions.annotated/Functional_Consequence.txt.json.annotations.NCIT.csv
-file:/d6_descriptions/Nociception_and_Neuropathic_Pain.txt.json,file:/d6_descriptions.annotated/Nociception_and_Neuropathic_Pain.txt.json.annotations.NCIT.csv
-file:/d6_descriptions/Pain_Experience.txt.json,file:/d6_descriptions.annotated/Pain_Experience.txt.json.annotations.NCIT.csv
-file:/d6_descriptions/Pain_Perception.txt.json,file:/d6_descriptions.annotated/Pain_Perception.txt.json.annotations.NCIT.csv
-file:/d6_descriptions/Peripheral_Stimulus.txt.json,file:/d6_descriptions.annotated/Peripheral_Stimulus.txt.json.annotations.NCIT.csv

@@ -2,7 +2,7 @@
 
 IFS=$'\n'
 
-[ -d "tmp/" ] || mkdir "tmp/"
+[ -d "tmp/" ] || mkdir "tmp/"; chmod 2775 "tmp/"
 
 ontologies=("SCIO" "NCIT" "MESH" "OCHV")
 
@@ -10,6 +10,7 @@ DIR=$1
 FIELD=$2
 base_dir="$(basename $DIR)"
 data_dir=$(basename `dirname "$DIR"`)
+#data_dir=$(dirname "$DIR")
 annotated_dir="$DIR/../$base_dir.annotated/"
 for ontology in ${ontologies[@]}; do
     echo $ontology
@@ -22,7 +23,7 @@ for ontology in ${ontologies[@]}; do
       cp "$DIR/$file" $APPDIR/tmp/source.json && \
       if eval $cmd; then
         cp $APPDIR/tmp/annotations.csv "$annotated_dir/$file.annotations.$ontology.csv" && echo "Completed: $file" && \
-        echo "file:/$base_dir/$file,file:/$base_dir.annotated/$file.annotations.$ontology.csv" >> $annotated_dir/contents.$ontology.csv
+        echo "file:/$data_dir/$base_dir/$file,file:/$data_dir/$base_dir.annotated/$file.annotations.$ontology.csv" >> $annotated_dir/contents.$ontology.csv
       else
         echo "Failed: $file"
       fi

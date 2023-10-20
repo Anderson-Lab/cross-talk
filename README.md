@@ -4,10 +4,13 @@
 * Docker
 
 ## Docker
-docker build -t cross-talk .
+### To shell into and debug the container:
+`$ docker run -i -v $PWD:/app --workdir /app -t cross-talk /bin/bash`
+### to build the container
+`docker build -f jors.dockerfile -t cross-talk .`
 
 ## Neo4J
-
+See [neo4j-install instructions](./neo4j-install.html)
 1. Create new project
 2. Under that project create or connect to a new DBMS
 3. Start DBMS (version 5.7 because at the time of writing this the plugins weren't available in later versionss)
@@ -17,7 +20,6 @@ docker build -t cross-talk .
 
 ```
 CREATE CONSTRAINT n10s_unique_uri FOR (r:Resource) REQUIRE r.uri IS UNIQUE;
-
 CALL n10s.graphconfig.init({handleVocabUris: "MAP"});
 ```
 
@@ -66,4 +68,12 @@ export OPENAI_API_KEY=foobar
 
 ## Next steps
 
-You can find the next steps for the setup under the notes folder.
+The next steps are described in:
+
+[Step 1 - Convert PDFs](./Step-1_Convert-PDFs.html)
+
+[Step 2 - Annotate texts](./Step-2_Annotate-texts.html)
+
+[Step 3 - Populate KG](./Step-3_Populate-KG.html)
+
+Example queries are shown in [NEO4J_COMMANDS](./NEO4J_COMMANDS.html).
