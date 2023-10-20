@@ -10,7 +10,7 @@
 `docker build -f Dockerfile -t cross-talk .`
 
 ## Neo4J
-See [neo4j-install instructions](./neo4j-install.md)
+See [neo4j-install instructions](./notes/neo4j-install.md)
 1. Create new project
 2. Under that project create or connect to a new DBMS
 3. Start DBMS (version 5.7 because at the time of writing this the plugins weren't available in later versionss)
@@ -70,10 +70,10 @@ export OPENAI_API_KEY=foobar
 
 The next steps are described in:
 
-[Step 1 - Convert PDFs](./Step-1_Convert-PDFs.md)
+[Step 1 - Convert PDFs](./notes/Step-1_Convert-PDFs.md)
 
-[Step 2 - Annotate texts](./Step-2_Annotate-texts.md)
+[Step 2 - Annotate texts](./notes/Step-2_Annotate-texts.md)
 
-[Step 3 - Populate KG](./Step-3_Populate-KG.md)
+[Step 3 - Populate KG](./notes/Step-3_Populate-KG.md)
 
-Example queries are shown in [NEO4J_COMMANDS](./NEO4J_COMMANDS.md).
+Example queries are shown in [NEO4J_COMMANDS](./notes/NEO4J_COMMANDS.md).
