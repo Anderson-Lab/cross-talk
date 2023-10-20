@@ -18,8 +18,8 @@ RUN apt-get install -y mupdf-tools
 
 RUN mkdir /app
 WORKDIR /app
-COPY ./jors-docker.req .
-RUN pip3 install -r jors-docker.req
+COPY ./requirements.txt .
+RUN pip3 install -r requirements.txt
 
 RUN git clone https://github.com/huggingface/transformers
 RUN cd transformers && pip3 install .

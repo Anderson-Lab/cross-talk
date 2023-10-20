@@ -7,10 +7,10 @@
 ### To shell into and debug the container:
 `$ docker run -i -v $PWD:/app --workdir /app -t cross-talk /bin/bash`
 ### to build the container
-`docker build -f jors.dockerfile -t cross-talk .`
+`docker build -f Dockerfile -t cross-talk .`
 
 ## Neo4J
-See [neo4j-install instructions](./neo4j-install.html)
+See [neo4j-install instructions](./neo4j-install.md)
 1. Create new project
 2. Under that project create or connect to a new DBMS
 3. Start DBMS (version 5.7 because at the time of writing this the plugins weren't available in later versionss)
@@ -45,7 +45,7 @@ RETURN terminationStatus, triplesLoaded, triplesParsed, namespaces, callParams, 
 
 ## Local file access
 
-In order to access local files, we need to change some configuration of Neo4J. In the settings, you must add the following with modifications depending on your system:
+In order to access local files, we need to change some configuration of Neo4J. In the settings, you must add the following with modifications depending on your system (also covered in the `neo4j-install.md` instructions):
 
 ```
 dbms.security.allow_csv_import_from_file_urls=true
@@ -62,7 +62,7 @@ environment variables.
 
 ```
 export APPDIR=path to this repo
-export DATADIR=path to data directory # all other paths will be relative
+export DATADIR=path to data directory # e.g. parent of pdfs.biomechanics
 export OPENAI_API_KEY=foobar
 ```
 
@@ -70,10 +70,10 @@ export OPENAI_API_KEY=foobar
 
 The next steps are described in:
 
-[Step 1 - Convert PDFs](./Step-1_Convert-PDFs.html)
+[Step 1 - Convert PDFs](./Step-1_Convert-PDFs.md)
 
-[Step 2 - Annotate texts](./Step-2_Annotate-texts.html)
+[Step 2 - Annotate texts](./Step-2_Annotate-texts.md)
 
-[Step 3 - Populate KG](./Step-3_Populate-KG.html)
+[Step 3 - Populate KG](./Step-3_Populate-KG.md)
 
-Example queries are shown in [NEO4J_COMMANDS](./NEO4J_COMMANDS.html).
+Example queries are shown in [NEO4J_COMMANDS](./NEO4J_COMMANDS.md).
