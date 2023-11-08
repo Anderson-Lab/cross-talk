@@ -1,3 +1,5 @@
+The following are Bash commands for setting up Neo4j Cypher-Shell commands to load annotations into the database. For convenience, 2 scripts are provided: `step3-load.sh` and `step3-txt2ent.sh`. Once those complete, run the final command to execute the Cypher-Shell commands placed in the output files `add_descriptions.cypher.txt`, `add_papers.cypher.txt`, and `add_annotations.cypher.txt`.
+
 ## Loading the notes
 
 ```
@@ -78,4 +80,9 @@ done
 done
 ```
 
-Then run the commands generated in add_annotations.cypher.txt.
+Then run the commands generated in the 3 output files:
+```
+$ cypher-shell -f add_descriptions.cypher.txt
+$ cypher-shell -f add_papers.cypher.txt
+$ cypher-shell -f add_annotations.cypher.txt
+```

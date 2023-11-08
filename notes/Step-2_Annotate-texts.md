@@ -1,5 +1,5 @@
 
-These scripts call the bioportal API and annotate entities. The output is stored next to the JSON files.
+These scripts call the bioportal API and annotate entities. The output is stored next to the JSON files. For convenience, the `step2.sh` script is provided containing the following:
 
 ## Text extracted from PDFs
 

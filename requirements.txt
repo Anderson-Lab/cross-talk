@@ -1,0 +1,11 @@
+openai
+wandb
+tika
+pysbd
+pyspellchecker
+torch
+numpy
+pandas
+spacy
+pymupdf
+nltk

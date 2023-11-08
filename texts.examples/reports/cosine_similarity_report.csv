@@ -1,0 +1,246 @@
+,node1,node2,similarity
+0,abnormal joint and tissue loading,abnormal joint and tissue loading,1.0
+1,a deficit in proprioception,an impact on local proprioceptors,0.9528806805610657
+4,maintaining the vicious cycle,the vicious cycle,0.9745887517929077
+5,entities,linked,0.9977157115936279
+6,spinal pain,spinal pain,1.0
+7,the pain adaptation theory,the pain adaptation theory,1.0
+8,a factor that contributes to postural control,that changes in muscle activity are a contributing factor to spinal pain,0.9629371166229248
+9,that changes in muscle activity are connected to the restriction of spinal motion,that changes in muscle activity are a contributing factor to spinal pain,0.9753625392913818
+10,their employment status,employment status,0.9520608186721802
+11,employment status,employment status,1.0
+13,a patient's personal history,a patient's personal history,1.0
+14,a record of their past experiences and background information,a collection of information about their life,0.9578595161437988
+15,one aspect,one aspect,1.0
+16,occupation,occupation,1.0
+17,the job or profession that the patient is engaged in,the job or profession that the patient is engaged in,1.0
+18,a patient's personal history,the patient's occupation,0.951917290687561
+20,important for understanding the patient's financial situation and potential sources of stress or support,an important detail to consider when assessing their overall health and well-being,0.953708291053772
+21,the patient's occupation,a patient's personal history,0.951917290687561
+24,a collection of information about their life,a collection of information about them,0.9854336977005005
+25,a patient's personal history,one aspect of a patient's personal history,0.9674691557884216
+28,their employment status,their marital status,0.9714368581771851
+29,one aspect of a patient's personal history,a patient's personal history,0.9674691557884216
+34,a collection of information about them,a collection of information about them,1.0
+36,one aspect of a patient's personal history,one aspect of a patient's personal history,1.0
+41,their marital status,their insurance status,0.9721584320068359
+42,their employment status,their insurance status,0.9748895168304443
+43,a patient's personal history,patient's personal history,0.975382924079895
+47,social history,social history,1.0
+50,alcohol use,tobacco use,0.974238395690918
+54,tobacco use,substance use,0.9523996710777283
+55,alcohol use,substance use,0.9776338934898376
+56,patient's personal history,patient's personal history,1.0
+61,"personal preferences, expectations, and habits","personal preferences, expectations, and habits",1.0
+62,literature,important,0.9551570415496826
+63,isolated and chronic illnesses,isolated illnesses,0.9527603387832642
+64,the patient,the patient,1.0
+65,isolated and chronic illnesses,chronic illnesses,0.9665697813034058
+66,a patient's personal history,the patient's medical history,0.9543148279190063
+71,someone,important,0.9685454368591309
+72,important,important,1.0
+73,pain,pain,1.0
+74,differently by each individual,by each individual,0.974988579750061
+75,the experience of pain in each person,the experience of pain,0.9637385606765747
+76,experience of pain,the experience of pain,0.9818389415740967
+77,the experience of pain,the experience of pain,1.0
+78,researchers,entities,0.9989806413650513
+79,entities,entities,1.0
+80,linked,entities,0.9977157115936279
+81,the experience of pain in each person,how each individual experiences pain,0.9628206491470337
+82,multiple entities,multiple entities,1.0
+83,the experience of pain in each person,the way pain is perceived by an individual,0.9537055492401123
+84,how each individual experiences pain,the way pain is perceived by an individual,0.9553130865097046
+85,the way pain is perceived by an individual,by multiple entities that are likely involved in how each individual experiences pain,0.9515455961227417
+86,the experience of pain in each person,unique experience of pain for each individual,0.9795728921890259
+87,the way pain is perceived by an individual,unique experience of pain for each individual,0.9522833824157715
+88,how each individual experiences pain,unique experience of pain for each individual,0.965364933013916
+93,likely influenced by various factors,by various factors,0.9679985046386719
+94,various factors,by various factors,0.9646661281585693
+95,by various factors,by various factors,1.0
+96,likely influenced by various factors,various factors,0.9501510262489319
+97,various factors,various factors,1.0
+98,by various factors,various factors,0.9646661281585693
+100,the experience of pain in each person,each individual's experience of pain,0.9693069458007812
+101,unique experience of pain for each individual,each individual's experience of pain,0.9749394059181213
+102,how each individual experiences pain,each individual's experience of pain,0.9627599716186523
+103,the experience of pain,each individual's experience of pain,0.9526134133338928
+106,by various factors,likely influenced by various factors,0.9679985046386719
+109,the experience of pain,experience of pain,0.9818389415740967
+110,the experience of pain,the experience of pain in each person,0.9637385606765747
+111,about what people are able to do or actually do in people daily lives,the things that people are unable to do or struggle with due to people condition or impairment,0.9610196948051453
+112,the tasks and responsibilities that people perform in people jobs,the things that people are unable to do or struggle with due to people condition or impairment,0.9507167339324951
+113,three studies,three studies,1.0
+114,data,data,1.0
+120,also related to work status,further related to disability,0.9606105089187622
+125,three studies,two studies,0.9870668649673462
+127,two studies,two studies,1.0
+145,physical functioning,physical functioning,1.0
+148,using a questionnaire or accelerometry,using a questionnaire or accelerometry,1.0
+149,also related to work status,"also related to work status, disability, and pain severity",0.9723817110061646
+150,there,there,1.0
+164,"also related to work status, disability, and pain severity","activity in relation to work status, disability, and pain severity",0.9835277795791626
+165,also related to work status,"activity in relation to work status, disability, and pain severity",0.9529801607131958
+169,two studies that reported data,two studies that reported data,1.0
+193,using a questionnaire or accelerometry,"activity, as assessed by questionnaire or accelerometry",0.9685981869697571
+205,"activity in relation to work status, disability, and pain severity","work status, disability, and pain severity",0.9798066020011902
+206,"also related to work status, disability, and pain severity","work status, disability, and pain severity",0.9774750471115112
+207,entities,researchers,0.9989806413650513
+208,linked,researchers,0.9974174499511719
+209,potential mechanisms,potential mechanisms,1.0
+210,potential mechanisms,another potential mechanism,0.965035617351532
+212,the fear-avoidance model,the avoidance-endurance model,0.9699666500091553
+213,the avoidance-endurance model,the fear-avoidance model,0.9699666500091553
+214,the fear-avoidance model,the fear-avoidance model,1.0
+215,the avoidance-endurance model,the avoidance-endurance model,1.0
+218,that patients avoid activities,that patients avoid activities,1.0
+219,the fear-avoidance model,that fear or avoidance plays a role in patients' activity avoidance,0.9537461996078491
+221,linked,patients,0.953402042388916
+222,literature,fear,0.9523218870162964
+223,that patients avoid activities,patients to avoid certain activities,0.9728291630744934
+225,a fear of reinjury,fear of reinjury,0.9863099455833435
+226,fear of reinjury,fear of reinjury,1.0
+228,deconditioning,deconditioning,1.0
+231,a factor that contributes to postural control,a factor that contributes to disability,0.9596667289733887
+235,literature,someone,0.9632529020309448
+236,patients,someone,0.9645587205886841
+237,there,someone,0.95450758934021
+241,important,someone,0.9685454368591309
+242,deconditioning,deconditioned,0.9840365648269653
+246,disability,disability,1.0
+248,deconditioning,the process of deconditioning,0.9651654958724976
+252,physical activity categories,physical activity,0.9529099464416504
+253,physical activity,physical activity,1.0
+257,loads and movements onto the spine,movements of the spine,0.953434944152832
+258,"not constant, but instead fluctuate","not constant, but rather change or vary",0.9780910611152649
+259,"to be caused by movement and control disorders, the body's ability to sense its position and movement in space",a part of the body that is subjected to various loads and movements,0.9537689685821533
+260,fluctuating loads and movements,various loads and movements,0.9542522430419922
+261,loads and movements,various loads and movements,0.9593656063079834
+262,loads and movements onto the spine,various loads and movements,0.9557404518127441
+267,the spine,the spine,1.0
+268,various loads and movements,various loads and movements,1.0
+272,the influence of loading in literature,loading in literature,0.9574852585792542
+273,that loading has a dose-dependent influence,that it has an impact that depends on the dose,0.9587401151657104
+274,strenuous activities,sedentary and strenuous activities,0.9663547277450562
+276,sedentary activities,sedentary and strenuous activities,0.971415102481842
+278,literature,literature,1.0
+279,someone,literature,0.9632529020309448
+280,fear,literature,0.9523218870162964
+281,important,literature,0.9551570415496826
+283,that loading has a dose-dependent influence,that loading has a dose-dependent influence,1.0
+284,that it has an impact that depends on the dose,that loading has a dose-dependent influence,0.9587401151657104
+285,sedentary activities,sedentary activities,1.0
+287,sedentary and strenuous activities,sedentary activities,0.971415102481842
+288,of three subsystems separately,by three subsystems,0.9811913967132568
+289,of three subsystems separately,the passive subsystem,0.9637288451194763
+290,by three subsystems,the passive subsystem,0.9607006907463074
+291,of three subsystems separately,one of three subsystems,0.9802760481834412
+292,the passive subsystem,one of three subsystems,0.9587448835372925
+293,by three subsystems,one of three subsystems,0.9708471298217773
+294,of three subsystems separately,passive subsystem,0.9615408778190613
+295,one of three subsystems,passive subsystem,0.9522736072540283
+296,the passive subsystem,passive subsystem,0.9823014736175537
+297,by three subsystems,passive subsystem,0.9594042301177979
+298,paraspinal muscles,the paraspinal muscles,0.9807438254356384
+300,the paraspinal muscles,the paraspinal muscles,1.0
+301,the spinal column,stabilizing the spinal column,0.9591571092605591
+302,paraspinal muscles,paraspinal muscles,1.0
+303,the paraspinal muscles,paraspinal muscles,0.9807438254356384
+305,of three subsystems separately,active subsystem,0.963398814201355
+306,passive subsystem,active subsystem,0.98576819896698
+307,one of three subsystems,active subsystem,0.9542098641395569
+308,the passive subsystem,active subsystem,0.9705500602722168
+309,by three subsystems,active subsystem,0.9556890726089478
+310,that changes in muscle activity are connected to the restriction of spinal motion,the way in which the paraspinal muscles stabilizing,0.9508180618286133
+311,biomechanically,biomechanically,1.0
+312,the person body in relation to their body surroundings,to the way in which the muscles function in relation to the body's mechanics,0.9530347585678101
+313,"to be caused by movement and control disorders, the body's ability to sense its position and movement in space",to the way in which the muscles function in relation to the body's mechanics,0.9580857157707214
+314,the way in which the paraspinal muscles stabilizing,to the way in which the muscles function in relation to the body's mechanics,0.9574488401412964
+315,that changes in muscle activity are connected to the restriction of spinal motion,to the way in which the muscles function in relation to the body's mechanics,0.9523307681083679
+316,also thought to be detrimental,to be detrimental,0.955236554145813
+319,to be detrimental,to be detrimental,1.0
+321,of three subsystems separately,the neural control subsystem,0.956372857093811
+322,active subsystem,the neural control subsystem,0.9667737483978271
+323,passive subsystem,the neural control subsystem,0.9642814993858337
+324,one of three subsystems,the neural control subsystem,0.9522510766983032
+325,the passive subsystem,the neural control subsystem,0.9753835201263428
+326,stabilizing the spinal column,stabilizing the spinal column,1.0
+329,the neural control subsystem,the neural control subsystem,1.0
+334,the way in which the paraspinal muscles stabilizing,a role in biomechanically stabilizing the spinal column,0.9599159359931946
+335,stabilizing the spinal column,a role in biomechanically stabilizing the spinal column,0.9555033445358276
+337,strenuous activities,strenuous activities,1.0
+339,sedentary and strenuous activities,strenuous activities,0.9663547277450562
+340,of three subsystems separately,of three subsystems separately,1.0
+341,the neural control subsystem,of three subsystems separately,0.956372857093811
+343,active subsystem,of three subsystems separately,0.963398814201355
+344,passive subsystem,of three subsystems separately,0.9615408778190613
+345,one of three subsystems,of three subsystems separately,0.9802760481834412
+346,the passive subsystem,of three subsystems separately,0.9637288451194763
+347,by three subsystems,of three subsystems separately,0.9811913967132568
+352,functionally interdependent,functionally interdependent,1.0
+354,many people,many individuals,0.9722682237625122
+355,multiple entities,many individuals,0.9572398662567139
+357,of three subsystems separately,three subsystems separately,0.9922974109649658
+359,the neural control subsystem,three subsystems separately,0.9533243775367737
+361,active subsystem,three subsystems separately,0.9643226861953735
+362,passive subsystem,three subsystems separately,0.9645767211914062
+363,one of three subsystems,three subsystems separately,0.9726778268814087
+364,the passive subsystem,three subsystems separately,0.9622758626937866
+365,by three subsystems,three subsystems separately,0.9819550514221191
+372,a component of motor control and function,motor control and function,0.9657169580459595
+373,muscle recruitment,muscle recruitment,1.0
+374,motor control and function,motor control and function,1.0
+376,strength,strength,1.0
+377,motor control and function,a component of motor control and function,0.9657169580459595
+379,a component of motor control and function,a component of motor control and function,1.0
+384,endurance,endurance,1.0
+390,proprioception,proprioception,1.0
+391,a component of motor control and function,important for neuromotor control,0.9587291479110718
+396,proprioception,afferent information,0.9500316977500916
+399,afferent information,afferent information,1.0
+403,afferent information,proprioception,0.9500316977500916
+421,motor control and function,movement and control disorders,0.9606471657752991
+424,a component of motor control and function,movement and control disorders,0.9534540176391602
+427,movement and control disorders,movement and control disorders,1.0
+434,afferent information,a deficit in proprioception,0.9522238373756409
+436,proprioception,a deficit in proprioception,0.9523881077766418
+442,a component of motor control and function,a deficit in proprioception,0.9523470997810364
+445,a deficit in proprioception,proprioception,0.9523881077766418
+454,conditions that affect a person's ability to move and control a person's body,the body's ability to sense its position and movement in space,0.9559435844421387
+455,a deficit in proprioception,a deficit in proprioception,1.0
+468,the body's ability to sense its position and movement in space,"to be caused by movement and control disorders, the body's ability to sense its position and movement in space",0.9789459705352783
+469,conditions that affect a person's ability to move and control a person's body,"to be caused by movement and control disorders, the body's ability to sense its position and movement in space",0.9614245891571045
+470,"to be caused by movement and control disorders, the body's ability to sense its position and movement in space",that the person has difficulty perceiving and understanding where their body is in relation to its surroundings,0.9537228941917419
+471,the body's ability to sense its position and movement in space,that the person has difficulty perceiving and understanding where their body is in relation to its surroundings,0.952820360660553
+472,conditions that affect a person's ability to move and control a person's body,that the person has difficulty perceiving and understanding where their body is in relation to its surroundings,0.9506424069404602
+487,that the person has difficulty perceiving and understanding where their body is in relation to its surroundings,the person body in relation to their body surroundings,0.9554562568664551
+488,this deficit,this deficit,1.0
+489,"to be caused by movement and control disorders, the body's ability to sense its position and movement in space",to be caused by movement and control disorders,0.961872398853302
+490,a factor that contributes to postural control,to be caused by movement and control disorders,0.9506845474243164
+491,stress,stress,1.0
+494,an individual's maladaptive movement,an individual maladaptive movement,0.9834444522857666
+496,also thought to be detrimental,also thought to be detrimental,1.0
+497,to be detrimental,also thought to be detrimental,0.955236554145813
+507,various categories of physical activity,examples of physical activity categories in occupational activities,0.9557794332504272
+508,occupational activities,recreational activities,0.9673643708229065
+509,recreational activities,recreational activities,1.0
+511,various categories of physical activity,different categories of physical activity,0.9896166920661926
+512,sports-related activities,activities that are related to sports,0.961749792098999
+513,activities that people do for fun and enjoyment,activities that are related to sports,0.9501102566719055
+514,different categories of physical activity,different categories of physical activity,1.0
+516,the world health organization,the world health organization,1.0
+518,any bodily movement,any bodily movement,1.0
+519,muscle recruitment,skeletal muscle,0.9585179686546326
+521,skeletal muscle,skeletal muscle,1.0
+524,any bodily movement,bodily movement,0.9542463421821594
+526,bodily movement,bodily movement,1.0
+529,tasks that require physical exertion or movement,any physical activity or exercise that involves the movement of the body,0.9587539434432983
+531,the amount of energy or calories that the body burns while at rest,a significant increase in the amount of energy that the body burns compared to when the body is at rest,0.9611198902130127
+532,a definition for physical activity,the concept of physical activity,0.9617127180099487
+533,the concept of physical activity,the concept of physical activity,1.0
+535,"to be caused by movement and control disorders, the body's ability to sense its position and movement in space",the actions and abilities of individuals in terms of physical movement,0.9544735550880432
+539,the actions and abilities of individuals in terms of physical movement,both the potential and actual engagement in physical activities,0.9502893090248108
+540,the concept of physical activity,both the potential and actual engagement in physical activities,0.9506629705429077
+543,both the potential and actual engagement in physical activities,the concept of physical activity,0.9506629705429077
+548,activities that people do for fun and enjoyment,the activities that people perform as part of people everyday routines,0.9570122957229614
+549,the tasks and responsibilities that people perform in people jobs,the activities that people perform as part of people everyday routines,0.9717555046081543

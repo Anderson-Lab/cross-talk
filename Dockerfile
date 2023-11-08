@@ -1,5 +1,6 @@
 #FROM nvidia/cuda:12.0.0-devel-ubuntu22.04
-FROM ubuntu:22.10
+#FROM ubuntu:22.10
+FROM ubuntu
 
 RUN apt-get update
 RUN apt-get install -y gcc
@@ -24,25 +25,3 @@ RUN git clone https://github.com/huggingface/transformers
 RUN cd transformers && pip3 install .
 
 ENV PYTHONUNBUFFERED 1
-
-RUN pip3 install --upgrade pip
-RUN pip3 install jupyter notebook==6.* numpy
-
-RUN jupyter notebook --generate-config
-#COPY jupyter_notebook_config.json /home/jovyan/.jupyter/jupyter_notebook_config.json
-USER root
-ENV NB_USER jovyan
-ENV NB_UID 1000
-ENV HOME /home/${NB_USER}
-RUN adduser --disabled-password \
-    --gecos "Default user" \
-    --uid ${NB_UID} \
-    ${NB_USER}
-
-RUN chown -R ${NB_UID} ${HOME}
-USER ${NB_USER}
-
-WORKDIR ${HOME}
-
-# Specify the default command to run
-CMD ["jupyter", "notebook", "--ip", "0.0.0.0"]
